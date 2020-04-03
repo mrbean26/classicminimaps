@@ -1,0 +1,7 @@
+#version 330 core
+uniform vec4 lineColours;
+
+out vec4 colour;
+void main(){
+	colour = lineColours;
+}
