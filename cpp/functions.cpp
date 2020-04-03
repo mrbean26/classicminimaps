@@ -1,4 +1,6 @@
 #include "functions.h"
+#include <sstream>
+#include <fstream>
 
 vector<string> readLines(const char* fileName) {
 	vector<string> allLines;
@@ -11,6 +13,19 @@ vector<string> readLines(const char* fileName) {
 		allLines.push_back(currentLine);
 	}
 	return allLines;
+}
+
+vector<string> splitComma(string used){
+	vector<string> returned;
+	stringstream stringStream(used);
+
+	while (stringStream.good()) {
+		string substring;
+		getline(stringStream, substring, ',');
+		returned.push_back(substring);
+	}
+
+	return returned;
 }
 
 int createShader(const char* filePath, GLenum shaderType) {

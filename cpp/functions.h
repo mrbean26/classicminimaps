@@ -19,6 +19,7 @@ using namespace std;
 using namespace glm;
 
 vector<string> readLines(const char* fileName);
+vector<string> splitComma(string used);
 
 int createShader(const char* filePath, GLenum shaderType);
 int createProgram(vector<int> shaders);
