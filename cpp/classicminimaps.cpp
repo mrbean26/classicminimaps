@@ -44,7 +44,7 @@ public:
 					thisShape.push_back(newVector);
 				}
 
-				int selectedIndex = floor(index / 2);
+				int selectedIndex = (int) floor(index / 2);
 				thisShape[selectedIndex][index % 2] = stof(subString);
 
 				index = index + 1;
@@ -65,18 +65,18 @@ public:
 		glBindBuffer(GL_ARRAY_BUFFER, VBO);
 
 		vector<float> vertices;
-		int shapeCount = shapes.size();
+		int shapeCount = (int) shapes.size();
 
 		for (int s = 0; s < shapeCount; s++) {
-			int vertexCount = shapes[s].size();
+			int vertexCount = (int) shapes[s].size();
 
 			for (int v = 0; v < vertexCount - 1; v++) {
-				vertices.push_back(shapes[s][v].x / 100.0f);
-				vertices.push_back(shapes[s][v].y / 100.0f);
+				vertices.push_back(shapes[s][v].x / classicminimaps::scaleDivider);
+				vertices.push_back(shapes[s][v].y / classicminimaps::scaleDivider);
 				
 				int nextIndex = v + 1;
-				vertices.push_back(shapes[s][nextIndex].x / 100.0f);
-				vertices.push_back(shapes[s][nextIndex].y / 100.0f);
+				vertices.push_back(shapes[s][nextIndex].x / classicminimaps::scaleDivider);
+				vertices.push_back(shapes[s][nextIndex].y / classicminimaps::scaleDivider);
 			}
 		}
 		
@@ -84,12 +84,14 @@ public:
 		glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(float), vertices.data(), GL_STATIC_DRAW);
 		glVertexAttribPointer(0, 2, GL_FLOAT, GL_FALSE, 2 * sizeof(float), (void*)0);
 		glEnableVertexAttribArray(0);
-		size = vertices.size() / 2;
+		size = (GLuint) (vertices.size() / 2);
 	}
 };
 
 namespace classicminimaps {
 	int shaderProgram = 0;
+	float scaleDivider = 100.0f;
+	float height = 80.0f;
 
 	mapSquare rivers;
 	vector<mapSquare> currentMapSquares;
@@ -110,16 +112,18 @@ namespace classicminimaps {
 	}
 
 	void mainloop() {	
-		//y = y - classicminigraphics::deltaTime * 1.0f;
 		glLineWidth(1.0f);
+
 		vec2 pos = vec2(519930.0f, 148090.0f);
+		classicminigraphics::cameraPosition = vec3(pos.x / classicminimaps::scaleDivider, pos.y / classicminimaps::scaleDivider, height);
 
 		setVectorFour(shaderProgram, "lineColours", vec4(1.0f));
-		setMat4(shaderProgram, "view", translate(mat4(1.0f), vec3(-pos.x / 100.0f, -pos.y / 100.0f, -80.0f)));
-		setMat4(shaderProgram, "projection", perspective(radians(45.0f), (float) 360 / (float) 640, 0.1f, 100.0f));
+		setMat4(shaderProgram, "view", translate(mat4(1.0f), -classicminigraphics::cameraPosition));
+		setMat4(shaderProgram, "projection", perspective(radians(45.0f), classicminigraphics::aspectDivider, 
+			classicminigraphics::closeCamera, classicminigraphics::farCamera));
 
 		glUseProgram(shaderProgram);
-		int squareCount = currentMapSquares.size();
+		int squareCount = (int) currentMapSquares.size();
 
 		for (int i = 0; i < squareCount; i++) {
 			glBindVertexArray(currentMapSquares[i].VAO);

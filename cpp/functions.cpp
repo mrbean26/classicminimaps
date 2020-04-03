@@ -48,7 +48,7 @@ void setMat4(int shader, const char* matrixName, mat4 usedMatrix) {
 
 int createProgram(vector<int> shaders) {
 	int newProgram = glCreateProgram();
-	int shaderCount = shaders.size();
+	int shaderCount = (int) shaders.size();
 	for (int i = 0; i < shaderCount; i++) {
 		glAttachShader(newProgram, shaders[i]);
 	}

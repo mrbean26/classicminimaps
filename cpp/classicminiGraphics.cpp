@@ -2,9 +2,13 @@
 
 namespace classicminigraphics {
 	GLFWwindow* window;
-	bool begin(int width, int height, const char* title) {
+	bool begin(int widthUsed, int heightUsed, const char* title) {
 		if (!glfwInit()) { return false; }
-		window = glfwCreateWindow(width, height, title, NULL, NULL);
+		window = glfwCreateWindow(widthUsed, heightUsed, title, NULL, NULL);
+
+		width = (float)widthUsed;
+		height = (float)heightUsed;
+		aspectDivider = width / height;
 
 		if (!window) {
 			glfwTerminate();
@@ -30,8 +34,17 @@ namespace classicminigraphics {
 	void startEvents() {
 		glClear(GL_COLOR_BUFFER_BIT);
 
-		float currentTime = glfwGetTime();
+		float currentTime = (float) glfwGetTime();
 		deltaTime = currentTime - lastFrameTime;
 		lastFrameTime = currentTime;
 	}
+
+	float width = 0.0f;
+	float height = 0.0f;
+	float aspectDivider = 0.0f;
+
+	float closeCamera = 0.1f;
+	float farCamera = 100.0f;
+
+	vec3 cameraPosition = vec3(0.0f);
 }
