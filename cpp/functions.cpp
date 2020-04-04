@@ -134,7 +134,7 @@ namespace gridMath {
 		return vec2(degrees(phi), degrees(lambda1));
 	}
 
-	vec2 latLngToGrid(vec2 latLng) {
+	dvec2 latLngToGrid(dvec2 latLng) {
 		double OSGB_F0 = 0.9996012717;
 		double N0 = -100000.0;
 		double E0 = 400000.0;
@@ -142,7 +142,7 @@ namespace gridMath {
 		double lambda0 = radians(-2.0);
 		double a = 6377563.396;
 		double b = 6356256.909;
-		double eSquared = (a - b) / a;
+		double eSquared = ((a*a) - (b*b)) / (a*a);
 		double phi = radians(latLng[0]);
 		double lambda1 = radians(latLng[1]);
 		double E = 0.0;
@@ -151,18 +151,18 @@ namespace gridMath {
 		double v = a * OSGB_F0 * pow(1.0 - eSquared * sinSquared(phi), -0.5);
 		double rho = a * OSGB_F0 * (1.0 - eSquared) * pow(1.0 - eSquared * sinSquared(phi), -1.5);
 		double etaSquared = (v / rho) - 1.0;
-		double M = (b * OSGB_F0) * (((1 + n + ((5.0 / 4.0) * n * n) + ((5.0 / 4.0) * n * n * n)) * (phi - phi0)) - (((3 * n) + (3 * n * n) + ((21.0 / 8.0) * n * n * n)) * sin(phi - phi0) * cos(phi + phi0)) + ((((15.0 / 8.0) * n * n) + ((15.0 / 8.0) * n * n * n)) * sin(2.0 * (phi - phi0)) * cos(2.0 * (phi + phi0))) - (((35.0 / 24.0) * n * n * n) * sin(3.0 * (phi - phi0)) * cos(3.0 * (phi + phi0))));
+		double M = (b * OSGB_F0) * (((1.0 + n + ((5.0 / 4.0) * n * n) + ((5.0 / 4.0) * n * n * n)) * (phi - phi0)) - (((3.0 * n) + (3.0 * n * n) + ((21.0 / 8.0) * n * n * n)) * sin(phi - phi0) * cos(phi + phi0)) + ((((15.0 / 8.0) * n * n) + ((15.0 / 8.0) * n * n * n)) * sin(2.0 * (phi - phi0)) * cos(2.0 * (phi + phi0))) - (((35.0 / 24.0) * n * n * n) * sin(3.0 * (phi - phi0)) * cos(3.0 * (phi + phi0))));
 		double I = M + N0;
 		double II = (v / 2.0) * sin(phi) * cos(phi);
 		double III = (v / 24.0) * sin(phi) * pow(cos(phi), 3.0) * (5.0 - tanSquared(phi) + (9.0 * etaSquared));
 		double IIIA = (v / 720.0) * sin(phi) * pow(cos(phi), 5.0) * (61.0 - (58.0 * tanSquared(phi)) + pow(tan(phi), 4.0));
 		double IV = v * cos(phi);
 		double V = (v / 6.0) * pow(cos(phi), 3.0) * ((v / rho) - tanSquared(phi));
-		double VI = (v / 120.0) * pow(cos(phi), 5.0) * (5.0 - (18.0 * tanSquared(phi)) + (pow(tan(phi), 4.0)) + (14 * etaSquared) - (58 * tanSquared(phi) * etaSquared));
+		double VI = (v / 120.0) * pow(cos(phi), 5.0) * (5.0 - (18.0 * tanSquared(phi)) + (pow(tan(phi), 4.0)) + (14.0 * etaSquared) - (58 * tanSquared(phi) * etaSquared));
 		N = I + (II * pow(lambda1 - lambda0, 2.0)) + (III * pow(lambda1 - lambda0, 4.0)) + (IIIA * pow(lambda1 - lambda0, 6.0));
 		E = E0 + (IV * (lambda1 - lambda0)) + (V * pow(lambda1 - lambda0, 3.0)) + (VI * pow(lambda1 - lambda0, 5.0));
 
-		return vec2(E, N);
+		return dvec2(E, N);
 	}
 }
 
