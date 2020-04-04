@@ -1,0 +1,230 @@
+Barrack Street,200000,554056
+South Crescent,199954,553970
+South Crescent,199978,554000
+Dunskey Street,199978,553953
+Blair Terrace,199911,554223
+Dean Place,199906,554280
+Dunskey Street,199978,553953
+Welsh Place,199869,554284
+Braefield Road,199971,554405
+North Crescent,199863,554171
+Chalet Road,199789,554440
+Chalet Road,199776,554463
+Killantringan Wood,199906,556729
+Port Mora,199177,555128
+Laird's Loup,199191,555065
+Glaik Hill,199300,559240
+Yellow Isle,199206,554691
+Rough Cairn Hill,198257,559005
+March Howe,198609,555871
+Islayfitz,199034,555089
+Craig Anthony,198694,556355
+Catevennan,199500,554272
+Larbrax Bay,197127,559947
+Cave Ochtree Point,197616,559085
+Mill Bawn,198231,556087
+Nook,199248,554642
+Broadsea Bay,197108,559797
+Shepherd's Hill,199180,558230
+Cairn Hill,198780,557510
+Hairyhorroch,198558,555448
+Sloganabaa,198485,555621
+Moor Plantation,199106,555613
+Catelig,199274,554594
+Colonel's Wood,199685,555900
+Port Kale,199012,555204
+Cod Hole,198088,556801
+Ouchtriemakain Moor,198961,555866
+Portamaggie,198142,556303
+Catebraid,198752,555069
+Morroch Glen,199457,555195
+Lashendarroch Hill,198670,558090
+Black Isle,199097,555018
+Portavaddie,198433,555809
+Cove Hill,199340,554780
+Portpatrick Harbour,199843,554073
+Stony Rees,198223,556203
+Killantringan Bay,198216,556916
+Gate Crease,198602,555226
+Cubbies Hole,198230,555927
+Black Head,198135,556640
+Cairn Hill,198348,559501
+Sloganaglassin,199190,554795
+North Witch Rock,199361,554409
+Tulig,199281,554547
+Keeper's Wood,199920,555163
+Slockgarroch,199584,554180
+Maidenhead Bay,199217,554746
+Craigbouie Fell,199990,556130
+The Wilderness,199732,554299
+Barnaugh,199387,554340
+Lashendarroch Glen,198201,558244
+Dorn Rock,199818,554075
+Vance's Glen,199436,555906
+Bere Holm,198053,558081
+Lagnawinny,199926,553788
+Scabby's Loup,197755,558583
+Partan Isles,198566,555328
+Punch Bowl Wood,199721,556289
+Stronie,198524,555539
+Light of the Maize,198135,557928
+Slognaglass,198019,556352
+Dunskey Glen,199610,555687
+Knock Bay,198111,557622
+Ringwee,199131,554951
+The Chair,198024,556562
+Brochdoo Hill,198901,559885
+Trenched Wood,199142,555950
+Dinvin Street,199988,554265
+Ervie,199807,567765
+B738,198483,563303
+Castle Butt,196508,567844
+Fort Point,196327,561540
+Drumahowen Bay,195941,564117
+Portlong Bay,196241,569329
+Ruddoch Hill,196853,564485
+Clashnarroch Wood,199673,562488
+Dounan Bay,196392,568716
+Port Sand,196613,568429
+White Hill Wood,198560,562254
+Black Hill,197610,563629
+Well Island,199196,562911
+Emer's Isle,197365,571871
+Drumbuie Hill,199294,566742
+Duck Island,199076,562931
+Garchrie Moss,199724,564268
+Cremon,196016,565338
+Loch Beg,197044,563090
+Well Isle,198282,572787
+Loch More,196865,562272
+Mill Hill,197281,560528
+Sir Stair's Island,199479,563141
+Wee Port Bay,195934,563231
+Carrick Fundle,196383,567507
+Meg's Craig,196014,564831
+Galdenoch Wood,198172,562663
+Grave Slunk,196551,561281
+Kiln Hill,197621,564510
+Larbrax Moor,197341,561474
+Gull Craig,195980,565725
+Hind Hill,197361,562324
+Garsalloch Hill,197181,566615
+Cairn Hill,197359,569947
+Torindoos Hill,196568,564011
+Nursery Wood,199130,562463
+North Garchrie Wood,198665,563568
+Dunskirloch,198253,572778
+Knocknassie Hill,197960,568771
+Barny's Leap,196160,561964
+Allan Easy,196107,561958
+Cowan Hill,198915,563888
+Drochat,196840,570901
+Port Gavillan,196748,570390
+Barrack Slouch,197255,571489
+Cairnbowie Hill,198850,570128
+Knockenharry Hill,198189,567753
+Ochteralinachan Wood,198800,561578
+Mill Croft Wood,197467,563434
+Dhuloch Hill,198648,566815
+Barrack Point,197172,571348
+Swallow Port,196240,567007
+Cowan Hill,199203,560548
+Ervie Hill,199284,567497
+Orbain Hill,196952,567648
+Broad Port,195955,564452
+Balsarroch Wood,199137,569294
+Auchnotteroch Plantation,199608,561143
+Drummullin Wood,198878,562820
+Noel Plantation,198604,563544
+Oust Rocks,197009,571672
+Core Hill,199992,560782
+Knockmulloch Hill,199893,565751
+Inchbane Plantation,199526,569478
+Drumlochart Wood,199604,563429
+Cairnhapple Wood,198297,563044
+Craighead Belt,199059,562082
+Black Hill Wood,198090,561929
+Corsewall Point,198026,572593
+Broom Hill,199640,569267
+Black Stot,196063,562127
+Slewcart Hill,199183,564709
+South Craighead Wood,199396,562186
+Kiln of the Fuffock,195981,564258
+Genoch Rocks,196809,570633
+Slouchnawen Bay,195932,563716
+Drumdow Hill,199846,568781
+Dounan Nose,196770,568775
+Ships Slouch,197516,572026
+Juniper Rock,195991,564888
+Damhouse Hill,199662,571925
+Graham Plantation,198365,561619
+Galdenoch Moor,196689,562486
+Bine Hill,198968,569105
+Knockmoney Hill,197890,567340
+Sliggery Knowe,195978,565220
+Bught Hill,197020,566648
+Moidoch Hole,197283,571072
+Bloody Slouch,197322,571595
+Portnaughan Bay,196532,569901
+Bramble Island,199510,563237
+Dogstone Hill,198275,565823
+Loch Belt,199406,563351
+Garchrie Wood,199213,563535
+March Port,195999,565918
+Glen Hill,197161,568556
+Mare Rock,195943,565061
+Blackhead Rock,198354,572703
+Salt Pan Bay,196333,567428
+Slewdown Hill,198754,564470
+Topmalloch Hill,198968,561830
+Blackpark Moss,199663,561493
+Laggan Hill,196468,569260
+Cranberry Point,196668,560889
+Burn Foot,196635,568663
+Juniper Face,195978,564994
+Strool Bay,196005,565487
+Craig Laggan,195906,569218
+Dundream,199746,572918
+Horseback Rock,197447,571943
+Tringan Wood,198344,560759
+Slewintoo Hill,199312,564210
+Lingloskin Hill,197600,567957
+Port Leen,199448,572600
+Slewkennen Hill,197427,566284
+Topmalloch Wood,199083,561752
+Slouchlaw,197840,572292
+Craigentarrie,196798,568743
+Redstone Cove,195944,564693
+Salt Pans Bay,196477,561501
+Slouchnaglasson,195919,564369
+Dally Bay,196485,568931
+Ochley Point,198519,572757
+Lochnaw Loch,199253,563158
+Scart Craig,196185,561754
+Jamieson's Hill,198823,570754
+Carrickadoyn,198754,572730
+Finen Hill,199356,572465
+Port Beg,195931,563036
+Ghost Haugh Wood,198912,562037
+Blackpark Plantation,199453,561381
+Bloody Rock,197416,571695
+Lady Hill,198254,568771
+Portaclearys,198685,572713
+Glengyre Moss,198357,564684
+Portobello,196032,566291
+Slewtammoch Plantation,199813,562014
+Slewsack Hill,199613,565031
+Garlies Round Hill,198578,568761
+Port Long,196333,568980
+Green Burn Plantation,198028,561764
+Rough Hill,196693,565082
+Little Galdenoch Wood,198010,563788
+Knocktim Hill,198309,569814
+Black Ward Plantation,198397,562462
+Crowberry Rock,196598,561101
+Knockbennan Hill,198980,566744
+Isle of Lochnaw,199316,563212
+Craighead Wood,199315,562454
+Braid Port,197015,570994
+Port Mullin,199085,572583
+Round Hill,198748,568187

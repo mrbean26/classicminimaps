@@ -1,0 +1,2851 @@
+Marrel,301906,917045
+West Helmsdale,302054,915496
+Gartymore,301544,914491
+Navidale,303483,916782
+East Helmsdale,302660,915426
+Portgower,300542,913306
+Navidale Road,303767,916144
+Rockview Place,303129,915353
+Sutherland Street,302799,915423
+Shore Street,302890,915208
+Farr Crescent,303091,915305
+Trentham Street,302761,915366
+Stittenham Street,302662,915529
+Stafford Street,302884,915367
+Navidale Road,303283,915561
+Stittenham Road,302662,915529
+Golf Road,302461,915800
+Dunrobin Street,302910,915265
+Old Caithness Road,302798,915580
+Strathnaver Street,302798,915512
+Simpson Crescent,303312,915290
+Neuk Mhòr,307068,918055
+Creag Thoraraidh,304062,918741
+Sgreadan Dearg,308205,919555
+Helmsdale Rock,302951,916585
+Creag Marail,301304,916117
+The Needle,308159,919041
+Cnoc an Tubhadair,305051,918730
+Sròn a' Chròchair,304197,915605
+Tràigh Cailliche,308620,919416
+Eas Poll an Damarin,307482,918579
+Sròn a Ghleannain,308885,919764
+Tràigh Muidhe Cleite,308469,919305
+Ceann Ousdale,307573,918399
+Sròn Mhòr,308743,919506
+Clèit Mulachain,308805,919614
+Cnoc na Stri,306751,918340
+Leac Ghlas,307733,918660
+Shore of Gartymore,301776,914147
+Caen Hill,302135,918642
+Green Table,305917,917240
+Ord Point,306230,917523
+Creag nam Feannag,308007,918836
+Stùc Dhubh,309283,919861
+Helmsdale,302363,915514
+Creag na Cuinge,307721,919468
+Helmsdale Primary School,302754,915726
+Lilleshall Street,302721,915477
+Navidale Road,303781,916284
+Borgue,313244,926118
+Braemore,308431,930003
+Houstry,315492,934726
+Bulno,316385,930618
+Newport,312590,923909
+Castle Hill,314991,927924
+Berriedale,311198,922524
+Ramscraigs,314071,927100
+Dunbeath,316133,929786
+Balnabruich,315656,929635
+Latheron,319840,933444
+Crofts of Benachielt,318379,938992
+Inver,316920,930215
+Latheronwheel,318572,932989
+Knockally,314759,929067
+Badnagie,315928,931743
+Landhallow,318742,933698
+Smerral,317536,934065
+Portormin Road,316261,929568
+Achorn Road,313879,930208
+Campbell Avenue,315741,929479
+Mill Road,311941,922612
+Knockglass Road,316433,929795
+Achorn Road,315444,929771
+Neil Gunn Road,315668,929620
+Conachreag,305575,931454
+Badaidh na Gaoithe,314839,926743
+Coille Bail an t-Sratha,314308,930486
+Tràigh Bhuidhe,312638,923383
+Leac na Sgaiteach,317258,929670
+Cnoc Dubh,318582,939797
+Coille Cnoc Spàrdain,308424,922809
+Leac Ghlas,311857,922066
+Maiden Pap,304829,929370
+Langwell Forest,303205,924196
+Leaba nan Daoine,314598,926501
+Smerral Wood,317916,934241
+Beinn Glas-Choire,303157,938150
+Beinn Bhreac,305910,937223
+Dail Righe,305594,931014
+Achinavish Hill,309054,930449
+Beinn nan Coireag,312070,925426
+Torr Dubh,310142,928134
+Coire Cheathaich,303276,929121
+Den Moss,318785,935878
+Cnoc na Feadaige,309974,929405
+Tràigh Tuill,313390,924017
+Cnoc na Maoile,300781,921219
+Braehungie,317989,936960
+Black Park,306966,930047
+Cnoc Shiorraim,318820,939708
+An Dùn,314093,925669
+Clais-cairn Hill,313695,927512
+Dail Mhòr,310590,933413
+Bouilag Hill,309100,932178
+Lochan Coire na Beinne,314723,939909
+Tràigh Sgreadain,316978,929329
+Poll Galion,311771,921997
+Coire Bad Asgaraidh,309010,922145
+Cnoc Coir' a' Phuill,304620,920261
+Portormin Head,316790,929340
+Bad nan Glac,311925,930564
+Cnoc an t-Searraich,312875,936259
+Ceann Badaidh na Muic,315021,926961
+Coill Ard-achaidh,311236,925859
+Glac Dubh,309844,927694
+Millery Pool,310938,924951
+Bad Feàrna,312070,929011
+Bad an Lair,317513,938002
+Singing Rock,316180,929048
+Loedebest Wood,313833,931763
+Boch-ailean,310719,920909
+Bad na h-Uige,307089,937635
+Cnoc Fionn,310621,923748
+Bodach an Uird,311376,921312
+Clais Crochaire,312445,923127
+Dail na Ceàrdaich,308675,933495
+Cnoc na Saobhaidhe,303328,921029
+Dorus Ailein,318460,931422
+Tràigh Loisgte,312867,923642
+Sìthean Corr-Meille,309152,939150
+Cnoc Bad Cholla,306664,935496
+Coire Raineach,309773,929110
+Cnoc na Saobhaidhe,302175,935258
+Leach Adhaimh,318903,931805
+Braemore,307645,929942
+Creagan Cosach,308622,921391
+Traigh Murley,311612,921730
+Càrn Mòr,302610,928371
+Snaver-snawie,316279,929004
+Cnocan Conachreag,311414,936760
+Overcaig Hill,301401,931659
+Creag na Sgadain,312300,922679
+Ben Alisky,304566,938639
+Cnoc Fuarain,311435,934547
+Port Castle,315995,928461
+Shin Wood,308963,922697
+Cnoc Gleannain,302742,933524
+The Cove,316059,928763
+Clais Ceathaich,319789,932541
+Cnoc Spàrdain,307808,923326
+Lochlainn,314133,925853
+Caplaich Hill,310306,937224
+Cnoc Liath,301980,936684
+Badbea,308820,920040
+Cnoc Allt na Beithe,304034,922652
+Borgue Loch,312007,927071
+Bad na Fèille,316622,929590
+Wag Hill,310852,932155
+Creag Aigean Sail,309460,920321
+Creag nam Bò,310534,920819
+Scarf Rock,319278,932097
+Scaraben,306607,926839
+Culvid Wood,311981,932653
+Easan na Buaile,311344,928077
+Leodebest Plantations,318062,934687
+Bad an Achaidh,308686,923919
+Poll Gorm,317010,929511
+Cleit a' Chail,319470,932320
+Dunbeath Bay,316557,929294
+Craig a' Ghaill,316201,928840
+Catherine's Loch,304190,938038
+Ben-a-Chielt,319386,937415
+Bad nan Seileach,311045,931021
+Glas-Choire,302164,938030
+Hill of Lychrobbie,317059,932213
+Skurley Rock,311017,922361
+Leac Gheal,311487,921458
+Strathy,306755,924102
+Cnoc Breac,316260,933995
+Cove Min,318756,931703
+Cnoc Heara,318070,931514
+Cnoc na Maranaich,313161,933225
+Coill Allt na Beithe,304898,923125
+Stùrr Ruadh,313765,925359
+Coan Ime,319047,932020
+Loch a' Cheracher,313290,939569
+Gotten Dubh,318536,931535
+The Beathachs,319073,931924
+East Scaraben,307974,927294
+East Gotten,315899,928324
+Ceann Leathad nam Bò,313316,923974
+Cnoc na Croiche,310628,921112
+Sròn Gharbh,305418,926658
+Cleit Ruadh,317514,930138
+Bad Màiri,307291,932759
+Smean,303261,927639
+Cnoc na Crask,316570,934544
+Cleit Mhòr,317407,930006
+Meall na Caorach,309919,926944
+Brae-na-h-Eaglaise,306573,923194
+Fraigheach,318041,930851
+Meall Dhonuill,310774,927368
+Cnoc na Snàthaid,316330,934318
+Struan,311908,922957
+Cnoc Sheangan,316231,933213
+Coan-eich,315664,927706
+The Mucans,316338,929041
+Rinsary Brae,311212,923488
+Hill of Buolglass,317050,932209
+Còs Madaidh-ruaidh,315620,927630
+Loch Dubh,305408,936746
+Cnoc nam Bò Riabhach,304080,932129
+Cleit Bheag,317427,930058
+The Clett,314503,926380
+Blàr a' Ghille Dhomhnaich,300483,922871
+Cnoc Bad Asgaraidh,308567,922279
+Dail-a-bhoich,309741,933270
+Arkle,311730,922566
+Coan Dubh,314138,925960
+Hill of Leodebest,318483,935078
+Little Fraigheach,318170,931052
+Coan Ime,319041,931964
+Latheronwheel Harbour,319134,932107
+Leac Gliong,310983,921055
+Cnoc Dùin,311487,929106
+Tràigh Fhada,309706,920335
+Cnoc an Arbhair,305691,930480
+Loch Breac,306368,937637
+New Fhail,318848,931825
+Coille Braigh na h-Eaglaise,307304,922666
+West Gotten,315822,928115
+Ceann na h-Agh,317800,930571
+Coire Riabhach,301511,928711
+Srath Cùil,310465,923785
+Glac na Goibhre,305896,926774
+An Dùn,310352,924905
+Morven,300474,928540
+Braigh na h-Eaglaise,306493,922092
+Sal-Vaich,303607,926086
+Mid Hill,302309,923177
+Cnoc na Crois,310541,939436
+Dubh-lochan,306547,935668
+Inver Hill,311266,921711
+Lochan nam Bò Riabhach,303752,932033
+Creag na h-Atha,312162,922376
+Langwell Plantation,310631,922631
+Bad a' Choilich,310259,923824
+Screadan,313388,924696
+Leodebest Plantations,318171,934022
+Cnoc Rèile,316571,934565
+Stream Stone,316742,929202
+Bad Cholla,306794,936356
+Creagan Reamhar,312021,926294
+Red Moss,319199,937597
+Cnoc na Croiche,317350,931649
+Sìthean na Gearra,308628,937704
+The Bromach,319109,932028
+Dunbeath Primary School,315796,929487
+Portormin Road,316261,929568
+Halkirk,312969,959488
+Calder Mains,309073,959927
+Shurrery,304243,958432
+Spittal,316975,954036
+Brawlbin,307436,957811
+Dorrery,307429,954987
+Scotscalder,309624,956142
+Mybster,316891,952906
+Clayock,317006,959100
+Sibster,315554,959432
+Olgrinmore,309778,955332
+Achavanich,317967,942653
+Westerdale,312762,951553
+Achalone,315306,956984
+Harpsdale,313252,956134
+Church Lane,313211,959165
+Camilla Street,313364,958852
+J B Court,313091,959066
+B870,319291,954578
+Church Court,313251,958954
+George Court,313349,959100
+Abbey Park,313525,959159
+Bridge Street,313053,959088
+The Meadows,313418,959306
+George Street,313337,959048
+Sinclair Lane,313386,959204
+Sinclair Street,313337,959452
+Ca-Na-Catanach,304557,952614
+Sinclair Square,313263,959375
+Comliefoot Drive,312674,959834
+Henrietta Court,313123,959312
+Henrietta Street,313048,959298
+Manse Place,313301,959185
+Crescent Street,313148,959511
+Island Stream Pool,311864,957050
+Dailbreac,312344,947933
+Tormsdale,313924,950478
+Spittal Hill,316770,955613
+Bad na Capuill,303603,940922
+Achlachan Moss,314909,953490
+Boundary Fence Pool,312803,952397
+Trawl Pool,312646,958318
+Loch Scarmclate,318900,959595
+Loch an Duine,304431,950714
+Loch Dubh,301071,944049
+Sròn Dubh,301785,940832
+Cnoc an Ràtha,305207,957634
+Cnoc a' Gharbh-loch,303962,946635
+Dale Pool,312786,952541
+Cruives Pool,313733,948945
+Bad Raphain Mòr,309102,950167
+Loch Stemster,318936,942363
+Church Street,313291,959242
+Lochan Dubh,304872,957821
+Caol Loch,302581,948638
+Weedy Pool,308463,946047
+Lochan nam Breac,300150,947785
+Dail Righe,302181,940280
+Dale Moss,314059,951436
+Black Hillocks,319103,950259
+Cnoc nan Con-donna,308138,946987
+Loch Meadie,308984,948120
+Appat Hill,309688,954365
+Badan na Sean-airidhe,308578,954699
+Dubhs Corner Pool,310153,946699
+Coire Buidhe,305504,956236
+Manse Pool,312987,951580
+Cnoc Charran,310660,943550
+Dalemore Pool,314732,949564
+Loch More,307733,945514
+Loch Dubh,314784,942558
+Little Loch Scye,301109,955329
+Loch Ruard,314122,943285
+Beinn Chàiteag,313208,947132
+Lower Lairdie Pool,312174,953479
+Cnoc nan Sìthean,303057,942369
+Rock Pool,313202,951395
+Loch a' Chiteadh,304019,950876
+Skyline Loch,301106,947880
+Loch of Toftingall,319045,952310
+Cnoc na Gearra,319775,940493
+Comlifoot Pool,313170,959595
+Between the Mires Pool,311888,953901
+Cnoc an Arbhair,305588,955967
+Braehour,309635,953374
+Lochan Dubh nan Geodh,305940,947870
+Redbrae Pool,312960,948773
+Loch Eileanach,307022,947623
+Cnoc Loch Eileanaich,305921,947195
+Lochan Thulachan,310593,941273
+Beinn Freiceadain,305901,955787
+Manse Pool,313695,959957
+Cnoc a' Chaol-loch,302611,949085
+Cnoc na Craoibhe,307600,949887
+Cnoc Allt a' Chait,305552,940733
+Loch a' Mhuilinn,301794,942132
+Cnoc na Gaoith,305476,959852
+Mullach Uidh Mhurchai,306050,955399
+Bad nan Sgath,306973,951324
+Bràigh Fèith Hemigal,302702,953331
+Dale Stream Pool,312844,952245
+Cnoc Luachair,300514,957880
+Cnoc Balavreed,310833,942547
+Sinclair's Pool,311751,956832
+Bad na Caorach,310629,949891
+Bush Pool,312618,959642
+Loch Meadhoin,306127,951721
+Bad a' Chlamhain,318245,949547
+Loch Olginey,308894,957327
+Lochan na Saighe Glaise,301218,951450
+Rock Pool,311580,954065
+Chapel Pool,311590,956628
+Nancy's Pool,313471,959760
+John Mac Donald's Pool,310532,955710
+Lochan Chairn Lèith,305696,944958
+Olgrinmore Moss,309048,954309
+Mill Pools,313064,951858
+Lochan Dubh a' Chracairnie,306502,951469
+Moss of Knockglass,317675,950317
+Dale Dam,313827,953654
+Braehour Pool,311493,954141
+Sìthean Mòr,318373,943738
+Ben Shurrery,305149,956485
+Rèidh an Fhìdhleir,313537,942429
+Achlibster Hill,310542,951789
+Loch Scye,300572,955424
+Loch Gaineimh,305052,947007
+Broken Brae Pool,312031,953669
+Loch nan Clachan Geala,300189,958499
+Loch na Nighinn,300162,941670
+Lochan Beag Beul na Faire,301453,947689
+Lochan Sgrabach,302396,944524
+Lochan Cròc nan Làir,303885,945241
+Linn More Pool,312178,957539
+Bad na h-Achlaise,309673,951623
+Bad Leathan,303042,943991
+Cnoc a' Bhad-raphain,309218,949421
+Bad na h-Achlaise,307142,953940
+Loch Caise,302537,946614
+Halsary Moss,317738,949790
+Deep Lairdie Pool,312497,953280
+Yellow Moss,312944,957140
+Bloody Moss,311238,956863
+Cnocan Ruar,312531,940026
+Quoich Pool,313547,959843
+Lower Throat Pool,311898,953790
+Ouglassy Parks,318501,956489
+Island Pool,311938,957157
+Gerston Pool,312423,959448
+Pullyhour Ford,311448,954169
+Achanarras Hill,315151,954117
+Mire Pool,312501,952958
+Loch Caluim,302113,951800
+Strathcoul Pool,311335,954239
+Upper Manse Pool,312927,959520
+Ath nan Leac,310551,947898
+Mill Pool,312814,959582
+Cnoc a' Chail,319619,941215
+Tòrr Dubh Mòr,301562,953806
+Frothy Pool,310780,954783
+Coire Buidhe,300001,954422
+Sauce Pool,312319,948331
+Loch a' Mhuilinn,305960,956812
+Garbh Loch,303671,946786
+Clayock Moss,316629,958638
+Loch Beg,308811,946277
+Bad a' Cheò,315967,950210
+Cnoc Bad na Caorach,310604,949071
+Strath More,308896,946184
+Cnoc nan Clach,309510,947110
+Cnoc Cinn,317611,949998
+Top Lairdie Pool,312647,953095
+Mill Pool,310995,956115
+John Gunn's Pool,312837,958072
+Moss of Tongside,309865,957212
+Reidh Mòr,315171,943327
+Cnoc Scoot,308007,955995
+Monadh nan Càrn,304856,958809
+Loch Rangag,317692,941723
+Crasg Backlass,308285,942143
+Kettle Pool,312770,957936
+Beinn nam Bad Beag,301176,954648
+Lochan Dubh Cul an t-Stratha,306979,944657
+Lochan Dubh Cùl an Lòin,305648,952273
+Lower Tormsdale Pool,313274,951113
+Coire na Beinne,315109,940177
+Tail of Black Pool,311063,956281
+Cnoc na h-Imriche,312041,940747
+Dempster Corner Pool,310896,955133
+Tail of Reabeg Pool,311768,953983
+Moss of Halkirk,313038,958010
+Loch a' Cherigal,309970,948813
+Blackpark Pool,312607,957853
+Cnoc a' Bhothain,308510,947569
+Strath Beag,315701,947838
+Loch Gaineimh,307783,948912
+Port-an-eilein,305872,959306
+Auch-a-Clachan Pool,312605,953048
+Black Pool,311269,956416
+Upper Throat Pool,312081,953540
+Morgan's Canal Pool,310679,955190
+Cnoc an Eich,305015,943996
+Bad a' Chlamhain,311140,942023
+Upper Tormsdale Pool,314029,950761
+Loch nam Fear,302437,943107
+Stemster Hill,319983,941844
+Achkeepster Moss,317407,950683
+Broken Bank Pool,312585,953164
+Ben Dorrery,306292,955049
+Hill of Calder,309824,957932
+Bridge Pool,313041,959533
+Lochan Dubh,308915,956280
+Bad Raphain Beag,309244,950806
+Loch Shurrery,304600,955078
+Cnoc Beul na Faire,301269,947965
+Cnocglas Water,303449,951856
+Lochan Dubh,309261,946505
+Halkirk Primary School,313212,959764
+Lady's Moss,318050,955595
+Cupboard Pool,312753,952735
+Boy's Pool,311133,954566
+Sibster Moss,316040,959051
+Loch Sand,309677,941037
+Dubh Lochs of Shielton,319698,947733
+Loch Losgann,302620,949951
+Shurrery Plantation,303917,956102
+Loch a' Chairn,307679,949389
+Devil's Pool,312640,948657
+Cottage Linn,310023,947526
+Rubha Gar,307000,959786
+Old Woman's Pool,311540,948080
+Banniskirk Moss,316276,958644
+Reabeg Pool,311942,953704
+Black Loch,308919,954716
+Cnoc na Claise Brice,300464,959417
+Moss of Toftingall,318084,952241
+Grassie Loch,303071,946919
+Ox Pool,305936,943537
+Scotscalder,309581,956029
+Georgemas Junction,315592,959310
+Altnabreac,300356,945668
+Braal Terrace,313055,959666
+Newlands of Geise,309055,965864
+Knockdee,318030,960659
+Haimer,314231,967119
+Stemster,318343,961120
+Pennyland,310951,968417
+Janetstown,308469,965315
+Broubster,302541,961408
+Weydale,314719,964599
+Murkle,316445,967928
+Shebster,301754,963933
+Sordale,314585,962298
+Knockglass,305053,963332
+Dixonfield,314091,966956
+Hilliclay,317143,964471
+Westfield,305862,964156
+Castlehill,319682,968621
+Hill of Forss,308047,967515
+Thurso East,312480,968544
+Crosskirk,303143,969877
+Durran,319419,963116
+Mountpleasant,312317,968119
+Ormlie,310890,967552
+Achscrabster,308487,963515
+Roadside,315477,960735
+Springpark,312377,968080
+Achreamie,301798,966642
+Forss,304094,968795
+Thurso,311687,968450
+Scrabster,309849,970060
+Achnavast,307951,964317
+Clardon,314601,968338
+Glengolly,310192,965870
+Millbank,311982,967808
+Mountvernon,311584,967481
+Castletown,319646,967804
+Achingills,315311,962714
+Lieurary,306948,962584
+Strathmore Road,310610,968440
+Gerry Square,311609,968571
+Park Avenue,312389,968208
+Murkle View,312689,968198
+Macaulay View,310429,967691
+Seaview Terrace,311343,968603
+Paterson's Lane,311481,968280
+East Gills,310374,969277
+Angus Court,312034,967881
+Tower Hill Road,312544,968335
+Smith Terrace,311262,968725
+Ormlie Hall Gardens,311129,967859
+Fairview Court,312884,960004
+Duncan Street,311346,968287
+Dunnet Place,312388,968327
+Langland Court,310723,967614
+Market Street,311821,968638
+Hill Place,312396,968102
+Rendel Govan Road,310592,967860
+Moorside Avenue,310262,967588
+Scaraben Court,311513,967547
+Thorkel Road,311086,968500
+Kirk View,312073,968660
+Bardnaclavan Place,308417,965350
+Thorfinn Terrace,311120,968575
+Harbour Road,319359,968328
+B874,310995,967683
+Swanson Street,311798,968570
+Wolfburn Road,310146,969187
+Farmacres,310883,967680
+Bank Street,311775,968539
+Beach Road,311734,968555
+Pentland Crescent,311750,968653
+Provost Cormack Drive,310678,967711
+Olrig Street,311552,968536
+Westfield Terrace,310847,967946
+Brownhill Road,311064,967978
+Bishops Drive,310203,969058
+Gunns Lane,319583,967773
+Oldfield Terrace,312153,968034
+Saint Clair Court,319318,968126
+St Andrew's Drive,311398,967418
+Seaforth Road,312595,968298
+Braemore Place,311449,967359
+Castlegreen Court,310971,968663
+Granville Street,311268,968551
+Mansons Lane,311750,968314
+Ormlie Drive,310831,967734
+Pennyland Terrace,311094,968659
+Ormlie Hill,310842,967816
+Naver Road,310745,968200
+Couper Street,311899,968561
+Joiners Lane,319468,967842
+Langwell Court,311435,967429
+Brims Road,310750,968663
+Claredon Place,312353,968265
+Macdonald Green,310686,967847
+Barrock Street,311426,968213
+School Place,304604,968990
+Morton Court,312055,968701
+Juniper Drive,310753,967149
+East Church Street,311464,968437
+Grove Lane,311831,968430
+Holbornhead,310066,970576
+River View,310799,967191
+Wilson Lane,311986,968612
+Tormsdale Place,311368,967468
+Bank Lane,319463,967896
+West Burnside,310629,968959
+Calder Square,319580,968025
+The Crescent,310152,965828
+Traill Street,319444,967979
+Harbour Court,312031,968548
+Ola Drive,310365,969184
+Dale Road,310816,968198
+Sinclair Street,311572,968208
+Dirlot Place,310522,968409
+Sweyn Road,311138,968250
+Battery Road,318516,968437
+Robertson's Lane,311433,968218
+West Church Street,311443,968411
+Harbour Road,319546,968527
+Castle Street,311399,968446
+Queen's Terrace,312102,968084
+Beach Court,311729,968499
+Granville Crescent,311220,968350
+Upper Geise Place,310006,965844
+Dunbar Terrace,310836,967972
+Meiklejohn Court,310367,967747
+Brabster Street,311623,968168
+Palace Court,310277,969127
+Lovers Lane,311341,967929
+Moorside Court,310327,967503
+Thorfinn Place,311163,968547
+Davidson's Lane,311385,968159
+Ormlie Road,310686,967186
+Castlegreen Road,310952,968352
+Ord Terrace,311521,967302
+Stroma Place,312500,968391
+Thorsdale View,310817,967560
+Howburn Road,310881,968138
+Sir John's Square,311587,968298
+Harbour Road,319447,968358
+Fulmar Road,310923,968070
+Bank Place,311775,968539
+Shebster Court,310770,967592
+Churchill Road,319688,967927
+Castlehill Avenue,319359,968159
+Strathmore Place,310666,968442
+Sigurd Road,311031,968434
+Dwarwick Court,311578,967480
+Holborn Avenue,311230,968668
+Pollok Place,310939,967252
+Main Street,319091,968145
+Hoy Place,310585,968584
+Cowie Lane,311556,968464
+Lythmore Road,310776,968575
+John Kennedy Drive,310609,968000
+Wilson Street,311928,968447
+Princes Court,311401,968043
+Castle Terrace,312270,968270
+Janet Street,311500,967960
+College Place,310885,967287
+Mears Place,310609,967881
+Miller Place,310110,969467
+St Mary's Road,310941,968152
+Castle Gardens,311295,968109
+Strathmore Court,310559,968489
+Macintosh Place,310757,967669
+Stainland Drive,311640,967603
+Rockwell Crescent,310413,968509
+St Olaf Road,311045,968278
+Oldfield Hill,312063,967928
+Albyn Court,310457,967523
+Trostan Road,310868,968436
+Heathfield Road,311000,967865
+Donald Grant Road,310864,967227
+Ormlie Crescent,310918,967818
+Pentland Court,311291,968609
+Springpark Terrace,312211,968000
+Burnside,310669,969040
+Riverside Place,311833,968309
+Provost Sinclair Road,310500,967805
+Forss Road,310879,968576
+Stanergill Crescent,319813,967938
+Coronation Place,318798,968344
+Royal Terrace,312275,967970
+Upper Burnside Avenue,310404,968918
+Vernon Place,311575,967395
+Marine Terrace,312000,968698
+Pennyland Place,310821,968313
+Pennyland Drive,310758,968522
+Couper Square,311931,968545
+Hakon Road,311020,968500
+Harland Gardens,319716,967605
+Harald Drive,312555,968461
+George Street,311378,968505
+Durness Street,311625,968604
+Seaforth Place,312608,968317
+Churchill Place,319671,967909
+Campbell Street,311599,968431
+Holborn Place,309168,970727
+Lord Thurso Court,310437,967825
+Rose Street,311437,968315
+Crown Square,316511,968537
+Finlayson's,319265,968003
+Mountpleasant Road,312377,968080
+Oldfield Court,312023,967889
+George Crescent,311270,968417
+Henderson Park,309871,968588
+Houston Terrace,311500,967628
+Riverside Road,311987,968418
+Smith Place,311157,968741
+Allans Lane,319526,967808
+Henderson Street,310502,967536
+Ormlie Road,310799,967426
+Ironside Place,310492,967765
+Clett Terrace,309833,970139
+Traill Street,311690,968359
+Naver Place,310667,968226
+Balimore Place,310811,967690
+Ravenshill Place,310756,968358
+Back Shore Street,312027,968635
+Hoy Terrace,310597,968637
+The Mews,311825,968063
+Rostan Terrace,310894,968354
+Mill Road,311613,967665
+St Magnus Road,311058,968385
+Clarence Street,311303,968500
+Bay View Terrace,311192,968614
+Dunnet Road,312435,968294
+Laurie Terrace,312305,967838
+Harland Road,319850,967490
+Morven Place,312296,968201
+Vulcan Court,311062,968650
+Calders Lane,319555,967790
+Rotterdam Street,311767,968454
+Sir Archibald Road,312169,968449
+High Street,311867,968553
+Cairnmore Place,310890,967639
+Stroma Road,312500,968425
+Primrose Avenue,310877,967000
+College Court,310826,967310
+Upper Burnside Drive,310424,968858
+Miller's Lane,311949,968563
+A9,311000,968809
+Sir George's Street,311673,968250
+Burnett Place,311979,967737
+Scapa Place,311022,968682
+Well Pool,312841,963088
+Braal Pool,313957,960176
+Hill of Shebster,301211,964519
+Forsie Moss,304920,962549
+Geise Pool,311270,966186
+Cat's Cleft,319942,972004
+Fence Pools,311662,964513
+Brims Ness,304167,971688
+Rowrash,319574,972209
+The Pools,314475,970239
+Hill of Forss,307078,969005
+Ness Berry,304021,971619
+Devil's Bridge,310855,971585
+Lady Janet's Wood,313358,968273
+Robertson's Point,310376,971660
+Sinclair's Geo,310755,970859
+Loch Lieurary,306988,964331
+Sloping Head,307275,971028
+Creag Bhuidhe,310729,970785
+Scrabster Loch,308685,970395
+Lythe Berry,317689,969210
+Codlin Craig,319717,968689
+Old Water Mark Pool,313552,962680
+Sordale Stream Pool,314164,962061
+Burn Mouth,310496,971623
+Murkle Bay,317066,969579
+Briga Head,318398,975378
+Hill of Howe,309610,962880
+Stone Pool,311657,964664
+Tug Berries,316934,969685
+Greeny Geo,300541,969157
+Crab Geo,313376,969844
+Clio Geos,311417,968715
+Craig Ware,316634,970134
+Limpet Geo,313427,969909
+Carsgoe Pool,314130,962194
+Shira Geo,319381,976236
+Fish Scale,310785,971072
+Black Loch,318575,973648
+Points of Tang,313740,970005
+Narrow Shoals,310075,971631
+Meadow Lane,311763,968371
+A836,310760,968852
+Laurie Terrace,312305,967838
+Orkney View,312611,968216
+Calder Drive,311000,968038
+Haimer Place,312473,968189
+Upper Burnside Court,310500,968857
+St Peter's Road,310973,968108
+Mayfield Road,312389,968208
+Butchers Lane,319511,967847
+Mountpleasant Road,312432,968044
+Neil Gunn Drive,310575,967376
+Hill of Sour,311445,961288
+Lochan Ealach,304122,960250
+Craig Andrew,302919,970345
+Old Cruives Dyke,311540,966828
+Black Geo,310811,971266
+Jenny Jock's Pool,314150,961984
+Broad Shoals,309304,971444
+Cairn Pool,312576,963357
+Braes of Holbornhead,309963,970412
+Hing Geo,301886,969881
+Spear Head,309692,971585
+Thurso Bay,311725,969954
+East Slate,302947,970741
+Geo Harra,303543,971349
+Back Green Skerry,310795,971122
+Sulags Pools,313727,961070
+Ham Berry,304368,971205
+Scottie Geo,308279,971150
+Clett of Thusater,306641,971053
+Mill Pool,312244,964183
+The Muireachies,314475,970112
+Old Ho,312250,969000
+The Crook,312008,968830
+Creagan Caol,302986,970747
+Cairnmore Hillock,305614,967462
+Little Head,310693,970647
+Red Geo,304795,970854
+Upper Horse Pool,313953,962419
+Chapel Geo,302466,970162
+Long Geo,306135,970934
+Doo Cot,307191,971060
+Achscrabster Moss,308854,963025
+Slater's Loup,309805,971589
+Geo Buila,302389,970177
+Rae Berry,317441,969347
+Kirk Ebb,312067,968981
+Loupag,310773,970952
+Black Hillock,314451,961387
+Bleachfield Pool,311696,966435
+Buckies Hill,310861,962595
+Raeberry Geo,314528,970165
+Scarf Geos,310857,971385
+Ware Geo,302760,970059
+Lindsay Geo,314052,970039
+Heron Craig,308412,971246
+Clardon Head,315379,970307
+Brims Hill,307850,970676
+The Turrets,309173,971418
+Strath of Baillie,305073,965233
+John's Pool,311241,967115
+The Hossack,312242,968854
+Loch Calder,307274,960650
+Green Knows,316953,969812
+Chapel Pool,302468,970197
+Clardon Haven,316095,970130
+Ashy Geo,318321,974483
+The Slates,318049,969153
+Geo Dike,313220,969773
+Cnoc na Feadaige,307069,969010
+Summer Craig,317262,969337
+The Shops,306014,970983
+Black Craig,309540,971544
+Long Rock,307453,971141
+Donald Gear's Geo,318135,973521
+Yellow Moss,302192,964682
+Achreregan Hill,302656,962249
+East Raeberry,314993,970271
+Scrabster Roadstead,310813,970562
+Black Geo,315499,970252
+Linties' Pool,309754,967588
+Little Quay Geo,312633,969495
+Trowes' Geo,317495,969273
+Clett,310514,971663
+Marl Moss,315860,963154
+Cliff of Thusater,306455,970986
+Scarden Geo,304958,970892
+Geise Stream Pool,311160,965132
+Loch Thormaid,300962,960415
+Aimster Pool,312343,963804
+Lythe Craig,310737,970733
+Neb Point,310810,969182
+Sordale Hill,315721,961977
+The Neback,319524,976433
+The Tang,304534,971118
+The Brigs,310668,971635
+John Leeds' Rock,306907,971072
+Nether Sanders Loch,319038,974546
+Head of Man,319902,972111
+Clardon Hill,314917,969516
+Lippy Geo,302939,970159
+Needle Eye,310912,969113
+Stony Mouth,319403,972293
+Cnoc na Gaoith,300330,961950
+Little Ebb,311973,968945
+Rumbling Geos,310758,971597
+Hill of Achalone,303177,963084
+Rowramps,318176,973131
+Quay Geo,312779,969465
+Port of Brims,304400,971390
+Rockwell Point,311361,968877
+Corner Pool,313899,961724
+Serpent Hillock,316013,968225
+Cruive Pool,311558,966748
+Gleann Saothair an Athaich,300343,960572
+Quay Geo,316879,970027
+Outer Basin,310174,970364
+Chapel Point,310961,969049
+Steinie Geo,313029,969638
+Creag Bhuidhe,305880,970905
+Hoy Pool,313950,960844
+Cnoc Saothair an Athaich,300070,960967
+Achibegg Moss,302386,962505
+Bridge Pool,311856,968242
+Little Moss,305647,962207
+Loch of Bushta,319300,972629
+The Spur,317045,969902
+Dropping Brae,316979,969163
+Scarf Craig,307873,971114
+Sandy Geo,302690,970100
+Boiling Kettle,310825,971504
+Many Lochs,319947,974745
+Samson's Coach House,311231,968967
+Craig of Hattel,318954,969132
+Finlayson's Pool,311959,964323
+Lower Horse Pool,313324,962824
+Crosskirk Bay,302629,970371
+Long Rigging,310775,971016
+Long Skerries,311991,969067
+Drags Moss,319366,965796
+Ness of Litter,307745,971188
+Braes of Brimside,304664,966523
+Clio,311431,968749
+Scarf Rock,310884,971291
+Holborn Head,310793,971487
+Coghill Loch,309190,970931
+Gie-uisg Geo,301001,969481
+Boat Pool,312390,964104
+Lower Commissary Pool,310934,966221
+Cnoc Freiceadain,301265,965320
+Buckies Pool,311836,964344
+Green Point,306211,960446
+East Lug of Tang,313953,970115
+Samson's Foot Mark,311410,968813
+The Holms,314205,970061
+Murphy's Craig,314322,970102
+Battery Point,311146,969058
+Methow Clett,316105,970047
+Whale's Back,303726,971446
+Black Clett,317105,969258
+Achalone Moss,303962,962588
+Back Berry,304843,970933
+Ushat Head,303176,971143
+Kyle Geo,304747,970958
+Standstone Geo,318748,969147
+Long Geos,311311,968860
+Sandy Geo,304307,971219
+Little Clett,306197,970984
+Lady Janet's Seat,312765,969352
+Black Hole,306470,970977
+The Pows,314391,970102
+Salmon Pool,311411,966988
+Black Geos,318549,975544
+Dunnet Hill,319132,973745
+Broubster Hill,301958,960426
+Hill of Whitefield,319892,965988
+Lythmore Moss,306294,967217
+Duncan's Hill,313780,967529
+The Methow,316256,970072
+Bishop's Hill,319417,963125
+Falcon Craig,308131,971122
+Fishy Geo,312839,969551
+Ashygeo Hillock,318350,974170
+Clinkin Geo,315659,970177
+Fiercie Geo,314136,970042
+Redstone Hill,319909,972704
+Weydale Moss,313578,965620
+Raven's Hill,306847,969110
+The Thirl,318683,972806
+The Loops,310943,971459
+The Dulls,305967,971039
+West Raeberry,314787,970261
+Red Brae Pool,314011,961900
+Red Geo,318176,973945
+Pocket's Geo,312741,969484
+The Den,306253,964018
+The Doocot,315200,970266
+Hill of Clindrag,317034,967383
+Glupein na Drochaide,300193,968916
+White Moss,316092,964941
+Green Head,306684,971009
+Hill of Lieurary,308108,961655
+Fish Craig,319937,976646
+Black Ness,310903,971588
+Green Skerry,310814,971168
+Robertson's Hole,310245,971659
+Moss of Geise,309192,964639
+Shottie Geo,307712,971228
+Hill of Lybster,302323,969320
+West Lug of Tang,313507,969934
+Upper Commissary Pool,310905,965772
+White Stone,308662,971276
+Dunnet Bay,317588,969159
+The Binks,309992,971553
+Cnoc an Ruighein Duibh,300493,960153
+The Slates,312533,969324
+Hill of Rive,319881,972293
+Skate Back,307037,971052
+Holborn Hill,309510,971260
+Dunbar Hospital,310596,967209
+Mount Pleasant Primary School,312277,968399
+The Kiln,306935,971036
+Chapel Geo,318657,972894
+Loch Saorach,301496,960430
+Liss Skerry,305457,970906
+Sanders Loch,318633,974708
+Pudding Geo,315231,970267
+Hill of Olrig,317484,965649
+Castletown Primary School,319602,967542
+Tordale Park,306841,966548
+The Kist,315271,970306
+Baillie Hill,304909,964398
+House Head,319886,968542
+Scrabster Ferry Terminal,310635,970495
+Hos Skerries,311036,969216
+The Slap,314020,970054
+Ushat Geo,303122,971047
+The Ark,310764,970924
+Lochan Buidhe,303791,969498
+Achreamie Moss,300423,966787
+Geo Croiche,301312,969717
+The Holms,317154,969419
+Weydale Strand,318472,969157
+The Spears,306381,971044
+The North Highland College,310924,967391
+Pentland View Nursing Home,310482,969117
+Thurso High School,311028,967539
+Miller Academy,311413,967972
+Thurso,311272,967858
+Pennyland Primary School,310767,968431
+Scrabster Harbour,310277,970420
+Grant Avenue,310916,967171
+Millbank Road,311696,967879
+Leitch Court,312338,967843
+Falconer's Waters Court,310589,967625
+Princes Street,311500,968212
+Castlehill Place,319471,968078
+Shore Street,312000,968662
+Murrayfield,319345,967917
+Henderson Court,310500,967456
+Murkle View,312611,968113
+Mountpleasant Road,314248,966812
+Mackay Street,319491,968030
+Brilon Court,310979,967203
+Holborn Place,309653,970221
+Ravenshill Road,310687,968352
+Mountpleasant Road,314616,966470
+St Clair Avenue,309752,970136
+Green Court,311447,967526
+Mackenzie Terrace,306035,963927
+Sandy Geo,317353,999486
+Geo of the Side,318188,999222
+Fingi Geo,317910,999203
+Black Nev,318632,999010
+Loch of Stourdale,317724,999950
+Lang Geo,318374,999192
+Rora Head,317412,999233
+Moor Fea,319044,999959
+Narrow Geo,318046,999208
+Too of the Head,318931,998918
+Nose of the Yard,319791,999012
+Smerlie,323986,937227
+Lingland,326253,937981
+Swiney,323783,935533
+Mid Clyth,329214,937448
+Achavar,326280,937066
+Bruan,331296,939498
+Lybster,324772,935952
+Burrigill,322730,934472
+Achastle,323194,934610
+Occumster,326499,935831
+East Clyth,329903,939392
+Upper Lybster,324798,937039
+Clyth,327625,936182
+Forse,322182,934356
+Mavesy,326067,936186
+Badfallister,326972,937649
+Achow,323022,936798
+Overton,328892,936526
+Roster,326207,939547
+Hillhead,325794,935767
+Norland Road,324743,936570
+Union Road,324655,935451
+Russell Street,324721,935462
+Shore Road,324410,934903
+Grey's Place,324791,935560
+Shore Road,324410,934903
+Young Crescent,324757,935950
+Main Street,324820,935282
+Althorpe Street,324752,935555
+Shelligoe Road,324934,935087
+Harbour Road,324506,935191
+Norland Road,324742,936598
+Quatre Bras,325050,936354
+Golf View Drive,324892,935350
+Althorpe Court,324735,935516
+New Clyth Road,328106,938113
+Golf View Place,324915,935297
+Village Road,324772,935945
+Jeffrey Street,324716,935513
+Southend,324931,935087
+New Clyth Road,329078,937578
+Leas Geo,330146,937815
+Creag nan Sgarbh,324427,934651
+Moss of Forse,322072,936276
+Goldain,331822,939649
+Skerry Neoineon,330497,938195
+Lybster Bay,324574,934689
+Red Point,320419,932808
+Red Geo,331391,939377
+Ebb of Niandt,321049,933013
+The Clett,330964,938896
+Ash Geo Beag,325686,935179
+Dunn Moss,325555,938657
+Craig Skelpin,320638,932916
+The Haven,330898,938850
+Ousbacky,329127,936288
+Tràigh Uamha-lonie,320485,932792
+Poll an Easaich,322132,933487
+Cove Garbh,324312,934420
+Airigh Hill,321015,938154
+Cnoc Ballan,330597,938280
+Ness Castle,330804,938572
+Bratigoe,329304,936475
+Coan Dubh,323797,934139
+Smoo,326491,935057
+Cove Morail,322866,933804
+Hanni Geo,330724,938603
+Coan Uisge,322155,933535
+Leac Deireidh,323381,933948
+Clyth Harbour,328021,935696
+Hill of Longstone,330047,939779
+Ouldril,328286,935792
+The Stack,324295,934448
+Black Hill,326380,936703
+Leac Seabhag,324601,934715
+Halberry Head,330185,937757
+The Duin,324369,934723
+The Bridge,327010,935196
+Creag a' Chruidh,322101,933824
+Hill of Mid Clyth,328531,938567
+Shalligeo,325158,935027
+Wingland,322926,933938
+Bad-na-suidhich,325497,935151
+White Head,326974,935193
+Poll Gorm,326200,935214
+East Skerry,326016,935127
+Scarf Skerry,328712,935915
+West Gotten,322386,933754
+Ceann Shinwillick,329956,937462
+The Riasg,331085,938991
+Hishberry Rock,322014,933298
+The Stacks,327380,935398
+Leac Gallain,324213,934257
+Creag Ard,324332,934607
+Dùn Sgliat,322144,933370
+Black Ebb,323035,933951
+Coan Dian,323486,934058
+Creag Sgadanach,326242,935218
+Robbery Head,322216,933345
+Ceann Sgeireachden,322494,933604
+Sgaps Geo,329751,937061
+Ceann Stuic,327952,935661
+Creag-a-backy,329677,936956
+Line Geo,329412,936773
+Long Gote,331175,939117
+The Haven,330904,938845
+Black Skerry,328522,935762
+Skerry Mòr,328619,935833
+Fellan Skerry,330950,938797
+Burn Mouth,327142,935283
+Geo of Creagan Righe,329582,936926
+Clais na Goilean,328810,936044
+Creag Liath,321682,933310
+The Tiedrigin,323664,934076
+Cleit Thighearn Latheron,320186,932718
+Creag-na-morlaig,324890,934799
+Port na Muic,321633,933281
+Badfallister,326811,937578
+Dubh Lochs,327732,939721
+Creek Belly,326394,935209
+Roy Geo,327494,935563
+Swiney Hill,323940,934395
+Gote a' Sly,331604,939503
+Gote Learigeo,326964,935245
+Long Bink,331126,939028
+Ceann Hilligeo,326524,935094
+Creag Loingeis,325183,934977
+Muckle Roberry,332044,939846
+Gotten Feath,323270,933964
+Gotten Chalman,326452,935141
+Blood Moss,322322,937997
+Leacan Oir,331938,939787
+Gotten Càm,324318,934688
+Creag an Eich,323173,933890
+Skerry Cruinn,326238,935266
+Bour,328503,935818
+The Skerries,325186,934912
+Bodach Bell,329338,936560
+Stack of Mid Clyth,329966,937321
+Harril Head,331284,939248
+Skerry Neavain,325076,934833
+Couldrig,326840,935144
+Sean Skerry,322929,933820
+North Gotten,322478,933847
+Tràig nan Ròn,322570,933846
+Lochs Dubh,327641,939989
+Ash Geo Mor,325885,935188
+Minister's Rock,325109,934888
+Teadlinne,322787,933801
+Hill of Clais-na-canaich,327014,938639
+The Bodach,325443,935129
+Muckle Red Craig,330530,938286
+Lybster Primary School,324840,936031
+South Head View,324666,935236
+Killimster,331641,956876
+Ulbster,332560,941789
+Gaultiquoy,334617,950568
+Milton,334818,950857
+Sarclet,334398,943974
+Haster,332564,951154
+Gansclet,332945,944909
+Watten,324027,954373
+East Watten,326306,955785
+Sibster,332641,952919
+Gillock,321126,959529
+Tannach,332287,947169
+Ackergill,335138,952964
+Lochshell,335353,952627
+Whaligoe,331883,940798
+Wick,336354,951004
+Faulds,323361,959414
+Bilbster,328304,953584
+Papigoe,338186,951596
+Ackergillshore,335846,954404
+North Watten,323965,958667
+North Killimster,332672,955495
+Staxigoe,338337,952326
+Winless,330033,953923
+Gillock,334497,953013
+Reiss,333131,954362
+Whiterow,335889,948456
+Strath,325773,952058
+Kirk,327639,959823
+Myrelandhorn,328725,958428
+Willowbank,336915,951174
+Thrumster,332829,945044
+Newton,334887,949635
+Broadhaven,337879,951264
+Harbour Road,336968,950333
+Willowbank,336990,951179
+Glamis Road,336796,951350
+North View,337203,949956
+Macleay Street,336281,950607
+Smith Terrace,336865,950393
+Langley Lane,335665,950905
+Harrow Hill,336495,950050
+Moray View Avenue,338453,952102
+Green Road,336250,951287
+Proudfoot Road,337537,951040
+Hillhead Road,337063,951292
+Northfield Avenue,337071,951081
+Whitehouse Park,336679,951093
+Back Bridge Street,336342,950965
+South View,337818,951054
+Bankhead,336070,950820
+Louisburgh Street,336355,951132
+Red Row,338509,952407
+Doocot View,337402,951368
+Forestry Road,321430,940315
+Newton Avenue,336089,950534
+Tollbooth Lane,336406,951103
+Wellington Street,336930,950169
+Mowat Lane,336347,951115
+Oldwick Road,336695,949841
+Francis Street,336231,950384
+Harbour Place,336737,950611
+Harbour Terrace,336738,950540
+Leishman Avenue,336930,951260
+The Shore,336707,951015
+Murchison Street,336974,950000
+Ackergill Street,336495,951571
+Macleay Lane,336230,951014
+West Banks Terrace,336000,950382
+Dunnett Avenue,336330,951560
+Waverley Road,337031,951333
+Miller Avenue,335925,951321
+Williamson Street,336558,950769
+Finlayson Place,334000,945322
+Ackergill Crescent,336381,951546
+North Road,336196,951656
+Malcolm Street,336403,950545
+Gowrie Place,335774,950802
+Weir Crescent,334752,950875
+Nordwall Park,333092,954826
+Roxburgh Road,336921,949887
+Elzy Road,338366,952356
+Cairndhuna Terrace,336690,949844
+Leith Walk,336668,951433
+South Head,337374,949798
+Miller Lane,336588,950611
+Church Street,336213,951193
+A882,325471,954240
+Station Road,324412,954677
+Lindsay Place,337276,951093
+Riverside Drive,335479,950971
+Port Dunbar,337123,951051
+Baron's Court,336753,951196
+Royal Place,336871,950336
+John Horne Drive,337406,951271
+Plover Place,333197,954625
+Bobby Coghill Avenue,338396,952387
+Coghill Street,337500,951274
+Henrietta Street,336497,951335
+River Street,336313,950790
+Grant Street,336706,950390
+Beaufoy Street,336395,950464
+Rutherford Street,336572,950198
+Anne's Crescent,336775,949483
+Market Street,336455,950947
+Sandigoe Drive,337121,951122
+Cormack Crescent,338202,951459
+Newton Road,335361,950064
+Burn Street,336550,950815
+Anderson Drive,336795,951303
+Coach Road,336378,951192
+Tower Square,335793,954365
+Hood Street,335919,950307
+Sutherland Street,336759,949451
+George Street,336147,951441
+Telford Street,336558,950769
+Breadalbane Terrace,336673,950521
+Cliff Road,336219,950748
+Bain Place,323770,954609
+Elzy Place,338322,952341
+Hill Avenue,336403,951613
+West Park,336172,950546
+Martha Terrace,336541,950861
+South Road,336163,949871
+Tannach Road,332564,951154
+Moray Street,336231,950546
+Hospital Road,336092,949940
+Saltoun Street,336566,950722
+Bank Row,336573,950678
+Barrogill Street,336653,950247
+South Quay,336805,950485
+Bay View,336919,951105
+Kirk Lane,336275,950975
+Scalesburn,336994,951055
+Newton Row,334887,949635
+West Banks Avenue,336071,950447
+Vansittart Street,336890,950274
+Sinclair Terrace,336437,950612
+Bridge Street,336268,950915
+Fraser Drive,337741,951167
+Elzy Grove,338379,952277
+Carnaby Road,336698,949483
+Sunbeam Terrace,336108,950624
+March Road,336537,949224
+Anderson Lane,336275,950975
+Lindsay Drive,337410,951102
+Agnes Street,336246,950241
+Macleod Road,337127,951251
+Coronation Street,335939,950627
+B874,321672,959255
+Baikie Place,333775,945246
+Upper Dunbar Street,336503,950377
+Scarfs Craig Place,337163,949898
+Girnigoe Street,336566,951316
+Shore Lane,336497,951063
+Lower Dunbar Street,336599,950558
+Miller Street,336458,950751
+St Fergus Road,336156,951081
+Bexley Terrace,336949,950319
+Newton Road,335361,950064
+Kirk Hill,336182,951230
+Bella Mackay Place,333919,945046
+Seaforth Avenue,336088,950165
+Huddart Street,336764,950191
+Harrow Road,336338,949756
+A99,336209,950852
+John Street,336461,951084
+Baron's Well,336658,951229
+Harrow Terrace,336566,950004
+Rose Street,336575,950677
+Bon-Accord Street,337000,951252
+Swanson Drive,336647,949683
+Kenneth Street,335950,950630
+Swanson Avenue,336588,949635
+Sinclair Drive,336999,951290
+Station Road,324412,954677
+Wellington Avenue,337082,950087
+Robert Street,336043,951471
+Forestry Road,327389,942022
+Loch Street,336349,950376
+Macarthur Street,336735,950449
+Union Street,336315,950713
+Duffus Street,336353,951200
+A882,335079,950867
+Kennedy Terrace,336413,949890
+Henrietta Terrace,336480,951291
+Argyle Square,336539,950446
+Rockhill Road,335956,948902
+Brown Place,336503,950377
+Corner Crescent,336858,951259
+Henderson Square,324381,954723
+Robertson Square,336130,950241
+Owen Place,336766,951401
+Jupe,338741,952276
+Hill of Toftgunn,327097,942336
+Loch Sarclet,334278,942911
+Line Geo,338713,951773
+Robbie's Craig,337480,950088
+Sound Skerry,338746,952518
+Tannach Hill,330539,947061
+Wood of Scouthal,323451,952660
+Noss Head,338720,954822
+Shearer's Pool,321204,957703
+Wester Whale Geo,331960,940022
+Gearty Head,334751,942548
+Old Man of Wick,336945,948856
+Braes of Dunn,320759,956508
+Groat's Loch,331446,940849
+Scarf's Craig,337623,949924
+Skerry Skarvel,335366,943848
+May Berry,336925,948488
+Little Turrie Geo,334718,942752
+Otter Geo,338421,951506
+Oupingail,333900,941681
+The Cove,337619,949790
+Whitechapel Road,336283,951048
+Dhu Loch,333934,948546
+Victoria Place,336315,950872
+Hill of Achalipster,324513,948288
+Tarroul Moss,326808,955221
+Stane Berry,335576,954558
+Brig o' Stack,336950,948582
+North Tails,338706,952649
+Brackeny Brae,323736,949817
+Loch of Warehouse,329982,942358
+A99,333345,954774
+Mowat Place,338188,951497
+Mowat Place,337088,951132
+March Road,336357,949319
+Thurso Road,335742,950802
+Northcote Street,336240,950333
+Langwell Crescent,337159,951136
+Cliff Cottages,338486,951712
+High Street,336294,951062
+Red Hill,326540,954770
+Cnoc an Earrannaiche,324250,941819
+Cnoc na Cainach,330900,940220
+South Head,337645,949729
+Shaltiegeo Rock,337014,950417
+Long Tail,338640,953146
+Fas Skerry,338587,951383
+Proudfoot,338255,950894
+Broad Geo,335369,944367
+Seals' Rock,335873,954627
+Kettle Geo,336387,947214
+Black Rocks,337513,950919
+Battle Moss,331676,943486
+Dubh Lochs,320189,946825
+The Clett,338552,955130
+Newton Hill,335028,949080
+Broad Haven,338346,951271
+Gote o' Tram,336783,948013
+Hill of Stemster,334233,950450
+Sgodmuirn,338688,952914
+Sea Cove,333395,941400
+Hill o' Howe,335253,943160
+Hill of Wester,331925,957907
+Moss of Kirk,330058,958671
+The Rowans,332916,941166
+Backlass Moss,320037,952887
+The Powe,337516,949277
+Lord Oliphant's Leap,336952,948792
+Powmad,338914,953580
+Salmon Rock,337125,950328
+Loch Watten,322812,956349
+Tod's Gote,335717,944751
+Cuckoo Hill,323333,952545
+Sealky Head,338792,952972
+Bad an Uillt,320866,944470
+Crane Rock,337313,950209
+Land Cove,333697,941483
+Rams Geo,338178,951159
+Moss of Newton,322065,954287
+Ellens Geo,332665,940869
+Shaltie Geo,336957,950444
+Loch na Feur,322625,941798
+Rowens Dubh Lochs,322954,945454
+Warehouse Hill,330868,941128
+Castle Geo,336987,948901
+Riera Geo,335185,943869
+Wester Watten Moss,320990,951409
+Musley,338617,955062
+Hill of Houstry,321543,954863
+Dubh Lochs of Shielton,321274,948734
+Cairds Hillock,325390,955639
+Swallow Geo,338819,954112
+Lummers Geo,334363,942254
+The Buinns,334792,942702
+Castle Haven,335332,954788
+New Craig,334073,941794
+Bad na h-Earba,321794,943151
+Backlass Hill,320513,954125
+Skerry Heim,338752,952878
+Hill of Oliclett,329290,946120
+Long Berry,338764,953423
+Fasberry,336486,946918
+Sinclair's Bay,336282,958486
+Dubh Lochs,321786,948197
+Bad an Fhèidh,324630,948767
+Borgies Pool,326602,954655
+Maney Geo,338159,955011
+Stack o' Brough,336819,948298
+Whale Geo,332078,940233
+Swallach,333141,941353
+Moss of Wester,331137,958903
+Hill of Yarrows,329614,942798
+Tail o' Brough,336859,948044
+Castle Haven,337925,954978
+Cove of Barberry,338945,954772
+South Point,337005,948729
+Newtonhill Community Woodland,334581,949626
+Dubh Lochs,321974,947079
+The Loups,335383,943495
+Stupach,337230,950271
+Badryrie,320574,943159
+The Voute,334323,942097
+Red Braes,330383,959298
+Dunbar's Stack,336546,947509
+Green Hill,330830,955014
+Man Rock,337606,950022
+Castle Stone,335399,954772
+Ballharn Hill,324385,944182
+Bylbster Moss,326693,952625
+The Sisters,337282,950880
+Hill of Ulbster,333106,942298
+Pow Feet,337585,954875
+Bad Uaine,324137,950365
+Helman Head,336438,946725
+Black Brae,323753,949450
+Tails of Elsay,338776,952074
+Elsay Geo,338727,951884
+Skeps Geo,333275,941433
+Iseberry Head,338294,951390
+Hiethe,334167,941914
+Braid Hell,335341,943606
+Turrie Geo,334639,942702
+Flows of Leanas,326461,948770
+The Kists,337389,950910
+Moss of Killimster,329555,955922
+Black Point,336261,954699
+Clash,332779,940966
+Newton Moss,334324,949424
+Cnoc Morail,322074,953240
+Reidhlean na Cloiche,321453,943305
+Loch of Killimster,330771,955997
+Moss of Acharole,323165,950749
+Bad Alasdair,322640,944414
+Black Hill,330960,957695
+Loch Brickigoe,330102,943951
+Red Moss,328005,940301
+Ashy Geo,335696,944956
+Greenie Geo,338299,951465
+Strath Dhulochan,325113,954537
+Brig o' Tram,336777,947927
+Hill of Toftcarl,335534,946149
+Pennyland Moss,324805,952668
+Thorny Hillock,326084,954440
+Head of Row,332581,940542
+The Haven,335181,943310
+Moss of Killiminster,329622,956053
+Cogle Moss,327502,955996
+Munsary Dubh Lochs,321745,946267
+Stack of Ulbster,333916,941608
+Moss of Whilk,329121,940559
+Sellifar,333519,941432
+Loch Hempriggs,334233,947053
+Loch Watenan,331917,941211
+Loch of Wester,332644,959195
+Round Rock,338155,951210
+Ires Geo,335682,945577
+Cnoc Vigas,321840,941251
+Cnoc Sgadain,322449,951377
+Sandy Geo,338338,955031
+Red Kilns,336624,954532
+South Stack,336510,947329
+Sandy Geo,338639,952719
+Flex Hill,326678,950286
+Brown Hill,322310,941700
+Turriegoe Hill,334600,942620
+Loch of Winless,329259,954678
+Whale's Back,334884,942790
+Whale's Hole,338732,951409
+North Head,338377,950762
+Brae of Tormore,325289,950939
+Backlass,320505,954122
+Sarclet Head,335307,943119
+Cairndhuna Rock,337413,950139
+Girston,336488,947385
+Osties Hill,331620,940820
+Corbie Geo,335399,944271
+Hole of Troupa,335209,943144
+Moss of Iresgoe,335220,944945
+The Stack,335214,943354
+Hill of West Watten,322267,954470
+Moss of Badarclay,324215,952010
+Staxigoe Harbour,338515,952505
+Oily Geo,334495,942407
+Blackrock,337099,950927
+Craig Hammel,336221,946304
+Hill of Badarclay,323527,950417
+The Brough,336806,948306
+Muiri Geo,335289,943436
+Ackergill Haven,335839,954579
+Plover Hill,326561,959425
+Trinkie,337554,949372
+Powe,338735,951680
+Blingery Hill,329807,948239
+Cnoc na Ban-tighearna,326262,943667
+Hill of Watten,324414,958204
+Long Geo,337235,954631
+Papi Geo,338589,951669
+Russell Hole,336724,947861
+Brown Hill,329882,956922
+Scouthal Moss,324282,952704
+Isleys Geo,336578,954599
+Herring Craig,335108,942901
+Dog's Haven,337705,949570
+Scholl,338860,954222
+Sclaity Face,336422,947075
+Rowens Hill,322979,948058
+Newton Park Primary School,335956,950164
+Wick High School,335715,950219
+Cairn Dhuna,337399,950114
+Loch of Camster,326395,944141
+The Needle,335758,944931
+Loch of Yarrows,330944,943840
+Hill of Harland,332561,953790
+Allt Tarsuinn,323171,948580
+Wick John O'Groats Airport,336332,952795
+Strathan Damh,324151,949945
+Sand Bay,321808,956906
+Moss of Toftcarl,335504,946056
+North Watten Moss,324544,958958
+Luishal Geo,335884,946007
+The Shoals,337095,948927
+Wick Bay,337623,950343
+Long Berry,337276,949040
+Bloody Moss,324926,948137
+Hill of Acharole,321898,949626
+Long Greens,334514,944921
+Skitten,332069,956528
+Wick Town and County Hospital,335989,949929
+Caithness General Hospital,336132,950794
+Watten Primary School,324107,954545
+Wick,335976,950907
+Wick College,336550,951018
+Anne's Crescent,336759,949451
+Broadhaven Road,337858,951260
+Upper Dunbar Street,336494,950337
+Tannach Road,332490,950967
+Finlayson Place,333867,945142
+Harbour Quay,336642,950784
+Dempster Street,336403,950545
+Kinnaird Street,336774,950270
+Stewart Crescent,333646,945257
+Albert Street,336692,950048
+Miller Close,336610,949618
+Noss Primary School,336547,951491
+Gunns Terrace,337134,951344
+Thrumster Primary School,333864,945055
+Seaview House,337615,951265
+Achingale Place,323932,954499
+Station Road,336133,950905
+Nicolson Street,336915,950145
+Macrae Street,336608,950269
+Thurso Street,336134,950682
+Pilot Place,338441,951846
+North Murchison Street,337019,950184
+Battery Road,337120,949921
+Murray Avenue,337753,951105
+Gills,331913,972387
+Auckengill,336696,964994
+Tofts,336856,968523
+John o' Groats,338384,972604
+Upper Gills,332612,971968
+Bower,323943,962541
+Ruthers of Howe,329667,962678
+Duncansby,339406,972710
+Barrock,325691,971240
+Mireland,331500,960651
+Mey,328167,973859
+Nybster,335926,963416
+Lyth,328142,963409
+Reaster,326025,965372
+Brough,322133,973611
+Seater,335980,972375
+Freswick,337331,966843
+Tain,323266,965708
+Corsback,323868,972019
+Keiss,334501,961578
+Canisbay,334857,972120
+Hunspow,321716,972476
+Slickly,329948,966828
+Halcro,322922,960725
+East Mey,330260,974503
+Warse,333489,971831
+Easter Head,320270,976664
+Huna,336961,973243
+Rattar,326573,973085
+Newton,323079,963706
+Bowertower,322361,962366
+Hastigrow,325800,961394
+Skirza,338612,968415
+Alterwall,328731,964531
+Scarfskerry,326235,974189
+Howe,330500,961741
+Brabsterdorran,322176,960230
+Inkstack,325662,970009
+Milltown,337354,964168
+Sortat,328925,963009
+Greenland,323557,967714
+Bowermadden,324380,963990
+Dunnet,321548,971437
+Lochend,326595,968259
+Syster,326928,968925
+Brabstermire,332244,970011
+Burn Road,326500,973187
+South Street,334762,961111
+Auchorn Square,323698,962936
+Burn Road,326573,973085
+Braes Of Harrow,328214,974000
+High Street,334859,961109
+Braes Of Harrow,328738,974131
+Robertson Crescent,334614,961345
+Houston Drive,334937,972255
+B876,326254,961043
+Thura Place,323987,962536
+Windy Geo,325597,974273
+Samuel's Geo,337946,964513
+Ruthy Geo,325676,974345
+Red Moss,322363,963456
+The Stacks,323287,974210
+Deubie Gill,332174,973338
+Geo of Nethertown,335796,978548
+Geo of Flendie Clett,335905,976611
+Kingans Geo,338121,965754
+The Loup,336457,962293
+Kerry Geo,323451,973957
+Cleman Heads,334275,976562
+Dwarwick,320839,971116
+Sands Berry,339572,973712
+Loch of Muirs,320262,973404
+Haven of Nybster,337064,963125
+Marry Geo,322747,974050
+Freswick Bay,338586,967261
+Grottistoft Moss,327295,970323
+Scarwall,322477,974126
+Giddy Geo,334144,976451
+Red Cheek,339622,969961
+Red Head,338428,967882
+Sheepy Hillock,331360,974930
+Ness of Huna,336252,973777
+Robert's Point,333379,972939
+Easter Haven,329126,974703
+Moss of Tain,323581,965441
+Tothel Gill Forest,334289,967146
+Trowes' Geo,328194,974388
+Swilkie Point,335469,979301
+Castle Foot,325616,974241
+Long Berry,337979,967008
+Black Loch,331197,963167
+Scarton Point,335913,976475
+Little Seal Skerry,336088,961821
+Ness of Duncansby,338993,973715
+Fas Berry,330233,974858
+Byag,335728,976328
+Berry Hill,323845,965550
+Black Hill,338254,969370
+Papel,334199,973079
+Loch Lomishan,338623,970005
+Easter Head,320321,976763
+Summer Bank,337153,963496
+Milltown Haven,337666,964176
+Burgullion,335894,976432
+Dwarwick Place,322258,971311
+Haven Skerry,337807,964237
+Geos of Bagwa,335710,978927
+Effies Geo,339444,968492
+Oswell Speil,337659,964195
+Watty's Craig,326723,974566
+Himril,336062,977262
+Blacken Berry,330758,974914
+Mill Geo,334478,977001
+Castle Geo,338204,965894
+Hammer,336234,977556
+Eig Geo,334896,960869
+Isles Geo,325005,973883
+The Kilns,338053,964763
+Moss of Brough,321770,973522
+Sleat,332354,973102
+Baddens of Stroupster,333229,966724
+Scorrie Moss,327353,974048
+Scarfskerry Point,325944,974711
+Fuester's Geo,321899,974744
+Mool Hill,336563,972605
+Ha' Green,337718,973332
+Cully Geo,335561,979256
+Rammie Geo,334831,977728
+Green Geo,326307,974635
+Dunnet Head,320500,976519
+Bank Head,320595,976695
+Hemp Rigg,337909,967783
+Lery Geo,320415,971593
+Round Hill,322911,965295
+Inner Sinni Geo,321935,974547
+Fullie Geo,328837,974313
+Long Loch,320467,975950
+Lucifer Moss,326208,970418
+Sanders Loch,321070,975446
+Lammieclett Geo,334350,976638
+Dounal,337067,963253
+Black Score,338058,965344
+Whitemaws Skerry,335982,976997
+Geo of Gougan,335427,976330
+Green Geo,336354,973767
+Rock o' Girsa,330142,974838
+Black Loch,320345,974515
+Scarfskerry Point,336575,973757
+Phillip's Harbour,328196,974225
+Geo of Bedsdale,328405,974306
+Boat Geo,330832,974999
+Little Clett,322168,974306
+Rotten Geo,326272,974612
+Moss of Quintfall,331377,963248
+Girn,339821,970436
+The Haven,325872,974582
+Black Geo,327821,974749
+Head Wark,322951,974099
+Hang,337268,973618
+Fully Geo,325447,974072
+Greenie Geo,337185,963672
+Long Geo,339448,968629
+Ness Head,338367,966532
+Windy Geo,331022,975327
+Marymas Green,322034,970722
+Kiln of Flux,339803,971889
+Tarry Berry,336086,977157
+Fullie Geo,335891,976499
+Cooper's Hill,321851,965358
+Flendie Clett,335931,976584
+Barney's Geo,334781,977943
+Inner Sound,335246,976345
+Castle of Girnieclett,334162,976058
+Outer Sinni Geo,321660,975126
+St John's Loch,322593,972186
+Brough Head,337235,963211
+Robert's Haven,338792,973616
+Gills Bay,333249,973467
+Pearl Geo,327705,974757
+Wife Geo,339766,969697
+Red Castle,327416,974747
+Broad Ebb,328212,974517
+Scar Craggan,334607,976185
+Hill of Warse,333750,971682
+Falla Geo,334426,976803
+Red Geo,334963,976379
+Pentland Firth,332787,972841
+Fast Geo,339669,969941
+Out Skerry,335646,973552
+Sgarbach,337330,963722
+Kirk Geo,323720,974020
+Puss Geo,330101,974801
+Hatliegrow,334769,960600
+Bay of Caves,335684,978966
+Brabster Moss,323787,960109
+Hill Row,336230,977658
+Head of Fastgeo,339775,969802
+Wardie Geo,335562,979080
+Helberry,337175,963458
+Byke Yards,338205,966685
+Short Geo,326982,974558
+Burag,335052,976348
+Tower o' Men o' Mey,330988,975312
+Roughy Kiln,321520,975789
+Horse Geo,334940,976372
+Corbie Tuag,334346,976608
+Geo of Girnieclett,334006,976028
+Lady's Hole,338105,964841
+Knocking Stone,338575,973520
+Haven of Seater,335378,973337
+The Peel,335741,978588
+Sgeir Bhan,336338,977812
+Head of Crees,331906,974324
+Shins Cleave,339746,971689
+Gills Haven,332736,972950
+Black Hole,333722,972874
+Hill of Quintfall,331432,962409
+Gindie Geos,337456,963960
+Skerry Geo,335747,976388
+Beach of Langaton,334954,978889
+Salt Skerry,339862,969282
+Flutheram,339576,973610
+Follie Geo,336775,973674
+Riff of Hebrigg,335967,976781
+Red Head,334044,972916
+Skerry,334269,975800
+Windy Geo,337245,963721
+Grassy Clett,322222,974055
+Hill of Crogodale,339725,971344
+Mill Geo,327265,974648
+Hasty Loup,326589,974632
+Rough of Stain,334506,960232
+Haven of Skirza,338689,967974
+Bught o' Camm,334980,978573
+Warth Hill,337102,969863
+Torry Geo,337034,963189
+Ebbs Geo,326635,974555
+Red Braes,329839,964760
+Mill and Kiln,329563,974861
+Thristle Geo,337967,964913
+Duthie Geo,334505,977442
+Kirk Hillock,326188,964836
+Sow's Geo,321150,976376
+Corsback Hill,320100,960450
+Selly Geo,338293,966474
+Rough of Warse,333015,972918
+Sheavie Gills,332055,973776
+Scartans Geo,336925,962878
+Haven of Cletts,338139,966996
+Narrow Geo,336178,978011
+How Skerry,328104,974614
+Lobster Rocks,335717,961379
+Ganspa,337962,964993
+Skerhardies,335657,961216
+Slayel,334224,973026
+Boars of Duncansby,338066,975180
+Sie Skerry,332821,972891
+Savin Skerries,336133,977366
+Courtfall Hill,320828,974203
+Stroupster Forest,331786,965928
+Hill of Rattar,324678,973147
+Skirza Head,339425,968114
+Sandy Geo,337056,963381
+Tang Head,335344,960863
+Big Skerry,331069,975611
+Hollandmey Moss,328414,970499
+Fallie Geo,335680,978872
+Buoy Stones,320798,971210
+Sca Bank,334172,972964
+Longgeo Skerries,329195,974877
+Enag,334733,964422
+Birkle Hill,320304,965733
+Small Geo,326078,974686
+Kunks Hole,323150,973996
+Bar Berry,336245,977611
+Mey Hill,331268,974024
+Hobbie Geo,336769,962713
+Men of Mey,331053,975450
+Stacks of Duncansby,339988,971872
+Burifa' Hill,320168,975532
+Red Head,334489,977587
+Bay of Sluggs,335989,977071
+Bloody Moss,320682,972591
+Moss of West Mey,327664,972159
+Tree Geo,325941,974591
+Mealin Tang,329117,974577
+Kiln Geo,335853,976423
+Clettag,335613,976359
+Ebbsgeo Skerries,326820,974597
+Giar Hill,336340,970550
+Langypo,322869,974179
+Haven of Sand,335737,973461
+Scotha Cleft,320613,971477
+Hill of Stroupster,333784,966044
+Guttery Geo,320160,971983
+Loch of Easter Head,320741,976311
+Fullie Geo,335654,961529
+Moss of Dunnet,321072,973745
+Sly Craig,337798,964382
+Mill Clett,327258,974586
+Scarf Skerry,334631,977690
+Castle Geo,335937,976994
+Seal Skerry,336073,961907
+Thomas Peel's Rough,332558,972988
+Liath Skerry,331098,975451
+Grey Head,338444,966356
+Tree Geo,336025,977410
+Hangy Geo,325572,974197
+Langaton Point,334878,979056
+Haven of Warse,333012,972980
+Sheep Skerries,335302,979320
+Black Loch,333853,970856
+Lady's Hole,336690,962792
+Button Geo,334485,977339
+Long Geo,329985,974870
+Camm,335081,978690
+Heathshield Wood,321689,974061
+Loch of Mey,327092,973676
+Powe,338940,968014
+Lammie Clett,334370,976678
+Brunt Pool,329772,974846
+Scope o' Camm,334893,978548
+Rushy Geo,339446,968426
+Boat Pool,321405,970941
+Stacks of Martin's Sclaite,338013,965082
+Island of Stroma,335099,977754
+Mallie Geo,330619,974872
+The Kame,322150,973990
+Geo Setter,325929,974658
+Clett,333976,976409
+Hilly Geo,335229,976379
+Jumpag,326920,974496
+Hill of Harley,337527,965931
+Broad Geo,334521,977094
+Finnies Haven,336153,978123
+Winni Geo,335034,978565
+Burnt Hill,339624,970769
+Bught,331197,975144
+Sailors' Head,339568,969030
+Geo Trung,324738,973889
+Meikle Score,321631,975507
+Powe,335121,979233
+Grassy Loch,320679,974190
+Kirk o' Tang,325357,974102
+The Altars,334731,978149
+Couper Hill,323216,971087
+Hullion,338070,964575
+Wester Haven,328522,974511
+Brunt Skerries,328600,974451
+The Shalls,327134,974667
+Kealy Craigs,332256,973234
+Hen's Head,322186,974391
+White Heely,336055,977218
+Long Back,337563,964019
+Hill of Slickly,329990,968113
+Dwarwick Head,320516,971378
+Well Rough,336099,973752
+Braes of Gerstal,329156,974308
+Courtfall Loch,321411,973992
+Hill of Rigifa',330469,972153
+Cairn Hill,335577,976827
+Hill of Stane,326974,960361
+St John's Point,331035,975164
+Red Head,331330,974994
+Scotland's Haven,331721,974438
+Hill of Clayton,334211,963620
+Tang Head,327588,974798
+Barberry Head,331291,975067
+Ham Berry,324145,973934
+Fa'en Craig,331266,975000
+Maw Skerry,336052,978124
+Cleanie Moss,320523,961573
+Loch Burifa',320175,976144
+Back Berry,336240,977932
+The Tae,338440,966545
+Broad Sound,331242,975541
+Point of Ness,320952,971020
+Small Geos,338365,966249
+Middle Point,335498,961114
+Towerims Craig,323361,974145
+Horse Geo,337063,963323
+Prontag's Hole,335118,976373
+Sgeir Gut,336012,978209
+Little Score,321665,975146
+Pool of Backway,320915,970927
+Thistly Hill,337596,967692
+Rattar Moss,327078,972974
+Well Geo,337950,964935
+Christan Hill,335538,970250
+Gills Bay Ferry Terminal,332653,972952
+Sandy Geo,334616,976290
+Lint Lochs,337735,969785
+Loch Heilen,325322,968272
+Dias Geo,337009,962968
+Craig Hill,333102,969898
+Cleet of Brough,322135,974289
+Mason's Geo,338215,966044
+Mell Head,333989,976151
+The Gill,320123,967513
+Near Ebbs Geo,326825,974496
+Moss of Greenland,324932,965643
+Ness of Quoys,334425,973225
+The Tippet,338249,965803
+Bay of Sannick,339774,973600
+Blae Geo,331468,974819
+Round Geo,327355,974640
+Loch of Auckingill,335112,965200
+Slates of Fulliegeo,329085,974400
+Sinclair's Craigs,338278,965980
+The Rough,337961,964441
+Bower Primary School,323951,962437
+Keiss Primary School,334799,961222
+Canisbay Primary School,334854,972197
+Crossroads Primary School,324434,972820
+Burn Road,326023,973886
+B855,321311,974247
+Melsetter,326942,989318
+Lyness,330423,994625
+Crockness,331885,992772
+Rackwick,320166,999268
+Hackness,333894,991001
+Little Ayre,330571,991610
+Osmondwall,333293,989538
+Wyng,331726,991026
+Rinnigill,331651,993705
+Hurliness,328222,989237
+Longhope,330324,990688
+Brims,328711,988840
+B9047,329351,997533
+B9045,335787,994170
+B9046,336930,993767
+St Colm's Quadrant,330382,990737
+Burnside,336346,993734
+French Road,330538,994410
+Burgh Geo,332389,988706
+Broughs of Hawick,325072,988790
+The Tails of the Tarf,338004,983634
+Geo of Rottenloch,329047,987853
+La Plata Hole,338334,983527
+Kirk Geo,328361,988114
+Lang Geo,330646,988498
+Broughs of the Berry,324596,989501
+Peedie Clett,338873,983730
+The Point,331131,995169
+Skird Hill,325494,991386
+Point of the Ward,332730,998922
+Cantick Head,334599,989482
+Sands Geo,326636,988735
+The Clump o' the Ness,338950,985188
+Ly Ness,331274,994767
+Noust of Greeniber,337060,992663
+The Brae,336905,993693
+Point of Craig-gate,320567,997659
+Slates o' Nortaing,339346,985316
+Roan Head,338310,995932
+Villigar,338152,995566
+Longhope,332674,993034
+Kirkie Taing,336762,992853
+The Mares,328258,988333
+Pickling Skerries,338454,984460
+The Knave,330051,988694
+Runcigill,321674,998275
+Skeo,328435,988096
+Greeni Ber,337156,992518
+Tween the Wicks,338625,996038
+Roeberry,334088,989044
+Trowie Glen,323862,999868
+Head of Banks,336090,992632
+Roonie Geo,324300,990102
+Lyrawa Bay,329781,998845
+Tray Geo,338680,983763
+Dyke-end Haven,329204,988588
+The Hole of the Altar,339156,984106
+Moaness,331753,992480
+Braid Point,333607,995749
+Gutter Sound,331314,996073
+Ruthi Geo,330121,988739
+The Axe,330866,988441
+Sillock Geo,337527,993318
+Peedie Hylack,338560,983688
+Innan Neb,335104,992321
+Taing Head,332443,999274
+White Chest,320775,996431
+Bught of Axegeo,330958,988441
+Moasound,330435,991105
+House Geo,337228,992456
+Kirk Geo,338167,983627
+West Geo,333455,988870
+Tor Ness,325550,988629
+Stanemora,338431,983638
+Grice Geo,338467,996899
+Lyrie Geo,320876,996612
+Candle of the Sneuk,321147,995278
+Tongue Dale,327012,995407
+Maggie Mouat's Geo,329465,988167
+Pan Hope,337924,994388
+Inner Haven,328855,988807
+Whaas Geo,339315,984845
+The Witter,327994,989021
+Sowie Geo,336610,990732
+The Ruff,332565,993238
+Rinni Gill,322760,998979
+Sand of the Links,326271,988708
+Lug,339266,984474
+Warbister Hill,339112,984126
+The Clevies,329615,989012
+Switha Sound,335435,992230
+Craig Gate,320716,997880
+Pegal Bay,329987,997743
+Blue Geo,339037,983925
+Deep Dale,329641,999701
+Ayre Point,333484,994753
+Rye-fonda Hole,337844,983593
+Grimsalie,339337,985245
+Mill Bay,330532,995723
+Sands Taing,336511,994687
+Nevi Skerry,339782,995728
+Water of Hoy,328072,999899
+The Fleece,339305,984664
+Mel Fea,321472,997732
+Kirk Bay,336654,992723
+Kitta Taing,333044,991274
+Hillsberry,339296,984451
+Pan Hope,336562,994001
+Brenches,338037,983770
+North Clett,339249,985443
+Skerry of Sowiegeo,336638,990730
+The Crew of the Slade,338736,984187
+Green Hill,328938,988279
+Lint Lochs,328502,996268
+Sky Fea,326299,994697
+North Dale,327034,997307
+Brims Ness,329479,988253
+Inner Ganges,338509,984182
+The Creels,328369,988016
+Grey Ewe,339296,985127
+Geo Longo,339053,985345
+Rysa Sound,330292,998223
+Bailie Fea,326781,996774
+Cletts Geo,338780,983799
+The Skorags,338661,984734
+Loch of Torness,325400,988645
+Rocks of Scarton,337919,994311
+Broad Geo,328122,988600
+Outer Ganges,338529,984492
+Fara,332855,995801
+Calf of Flotta,338141,996707
+Glen of the Berry,325545,990380
+Little Pool,335898,990379
+Langi Geo,329167,988019
+Robie Geo,323174,993171
+Skegan Skerry,328086,988529
+The Soond of Selki Skerry,338023,983899
+Moi Geo,333390,999445
+Pegal Hill,328879,998157
+Clay Geo,326832,988711
+Scat Wick,335468,992484
+Orth of the Links,326109,988671
+Point of the Pool,335764,990591
+Red Geos,332001,988529
+The Kirn,336572,990760
+Filliberry,339297,984566
+Hylack,338534,983631
+Green Heads,323501,992075
+Wastlee Moor,325550,988759
+Wind Geo,333238,988776
+Lee Craig,337860,993919
+Mackay's Geo,324474,989629
+Scapa Flow,338783,996269
+Tring Geos,338403,984011
+Birbinks,339341,984686
+Duncan's Geo,328806,987802
+Myre Point,332457,991169
+Rysa Little,331123,997594
+Limesgeo,339317,985228
+North Point,332692,997097
+Curries Firth,336118,994904
+Fasti Geo,328465,987989
+Withi Gill,325250,997177
+Skolimaar,338411,983554
+Cantick Sound,335041,990323
+Selki Skerry,338066,983984
+Ling Geo,337028,992723
+Lurdy's Taing,336907,994212
+Stanger Head,337702,992396
+Sheep Skerry,326278,988591
+Limekiln Point,332338,991174
+The Brook,338634,984795
+Sweinn Geo,323716,991364
+Kit Loch,327720,994599
+North Taing,336771,991076
+Peat Bay,332234,996679
+Clett Skerry,330546,995667
+Myre Bay,332813,991164
+Loch of Greenhill,331047,989162
+Genie Fea,324346,994340
+Hoglinns Water,324950,991223
+Calf Sound,337941,996324
+Peat Point,332398,996880
+Rysa Bay,330923,996492
+The Ayre,328974,989336
+Little Loch,321605,998664
+Overgate,334585,992539
+Hykoch,339111,984002
+Nortaing,339361,985386
+Cairn Hill,326322,991243
+Point of Cletts,330868,996232
+The Pinnacles,330075,997381
+West Wini Skerry,338291,983468
+Axe Geo,330828,988468
+The Knowe,339324,985421
+Hoose Geo,339276,985180
+Cava,332764,999416
+Kings Hard,337700,992918
+Misbister Geo,333059,988856
+Upfra Loch,339029,984331
+The Pool,335922,990423
+Aith Head,330681,988456
+East Wini Skerry,338705,983598
+Birsi Geo,331653,988460
+Lang Geo,332657,988742
+Hill of White Hamars,331075,988817
+Langi Geo,324460,989751
+Orth of Hawick,325122,988967
+North Bay,328849,990377
+The Redd,339032,984939
+South Walls,331718,989957
+Kirka Taing,333221,996125
+The Neive,330032,988746
+Berry Lochs,324322,990632
+Haas Geo,338573,984665
+Long Geo,327525,988917
+Fallen Gloup,337772,992529
+Keefa Hill,338933,984389
+The Back Hole of Garsnya-Geo,339288,984730
+Hesti Geo,333857,989016
+Weddel,333993,993477
+Drakie Geo,333149,988838
+Loch of the Tarf,338388,983818
+Paw of Garberry,328010,988661
+Langaberry,331808,988425
+Garth Head,331460,988402
+Moodies Eddy,327614,988853
+North Ness,330444,991622
+Peedie Kirk Geo,338097,983647
+Long Geo,325128,988604
+Switha,336352,990709
+Point of Leval,335665,992519
+Peedie Hetap,339277,985110
+Point of Hackness,333556,991489
+The Broad Ebb of Cause,338979,985273
+Salt Ness,327636,989907
+The Bishop,339214,984254
+Noust of Switha,336489,991145
+The Candle,332367,988664
+Lyrawa Hill,328368,999708
+Sneuk Head,320987,995293
+Ha Wick,324792,989083
+The Brenches,339217,984311
+Boonygeo,338435,984094
+Point of Tuberry,333385,999356
+Hoy,325036,995734
+Ore Bay,330990,994092
+Flotta,334982,994384
+Tittli Geo,329922,988884
+The North Head,339161,985199
+Heyspan,334924,995286
+Lochs of Withigill,325138,997456
+Melsetter Hill,326357,989679
+The Beach of Skolimar,338269,983600
+Upper Quoy,332277,995920
+Heldale Water,325855,992219
+Cletts,337632,992393
+Lang Geo,323238,992271
+Watery Geo,324376,989916
+Roonie Geo,337763,992774
+Cause,339211,985443
+Skippi Geo,328346,988268
+The Haven,339300,985071
+The Rental Rocks,338961,984864
+Santoo Head,320721,996264
+Rack Wick,320272,998493
+Bring Deeps,331221,998936
+Knap of Trowieglen,323976,998469
+Muckle Lochs,326551,996872
+Pegal Head,329793,998234
+Rotten Gutter,333935,994331
+The Berry,324714,990720
+Whiting Point,333007,996864
+Vow Randie,326312,999827
+The Tarf,338219,983763
+Blue Geo,337790,993832
+Skate Geo,335834,990651
+Little Roonie Geo,337693,992957
+Slates of the Altar,339185,984138
+Sootan,338935,983811
+Geo o' the Hall,338621,983725
+Helliack,332509,988674
+The Haap,338263,983982
+Boothie Geo,335781,995625
+The Back Geo,339197,985418
+Kirk Hope,334040,989918
+Middle Wini Skerry,338514,983558
+Green Head,330057,999408
+Crock Ness,332686,993111
+Lensty,337617,993188
+Sooth Clett,338930,983750
+Cantick,338983,983922
+Thomson's Hill,332647,995813
+The Pool,337956,983764
+Hetap,339295,985076
+Old Head,327072,988737
+Carlan Geo,339302,984817
+Shell Hill,328604,997111
+Bakingstone Hill,324909,992700
+Candle of Birsigeo,331721,988439
+Ruberry,330960,996593
+Outer Haven,329114,988712
+Kirni Geo,325698,988438
+Blanchiebrough,330477,988550
+Candle of Redgeos,332122,988558
+The Needle,324187,990074
+Loomi Shuns,325750,989849
+Binga Fea,328163,992565
+Hammershoorie,339308,985197
+Lythe Tail,339063,983954
+Swines Geo,331291,988408
+Rise Geo,331087,988470
+Sand Geo,337091,995156
+Geo of the Lame,320822,997089
+Sneuk,321005,995187
+Grassy Cletts,328404,988065
+Outskerry,339316,985045
+Geo of Kemun,337613,992408
+Ruff of Cantick,334738,989686
+Peedie Clett,339287,985419
+Row Taing,337462,995389
+Swona,338621,984249
+Geo Bailie,320681,997612
+Douglas Clog,338606,984635
+Broo,327954,988773
+Weddel Sound,333020,994417
+Sound of Hoxa,339780,992950
+Moss of the Whitestanes,321434,999464
+Red Geo,320678,997382
+South Ness,330335,990948
+The Kiln,336547,990496
+Aith Hope,328856,989244
+West Dale,326320,995851
+Little Rack Wick,323028,992923
+Hill of Wards,331441,989922
+Sands Water,324687,993869
+Quoy Ness,337697,994099
+Inner Head,329880,988906
+Garsnya-Geo,339270,984764
+Fall Sand,332943,996477
+Melberry,326487,988664
+West Hill,335268,993890
+Innskerry,339305,985020
+Lochs of Geniefea,324759,994968
+Green Hill,331033,989129
+The Ool,336127,990368
+Flotta Primary School,336325,993615
+North Walls Community School,330754,992723
+Flotta Oil Terminal,335487,995000
+Lyness Ferry Terminal,331295,994630
+B9048,330824,994409
+Little Skerry,347271,976619
+Stacks of Duncansby,340036,972147
+Saltwater Geo,346855,978479
+Long Geo,340445,973373
+Geo of Sclaites,340558,973026
+The Kettle,346877,978010
+Clettack Skerry,348568,977550
+Rami Geo,346428,977999
+Brough Geo,346685,978498
+Fish Scale,340100,972384
+Queenie Cliff,340281,972760
+Wester Shoals,345967,978270
+Tenniscourt,346902,978540
+Hunni Geo,346066,978124
+The Knee,340637,972838
+Scartan Point,347063,978237
+The Kiln,346329,978453
+Dog's Geo,346384,978505
+Thirle Door,340154,972481
+The Glupe,340283,973516
+Loppack,347428,976653
+Louther Skerry,347949,977199
+Trae Geo,346492,978495
+Muckle Skerry,346371,978241
+Duncansby Head,340288,973110
+Parliament Square,347003,978181
+Broti Ber,346459,978509
+Scartan Bay,346925,978240
+Rigbister,347085,976546
+The Brough,346801,978496
+Pentland Skerries,347699,977571
+Gibb's Craig,340528,972735
+Sandwick,343853,989838
+Grimness,347443,993692
+Cornquoy,352085,999991
+Widewall,343622,991227
+Liddel,345641,983932
+Quindry,343139,992518
+Hoxa,342174,993742
+Northtown,347942,997880
+Herston,342092,991617
+Westhill,346295,995549
+Aikers,345703,991048
+St Margaret's Hope,344593,993399
+Southtown,348642,995935
+Cleat,345929,984496
+Burray Village,347328,995795
+Hillside,346347,996898
+Eastside,346352,991710
+MacDonald Park,344839,993338
+Cromarty Square,344596,993527
+Braeburn Court,344821,993281
+Marengo Road,344911,993585
+Pier Road,344554,993908
+Sunfield,347013,995648
+School Road,344436,993433
+Taftingus Place,344671,993404
+Churchill Barrier N0 2,348070,999787
+MacDonald Park,344855,993355
+Doctors Road,344562,993374
+Lairds Road,347052,995784
+Front Road,344741,993557
+Pier Road,344528,993750
+A961,347219,996695
+B9043,343750,992961
+Taftingus Place,344664,993413
+Leaburn,347584,995918
+B9041,345263,984383
+Church Road,344926,993375
+B9042,343366,991182
+Wards Park,344569,993521
+Upper Waston Road,347020,995763
+B9044,347433,993714
+Taing Head,343154,986355
+Double Taing,341731,990414
+Ayre of Cara,347797,994972
+Quoybanks,348124,994702
+Birs Labis,352923,999578
+Herston Hill,341505,991598
+Duni Geo,346998,984209
+Backaquoy,343452,984691
+Pool of Cletts,346888,990648
+Glimpsholm Skerry,348269,999573
+Row Beam,352363,998747
+Ward Hill,345545,988642
+Bur Wick,344238,983081
+Kirk Taing,347179,990681
+Sand Wick,343081,988937
+Black Geo,346461,987841
+Howe Taing,342601,994082
+Barswick,343204,986512
+Skerry Sound,348165,999505
+Liddel Ayre,345520,983117
+Geo Rich,346289,987634
+Halcro Head,347345,985589
+Laftlie Point,341082,991321
+Murka Hole,341606,990453
+Herston Head,341218,991418
+The Wing,343642,983985
+Lower Kirk Geo,343489,984646
+Trena Loch,346556,985196
+Shortie Geo,342828,986191
+East Ayre,344294,997190
+Scarf Skerry,346872,989380
+Bu Sand,348863,996747
+Tainga,342729,986038
+The Creet,341992,990384
+Niggle Point,341495,992145
+Reefs of Turrigeo,343297,984789
+Loch of Lythe,344485,985846
+Clett of Crura,346215,987452
+Windi Geo,343551,984087
+Brough Ness,344525,983254
+Savenick,352771,999158
+Widewall Bay,341858,992824
+Towie Hole,349325,992931
+Park Head,343337,986948
+Churchill Barrier No 3,347347,998562
+Back Road,344709,993519
+Hunda Reef,344289,996568
+Sounds Loch,346594,983493
+Bigore Head,346910,989095
+Lammer Geo,341161,994002
+Dale Moss,343534,990635
+Croo Taing,341763,994386
+Little Wart,346102,996349
+Hunda Sound,344609,996849
+The Riff,351903,998950
+Kirk Geo,348898,993517
+Brattlee Ber,350171,996177
+Flood Crag,350231,996579
+Skerloom,347623,991933
+Turri Geo,343379,984726
+Old Skerries,347084,983584
+Sheep Bight,349086,992412
+Castle Geo,343509,984198
+Howan,351903,999085
+Gillieselly,342987,985306
+Tarri Clett,347022,998615
+Black Geo,344458,982884
+Little Gillieselly,343015,985170
+Urie Head,343342,986581
+Sandy Hill,344142,987264
+Hellie,346692,988456
+Moi Geo,342910,985447
+Single Taing,341776,990419
+St Margaret's Hope,345069,994303
+Sand Geo,348348,994594
+Knockhall Taing,345364,994466
+Chapel Brae,346142,985571
+Hesta,346706,995425
+Stews Taing,346857,989591
+Oyce of Quindry,343029,992183
+Kirkie Hill,343819,990198
+Stony Bight,341478,992182
+Sinilie,342778,985823
+Muckle Geo,349736,996544
+South Slett,343247,988636
+Greslett,343501,984585
+Out Skerry,342617,989231
+The Altar,341549,990422
+Husanter Point,343403,986419
+Horse Geo,346816,989532
+Rumley Point,348813,994420
+Newark Bay,346892,990508
+Tur Geo,352894,999704
+Croo Stone,348872,994147
+Little Ore,346813,989352
+Cloventots,341042,991405
+South Ronaldsay,344826,988251
+Bay of Cornquoy,351786,998949
+Kirk Ness,347585,991211
+Moi Geo,341364,991985
+Doo Geo,341372,993082
+Grootfall,343565,984528
+Burray,347474,996963
+Sunless Geo,343912,997251
+Glettin Greenie,352845,999439
+Sheep Geo,351938,998676
+Liddel Loch,345375,983441
+Grutha Point,348671,994471
+The Hope,343122,996436
+Corbies Nest,343667,994398
+Brough Geo,348154,998804
+Nikel Head,343400,987989
+Gasander,347521,991784
+Kail Yard,349474,996460
+Sea Taing,348721,995190
+Orelee,349291,992565
+Black Rock,348810,997665
+Goosie Geo,343426,987947
+Grude Haven,343220,989251
+Dam of Hoxa,342844,994001
+Big Civie Geo,342030,990395
+Kirn,340929,992686
+Scarf Skerry,345906,987268
+Hesta Rock,346493,987733
+Water Sound,345998,995239
+Bothy Geo,348816,998034
+Burray Haas,348956,998617
+Crow's Nest,349026,998359
+West Quoy,347517,991339
+Grey Chair,349384,992727
+Burnmouth,346746,983328
+Hune Bay,343349,987786
+Quarrel Geo,346310,983263
+Wha Taing,344433,996126
+Sunni Geo,342547,989598
+Sea Geo,349637,995704
+Herston Taing,341771,992211
+Manse Taing,347743,991404
+Creara Head,343088,985018
+Stews Head,346876,989307
+Bloie Geo,340353,992545
+Big Ore,346858,989257
+Scarf Skerry,343307,986824
+Burri Geo,345869,987284
+Grim Ness,349096,992813
+The Wart,343340,993578
+Roeberry Taing,342445,993158
+Skerrilee,349327,993035
+Selki Holes,343008,985305
+Bar Taing,343049,996505
+North Lobers,342578,989433
+The Nev,342707,989168
+The Chair,341159,992899
+North Taing,347002,984126
+Oyce of Herston,342883,991191
+Great Head,346557,986155
+Hole of the Ness,352709,999475
+Kist Skerry,343313,987002
+Echna Loch,347414,996683
+Kirk Taing,349277,996518
+Morris Geo,344660,982854
+Holm Sound,351816,998977
+Salt Taing,346689,983903
+The Clett,345900,987188
+Castle Skerry,343397,984204
+Filiber Skerries,342875,986330
+Rock Pillar,342050,993625
+Scarf Taing,349368,992977
+Castle Taing,343278,988830
+King of Semolie,352822,999943
+Needle Point,344544,994608
+Harrabrough Head,341582,990391
+Crabbi Geo,343323,988933
+Muckle Skerry,343215,991766
+Taing of the Manse,351759,999602
+Trunki Geo,346275,983271
+The Golt,344600,994671
+Green Clivie,343444,986575
+Whaas Geo,346785,983417
+Green Head,343145,984931
+Langa Taing,346775,990476
+Croostone Geo,348950,994114
+Dams Ber,340227,992695
+Graemston Loch,345062,984650
+The Kist,343341,987059
+The Cairn Head,343456,996247
+Midbanks,342177,990216
+Gairy Hill,346542,985546
+Echnaloch Bay,346732,997406
+Crura,346139,987416
+Pantie Geo,352484,998952
+Stromlie Point,341078,991598
+Grey Stones,350296,996214
+Fedi Geo,340273,992795
+Stony Geo,346053,987441
+Shears Craig,352819,999543
+Hoston Bay,343418,987299
+Reef Point,344489,996525
+Langa Taing,346219,995334
+Skerries of Skaigram,346747,983216
+Cakie,341816,990424
+Little Skerry,343222,991696
+The Floor,346921,989551
+The Keys,349397,992852
+Wing Skerry,343673,983895
+Felli Geo,348849,995403
+St John's Geo,342754,986108
+Banks Geo,345856,983318
+The Whale,346951,989226
+Lay Skerry,343680,983824
+Bent Geo,348817,997780
+Hune Taing,343358,988323
+Sand of Wright,342321,993468
+Hang Geo,342760,985909
+Mouster Head,346625,988205
+Cruive,348498,992768
+Hunda,343616,996775
+Wifes Geo,349904,995939
+Ayre of Westermill,347146,995505
+Hoxa Head,340487,992709
+Barth Head,342782,985657
+Swannies Point,346009,997214
+Kirkhouse Point,347142,990755
+The Clett,342837,986275
+Gill Bay,344025,994596
+Little Civie Geo,341977,990432
+Lime Banks,347697,992141
+Barni Taing,342224,990082
+Smalltails,347482,990904
+Hesta Head,346559,987997
+Dulse Skerry,348002,998767
+Broddebb,349187,992551
+Bus Taing,348488,994520
+Green Geo,351992,998686
+Lee Geo,340349,992617
+Angly Bar,346878,986009
+The Steis,341898,990429
+Castni Geo,345789,983286
+Ossi Taing,346202,986581
+Blows Moss,345322,985930
+Weddell Point,347817,998606
+Rose Ness,352285,999089
+Hoston Head,343408,987462
+Moi Geo,340665,993403
+Wind Wick,346039,987150
+Touerlum,348667,992769
+Sand Taing,343377,988998
+Ward Point,347360,998303
+The Eager,341159,991722
+Gasander,343318,988335
+Skipi Geo,348732,992864
+Riggen,342951,985368
+Manse Bay,347720,991953
+Fili Ber,342970,986318
+Knockhall Point,345324,994158
+The Lobers,343352,987754
+Barth Skerry,342654,985582
+Windi Geo,345778,987101
+Burray Ness,350390,996390
+Cumla Geo,345687,983271
+Lober Rock,343279,994344
+Little Ayre,343417,992328
+Nev Hill,342911,989763
+Ball Hill,342379,990020
+Glimps Holm,347261,999137
+Black Geo,352216,998690
+Stack of Kame,348904,992544
+Frithilie,342054,990270
+The Clett,346911,989047
+Leyni Geo,340392,993309
+Vamh,341068,992825
+Croo Skerry,341630,992247
+Rami Geo,347218,985042
+The Ruff,344722,994552
+Cambarbusk,343594,984402
+Ebback,345948,987128
+Millstone Geo,341058,991371
+Laxigar,343709,996417
+Out Hillock,349389,992680
+Bruce's Hole,352933,999669
+Out Skerry,347022,983899
+Dill Geo,340314,992754
+Weddell Bay,347674,998420
+Ullapow,351627,999730
+Vensilly Hill,345551,991747
+Horse Geo,343111,984962
+Upper Geo Kirk,343196,984881
+Bowies,351786,998718
+Kame of Stews,346809,988744
+Banks Head,346071,983253
+Lay Taing,346732,986091
+Langa Ber,352704,999027
+Burwick Ferry Terminal,343786,984079
+Sand of Cornquoy,351997,999529
+Long Ayre,343313,992208
+Scarf Skerry,340341,993233
+Ayre of Banks,342388,991404
+Rock Ladder,352087,998644
+Black Geo,347242,984860
+Boats Geo,348569,998820
+Stackabank,343404,986823
+Sae Geo,352673,999319
+Millstone Geo,343402,987868
+Gairy Lochs,346891,985414
+Cairn Hill,343437,985311
+Mirth Hilly,351890,998645
+The Creel,343574,983727
+Sand Geo,341666,992244
+Slett Head,341038,991458
+Weddell Sound,348261,999519
+Old Head,347014,983448
+Ham Geo,346853,983933
+Lamb Holm,348353,999968
+Dishan,352390,998831
+Burray Primary School,347186,995820
+Hope Community School,344163,993464
+St Margaret's Hope,344522,994176

@@ -1,0 +1,4070 @@
+Achadh Dubhaird,204958,903761
+Strathcanaird,215010,901896
+Acheninver,204200,905395
+Culnacraig,206452,904025
+Brae of Achnahaird,200719,913500
+Badenscallie,204043,906583
+Polglass,203016,907607
+Achiltibuie,202896,907738
+Inbhair Chircaig,207800,919965
+Island View,202850,907691
+Acairseid Eòin,201888,905033
+Sgeir nan Sgarbh,204527,913889
+Gleann Laoigh,215551,909689
+Loch Sionasgaig,211967,913643
+Suilven,216599,917732
+Loch Bad na h-Achlaise,208397,908977
+Loch Clais Feàrna,210711,916965
+Camas a' Bhothain,205295,913268
+Lochan Fada,218171,908491
+Mol a' Bhlàir,200556,909432
+Beannan Beaga,210592,902485
+Rubha an t-Sabhail,205089,903467
+Strath Polly,207134,913759
+Beinn Tarsuinn,211963,905012
+Loch Lòn na h-Uamha,212869,911067
+Speicein nan Garbh-Choireachan,208681,903620
+Port na Bò Ruaidhe,207098,917845
+Glac Feàrna,218933,908469
+Loch nan Ràc,216992,915869
+Wether Pool,209346,918644
+Meall Dearg,214821,908727
+Loch Lurgainn,212516,907991
+Camas Mòr,210816,900606
+Rubha a' Phuill Losgann,206750,916405
+Rubha Dubh,200038,906960
+Ruith Chnoc,219736,902073
+Creag na Speireig,206397,914616
+Eilean Mòr,205648,917371
+Na Trì Lochan,213169,916192
+Loch a' Chlaiginn,212857,903300
+Bad na h-Achlaise,208089,908804
+Meall Dubh Àrd,205609,904142
+Sgeirean Dubha,212623,914143
+Cùl-Leacan,202297,904626
+Cnoc a' Choire Mhòir,212470,918590
+Bad a' Bhuin Bhig,207493,909706
+Caisteal Liath,215325,918356
+Gleannan na Gaoithe,210403,918993
+Meall na Braclaich,219342,916083
+Rubha Lag na Saille,204899,913615
+An t-Sàil,206945,907047
+Clàr Loch Mòr,217759,907367
+Turn Pool,209310,918818
+Bod a' Mhadail,215307,912457
+Loch Bad na Muirichinn,209406,919904
+Polly Bay,206275,914335
+Dubh-Lochan,202970,913037
+Cùil Lochain,206964,916809
+Camas nam Fiadh,211439,913265
+Geodha Mòr,208190,902351
+Null Dorch,209661,900035
+An Fealing,201205,909584
+Coire Dubh,215832,918463
+Fliuch-Choire,216960,911861
+Cnoc na Mòine,204130,906030
+Lochan Dearg,209477,907154
+Lochan Gainmheich,213918,911388
+Cnoc Frìth Dhùghaill,209830,919100
+Sgòrr Tuath,211034,907492
+Sgeir Bhuidhe,202888,914933
+Loch Kirkaig,207101,919698
+Falls of Kirkaig,211184,917855
+Lochan Uaine,214494,908680
+Loch Bad a' Ghaill,207720,910246
+Rubha an t-Salainn,206932,917831
+Doire an Fhùdair,219764,901233
+Fall Pool,211140,917851
+Creag Dearg,210270,901126
+Loch Meall a' Mhùthaich,219198,916606
+Meall nan Caorach,201228,901248
+Creag an Airgid,209310,901204
+Loch na Cloiche Guirme,210916,903324
+Ben More Coigach,209392,904259
+Loch na Claise,215791,913289
+Ùidh Tarraigean,209730,914037
+Coire Òsgaig,204940,910435
+Meall Mòr,213785,900236
+Dubh-Sgeir,202493,915042
+Loch a' Ghlinne Sgoilte,210646,919197
+Stac Pollaidh,210716,910613
+Lochan Fhionnlaidh,212902,909600
+Dùbhrach-Choire,207458,906199
+Eilean Mòineseach,206478,917612
+Bonniebeg Wood,210547,915255
+Rubha a' Bhrocaire,207086,917226
+Slac a' Bhuilg Beag,208661,901794
+Druim Donn,217462,908213
+Eilean Dubh,212843,912484
+Loch na Crìche,216599,903680
+Meall Odhar,219744,907861
+Feur-Loch,218143,907431
+Cnoc Breac,211006,915853
+Loch Vatachan,201804,910944
+Sgùrr nan Uan,202623,904407
+Rubha Lochan Sàl,206867,915940
+Boat Bay,210272,914918
+Bealach Beag,205900,919033
+Cais-Bhaigh,206469,918247
+Gleannan a' Mhadaidh,215231,916594
+Rubhan a' Ghille Dhuibh,203844,905422
+Rubha Beag,202481,914743
+Coigach,213258,906317
+Cnoc Loch Call an Uidhean,209640,914544
+Eilean Mòr,212026,913910
+Pàirc Dhubh,206928,913939
+Lochan Bealach a' Phuill,219396,908529
+Loch a' Choire Dubh,216049,918736
+Meall Doire an t-Sìthein,204531,910149
+Lower Nettle Pool,210773,918045
+Beinn nan Caorach,208064,905344
+Sgùrr an Fhìdhleir,209447,905458
+Sgeir Dhùghaill,201814,906876
+Rubha na Mòine,206072,913955
+Cnoc Mòr,203479,908268
+Cnoc an Fhuaraidh,208140,919850
+Loch a' Chaorainn,202687,912886
+Conmheall,206510,905506
+Loch Slac a' Bhuilg Mòr,210436,901789
+Meall an Fhithich,202479,905094
+Creag nam Fiadh,210897,900943
+Sgeir Ghlas Mhòr,206245,916081
+Rubha a' Chàirn,200771,915806
+Lochan Dearg,215528,909574
+Eilean Dubh,211949,914385
+Lochan Smurach,215880,903006
+Sgeir nam Boc,206510,915669
+Cùl Mòr,216206,911908
+Poll Loisgann,206724,916235
+Coille Duasdal Beag,218461,901695
+Meallan Dìomhain,217076,911657
+Isle Martin,210046,900043
+Loch nam Breac Mòra,214556,919029
+Drumrunie Forest,216884,910051
+Gleann Dorcha,219105,917686
+Loch na Gainimh,217553,918542
+Inverpolly Forest,211582,911619
+Creagan Mòr,219248,913993
+Sgeir Ghlas Bheag,206193,916190
+Cùl Beag,214035,908826
+Àird na Còigich,208037,911387
+Bad a' Bhuin Mhòir,208858,908126
+Eilean Dubh,213004,914657
+Port na Bà,207537,919736
+Loch na Maoile,215982,900175
+Camas Cuilce,217621,914350
+Loch an Doire Dhuibh,213749,910768
+Rubha Sionasgaig,212669,914580
+Loch Uidh na Ceardaich,211445,918709
+Meall nan Gabhar,202196,905567
+Badentarbat Bay,200864,908351
+Lochan Tuath,210333,905602
+Iolla Mhòr,202367,903548
+Lochan Dubh,200298,910782
+Camas na Maraichean,201879,907149
+Lochan an Ais,218549,909041
+Feur-Loch,219045,905652
+Coire nan Sac,218698,901138
+Horse Island,202293,904545
+Achlais Sgùrr nan Uan,202769,904490
+Loch Osgaig,204463,912043
+Blàr Gharbhaidh,204474,913480
+Speicein Còinnich,210757,904161
+Cìoch Beinn an Eòin,212212,906514
+Loch Garvie,203926,913513
+Lochan Fada,208551,917892
+Loch Bad nan Calman,216377,900540
+Lochan Sgeireach,204819,909673
+Rubha Learain,201412,914685
+Doire Dhubh,214026,910507
+Loch Rubha na Brèige,207338,919067
+Lochan Fada,205699,909264
+Port Mhaire,202222,907677
+Loch Doire na h-Airbhe,210501,912573
+Creag nan Calman,215946,911361
+Rubha na Brèige,205656,919229
+Meall a' Mhuthaich,219193,917230
+Loch nan Ealachan,217585,908892
+Meall Beag,216624,917712
+Horse Sound,203373,904880
+Elder's Pool,208049,919387
+Heather Pool,208809,919292
+Pilkington's Gully,214841,918466
+Sgeir a' Mhuilinn,201898,908768
+Rubha Dubh Àrd,204234,903838
+Rubha Phollaidh,206515,914997
+Cnoc an Sasannaich,219235,908753
+Cnoc Mòr an Rubha Bhig,202789,914168
+Loch an Dràic,205991,913268
+Hazel Pool,209174,919022
+Lochan na Claise,213398,913707
+Loch Raa,201779,911957
+Mòine Tomach,201954,909467
+Loch a' Ghille,211528,916924
+Lochanan Dubha,214636,905539
+Gleann na Gaoithe,208760,912359
+Loch a' Chapuill,209699,917703
+Lochan Poll Amhluaidh,215223,919972
+Garvie Point,204645,913785
+Rubha Dubh,200010,916277
+Sgeir Dhubh Rubha na Brèige,205479,918846
+Geodha Ruadh,208624,901498
+Loch Buine Mòire,209826,915639
+Creag nan Dearcag,209513,910783
+Coire Gorm,210050,910170
+Enard Bay,203557,915881
+Lochan Smùirneach,205619,908780
+Lochan Sàl,207074,915148
+Camas Beag,211122,900857
+An Laogh,216151,910218
+Iolla Bheag,203898,903590
+Sgeir Mhòr,206350,919702
+Bad a' Chotair,202674,908703
+Moravach,201672,913390
+Meall an Iarainn,206466,915361
+Rubha Gaineamhaich,217695,913777
+Loch Veyatie,218060,913639
+Creag a' Choin Mhòir,203639,914529
+Little Kirkaig Pool,209261,918857
+Fraochlan,205229,918192
+Cnoc na Dàil,207941,913091
+Loch Gleannan na Gaoithe,210192,919215
+Bad a' Ghaill,206927,911291
+Coire Mòr,212995,918527
+Loch na Dàil,208394,913543
+Loch Eadar dhà Bheinn,211674,903407
+Rubha Raineach,204497,911410
+Loch nam Preas,203511,914107
+Gleann Coille a' Chàirn,209077,910396
+Glac na Craoibhe Caorruinn,218668,917558
+Camas nan Soithechean,201225,914829
+Loch na Creige Duibhe,200497,911764
+Sgòrr Deas,210237,906852
+Lag na Saille,205170,913404
+Clàr-Loch Beag,218073,908015
+Meallan Buidhe,211125,900062
+Loch Bàrr na h-lubhraich,210718,901335
+Càrn nan Sgeir,201185,901845
+Sgeir na h-Àirighe,201960,908605
+Loch Meall nan Dearcag,219110,906805
+Glencanisp Forest,216127,919804
+Loch Beinne Deirg,215340,900024
+Creag Ruadh,201629,909314
+Loch na Barrack,215629,918815
+Glac nan Làrach Liatha,213261,900759
+Camas a' Bhuailte,202238,914451
+Glac nan Eanntag,210994,918041
+Camas a' Bhothain,202819,914846
+Loch Bràigh nan Allt,217969,906976
+Loch Cùl Dromannan,215932,904146
+Glac na Coille,206098,909973
+Rubha Dùnan,201973,906933
+Loch Ùidh Tarraigean,209423,913830
+Cnoc na Croiche,202130,907160
+Sgeir nam Preas,203984,914716
+Lochan Dearg a' Chùil Mhòir,215697,910655
+Bad na Muirichinn,209836,919899
+Loch an Laoigh,218097,910560
+Coire Beinn an Eòin,211637,906721
+Leum an Fhèidh,208447,901621
+Loch Gleannan a' Mhadaidh,216414,916128
+Meall Meadhonach,216424,917821
+Green Island,205668,915156
+Meall a' Chuaille,219115,902745
+Loch Call nan Ùidhean,209177,914525
+Creag na h-Iolaire,214557,915464
+Port Allt a' Ruisteal,201746,909091
+Black Loch,208830,914727
+Lochan Dubh,214229,918598
+Creig Liath,205597,913613
+Lochan Ballach,206285,909338
+Meall na Bèiste,200151,911969
+Gleann an t-Srathain,208707,916313
+Doire Dhubh,209420,911371
+Loch nam Fiadh,208207,915579
+Arbhair Loch an,207877,918822
+Loch a' Choin,208335,918555
+Coille Lochan Gainmheich,214321,911398
+Garvie Bay,204616,913888
+Lochan Sgreadach,218999,900200
+Dubh-Lochan,202306,913140
+Achnahaird Bay,201905,914092
+Feur-loch,219920,906614
+Cnuic na Braclach,212392,911634
+Loch na Seana-Chreig,203028,914772
+Cnoc Mòr,201020,914451
+Ruadh Loch,200811,913929
+Coire Mòr,210412,903537
+Loch a' Phollain Riabhaich,219278,911229
+Creag Dhubh,216208,908693
+Loch Breac,210667,915869
+Meall nam Fiadh,211417,912622
+Fionn Loch,213260,917286
+Beinn an Eòin,210491,906438
+Red Pool,209566,918543
+Strath Canaird,215193,901765
+Rubha Duilich,201000,914912
+Gleann Lochan Sàl,207817,915447
+Loch an Èisg Brachaidh,206973,917654
+Little Fall Pool,210679,918110
+Loch a' Mhadail,215757,914455
+Sgeir Dhubh na Roinne Mòire,202100,908482
+Loch Dhonnachaidh,217569,906811
+Coire Rèidh,208260,904821
+Coire Gorm,215952,912479
+Gleann Sgoilte,211056,919004
+Lochan Leacach,205679,909482
+Loch na Bèiste,200448,912478
+Geodha na Caorach Glaise,200350,909482
+Camas Coille,200561,916091
+Bad Fhluich,203067,913702
+Lochan Dubh nan Claidheamh,219235,909813
+Geodha Sgonnain,202221,905815
+Rubha a' Choin,203208,914952
+Coille a' Chàirn,208401,910782
+Lochan Fhionnlaidh,219035,910243
+Cnoc na Circe,212839,919555
+Loch Sgeireach,212391,901619
+Langwell Hydro,218901,901907
+Achiltibuie Primary School,202943,907726
+Clais an Easaidh,205323,930727
+Clashmore,203155,931445
+Strathan,208476,921013
+Cùl-cinn,203761,933118
+Loch an Inbhir,209442,922116
+Balchladich,203594,930033
+An Nead,213679,931914
+Culkein Drumbeg,211301,933654
+An Druim Beag,212266,932638
+Raffin,201888,932056
+Stor,203971,928456
+Achmelvich,205791,924705
+Clach Toll,204232,927372
+Achnacarnin,204156,931838
+Baddidarach,208680,922918
+Lochend,204051,929493
+Kirk Road,209034,922933
+Canisp Road,209664,922260
+Inver Park,208963,923000
+Baddidaroch Road,208865,923004
+Culag Gardens,209209,922147
+B869,214636,931481
+Canisp Road,210059,922307
+Inver Terrace,209284,923027
+Cnoc Glas,212006,932816
+Culag Road,209329,922182
+Cnoc à' Phollain Bheithe,209201,932232
+Soyea Island,204627,922005
+Gob Àrd,215482,925940
+Cnoc Poll na Cuile,209218,934799
+Loch a' Phollain,207530,926124
+The Laird's Pool,210270,923468
+Bad an t-Sluic,215869,922354
+Cnoc na Bagh Choille,217937,933863
+Eilean Uistain,211708,932681
+Cnoc Odhar,214110,930720
+Loch nan Eun,210811,923945
+Rubh' a' Chairn Bhain,219335,934757
+Bad an Aon Tighe,211367,932140
+Rubha Creag Iomhair,210408,933770
+Creag Clais nan Cruineachd,206720,927971
+Creag Fhionnliadh,216119,934587
+Loch an Aon Aite,208356,928201
+Sgeir nan Gobhar,206618,932002
+Eilean na Bearachd,214778,939945
+Lochan an Iasgaich,215187,924835
+Loch na h-Àirighe Bige,205331,926859
+Lochan na Greideil,217914,925123
+Rubh' a' Mhucard,216160,938008
+Loch Bad an t-Sluic,215128,921740
+Maiden Loch,205054,926675
+Loch an Dubh Uidh,212807,926915
+Doire nam Muc,209678,924234
+Àird Glas,205919,924062
+Eilean Loisgte,209941,934079
+Creag Dharaich,208067,925731
+Cnoc na Doire Duinn,210570,921860
+Rubha a' Bhuirdeasaich,207972,922350
+Point of Stoer,202097,935512
+Stac Gruinn,203331,928415
+Cnoc na h-Iolaire,210150,922790
+Loch Bad an Og,211667,931409
+Loch Meall a' Chuna,208227,926959
+Red Stream,211065,923384
+Loch Poll,210254,930043
+Loch Doire nam Muc,209847,924284
+Lochan Rapach,214874,932416
+Bagh Chalbha,216630,937738
+Loch nam Breac,210642,931745
+Lochan na Creige,207242,928552
+Cnoc Àirigh a' Bhraighe,209840,923990
+Loch Culag,209788,921656
+Rubha na Suileig,214979,920582
+Loch Poll Dhàidh,207582,929132
+Balchladich Bay,202398,930199
+Loch Dubhaird Mòr,218669,937352
+Pier Pool,213149,924567
+An Sgonnan,215898,934206
+Doirean Domhnuill,211873,926139
+Cnoc an t-Sean Eòin,212620,933100
+Camas nam Bad,215077,934112
+Eilean Dubh Dhrombaig,212310,933505
+Loch Fèith an Leòthaid,218366,922492
+Loch Bad na Goibhre,210607,922666
+Cnoc a' Mhuilinn,208640,920090
+Sgeir Mhòr,213602,933644
+Coire nam Mang,218454,928643
+Lochan Tòrr an Lochain,218042,934280
+Meall nan Each,213916,932398
+Loch an Eich Uidhir,209040,929292
+Creag a' Bhraighe,212371,932069
+Cnoc Mòr,205090,926480
+Rubha Rodha,205429,923296
+Lady Constance Bay,208674,921739
+Loch Cròcach,219846,939395
+Loch a' Bhraighe,213103,930710
+Lochan na Leòbaig,210575,933920
+Cnoc na h-Eilde,202466,931369
+Loch Leitir Easaidh,216808,926573
+Glac Dhonn,209033,923438
+Eilean nan Airbhe,210817,934116
+Loch an Achaidh Bhig,208461,932263
+Creag a' Phris,216513,934565
+Rubha an Dùnain,204188,934018
+Lochan na h-Inghinn,218906,933431
+Eilean Rairidh,216515,935123
+Loch a' Chreagain Daraich,217023,939520
+Port Achnancarnan,205257,932314
+Loch Beannach,214222,926589
+Cnoc Àird na Seilge,217310,924959
+Rubha a' Mhill Dheirg,202899,928606
+Loch Dubh,207304,924083
+Sìdhean na Cloiche Muilinn,215880,932070
+Roinn an Oba,206755,924507
+Ceannamhor,214049,939914
+Loch an Achaidh,202840,933705
+Loch Poll an Droighinn,205355,928688
+Glac Cùilce,209388,933081
+An Fharaid Bheag,205310,924849
+Washing Pool,212655,924120
+Cnoc an Taigh Choinneimh,209160,924350
+Eilean Bàgh,214083,932247
+Lochan Ruadh,207245,928848
+Cnoc a' Ghrianain Beag,207230,929150
+Reidh Phort,205534,931656
+Gleannan Salach,208755,923716
+Loch nan Cnaimhean,211106,925174
+Loch na h-Innse Fraoich,216310,926250
+Cnoc nan Doireachan Donna,206200,924580
+Loch na Mola,217141,935204
+An Gleannan,208703,932762
+Meall Tuath,213251,939830
+Loch nan Lìon,209647,927420
+Cnoc Bad nan Aighean,212922,925237
+Gob Àrd,218239,924199
+Lochan a' Mhuilinn,218963,933620
+Loch na Loinne,212744,929113
+Lochan Dubh Mòr,205944,928828
+Kerrachar Bay,218087,934823
+Lochan a' Mhanaich,216039,927005
+Cnoc Daimh,209877,928548
+Cnoc an Lochain Sgeirich,206930,925480
+Pollan,210073,923408
+Loch nan Cullach,204565,929396
+Cona Chreag,209496,929790
+Cnoc an t-Sìthean,206000,927990
+Aird an Iall,211780,932410
+Cnoc Ruigh a' Chàirn,204669,931441
+Coire na Creige,217291,921486
+Loch Fasg an t-Seana Chlaidh,207795,924804
+Bad a' Chìgean,216699,927405
+Loch na Circe,212762,920056
+Loch Poll an Nigheidh,213380,922189
+Cnoc nan Uan,212690,927820
+Eilean na Rainich,214236,939421
+Bad an Leth Leòid,212828,928193
+Rubh' a' Gharbh Uillt,206651,931801
+Glas Leac,207484,921975
+Manse Loch,209555,924856
+Cnoc Innis nan Each,208360,920840
+Kirkaig Point,205961,921224
+Loch Glac na Goibhre,208590,926618
+Lochan Daraich,212953,932013
+Mòr Eilean,210615,934432
+Cnoc Leathad an Lochain,207320,920700
+Loch na h-Àirighe Bige,206361,927534
+Loch Uidh na Geadaig,214172,925654
+Poll na Cùile,209028,935132
+Cnoc Pollan nan Gamhna,208370,927880
+Loch na Tarraing,215794,929096
+Loch na Droighniche,216466,934225
+Lochan nan Iritean,211168,926565
+Camas a' Mhaide,205827,923019
+Bad na Goibhre,210317,922729
+Loch na Doire Duibhe,217573,939316
+Loch Bad nam Bàn,207351,921141
+Lochan na Sruabanaich,211130,922420
+Cnoc Raon na Ceardaich,209090,925510
+Loch a' Phollain Drisich,207930,926314
+Àird nan Long,208520,922707
+Bogh' an Tairbh,207665,934986
+Beinn an Fhreiceadain,204465,929068
+Cnoc a' Mhadaidh-Ruaidh,209192,921320
+Loch Neil Bhàin,204058,930206
+Doire Beathaig,214931,925719
+Cnoc na Creige,206180,924980
+Bad na Goibhre,207188,922596
+Loch Bad nan Aighean,213264,925604
+Meall a' Chuna Mòr,208569,926900
+Cnoc a' Bhainne,215158,927370
+Lochan an Tairbh,208549,924036
+Cnoc Beag,204871,926564
+Cnoc na Doire Daraich,209317,921699
+Rubha nam Fiadhag,208320,921647
+Lochan nan Gad,218545,933516
+Glac na Goibhre,208231,926500
+Cnoc Bad na Goibhre,207406,923109
+Cnoc a' Mhuilinn,205901,930583
+Loch an Alltain Duibh,215465,920499
+Càrn Bàn,219068,935052
+Sàil Ghorm,219833,930433
+Cnoc na Ciste,208170,931070
+Lochan Sgeireach,207153,925496
+Eilean Aird an Iall,211676,932575
+Cnoc a' Mhoil Bhàin,209891,934681
+Loch Innis Thorcaill,215729,928025
+Eilean Dubh,219008,925521
+Dubh Sgeirean,207365,934460
+Geodh' Gainmhich,200346,932448
+Port an Oba,206693,924540
+Cnoc an Taghain,206458,924937
+Meall nan Uan,204742,922220
+Loch Inver,207078,922132
+Duartmore Bay,218262,935736
+Cnoc na Doire Tarsuinn,218230,933390
+Loch Poll a' Mhuic,214721,927438
+Bad na Conaire,210564,925314
+Loch an Obain,216652,939905
+Rubha nam Fias,217778,935399
+A' Chlach Thuill,203766,926732
+Port Alltan na Bradhan,204828,926096
+Bad an Diobòirich,215872,931882
+Sròn a' Bhuic,217027,922052
+Loch a' Mhuilinn,216509,939290
+Oldany Island,208800,934699
+Cnoc Ruigh a' Chlachain,207928,924470
+Badnambreac,210831,930879
+Loch nan Claidhmhnean,216174,932011
+Lochan Fada,211244,930429
+Cnoc Lochan na Creige,207120,928420
+Loch nan Gobhar,206476,923222
+Port a' Gharbh Raoin,206061,924316
+Geodha an Leth-roinn,202203,934949
+Loch an Ruighein,218590,936750
+Meall Beag,212559,937542
+Poll Buidhe,206186,925999
+Grassy Pool,213951,924722
+Sgeir Liath,212823,934149
+Cnoc an Lochain Dhuibh,213292,931164
+Loch Odhar,215178,929469
+An Calbh,214540,939646
+Cnoc an Aodainn,209430,932340
+Rubha nam Fàd,207205,922515
+Loch Bad nan Gad,219932,936995
+Rubha Dubh,217306,925626
+Lochan Sgeireach,203988,929142
+Loch a' Mhì Runaich,204214,929465
+Cluas Deas,200232,932467
+Port na Cùile,206503,924503
+Loch Ardbhair,216752,933520
+Lochan Creag a' Phris,216632,934712
+Rubha Fitheachaig,205247,932552
+Fas na Cleithe,207181,924372
+Cnoc an Locha Chròcaich,210270,928170
+Brackloch Pool,212139,923706
+Port na Bà,211640,933499
+Doirean Rairidh,215479,927832
+Cnoc a' Ghille Shùilich,208360,924300
+Loch an Tùir,211684,926479
+Cnoc na Comhlaich,219020,926540
+Loch a' Mhuilinn,219908,924186
+Rubha a' Bhacain,206060,922824
+Geodh' an Sgriobain,200453,933113
+Loch an Tolla Bhaid,211759,929497
+Mill Pool,209930,923328
+Port Cam,204505,932894
+Creag Ruadh,217521,936782
+Coire nan Mang Beag,218235,929209
+Loch Leathad an Lochain,207392,920409
+Cnoc Braonach,208371,923812
+Lochan Dubh,213293,931329
+Loch Tòrr nan Uidhean,212871,930083
+Beinn Poll an Tobair,207696,927382
+Eilean nan Uan,209853,935022
+Cnoc an Leòthaid,214466,923320
+Lochan Mhic Leòid,214943,925313
+Bad na h-Achlaise,212029,920842
+Loch an Leathaid Rainich,206235,927090
+Loch a' Ghleannain Shalaich,214755,927973
+Cnoc na h-Iolaire,208097,920058
+Cnoc na Buaile,204640,932610
+Lochan Sgeireach,204451,931853
+Poll nan Gobhar,206773,921307
+Loch Uidh nan Corp,211515,925016
+Doire Dharaich,209418,921659
+Gorm Loch Mòr,214167,929662
+An Camas,202493,930429
+Sgeir a' Chlaidheimh,213415,937139
+Loch an Ruighein,215497,926810
+Cnoc nan Cnàmh,204630,926910
+Loch na Buidheig,209322,929252
+Glas Chnoc,217162,928617
+Rubh' a' Mhill Dheirg,203026,928526
+Cnoc nan Cabar,211020,933200
+Bogha nam Meann,207974,933914
+Sgeir an Tairbh,215292,939906
+Ox Rock,213824,938648
+Coir' an Uillt Chaoruinn,218638,920986
+Loch a' Meallard,215606,933581
+Loch an t-Sabhail,215355,926506
+Dyke Pool,211420,923393
+Cnoc Bad na Goibhre,210670,922430
+Sgeir nan Gall,208471,935660
+Cnoc Daimh,217430,933190
+Rubha an Alt-toir,218014,925989
+Loch nan Lùb,207094,930081
+Loch an Iasgair,219811,935650
+Lochan na Sàile,219507,931442
+Cnoc nam Fiadh,214036,927393
+Poll an t-Sean Eòin,212531,933926
+Loch Eileanach,209019,931429
+Gorm Loch Beag,214224,928831
+An Cìrean,203335,934007
+Lochan Caoruinn,213767,928162
+Cnoc Cailleach Iain,213430,930260
+Cnoc Bad a' Baine,210927,924555
+Loch an Easain,205827,929772
+Upper New Pool,210486,923423
+Loch Gleannan a' Choit,215886,927555
+Cnoc a' Chàirn,211360,924380
+Eilean na Curra,216801,933949
+Rubha Leumair,204339,926223
+Mol Bàn,209773,934648
+Calbha Beag,215549,936927
+Lochan Fearna,208717,930920
+Cnoc an Leothaid,203830,931790
+Eilean Dubh Chal Cinn,211986,933740
+Loch a' Ghlinnein,216881,923308
+Port an Tairbh,205267,924602
+Lower New Pool,210358,923427
+Loch an Tuim,208216,923396
+Loch nan Cairidhean,212571,926438
+Dornaidh an Fheòir,212281,933375
+Eilean na Coille,210531,934172
+Rubha nan Còsan,207776,934715
+Àird na Seilge,217506,925275
+Cnoc Airigh an Rathaid,209710,931860
+Poll an Innein,216424,934876
+Loch na Garbh Uidhe,215996,924882
+Eilean nam Boc,210187,934128
+Bàgh Leathann,216002,938579
+Bad na Labhairt,211751,930120
+Cnoc Breac,204000,927860
+Rubh'an Urpuill,218753,935375
+A' Chleit,203037,920499
+Sìdhean Ard,216810,931720
+Cùl Eilean,212398,933718
+Loch a' Ghuib Àird,218559,923930
+Loch na Claise,203429,930712
+Loch Tòrr na h-Eigin,212722,930615
+Sròn Gharbh,207780,925241
+Cùl Phuirt,206304,931408
+Rubha Stoer,202307,932508
+Loch na Bèiste Brice,218306,939541
+Cnoc nan Sac,206330,924870
+Sgarbhag,205402,932263
+Loch a' Chàirn Bhàin,219315,934381
+Loch a' Bharaille,212955,925835
+Creagan Daraich,216751,939634
+Sgeir Bheag,213653,933439
+Port nan Clach,215885,939220
+Ruighean Thòmais,219708,933095
+Cnoc Daimh,208860,924750
+Cnoc an Easain,205038,929744
+Loch Roe,206773,924345
+Garbh Loch Beag,207674,930065
+Lochan Fearna,212612,924853
+Loch na Creige Lèithe,205684,926445
+Sgeir a' Ghiubhais,212145,933478
+Loch an Tuirc,211153,925908
+Black Pool,212855,924361
+Loch Uidh a' Chliabhain,208994,924923
+Cnoc na h-Iolaire,206000,923760
+Cnoc Leathan,211890,931930
+Loch na h-Airigh Fraoich,213226,921401
+Cnoc Poll Dhaidh,207710,928430
+Cnoc Bioraig,204800,927840
+Loch Coire na Creige,216948,921569
+Minister's Pool,212794,924323
+Camas na Frithearaich,206843,922867
+Cnoc Odhar an Teanrich,214451,930605
+Geodh' nan Daoine,200746,933437
+Cnoc na h-Uidhe Doimhne,207010,928660
+Cnoc an Tolla Bhaid,211001,923527
+Eilean an Achaidh,212157,933850
+Sìthean nan Ealachan,208607,934847
+Loch Bad a' Bhainne,210991,924800
+Seana Chreag,200754,934215
+Lochan Dubh Beag,205891,928982
+Loch an Aigeil,204129,928105
+Bay of Clachtoll,203796,926993
+Loch Peallaig,210415,920344
+Cnoc a' Mheirlich,206980,928540
+Loch Dhrombaig,211870,933545
+Cnoc a' Ghille Chlais,207954,925070
+Turn Pool,210774,923455
+Geodh' nan Uan,200755,933968
+Island Pool,211132,923357
+Eilean Chrona,206776,933915
+Loch an Ruighe Riabhaich,215528,930558
+Dubhaird Mòr Point,217677,936170
+Cnoc a' Ghrianain Mòr,206970,929450
+Eilean an Sgudain,217529,925719
+Sgeir Bhuidhe,207389,921347
+Strath Mòr,214692,933123
+Cnoc a' Chlamhain,210040,924870
+Gleannan an Fheadair,206014,925604
+Creag Liath,216352,921226
+Upper Grassy Pool,214102,924858
+Carpenter's Pool,209676,923158
+Eilean Assynt,219542,925033
+Cnoc na Glaic Duinne,208820,923340
+Loch Leathad a' Bhaile Fhoghair,205280,927962
+Cnoc Uidh na Geadaig,213500,925120
+Bay of Stoer,203457,928168
+Gleannan Salach,213648,928492
+Bad a' Ghrianain,209682,925513
+Lochan Sàile,207456,924607
+Cnoc an Ruighe Dhorcha,216850,930760
+Port Feadaig,204354,933042
+Loch an Ordain,209141,924017
+Stac Fada,203298,928481
+Cnoc an Leothaid Bhuidhe,218520,923078
+Glac na h-Imrich,208760,925688
+Duartmore Forest,218958,936718
+Loch Meall a' Chuna Beag,208588,927186
+Loch Cùl Fraioch,202468,932856
+Cnoc an t-Seallaidh,219890,923360
+Loch an Leòthaid,214244,922662
+Achmelvich Bay,205422,925344
+Gleannan a' Choit,216571,927020
+Port a' Ghleannain,208585,933124
+Meall nan Garbh Loch,208254,930417
+Eilean na Ligheach,209951,934470
+Àite Mòr,209429,924731
+Cnoc a' Chlamhain,205784,924404
+Loch Leathad nan Aighean,205793,927524
+Cnoc nan Uidhean Beaga,208990,927230
+Cnoc na Suileig,206637,931429
+Cìrean Geardail,200961,934589
+Loch Duartbeg,216650,938810
+Rubh'an Dobhrain,215755,939151
+Sgeir na Tràghad,203520,927679
+Cnoc Glac na Goibhre,208290,926370
+Cnoc a' Mhill Dheirg,202890,929250
+Lochan Cuilce,212761,925402
+Loch Ruighean an Aitinn,212591,932816
+Lochan nan Liath Bhreac,212366,926922
+Bodha an Tairbh,206795,921490
+Àird na Mòine,203646,927248
+Loch an Leòthaid,217303,929835
+Eilean Bad nam Bàn,207223,921277
+Cnoc Glac na h-Imrich,208840,926080
+Cnoc a' Chlamhain,208559,921279
+Cnoc a' Choin Deirg,213420,924030
+Uidh Na H-Iarna,216966,930298
+Loch an Ordain,206520,925958
+Clobh-sgeir,213744,939798
+Doire na h-Uidhe,211029,929797
+Creag na h-Iolaire,218964,928018
+Loch Bad na Conaire,210667,925336
+Bay of Culkein,204216,933509
+Loch an Tuim Dheirg,208824,927367
+Bogha na Bà,211731,933413
+Loch na Bà Brice,217085,931564
+Lochain nan Ealachan,208323,934840
+Cnoc na h-Airbhe,212859,923239
+Camas Criadhach,214324,934077
+Loch a' Chnoic,202969,929330
+Cnoc Sloc a' Bhuilg,210100,924270
+Cnoc an t-Srathain,209530,920400
+Loch Uidh na h-Iarna,216807,930462
+Cnoc Leathan,209540,934340
+Cnoc nan Caorach,207550,922700
+Loch Drumbeg,211577,932681
+Cnoc an Àite Mhòir,209425,924258
+Loch a' Mhinidh,218935,937886
+Loch nan Uidhean Beaga,209574,927875
+Cnoc na Broige,211280,931360
+Loch na h-Uidhe Doimhne,206798,928659
+Cnoc Chalbha,218037,938111
+Cnoc Poll nam Muc,215212,925573
+Bad a' Bhainne,210685,924453
+Gleann Ardbhair,218032,933241
+Loch a' Phollain Bheithe,209111,932618
+Cnoc Dabhaich,208020,923300
+Rubh' Dhubhard,213278,933587
+Cnoc Bioraiche,214530,933670
+Cnoc nan Each,210760,921290
+Gleann Leireag,217237,930180
+Meall Mòr,212111,937862
+Loch Bad a' Chigean,216856,927162
+Cnoc a' Bhainne,207160,925730
+Lochan Dubh,219902,923259
+Roinnean a' Chamais,202185,930650
+Rubha na Maoile,214595,934367
+Loch na Bruthaich,207151,931537
+Whirl Pool,211484,923477
+Cnoc Doire Beathaig,215050,925920
+The Scrambles,210728,923423
+Meall Dearg,211289,934076
+Loch na Creige Ruaidhe,208052,934374
+Doire Leathan,206968,923859
+Dubh Sgeir,213536,939313
+Long Pool,211697,923531
+Doire Dhubh,217664,939607
+Cnoc Bad na Conaire,210960,925420
+Bad an Og,211568,931251
+Loch Shark,217915,936376
+Port Falaich,219812,934485
+Loch Cròm,214593,921910
+Bàgh an t-Srathain,208086,921329
+Poll na Creige Ruaidhe,206137,921073
+Bogha Leathan,205313,922102
+The Basin,210808,923500
+Stac an Fhithich,205436,924448
+Deer Pool,212294,923776
+Geodh' Bàn,203452,934024
+Bad nan Aighean,213267,925298
+Loch Poll a' Mhuic,212291,931510
+Ruigh Dorch,216177,930936
+Aird an t-Sabhail,211865,932769
+Rocky Pool,209735,923177
+Sìthean Mòr,201751,934601
+Red Pool,210904,923453
+Loch Preas nan Aighean,211221,927453
+Creag Ruadh,206161,921199
+Sgeirean Criadhach,200408,932395
+Port an t-Scilisdeire,206028,924294
+Loch Bad na Labhairt,211869,930358
+Cnoc na Mòine,206275,923588
+Loch an Alltain Duibh,214550,920583
+Loch Druim Suardalain,211275,921759
+Cnoc nan Caorach Beaga,210068,925988
+Sgeir Dhubh,206045,931309
+Eilean a' Bhreitheimh,213170,939647
+Loch Nedd,213962,932776
+Cnoc na Cuileig,209940,920790
+Clashnessie Bay,206113,931616
+Loch Tòrr an Lochain,216375,925871
+Loch an Achaidh Mhòir,209365,930976
+Ceannamhòr,214086,939923
+Garbh Loch Mòr,208536,930072
+Meallan a' Bhuic,208144,921569
+Loch Leathad a' Phris Dhroighinn,206826,926932
+Ruighean an Aitinn,212770,932950
+Cnoc Poll a' Mhuilt,203100,929242
+Lochan na Dubh Leitir,217427,934986
+Cnoc a' Mhuilinn,209809,923349
+Cnoc Bad an Aon Tighe,211400,932050
+Bogha Mòr,207115,934403
+Loch a' Choireachain,211243,924279
+Eilean a' Chathaidh,217366,935482
+Loch Tòrr an Lochain,215097,932137
+Cnoc Cadha an Airbhe,204930,927480
+Cnoc a' Gharbh Doire,212150,930460
+Cow Pool,210635,923420
+Cnoc an Dubharlainn,211901,928178
+Lochan Fearna,212961,931297
+An Ruadh Loch,211854,925104
+Loch Sloc a' Bhuilg,210230,924113
+Loch na Fionn Airce,216934,934776
+Loch Doirean Rairidh,215339,927724
+Geodh' Dearg,202555,934320
+Sgeir nam Meann,208167,934072
+Gob Àrd,213296,923563
+Loch na Creige Loisgte,208414,929566
+An Fharaid Mhòr,205439,924499
+Lochan Caorainn,208471,926192
+Cnoc a' Ghlinnein,217018,923917
+Àird Ghlas,208665,922195
+Doire Tharsuinn,218095,933303
+Loch Braigh a' Bhaile,206819,923530
+Camas an Alltain,207553,922401
+Cnoc Riabhach,202689,932053
+Gorm Chnoc,215013,928758
+Port Dhrombaig,212074,933203
+Old Man of Stoer,201667,935286
+Cnoc na Droighniche,211690,926930
+Lochan Ghabhain,208457,922661
+Eilean nan Gobhar,209676,934729
+Loch Cròcach,210295,927095
+Cnoc an Sgrìodaich,206250,929450
+Lochinver Primary School,209598,921760
+Feadan,207157,924856
+Stoer Primary School,203983,930297
+Scourie,215462,944691
+Fanagmore,217579,949724
+Polin,219544,959172
+Oldshore Beg,219616,959308
+Tarbet,216591,948753
+Foindle,218931,948540
+Droman,218831,959422
+Upper Badcall,215628,942161
+Lower Badcall,216528,941737
+Scourie Mor,215235,943935
+Harbour Road,215477,944695
+Handa Terrace,215204,943854
+Creag a' Mhàil,214400,945839
+Rubha Clach an Eorna,214176,944413
+Eilean Dubh an Teoir,219369,949457
+Rubh' Àird an t-Sionnaich,214424,943432
+Loch Gobhloch,217411,949245
+Rubha Shiòs,214029,944821
+Cnoc a' Bhùthain,215660,944020
+Eileanan Dubha,218843,951907
+Lochan Tigh Mhic Chailein,217680,943463
+Loch an Daimh Beag,216305,942900
+Cnoc Poll an Turrabain,216342,949474
+Sgeir a' Chait,215660,940422
+Creag Dhubh,219257,940683
+Eilean Dornaidh Oscair,215723,940618
+Bàgh Poll a' Bhacain,218480,953444
+Glas Leac,218045,951871
+Loch Dubh,216612,948852
+Eilean Dubh,215479,940083
+Creag Ard,214367,944208
+Dornaidh Oscair,215873,940665
+Loch a' Gheodha Leathain,219195,952877
+An Dornaidh,213725,944719
+Geodh' a' Bhrisidh,213450,948752
+Rubh' Eilean na Saille,218387,953181
+Loch na Mnatha,219621,944061
+Handa Island,213704,948017
+Cnoc na Buaile,214768,944444
+Eilean an Ròin Beag,217173,958248
+Cnoc Thormaid,218950,942480
+Lochan Dubh na h-Imrich,217002,943406
+Sgeir Camas nam Buth,214109,944575
+Cnoc an Fhir Bhreige,217276,950192
+Loch Leathad nan Cruineachd,216072,943966
+Lochan Bad Mhic Iomhair,219292,951573
+Loch Coill' a' Ghorm Locha,218309,943145
+Loch a' Mhill Dheirg,215196,943309
+Lochan na Buaile,219570,950954
+Leac an Dornaidh,213934,944905
+Bad nam Mult,217273,941836
+Cnoc nam Miar Beaga,217584,944690
+Sgeir Iosal,217830,950812
+Loch a' Chreagain Theth,216793,942283
+Lochain a' Chaorainn,219682,942560
+Cnoc an Fhir Bhreige,214798,941921
+Roinn Dubh,215107,948074
+Meallan na Corra,215089,944871
+Geodh' na Sporaiche,214475,943157
+Cnoc Loch an Ròin,219291,953938
+Eilean nam Meann,215866,949110
+Eilean Dubh,215992,948905
+Loch Bad nam Mult,217260,941457
+Cnoc Lochan na Bà Ruaidhe,218024,949045
+Leac na h'-Oitire,214488,944936
+Eilean an Ròin Mòr,217770,958478
+Am Meallan,219979,958543
+Sgeir nan Airbhe,216102,948692
+Cleit Mhòr,214151,944241
+Cnoc a' Bhagh Ghainmhich,219250,946200
+Leac na Bà,215445,947610
+Geodh' Eanruig,214206,944151
+Poll na Drise,215882,941829
+Sound of Handa,215795,948154
+Bàgh nan Cleathan,218956,951038
+Eilean na h-Aiteig,219312,958392
+Clàr-Loch,218713,947421
+Caolas na Seana Sgeir,217845,959825
+Cnoc an t-Sabhail,217525,949965
+Cnoc Bàgh a' Choit,218141,948555
+Loch Druim na Coille,218928,949146
+Bàgh na Fionndalach Mòire,219684,949018
+Eilean Riabhach,214661,940815
+Lad na Sgeir Fiaclaich,214940,945325
+Bàgh Glac Cùl a' Gheodha,219390,952436
+Loch Eileanach,219415,951275
+Loch an Daimh Mòr,215866,943216
+Loch Bad an t-Seasgaich,219021,942991
+Port an Tagail,214779,944920
+Sgeir Fhiaclach,214883,945310
+Loch nan Rodhaich,218470,942441
+Sgeir Tràigh na h-Airigh,214863,946928
+Cnoc na Leacaig,214840,944081
+An Fhaoghailinn,215021,944740
+Geodh' na Goibhre,212756,948415
+Sìdhean Mòr Cnoc Thormaid,219121,942001
+Loch na h-Airigh Slèibhe,218862,943470
+Sgeir an Trilleachain,215524,940270
+Sgeir Liath,214580,941342
+Rubh a' Bhad Choill,215507,941281
+Dorus Mòr,214716,948546
+Mullach na Creige Deirge,216890,947340
+Lochan na Sàile,218734,952844
+Cnoc na h-Eaglaise,216740,942030
+Lochan a' Mhùinean,215669,947435
+Sgeirean Glasa,216155,940899
+Loch nan Uidh,219216,941665
+Bad Mhic Iomhair,219164,951510
+Bogha Clach an Eorna,214035,944348
+Creag Riabhach,219632,951354
+Cnoc an t-Sabhail,217456,940905
+Sgeirean Cruaidhe,218240,954119
+Sgeirean Glasa,215378,949146
+Bàgh an Eilein Duibh,218682,951678
+Poll an Innein,216123,950718
+Cnoc Gorm Beag,219810,953350
+Leum a' Choin Deirg,218372,951053
+Cnoc Clais an Uisge,215330,944020
+Eilean Garbh,214514,940490
+Sgeir Uistein,215792,941338
+Creag na h-Iolaire,219815,951675
+Cnoc Garbh,219410,950810
+Rubha an Tiompain,215944,949810
+Bàgh Lochan na Sàile,218683,952557
+Geodh' Creag nan Sgarbh,218165,951350
+Loch a' Phreasain Challtuinne,218705,946702
+Port Chaligaig,218255,959054
+Tràigh na h-Airigh,212657,947386
+Scourie Bay,214459,945240
+Cnoc Garbh,218769,959794
+Bàgh Lochan nam Ban,219535,952261
+Loch a' Chruaidhlinn,215582,944869
+Sgeir an Daimh,219828,954874
+Cnoc na Moine,219350,959860
+Loch Eilean Meall Chaorainn,218702,942175
+Camas an Tairidh,214541,943677
+Camas an Lochain,213955,944613
+Cnoc an Daimh,216060,943540
+Seana Sgeir,217734,959668
+Cnoc nan Lochan Cuilce,219330,948041
+Cnoc Rubha an Ghorbhan,218335,947525
+Lochan Sgeireach,216613,943610
+Cnoc a' Chàise,217494,943059
+Rubh' a' Cheathraimh Ghairbh,218429,952503
+An t-Innean,216073,950941
+Sgeir Bhuidhe,214375,940851
+Sìthean Mòr,213052,948287
+Lochan nam Breac,217797,940887
+Eddrachillis Bay,213599,940784
+Caol Loch,216878,947617
+Sgeir Thòmais,214096,944461
+Stac na Faoileige,214342,948875
+Geodh' na Creig Airde,214329,944099
+Cnoc na Cuthaige,216687,949357
+Port Mòr,216134,948509
+Eilean Glas,215634,949159
+Sgeir Rob,216076,941630
+Tràigh na h-Airigh,215080,947227
+Sgeir na Coille,216295,941600
+Loch nam Brac,217934,947944
+Cnoc a' Phreasain Challtuinne,218884,946862
+An t-Aigeach,216175,950817
+Rubha Ruadh,216506,951124
+Sgeir Eorna,218732,954065
+Glas Leac,213637,940699
+Meall Earca,213366,940505
+Bàgh a' Phòllain,218978,958924
+Sgeir Ruadh,216851,951489
+Geodh' Bun a' Ghàraidh,214652,944880
+Stac an t-Seabhaig,213205,948815
+Geodh' Gill' Iosa,215246,947419
+Liobhadh,214431,941458
+Cnoc Bealach na Mòine,217631,950160
+Bàgh a' Chnoic Ghairbh,219721,950683
+Sgeir Liath,213981,944526
+Cnoc nan Ràthag,218583,948333
+Glac Mhòr,217973,944757
+Bàgh Loch an Ròin,218914,954118
+Bàgh Sheigra,218054,959748
+Stac an t-Seabhaig,213202,948830
+Lochan Iain Mhic Leòid,214962,941214
+Eilean a' Bhuic,213699,944953
+Pairc a' Chladaich,215305,945121
+Geodh' Ruadh,216390,951337
+Eilean an Aigeich,215345,948809
+Loch Dùghaill,218840,952209
+Am Brigeadh,217515,958653
+Cnoc Druim na Coille,219109,949230
+Caolas Eilean na Saille,218024,953109
+Lochan na Freagairt,218475,944049
+Lochan Sàile,215472,941493
+Sgeirean Fhiomhraich,214409,947061
+Geodh'nan Cliabh,214394,945051
+Lochain Bealach an Eilein,215647,946406
+Sruth Loch an Ròin,219445,954202
+Cnoc na Pollaig,214600,944610
+Geodh' Dubh,213879,944978
+Gleann Scourie,217695,944119
+Geodh' na Leacaig,214408,944003
+Loch Cnoc a' Chàise,217617,942980
+Bogha Mòr,212245,947407
+Sgarbhag,213594,940404
+Loch an Ròin,219890,954126
+Cnoc na Mòine,216050,942531
+Fanagmore Bay,218074,949747
+Glas Leac,213906,946787
+Loch na h-Àirigh Glaise,218794,948881
+Farhead Point,214827,941021
+Glac an Fheadair,215415,942859
+The Reef,215824,948200
+Caolas na Creige Mòire,218383,958746
+Cnoc a' Chlàr-locha,219020,947330
+Geodh' nan Caluman,215571,947806
+Geodh' Gorm,214103,945018
+Dubh Sgeirean,216971,954246
+Dubh Sgeirean,213829,944140
+Cnoc na Bearaich,219760,959190
+Lochan an t-Sluaigh,218611,943026
+Cnoc Bealach nam Piob,216850,945840
+Cnoc na Banaraich,215528,942756
+Creag Mhòr,218516,958783
+Acarseid Mhic Mhurchaidh Oig,216055,950400
+Bàgh Lochan Bad Mhic Iomhair,219365,951730
+Eilean Àrd,215352,949032
+Cnoc Còrr,214476,944406
+Lochan na Bà Ruaidhe,218147,949231
+Cnoc Mhichie,217206,946513
+Sgeir nan Gobhar,214662,943718
+Cnoc Aird na Faoilinn,214271,944375
+Badcall Bay,215988,941360
+Poll an Turrabain,215881,949594
+Tràigh Shourie,213841,947341
+Sgeir nam Fionnag,215467,940473
+Eilean na Saille,217971,953254
+Geodh' Dearg,212507,947720
+Geodh' Criom an Duthain,218201,951234
+Loch a' Bhadaidh Daraich,216654,944622
+Rubha na Faraid,215033,941106
+Cnoc na Caorach Glaise,215710,943850
+Ardmore Point,218359,951564
+Camas nam Buth,214171,944533
+Bagh Geodh' nan Daoine,218930,954004
+Stac a' Mhill Dheirg,214670,943095
+Port of Tarbet,215839,948837
+Bàgh Geodh' nan Daoine,218313,952942
+Cnoc na Glaice Mòire,218444,944841
+Loch Laicheard,218398,946063
+Meallan an Tiodhlacaidh,214890,944866
+Lochan nam Ban,219780,952395
+Scourie Primary School,215156,943940
+Loch a' Bhàgh Ghainmhich,219363,945765
+Rubha Gisgil,216584,940594
+Eilean Àrd,218585,950344
+Poll Eòrna,214767,945690
+Geodh' nan Sgarbh,214414,946020
+Creag na Fionndalach,219690,948603
+Sgeir a' Chàis,214182,943668
+Eilean a' Mhadaidh,219712,949646
+Loch Poll a' Bhacain,218814,953517
+Geodh' nan Sgadan,214553,941688
+Rubha Sgeir a' Bhathaidh,218312,952673
+Meallan,219908,957751
+Bogha nam Biast,214869,945406
+Dubh Sgeir,217115,959157
+Port an Eilein,214391,947213
+Cnoc Neill Dhuinn,216330,942630
+Cnoc Taigh Adhamh,217063,948885
+Cnoc Gorm,216707,949864
+Lochain na Creige Duibhe,218896,940800
+Loch Dornaidh,215469,947113
+Loch Airigh Iomhair,219789,943093
+Lochan Dubh a' Breac Leathaid,218811,945179
+Eilean an t-Sithein,217455,951209
+Eilean na Carraig,219543,949276
+Moffat Square,215749,944639
+Blairmore,219471,960043
+Sheigra,218780,960413
+Balchrick,219154,960000
+Na Stacain,218053,960428
+Loch a' Chreadha,218624,961272
+Lochain nan Sac,219827,962441
+Cnoc Poll a' Mhurain,219387,961708
+Loch Aisir,219824,960288
+Am Balg,218630,966192
+Creag Mhic Iain,218568,961884
+Rubh' a Mhill Glaise,217980,960005
+Caolas-nan Stacan,217907,960293
+Cnoc an Staca,218435,961100
+Loch Poll a' Mhurain,218777,961758
+Port Mòr,219534,964274
+Loch na Lerig,219281,960339
+Loch a' Chreadha,219250,963355
+Rubh' an Fhir Lèithe,218908,963432
+Lochan na Leirg,218542,960912
+Geodh' a' Chobhair,217936,960028
+Geodh' Gorm,218745,963332
+Port Beag,219046,963650
+Rubha nan Cùl Gheodhachan,219359,964127
+Knockan,221325,910577
+Ledmore,224683,912445
+Oykel Bridge,238875,900372
+Ailbhinn,221557,911788
+Stronchrubie,224818,919232
+A837,230763,907510
+Beinn an Eòin,238951,908285
+Dubh Loch Beag,232531,916567
+Leathad Dail nan Cliabh,237961,915274
+Loch na Faic,239752,907358
+Eas Dubh Ùidh a' Ghlaigeil,221081,912255
+Coire nam Mang,220993,918436
+Beinn an Eòin Bheag,237678,906002
+Camas Leathan,220846,913464
+Srath a' Chrom-Uillt,225187,908222
+Rubha a' Phris Mhòir,224504,909144
+Cnoc Bad na h-Achlaise,224170,911094
+Eas Crom,223044,907735
+Cnoc Donn a' Phris,221095,907148
+Gleann na Muic,237783,913476
+Loch Dubh Meallan Mhurchaidh,221387,919544
+Loch Sail an Ruathair,233396,914819
+Cnoc an t-Seagail,224370,913590
+Eas Cam,224228,913347
+Cnoc Ruigh Thulaich,223530,912770
+Coire na Mang,231366,913492
+Eilean na Gaoithe,222140,913238
+Loch na Faoileige,221308,919183
+Loch a' Bhith,232751,900522
+Cnoc an Tosgaire,235077,904689
+Coire Gleann na Muice,237847,911320
+Coire an Lochain,220706,906833
+Coire an Ruathair,233404,915071
+Coire a' Chonachair,233913,902091
+Lochanan nan Sàilean Beaga,221138,900872
+Loch na Gruagaich,224183,915878
+Loch Meall a' Bhùirich,235371,912137
+Eilean Thùrnaig,239735,900081
+Creag a' Chroisg,222063,915940
+Coire nan Conbhairean,233347,917373
+An Stùc,234102,909022
+Cam Loch,221355,913453
+Loch Odhar,220273,907523
+Loch Uisge Thòmais,220269,905267
+Coire na Ceardaich,239423,910760
+Loch Ailsh,231627,910830
+Cnoc nan Stalcan,221239,910869
+Coille Dail nan Cliabh,239214,914241
+Glac an Fheoir,234140,901370
+Black Rock,231967,913710
+Coirean Dubh,230235,915086
+Canisp,220308,918758
+Loch a' Bhrochain,237099,903068
+Cnoc an Leathaid Bhuidhe,223108,915335
+Cnoc na Gaoithe,222775,912325
+Loch Craggie,232324,905508
+Glen Oykel,234961,903063
+Sgonnan Mòr,230816,913693
+Fionn Bheinn Bheag,236788,902929
+Beinn nan Cnaimhseag,227437,917748
+Srath Seasgaich,230156,911228
+Cnoc a' Chlamhain,223311,911603
+Dubh-Loch Mòr,231751,918928
+Coire Ruchain,231655,903812
+Badair Chrag,223413,913905
+Meall Coire an Lochain,221185,906529
+Cnoc a' Choilich Mòr,221110,909710
+Meallan Odhar,223121,904074
+Loch na Saighe Duibhe,223284,915894
+Glac Mhaolagain,220265,909760
+Cnoc Eilid Mhathain,227810,918310
+Meall nan Dearcag Mòr,220085,906556
+Clàr-Lochan,224483,900743
+Coire Dubh,238169,908607
+Ruith-Chnoc,231364,901815
+Bad na Clèithe,223997,914892
+Cnoc a' Bhith,233802,900719
+Loch a' Chroisg,222370,902496
+Caplich Wood,237352,901813
+Cnoc Dubh Ùidh nan Caorach,223440,911255
+Loch Beinn an Eòin Bheag,238183,906274
+Loch Eileag,230881,906347
+Cnoc Glas an Dubh Choille,239602,918406
+Bad a' Ghille Dhuibh,223310,914475
+Cnoc a' Bhaid Daraich,236732,902155
+Cnoc Chaornaidh,230705,908391
+Conival,230320,919969
+Lochan a' Bhuàlt,233048,903621
+Coire Glas,236941,909030
+Cnoc an Ruadhlaich,220813,912646
+Coire Dubh Beag,228524,900939
+Coire a' Chaorainn,227226,903690
+Coire Sheileach,229362,903605
+Meallan Liath Mòr,222290,918654
+Eilean Dubh,224886,909751
+Eilean a' Chroisg,221738,902590
+Sail an Ruathair,233294,914228
+Loch a' Mheallain,228840,910729
+Bad na h-Achlaise,224576,911134
+Meall a' Bhùirich,234618,912835
+Loch Urigill,224413,909868
+Coire Dubh Mòr,227246,901273
+Cnoc na h-Atha,238592,900359
+Fionn Bheinn Mhòr,237131,904166
+Meall an Fhuarain,228073,902385
+Lochan Fada,220588,916658
+Creagan Breaca,227046,919373
+Coill' a' Bhaid Daraich,236405,901924
+Rubha na Seilcheig,222956,911251
+Cnoc a' Choilich Beag,220850,909720
+Loch na Claise Mòire,238764,904998
+Coill an Tosgaire,234384,905008
+Ruighe-Chnoc,228797,912454
+Beinn Chroisg,220199,900925
+Coire Buidhe,237131,906338
+Doire a' Bhothain,227324,909149
+Eilean na Gartaig,221836,912406
+Cnoc an Leathaid Bhig,222818,914294
+Cnoc na Glas-Choille,227683,908047
+Coire na Seùna,222736,904508
+Loch a' Phris,220694,906985
+Cnoc Bad na Clèithe,224010,914570
+Coire a' Chrom-Uillt,224564,904372
+Coirean Bàn,229668,915947
+Doire Dhubh,223613,909915
+Knock Craggie,232917,905632
+Coille a' Cheireag,220416,901934
+Meall a' Chaorainn,226315,904338
+Eas na Bràiste,221010,919786
+Lochan Sgeireach,227873,911526
+Meall nan Imrichean,226054,906963
+Lochanan na Ceireag,221243,901649
+Feur-Loch,227024,913521
+Cnoc na Stròine,225436,912857
+Meallan Mhurchaidh,221495,918875
+Mullach Chonachair,234444,902255
+Cnoc Liath,222727,908089
+Eilean Thomais,234183,904140
+Breabag,228654,915716
+Eilean an Taighe,222038,912589
+Meall an Lochain,231630,904856
+Bad na Clèithe,224901,911691
+Eagle Rock,233602,916429
+Àirdean Dubha,221648,913164
+Loch Awe,224557,915232
+Srath nan Lòn,224610,900523
+Meall a' Bhràghaid,229812,914236
+Loch Mhaolach-Coire,227647,919467
+Sròn Sgàile,234824,914815
+Ùidh nan Caorach,223146,911040
+Cnoc Breac,221748,911524
+Eas an Taghain,222887,906713
+Loch Thùrnaig,239874,900324
+Càrn nan Conbhairean,232524,918347
+Loch Borralan,226210,910855
+Loch na Cìche,221426,905458
+Cnoc Glas na Crionaiche,239750,919454
+Loch a' Chroisg,221922,915538
+Benmore Forest,232746,915767
+Coire a' Chnoic,222017,911177
+Cromalt Hills,221352,906463
+Càrn na Ceàrdaich,238343,909851
+Meall Preas a' Chreamha,221218,908018
+Cnoc an Fheoir,234592,901312
+Eas Dubh Rubha na Seilcheig,222952,911222
+Loch an Ruadhlaich,220950,912810
+Beinn an Fhuarain,226058,915843
+Sròn Chrùbaidh,225130,919570
+Cnoc Gorm,225970,908730
+Lùban Croma,228233,912549
+Coire Dubh,225879,916238
+Clais Mor Forest,239808,903144
+Meallan Odhar,229323,904327
+Loch Coire na Meidhe,231402,913549
+Loch Càrn nan Conbhairean,234345,917323
+Meall a' Bhùirich Rapaig,225593,902572
+Meall a' Bhùirich,223479,905392
+Kylesku,222877,933555
+Unapool,223685,932931
+Achadh Fairidh,229849,938735
+Kinloch,234716,934589
+Inchnadamph,225108,921642
+Kylestrome,222051,934451
+A838,238442,932919
+A894,220161,936414
+Loch na Creige Duibhe,228863,936600
+An Roinn,234433,936306
+Loch Beag,227327,929570
+Caolas Cumhann,222547,933708
+Beinn an Fhurain,229363,921509
+Loch a' Choire Dhuibh,225214,928118
+Bad nan Gad,220135,936626
+Cnoc Gorm,225890,922510
+Lochan Dubh,222701,933340
+Sròn na Garbh Uidh,237380,926872
+Cnoc a' Mhadaidh,231254,932735
+Meall a' Choin Bhuidhe,228339,930748
+Eilean a' Ghamhna,220557,933346
+Loch a' Choire Riabhaich,221802,925953
+Coille Loch na Mucnaich,232358,938624
+Lochan Dubh,235034,938556
+Sàil Gharbh,220916,929202
+Lochan nan Caorach,229007,923400
+Meallan Liath Coire Mhic Dhughaill,235720,939150
+Eilean an Tighe,226682,930395
+Kinloch Brae Plantation,234844,933605
+Loch a' Ghille Ruaidh,222967,935457
+Bàgh an Duine,220530,934117
+Gleann Dubh,227136,921012
+Cnoc Breac,223390,926370
+Gleann Dubh Forest,230510,933842
+Loch na Mucnaich,232485,938957
+Loch Cùl a' Mhill,235493,930908
+Lochan Poll Amhluaidh,227305,927636
+Druim na h-Imrich,220465,935301
+Rubha Ghallascaig,220362,934256
+Loch Creag an Eich,220927,935339
+Albannach Burn Plantation,238321,933944
+Loch More,233219,937048
+Gorm Loch Beag,231024,925045
+Rubha an Doire Chuilinn,220191,925651
+Loch Allt nan Ramh,221185,936154
+Cnoc na h-Eilich Duirche,233640,938140
+Creag an Tombaca,225497,933310
+Loch Allt na h-Airbhe,220434,936966
+Lochain Meallan a' Chuail,235002,929554
+Loch Glencoul,224547,932084
+Loch a' Choire Dheirg,225181,927233
+Achfary Forest,228378,939502
+Coire a' Phris,237732,939844
+Leitir Dhubh,227704,928196
+A' Ghlaise,239081,937834
+Ruigh' a' Chnoic Mhòir,232858,930363
+Cailleach Borgaidh,226388,931232
+Bad a' Ghriama,239603,927030
+Beinn Gharbh,221666,922290
+Meallan a' Chuail,234454,929243
+Coire Gorm,236894,928858
+Loch Poll an Achaidh Bhuidhe,225571,938159
+Ruigh a' Chnoic Bhig,230781,931936
+Loch Glendhu,226648,933611
+Eilean an Tuim,226371,930270
+Cnoc na Mòine,223320,932810
+Cnoc an Lochain Fheòir,222986,924905
+Meall Lochan a' Bhealaich,238585,939455
+Loch an Leathaid Bhuain,227471,935975
+Lochan na h-Imrich,220776,934971
+Loch Coire Mhic Dhughaill,234917,939756
+Beinn Leòid,232027,929489
+Cnoc Coir' a' Bhaic,224135,929907
+Cnoc Glas Blàr nam Fiadhag,225770,920310
+Meall Gille Pheadair,236120,935463
+Lochan a' Chreobhair,232283,939668
+Assynt,221047,922318
+Loch na Fèithe Buidhe,220383,938271
+Meall na Leitreach,234158,932551
+Srath nan Aisinnin,233428,931758
+Loch Srath nan Aisinnin,232207,932804
+Sgialach Coire,237216,929202
+Fionn Loch Beag,231918,924469
+Cnoc an Droighinn,226647,923559
+Inchnadamph Forest,228274,921370
+Coire Mhic Dhughaill,235530,939631
+Stack of Glencoul,229034,928641
+Càrn Dearg,237703,938929
+Coire Leacach,229118,924988
+Àird da Loch,225174,932599
+Creag Ruadh,225780,932019
+Meall a' Bhùirich,231084,934836
+Torr a' Ghamhna,221165,932935
+Creag Riabhach Loch nan Sgaraig,234932,924152
+An Coimhleum,223681,922326
+Cnoc nan Caorach,222590,933440
+Na Tuadhan,230374,921485
+Uamh Ruaidhridh,223573,933597
+Meall Dearg,229736,934183
+Lochan Bealach Cornaidh,220878,928152
+Creag a' Choire Ghorm,236249,929029
+Loch na Beinne Reidhe,221235,921631
+Loch an Inneil,222701,937342
+Creag an Sgamhlainn,236572,932106
+Bad an Luig,226292,931750
+Coire Mhic Fàide,238152,939245
+Beinn Rèidh,221136,921249
+Beinn a' Bhùtha,229929,934719
+Beinn Lice,233065,935094
+Lochain nan Ealachan,232235,935185
+Cnoc an Fhuarain Bhàin,231991,926016
+Loch nam Meallan Liatha,222184,920036
+Eas Ruigh an t-Sagairt,226299,921307
+Ben More Assynt,231834,920164
+Cnoc Falaisge,223180,933170
+Loch Bealach a' Bhùirich,226126,927983
+Glac Mhòr,226579,920202
+Creag Bàgh an Liath Bhaid,225259,930782
+Coire a' Mhadaidh,230619,921012
+Loch Dubh a' Chnoic Ghairbh,221431,935291
+Meall Reinidh,235231,937224
+Lochmoreside South Plantation,231294,937625
+Coille a' Bhad Lèith,238051,924164
+Cnoc nan Uamh,227860,920460
+Dubh Lochan,236223,935526
+Doire Daimh,221086,923767
+Eas a' Chùal Aluinn,228013,927708
+Loch a' Ghriama,239052,926688
+Fleodach Coire,227449,924951
+Lochan Cadh' Ailein,230717,932946
+Rubha Geal,226408,933719
+Cnoc a' Choilich,223407,927051
+Cnoc na Creige,225968,928914
+Gleannan nan Caorach,221797,931891
+Eilean a' Chon'a Chreige,224921,931354
+Lochan Bealach na h-Uidhe,226449,925594
+Fionn Loch Beag,233628,923522
+Àird Bhreac,223928,923613
+Lochan an Duibhe,221918,925510
+Loch nan Eun,223098,929860
+Càrn an Tionail,239206,939015
+Feur Loch,237152,931277
+Cnoc Àirigh na Beinne,222770,930810
+Lochmoreside North Plantation,232704,937929
+Lochan Dubh Bad nan Gad,220256,936435
+Creag nan Suibheag,238202,929426
+Coire na Smugaidean,237171,923020
+Cnoc Dubh Dothaig,224882,922210
+Loch Dubh a' Chuail,234570,928090
+Loch nan Sgaraig,234797,924884
+Loch Airigh na Beinne,221928,931091
+Lochan Druim nam Eithreag,231580,927884
+Sail Rac,236115,939818
+Leac a' Ghobhainn,234054,937643
+Cnoc a' Choilich,237520,934305
+Eilean na Coille,226842,930257
+Coire Dubh,225370,927967
+Eilean na Mòine,226861,930459
+Glen Coul,228765,929340
+Cnoc na Cairidh,222800,932603
+Lochan Ruadh,220356,927971
+Glac Luachrach,224075,930136
+Loch Eas na Maoile,237166,934964
+Loch an Fhuath,220466,935544
+Coire Gorm,226075,926535
+Bàgh an Liath Bhaid,225357,930518
+Eilean a' Chumhainn,226940,929952
+Coire na Féithe Riabhaich,235841,928556
+Bad Liath,236708,925038
+Coire Dearg,225232,926951
+Tom na Tòine,226200,930138
+Ben Strome,224612,936018
+Coire Riabhach,221847,926056
+Bad na Bà Duibhe,226652,920775
+Loch an Eircill,230734,927523
+Loch na Sròine Luime,234491,921718
+Cnoc Dubh,226310,922610
+Gleann Dubh,229428,933259
+Cnoc Gleannan nan Caorach,221480,931760
+Sìthean Liath,233672,926467
+Beinn a' Ghrianain,228168,934919
+Ben Screavie,230979,939383
+Druim nam Eithreag,231918,927345
+Lochain a' Chuail,235053,931819
+Loch Merkland,238699,932058
+Loch Coir' a' Bhaic,224695,929459
+Loch na Mang,239155,939723
+Aultanrynie Plantation,235237,935726
+Glas Bheinn,225482,926495
+Spidean Còinich,220612,927722
+Lochan Ruigh' a' Chnoic,232696,931211
+Lochain a' Mhill Dheirg,230986,933871
+Steall a' Choire,237468,928319
+Bad nan Carbad,221939,925293
+Loch nam Breac Mòra,232151,927586
+Port an t-Suainich,220504,932875
+Camas na Cusgaig,223089,933651
+Mullach an Leathaid Riabhaich,229411,924565
+Maovally,237827,921203
+Poll a' Ghamhna,220716,932796
+Loch nan Ealachan,229932,939406
+Sàil na Slataich,231442,930440
+Meall nan Caorach,228803,922888
+Loch nan Cuaran,229160,923870
+Lochan nan Smugaidean,236662,922507
+Meallan Liath Beag,236841,937364
+Lochain nan Ealachan,232910,934476
+Grianan a' Choire,235750,927142
+Loch Unapool,222682,931977
+Eilean Àrd,226714,930237
+Rubha na Mòine,223459,923233
+Loch Clach a' Chinn Duibh,224018,938064
+Eilean na Rainich,222853,934305
+Cnoc Dubh Mòr,225710,922770
+Eas na Saighe Caime,226447,922059
+Srath nan Caran,230700,936196
+Blàr nam Fiadhag,225531,920636
+Loch na Fèithe Riabhaich,235886,927939
+Cnoc Garbh,221421,935555
+Quinag,220513,928985
+Ben Dreavie,225966,939740
+Beinn Àird da Loch,228135,931696
+Loch Iol-ghaoith,235666,929986
+Loch Meall nan Caorach,229017,922999
+Eas Creag an Luchda,231103,933068
+Coir' a' Bhaic,224687,929480
+Doire Dubh,236336,932726
+Rubha Cailleach Borgaidh,226308,931318
+Eilean na Fuaradh,223223,934226
+Rubha an Fhir Lèith,220858,934004
+Loch Dubh,233645,929517
+Cnoc Odhar,222006,938356
+Loch Assynt,222528,924156
+Garbh Eilean,222466,933925
+Creag an Spardain,222146,932721
+Lochain Fèith an Leòthaid,230247,930902
+Lochan a' Bhealaich,238687,939088
+Lochan Feòir,222882,925173
+Eas an t-Srutha Ghil,228992,927768
+Creag Mhòr na Cairidh,222704,932893
+Loch Sùil Ceirsleich,230757,925362
+Beinn Uidhe,228176,925165
+Loch na Gainmhich,224452,928795
+Lochan a' Choire Ghuirm,226157,926750
+Meall an Fheur Loch,236189,931069
+Loch Fleodach Coire,227389,924757
+Cnoc Creag an Spardain,222082,932163
+Loch nan Caorach,229487,927603
+Coire Loch,236776,939536
+Loch Ulbhach Coire,237909,937675
+Srath Fèith an Leòthaid,220274,921100
+Alltannaceardaich,239707,927763
+Coire Rèidh,232653,920269
+Cassley,239640,923222
+Achfary Primary School,229271,939638
+Kinlochbervie,222098,956361
+Oldshoremore,220933,958579
+Achriesgill,225583,954061
+Badcall,223712,955863
+Inshegra,225003,954971
+Rhiconich,225686,952479
+Achlyness,224852,952500
+Rhuvoult,224384,954805
+B801,224561,955346
+Manse Road,223081,956456
+Innes Place,222709,956133
+Bervie Road,222181,956320
+Inchard Place,222608,956033
+Loch Ceann na Sàile,220488,955195
+Loch Bervie,222236,956056
+Lochan Dubh nan Daolag,220413,943311
+Loch Dionard,235564,949163
+Cnoc an Tigh Sheilg,230623,947803
+Loch a' Mhuirt,220149,944844
+Cnoc an Fheòir,225664,952881
+Eilean Port a' Choit,221419,948139
+Caol Loch a' Mhind,226426,945535
+Loch an t-Seana Phuill,221045,945771
+Cnoc an Lochain Duibh,227985,948601
+Arkle,230274,946184
+Srath Dionard,234117,959197
+Loch Fir Dhuirinis,237694,947190
+Cnoc a' Garbh-bhaid Mhòir,226845,948600
+Rubha nan Eun,222212,955850
+Loch an Easain Uaine,232528,946275
+Loch Eileanach,224169,942592
+Loch an Nighe Leathaid,229164,944651
+Loch Eilean na Craoibhe Mòire,220778,943438
+Bad na Baighe Forest,223417,946018
+Loch Creag an Fhraoich,224120,950078
+Mathair a' Gharbh Uilt,228436,950621
+Feur Loch,229116,959103
+Cnoc an Tùir,225240,953450
+Loch a' Mhuilinn Loisgte,224355,952064
+Rubha a' Mhill Bhàin,220861,955368
+Poll Buidhe,224386,957339
+Lochan Uaine,221381,955222
+Lochan Sgeireach,230809,955907
+Lochan na Creige Ruaidhe,221236,953981
+Lochan Tarbhaidh Beag,229064,955260
+Cnoc na h-Eannaiche,221288,956387
+Caol Lochan,220777,944328
+Lochan Sgeireach,224511,956509
+Cnoc an Fheòir,224745,954604
+Glas Leac,220045,955612
+Rubha nan Uan,224880,950494
+Uidh nam Fiadh,228610,950343
+Loch an Tigh Sheilg,229623,948514
+Lochain Doimhain,222560,943041
+Creag Ceùm an Lèim,223069,955807
+Cnoc an Lòin Bhàin,224360,951179
+Lochan na Creige Riabhaich,220044,951548
+Srath Coille na Feàrna,238001,951115
+Lochan na Creige Mòire Guirme,220055,953655
+Ben Stack,226988,942227
+Loch Clash,221403,956682
+Bàgh na Claise Luachraich,222128,949117
+Uidh Alasdair Ghuinnich,227187,952333
+Creachan Thormaid,234484,943789
+Lochan a' Mhuilinn,223383,953798
+Loch na Claise Càrnaich,228021,952640
+Cnoc nam Breidean,220512,959976
+Stob Cadha na Beucaich,232512,948740
+Cnoc nam Brac,222262,941335
+Loch a' Phreasan Chailltean,221320,953667
+Achriesgill Bay,225199,954045
+Lochan Ulbha,235745,945464
+Bàgh Leathad na Seamraig,222466,948751
+Lochan Glac na Lann,225156,946145
+An t-Sàil Mhòr,233863,948364
+Loch Eileanach,227283,947124
+Cnoc Bad na h-Achlaise,224672,943942
+Lochan an Fheòir,226272,952015
+Rubha Bad nan Con,224024,954935
+Lochan na Stàirne,220655,954368
+Loch Timchiollach,227347,951664
+Loch Bad an t-Seabhaig,223094,945736
+Rubh' Armli,239904,955543
+A' Chèir Ghorm,231895,949437
+Creag a' Mhèoir Ghil,225063,953780
+Creag an t-Salainn,223262,955038
+Feur Lochan,224678,941548
+Meall Loch na Seilge,236782,945198
+Cnoc Gorm Mòr,220082,953300
+Loch Tarbhaidh,229718,955723
+Morabhan Ruadh,221470,947876
+Mol Ban Mor,221713,955336
+Creag na Faoilinn,239618,953514
+Cnoc Càrn a' Bhodaich,221720,952720
+Loch na Bèiste Brice,223815,950172
+Caol Lochan,228401,944055
+Rubha Mhol Bhain,221549,955413
+Bad an Taghain,232413,942158
+Creag a' Chlàr Locha,220257,942760
+Cranstackie,235058,955598
+Meall na Mòine,229349,956702
+Lochain Dubha,229808,955167
+Loch Càrn Mharasaid,223676,958394
+Lochan Havurn,239616,954249
+Glas-Choire Grànda,231961,951440
+Cnoc na Mòine,226060,952220
+Rubha an Aiseig,220089,949096
+Loch Innis na Bà Buidhe,222606,956697
+Torran Dubh,227580,943108
+Bàgh na Cairidh,220259,949189
+Loch Cròcach,222046,952911
+Loch na Seilge,236907,944594
+Loch nam Breac Buidhe,230416,940499
+Stacan Ghille Pheadair,223067,955155
+Fern Pool,225745,946103
+Bad na h-Achlaise,238556,952115
+Eilean an Eireannaich,220169,950372
+Loch Airigh na Beinne,220336,941341
+Loch a' Choire Ghrànda,234937,943577
+Meall nan Crà,237820,959081
+Lochain a' Chlach-phuill,230747,948073
+Lochan na Cloiche,220584,952734
+Meall Horn,235243,944915
+Garbh Shron,225751,953472
+Bàgh Glac na Stàirne,220144,952038
+Meallan Duilich,222360,955858
+Loch Airigh an t-Slaith,224044,952103
+Baghan Uilleim,222395,947643
+Cnoc na Caillich,223230,955950
+Gorm Loch,221578,944583
+Weaver's Bay,221001,948127
+Eilean Dubh nam Boc,220962,949772
+Eas na Glutachan,228189,954790
+An Dubh-loch,235548,946056
+Creag Staonsaid,238442,947025
+Lochan Eadar da Shàbhal,236166,943021
+Lochan na Faoileige,232644,944853
+Creagan Meall Horn,234533,945728
+Loch Eileanach,222557,940915
+Loch Eileanach,220816,953415
+Loch a' Garbh-bhaid Mòr,227526,948069
+Sàbhal Beag,237317,942914
+Bàgh an Annaite,220979,951040
+Kinlochbervie Harbour,222161,956125
+Coire na Cùile,236375,953893
+Meall Tarsuinn,239448,947516
+Cnoc an Leathaid Bhain,225159,955414
+Sgeir nan Gobhar,220190,949281
+Lochain Chròcaich,221638,952392
+Ceann Garbh,231305,951474
+Lochan Dubh Eoin,228541,953571
+Loch na Fiacail,223302,948885
+Lochan na Glamhaichd,234020,959479
+General's Loch,226410,954013
+Cnoc an Rubha,220682,954762
+Loch na Thull,225245,950183
+Lochain an t-Socaich,225899,958445
+Lochan Pollan Dhughaill,231120,948581
+Cnoc nan Cro,224265,945903
+Loch Glac a' Mhind,226531,946869
+Loch an Fheòir,238796,947687
+Lochan a' Mhullaich,223314,950448
+Loch Laxford,220187,949025
+Clàr Loch Mòr,220954,942604
+Clàr Loch Cnoc Thormaid,220590,941750
+Caol Lochan,223272,953331
+Cnoc a' Bhaid Shalaich,222650,946340
+Loch Mòr Ceann na Sàile,221888,954528
+Lochan Cùl na Creige,227977,953479
+Sgeir an Fhionn,222269,950909
+Blaoch Choire,236223,940769
+Beinn a' Chraisg,223959,959649
+Eilean Dubh,220342,955484
+Cnoc Glac na Stàirne,221020,952870
+Creag Shomhairle,238251,950697
+Tràigh Bad na Bàighe,222271,947103
+Cnoc Ruadh,222528,956010
+Bad na h-Achlaise,224845,944418
+Bad Lònanach,223446,945872
+Bad an Nathrach,225478,944681
+Meall Garbh,236885,940368
+Meall Dearg,224667,959351
+Rubha na Bà,220798,948558
+Meall Aonghais,232001,944499
+Cnoc Corr,221719,950837
+Coire nam Mang,227724,942056
+Tàtha nam Beann,235633,940309
+Aird Bheag,221651,950389
+Creag Riabhach Airigh a' Bhàird,228194,945603
+Lochan an Fhèidh,220086,947748
+Meall Meadhonach,226899,958130
+Eilean a' Chonnaidh,220374,956978
+Lochan nam Meallan,220046,958139
+Mol a Bhuailt,224033,955037
+Lochan an Tairneich,227573,953650
+Cnoc an Daimh,222807,952294
+Laxford Bay,222734,947619
+Cnoc nan Cruach,220247,959540
+Loch Bad na h-Achlaise,238526,951979
+Loch na Gainimh Beag,226421,956680
+Loch Lambknowe,234784,959609
+Lochain na Creige Gile,227159,945656
+Cìoch Mhòr,235113,957510
+Cnoc nan Eun,221630,947190
+Druim Lochan Imheir,222973,953590
+Lochan Iamhair,221906,953769
+Lochan Dubh Creag an Fhithich,225447,953606
+Loch na Claise Luachraich,222316,949641
+Loch a' Cham Alltain,228328,944593
+Bad an t-Sluic,238260,948487
+Eilear na Mola,220933,958140
+Loch Staonsaid,239168,946924
+Loch na Ruighe Sligeich,225373,951590
+Foinaven,231527,950701
+Loch Aisir Mòr,221490,959107
+Loch na Làire Duibhe,223242,952401
+Lochan Dubh Mhic Eòin Mhic Dhonnachaidh,224532,957561
+Loch na Gainimh,226869,956364
+Mol Ban Beag,221511,955569
+Eilean Meall a' Chaorainn,222109,948557
+Bagh na h-Airde Bige,221052,949975
+Coire Lochan Ulbha,235863,945552
+Blarloch Mòr,228489,949875
+Inshegra Bay,224260,955329
+An Socach,226545,958615
+Cnoc nan Crò,222190,956930
+Glac Dhubh Mhòr,235363,940497
+Reay Forest,230555,941828
+Loch Coir' a' Phris,225504,959529
+Loch na Seilg,236892,958802
+Srath Luib na Seilich,233300,941727
+Duke's Pool,225572,945021
+Lochan Dubh Mhic Aonghais,226231,953030
+Loch na Larach,221792,958182
+Loch a' Chaoruinn,224180,952942
+Loch na h-Ath,223812,941820
+Lochan nan Cnàmh,220472,953130
+Beinn Spionnaidh,236202,957298
+Coire nan Laogh,226546,943445
+Meall a' Cheardaich,231769,940486
+Eilean a' Chadh-fi,221324,951054
+Glac na Lann,225162,946153
+Rubha Chaol Bhaid,222226,955383
+Lochan Glac na Stàirne,221033,952183
+Ruadh Bhuailt,224175,955136
+Rubha na h-Àirde Bige,220965,950230
+Bad an t-Seabhaig,223619,945432
+Loch Gobhal Nodha,222928,954215
+Bàgh na Sgeire Faide,221442,949358
+Na Cluasnadh,220006,957279
+Calbhach Coire,235106,956608
+Loch na Seilge,225425,943517
+Loch an Alltain Riabhaich,226980,947367
+Lochan Sgeireach,238306,945981
+Loch na Claise Feàrna,220027,946805
+Lochan Dubh,227689,949210
+Loch na Tuadh,231045,947218
+Loch Sheigra,224039,955422
+Loch Cul Uidh an Tuim,229093,949336
+Coir Uairidh,230611,945013
+Loch Airigh na Leisge,220654,943118
+Loch a' Phuill Bhuidhe,226307,959405
+Cnoc an Easain,226010,954103
+Meall an Ulbhaidh,221437,949736
+Cnoc Corr,227194,943865
+Meall an Lochain Sgeireich,237867,945577
+Garbh Eilean,222400,947415
+Eilean Dubh na Fionndalach Bige,220392,949031
+Cnoc a' Gharbh-bhaid Beag,227010,951300
+Ben Auskaird,221009,940240
+Cnoc a' Mhadaidh,232541,952502
+Loch Inchard,224443,954238
+Loch Sgeir a' Chadha,223496,951115
+Loch na Caillich,224965,951031
+Srath Beag,238699,953271
+Lochan na Fionndalach Bige,220389,948722
+Loch na Stìoma Gile,230213,949193
+Sabhàl Mòr,236008,944042
+Rubha na Leacaig,220641,956246
+Duchess' Pool,225534,945507
+Cnoc Leathan,225624,950775
+Portlaidh Mhurchaidh,224921,953698
+Upper Roadstead,239676,955371
+An Còsan,220375,951653
+Carn Ruadh,221722,955981
+Sgeir Fhada,221315,949355
+Cnoc a' Ghleannain,224830,954780
+An Còsan,221122,951359
+Farrmheall,230829,958811
+Coir' a' Chruiteir,233010,947809
+Loch an Eas Ghairbh,226886,952439
+Cnoc an Fheòir,225870,954200
+Bad na Suileig,224319,945345
+Cnoc an Fhreiceadain,232477,959886
+Lochan Lamhaidh,224459,952915
+Àird a' Chuilinn,230251,941418
+Cnoc na Sùil Chruthaiche,220503,951166
+Loch a' Chadh-Fi,222610,950794
+Coire na Lurgainn,233674,949362
+Cnoc Thull,224656,949499
+Kinlochbervie Primary School,223009,956457
+Lochan a' Chombaiste,224503,959904
+Gorm Chnoc,221811,944788
+Rubha na Cloiche Lomaidh,224018,955273
+Lochan Sgeireach,224850,959745
+Loch Stack,229591,942174
+Cnoc Grosvenor,228370,942990
+Sruth Mòr,220862,948877
+Cnoc na Sàile,225715,942646
+Uidh an Tigh Sheilg,230004,947692
+Glac Dhubh Neill,229244,945493
+Easan Garbh,226878,952882
+Loch Àirigh a' Bhàird,228664,945310
+Cnoc an Eòin,220450,945660
+Coire an Achaidh,237928,941239
+Sruth Beag,220245,948800
+Loch a' Gharbh-bhaid Beag,226658,950042
+Cnoc Liath,228156,951529
+Coire an Uinnseinn,235965,955804
+Glac na Ceardaich,231353,941431
+Coire Grànda,235110,943589
+Lochan an Smùraich,230056,941737
+Cnoc nan Tobha,221555,957049
+Cnoc an Fhuarain,220050,946010
+Leathad na Seamraig,222651,949116
+Gleannan Bad na Bàighe,221483,946232
+Poll Eilean an Eireannaich,220442,950639
+Cnoc a' Mhuilinn,221631,951555
+Loch Grosvenor,228074,943331
+Cnoc Dùail,233553,951353
+Bàgh an Aoil,220283,950177
+Kinlochbervie High School,222970,956537
+Keoldale,238203,966099
+Meall na Mòine,228394,962065
+Clò Kearvaig,229291,973145
+Eilean nan Caorach,235148,971580
+Geodha Dubh,235279,971487
+A' Ghoil,235000,971632
+Ach a' Chorrain,237087,961946
+Geodha Bàn,238559,971405
+Na Glas Leacan,234658,972017
+Bay of Keisgaig,224538,969399
+Sgribhis-Bheinn,231930,971352
+Loch na Seamraig,228004,972658
+Clèit Dhubh,232770,973256
+Sìthean Mòr,236094,962224
+Coire a' Chuidhe,227512,965114
+Meall an Fheadain,239196,961112
+Rubh' a' Ghrùdaidh,236481,963241
+A' Chailleach am Bodach,224946,973587
+Dùnan Beag,225666,972371
+Loch Bad an Fheur-loch,233835,967261
+Lochan nan Sac,223871,965571
+Bun Amhainn an t-Srath'-chailleach,223089,966574
+Leae Fir Dhuirnis,238869,971747
+Gualainn a' Chàirn,235777,970809
+Tràigh Shanabhait,222143,965365
+Cnoc a' Bhraghad,235061,965715
+Coir' a' Choin,228534,964462
+Maovally More,231787,963646
+Càrn an Rìgh,220168,963852
+Sandwood Loch,222807,964237
+Cnoc na h-Uidhe,233250,970090
+Cnoc Lochan nan Sac,223967,965296
+Duslic,226736,975862
+Sandwood Bay,222040,965947
+Loch Borralie,238323,967159
+Bad Chathail,230399,967157
+Geodha na Seamraig,228367,973024
+Meall Dearg,227334,962025
+Sìthean na h-Iolaireich,225352,970121
+Clò Mòr,230646,973180
+Cape Wrath,225780,974821
+Strath Shinary,224068,961701
+Port Odhar,235824,970926
+Lochan Dubh,220903,961560
+Flirum,239330,970352
+Loch Croispol,239030,967952
+Cnoc nan Tri-mile,227704,971285
+Druim na Buainn,221293,964216
+Loch Lanlish,238581,968282
+Geodh' a' Lochaidh,239360,970404
+Am Buachaille,220076,965220
+Ghlas-Bheinn,233219,961443
+Loch Airigh na Beinne,232562,966344
+Geodh na Leodhasaich,236162,969645
+Lochan Dubh,223399,963181
+Rubh' an t-Socaich Ghlais,223699,968444
+Beinn Dearg,227938,965800
+Geodha Glas,226830,974143
+Clach Bheag na Faraid,239673,971177
+Geodha na h-Airbhe,236126,967517
+Geodha Ruadh,223807,967692
+Stac à' Chlò,230121,973543
+Loch Clais nan Coinneal,221397,963878
+Loch Meadhonach,221029,963519
+Beinn an Duibhe,234977,970045
+Acairseid Choinnich Oig,225618,974805
+Geodh Chreamha,236073,969138
+Loch Deibheadh,222602,960653
+Lochan Dubh na Lathaich,222883,960608
+Loch na Gainimh,220297,961272
+Cnoc nan Sgliat,238931,971053
+Cnoc na Glaic Tarsuinn,229401,965242
+Loch na Glaic Tarsuinn,229697,966259
+Maovally Beag,230837,963790
+Strath Chailleach,224888,965869
+Geodha Ruadh na Fola,225129,971100
+Lochan na Glamhaichd,228942,966759
+Geodha Cul an Fhraochaidh,224660,970179
+Rubh' a Bhuachaille,220349,964965
+Loch Beag a' Chraisg,223630,960371
+Eilean Dubh,237442,968973
+Cnoc an Daimh,227132,968879
+Loch a' Gheodha Ruaidh,224721,967388
+Kyle of Durness,236836,967131
+Coire na Creubhaich,239314,962210
+Maovally,230639,969369
+Loch na Gainmhich,230670,965816
+Càrn an Lèim,232746,973048
+Poll a' Gheodha Bhàin,238488,971382
+Rubha an Tigh Shaille,238354,965659
+Preas Mòr,235654,960331
+Lochan Beul na Faireachan,224245,964901
+Leac Buidhe,233753,972311
+Loch Keisgaig,226736,967954
+Creag Riabhach,227888,963803
+Beinn Akie,234085,965006
+Cnoc a' Ghiubhais,226623,970139
+Clach Mhòr na Faraid,239760,971173
+Geodha an Fhuarain,226147,974730
+Stac an Dùnain,225644,974929
+Cnoc a' Gheodha Ruaidh,224037,967146
+Sròn a' Ghobhair,225803,961632
+Loch a' Mhuilinn,220545,963078
+Beinn an Amair,236014,965590
+Kearvaig Bay,229048,972911
+Geodha Sligeach,234757,971524
+Cnoc na Mòine,238953,965859
+Cnoc nan Cuilean,232870,962600
+Loch na Creige Riabhaich,228772,963263
+An Grianan,226466,962707
+Stack Clò Kearvaig,229471,973723
+Loch a' Phuill Bhuidhe,226824,963141
+An Garbh-eilean,233285,973527
+Balnakeil Bay,237613,969687
+Fashven,231408,967525
+Dùnan Mòr,226102,974059
+Cuarnagaig,238122,971423
+Loch Caladail,239687,966676
+Faraid Head,238944,971582
+Loch Mòr a' Chraisg,222838,960225
+Gob nan Leac,239231,971855
+A' Chlèit,238484,970170
+Lochan nam Breac Buidhe,233574,968884
+Cnoc Leathann,239100,963333
+Loch Inshore,233012,969556
+Achany,256922,901538
+Rhinamain,258487,905139
+Doune,244478,900739
+Achfrish,256492,911796
+Gruids,257603,902987
+Shinness,253692,914808
+Colaboll,256348,910128
+Oape,245254,900763
+Achnairn,255257,912672
+Tirryside,257062,911210
+Torroble,259217,904984
+Brae,243440,900889
+Rosehall,247026,902008
+Dalchork,257433,910626
+Balloan,259271,905461
+Saval,258745,908475
+Mid Altass,249608,900474
+Lochside,258272,906916
+Claonel,256572,904588
+Rhian Breck,259961,904819
+Lairg,258378,906366
+The Terrace,258152,905947
+B864,257273,901259
+Ord Place,257982,905904
+Rathad Cnoc Na H-Eaglais,258410,906421
+Glen Burn,258582,906262
+Rathad Antaich Nigheachain,258628,906350
+Milnclarin Way,258484,906522
+Scree Road,242911,900562
+Cassley Drive,247007,902222
+Loch Doir' a' Chatha,249299,903965
+Cnoc na Faire,250860,918444
+Cnoc Eadar-mi,253926,901051
+Cnoc Olasdail,254569,918958
+Achness,246824,902880
+The Ord,257406,905587
+Beinn Rosail,241309,906651
+Càrn nam Bò Maola,245313,909539
+Beinn an Rosail Beag,243864,904716
+Carn Mòr,240244,904539
+Dail Tigh a' Chumhainn,245504,901212
+Bad a' Chuithe,244966,904849
+Loch Dubh,258033,912026
+Creag Langwell Wood,242077,900579
+Loch an Staing,252336,918794
+Manse Road,258190,907052
+Clash Breac,258836,906330
+Lochan nam Peathraichean,259329,902333
+Coir' an t-Sratha Shitheach,251073,905701
+Cnoc Bhinn,249348,917004
+Coir' an Rasail,246026,907397
+Middle Hill Wood,253127,900565
+Coill' a' Chnocain,244737,901640
+Loch Beannach,259967,912692
+Cnoc Riabhach,253341,907195
+Loch na Caillich,251644,908269
+Cnoc a' Choire Leacach,251829,910648
+Strath Tirry,254694,917404
+Tullich Wood,252366,900095
+Loch an Ràsail,247521,908677
+Loch Dubh,252987,902218
+Carrachan Dubh,241214,917578
+Tramp's Cairn Plantation,255384,918746
+Allt na Caorach Plantation,250086,919482
+Strath Oykel,244536,900859
+Achany Glen,257758,901854
+Cnoc Mòr,241762,908500
+Bad Mor,246062,904867
+Cnoc nan Gamhna,247711,904303
+Cnoc a' Choire,250320,904808
+Sheepfold Plantation,255816,918830
+Blarbuie Plantation,256013,915287
+Eilean a' Chairn,257700,906857
+Loch an Fhreiceadain,251465,916740
+Coille na Cròice,240307,912071
+Little Loch Shin,258125,905460
+Achany Wood,256683,900436
+Cnoc an Achaidh Mhòir,258788,903123
+Loch Shin,247620,918163
+Sheep Pass Wood,256159,901926
+Loch Langwell,241243,913049
+Sròn na Croiche,245596,901948
+Càrn Beag,241360,903557
+Dail na Copaig,259166,917284
+Cnoc Ceann nam Bad,255664,900394
+Cnoc a' Bhreac-leathaid,258845,913218
+Loch Sheila,245453,907239
+Cnoc Olasdail Plantation,254120,918674
+Loch Dail na Copaig,257909,915846
+Creanich Hill,241322,919825
+Druim na h-Uamachd,254948,914445
+Cnoc nan Imrichean,249080,910053
+Rossal Wood,245121,904674
+Lochan Imheir,245106,902210
+Eilean an Speanan,248003,900649
+Mansfield Wood,241228,901007
+Coir' an Laoigh,240893,905142
+Coir' a' Bhaid Lèith,249024,912289
+Tarraich Bheag,240959,900733
+Coir' an Dubh Locha,243145,915249
+Badair Dhonnadh Wood,241421,901507
+Badair Dhonnadh,240878,901167
+Cnoc a' Bhaid Bhàin,242596,919331
+Netherton Wood,250855,900933
+Srath an Lòin,243615,917327
+Langwell Hill,240993,912718
+Badfluich Wood,250486,901158
+Rosehall Hill Forest,251446,902858
+East Wood,257343,901415
+Srath Ghrùididh,251722,906086
+Bad a' Chreamha,243911,908786
+Cnoc na h-Iolaire,254861,906282
+Dubh Loch Mòr,243999,913806
+Gunn's Plantation,259152,905816
+Dubh Loch Beag,243073,915048
+Coire Buidhe,245290,910661
+Sròn nan larnachan,252293,903213
+Cnoc a' Chatha,258037,909976
+Ferry Wood,257613,906453
+Meall a' Ghrùididh,253700,904212
+Cnoc na Cloich-bhuaile,252361,904143
+Beinn Sgreamhaidh,244157,915082
+Dalchork Wood,258729,911795
+Cnoc Leacach,242607,911130
+Cnoc Torr an Leamhain,259525,900179
+Lairg Muir,258854,906742
+Cnoc Ramascaig,252220,916557
+Glen Cassley,240647,912168
+Raemore Wood,254993,904386
+Coille Sron na Croiche,246068,901595
+Loch Sgeireach,246686,911166
+Braemore Wood,254786,901697
+Beinn Sgeireach,245350,911813
+Eilean na Craoibhe,258128,906352
+Sìthean Dubh Mòr,251388,918324
+Lochan a' Choire,246209,913373
+Cnoc Alldabreac,258964,910464
+Gruids Wood,256323,903038
+Green Braes Wood,251409,901062
+Dail Langwell,241532,911187
+Altass Wood,251022,900273
+Loch na Fuaralaich,248823,906503
+Loch an Daimh Idhir,252691,901958
+Lairg,258276,903911
+Rosehall Primary School School House,249659,900410
+Lairg Power Station,257670,906962
+Lairg Primary School,258561,906410
+Scree Road,243502,900937
+Main Street,258486,906319
+Manse Road,257910,907267
+Klibreck,258704,934388
+Altnaharra,256859,935108
+Macleod Crescent,256780,935245
+Cnoc an t-Sabhail,252384,933785
+Loch an Fhuarain,258210,927905
+Loch Camasach,247391,927920
+A' Chaoirnichain,257585,928030
+Loch an Alaskie,247922,926776
+Loch Bad an Loch,255033,928927
+Sùil a' Ghriama,241211,927919
+Meall Meadhonach,259865,931008
+Sròn an Tuirc,254143,938545
+Loch a' Bhealaich,259990,926860
+Meall a' Bhrollaich,258679,937095
+Ben Klibreck,258673,929078
+Meall Carr nan Ruadhag,245609,936891
+Ben Harrald,251796,931381
+Cnoc a' Ghiubhais,254845,923846
+Cnoc an Fheòir,249803,923466
+Meall na Teanga,247967,934461
+Meall an Amairich,248835,932248
+Meall nan Con,258526,929916
+Loch a' Gharb-uillt,255766,937719
+Loch an Tuim Bhuidhe,240849,935553
+Ben Hee,242655,933943
+Cnoc an Laoigh,247563,920614
+Lochan Iain Bhuidhe,252934,925786
+Garvel Wood,254397,936577
+Loch Dubh Cùl na Capulich,252874,923661
+Loch a' Choire Leacaich,244832,934484
+Meall Meadhonach,257052,923501
+Loch Buidhe,256929,937531
+Meall a' Chnoic,259534,920718
+Cnoc Maol na Cloiche Gile,243398,928708
+Loch na Glas-choille,255923,930543
+Loch an Fheòir,251022,925981
+Lochan na Brice Mòire,251092,924227
+Loch Dabhaich,259371,922930
+Meallan Liath Beag,241366,930614
+Strath Vagastie,255099,931192
+Creag Dhubh Mhòr,245888,933699
+Loch Gaineamhach,258253,924559
+Meall an Fhuarain,251333,930548
+Coire Leacach,244482,934858
+Barren Ridge Plantation,251704,937547
+Meall a' Bhealaich Easaich,257115,925864
+Loch a' Bhealaich Bhàin,241999,938715
+Mudale Wood,252944,936492
+Cnoc a' Gharb-uillt,255204,937404
+Shin Forest,253391,922436
+Loch an Ulbhaidh,249198,922863
+Loch a' Ghorm-Choire,244072,932998
+Loch nan Uan,256633,929203
+Easan Fhèidh,258603,925235
+Meall a' Chlèirich,240729,936543
+Cnoc Bad na Coille,253600,936573
+Meall an Eòin,259632,929333
+Cnoc an Alaskie,249432,926806
+Cnoc an Fheòir Mhaol,249500,924818
+Creag Riabhach,253337,930532
+Lùb Ruadh Plantation,255783,920636
+Loch Poll a' Phac,246212,928328
+Lochan a' Chlèirich,240747,936893
+Bad a' Bhàcaidh,245445,935109
+Lochan na Creige Riabhaich,241077,937476
+Cnoc Dubh,256356,937104
+Sìdhean na h-Iolarach,257376,921024
+Meallan Liath Mòr,240628,932912
+Bad an t-Seabhaig,249225,937099
+Loch Ben Harrald,252030,933146
+Cnoc Badan Eachainn,255738,934873
+Coire Grànda,241327,939075
+Srath a' Chràisg,254290,924522
+Strath Duchally,243188,926154
+Fiag Plantation,246399,925447
+Loch Gaineamhach,251449,925787
+Coire nam Mang,241988,933048
+Meall Odhar,257644,921785
+Loch Fiag,244674,929672
+Cnoc na Doire,255578,921627
+Loch Eileanach,248312,927738
+Mudale Forest,247594,931982
+Meadie Falls Plantation,252152,936075
+Meall Odhar,244634,924457
+Cnoc a' Mhaoil Ruaidh,247788,925051
+Chicken Dhu Plantation,250586,937137
+An Glas-loch,249734,931275
+Creag Sgoilteach,257813,924376
+Cnoc Vagastie,256649,934361
+Beinn Direach,240617,938064
+Cnoc Dubh Wood,255847,936580
+Loch an Aslaird,242357,936733
+Coir' a' Chruiteir,241478,933749
+Loch an Tairbh,256797,931192
+Beinn na Glas-choille,252472,929425
+Cnoc a' Ghriama,240722,926543
+Marcia's Belt,253326,935566
+Coirein Easach,240236,939762
+Altnaharra Wood,256943,934793
+Reidhachaisteil,259799,936059
+Glen Fiag,245878,923846
+Glac Dhubh Neill,240700,934228
+Loch na Capulich,252421,922369
+Coire na Sigh Duibhe,244272,935640
+Loch nan Rath,240566,939288
+Grummore Little Wood,259000,935282
+Sàil Gharbh,241289,934562
+Mudale East Shelter Belt,253471,935702
+Loch a' Ghiubhais,255616,923661
+Manse Wood,256705,935346
+Creag an Lochain,257962,927535
+Loch an t-Seilg,241634,936103
+Creag Dhubh Bheag,247479,930769
+Cnoc an Alltain Leacaich,252254,939087
+Cnoc Allt an Ulbhaidh,247347,926452
+Loch Strath Duchally,242263,926903
+Cnoc Sgriodain,255246,927101
+Coire Buidhe,251028,939642
+Loch an Tuirc,254378,939277
+Lochan an Laoigh,250791,920055
+Loch Coire na Saidhe Duibhe,244930,936102
+Cnoc an Ulbhaidh,248703,922323
+Meall nan Uan,256205,929470
+Mudale Shelter Belt,252955,935964
+Altnaharra Primary School,256783,935302
+Achuvoldrach,256745,959109
+Tongue,259126,956700
+Braetongue,259442,956806
+Laid,241148,958568
+Varich Place,259046,956777
+St Andrews Glebe,259096,956884
+Loyal Terrace,259207,956615
+Loch Aonghais,255236,947952
+Brae Kirkiboll,259664,956589
+Dubh-Loch na Creige Riabhaich,250630,950068
+An Druim,242922,956894
+Am Breac-Leathad,252081,946994
+Easan Choineas,240913,944582
+Coir' a' Ghallaich,248232,950471
+Cnoc Lòn nan Eildean,254203,957279
+Gobernuisgach Wood,244386,941910
+Cnoc an Daimh Mòr,253309,942719
+Loch Dubh,240033,945853
+Creag Riabhach Bheag,249936,952399
+Caol-loch Mòr,242403,949870
+Ach' a Ghearraiseich,244832,957928
+Cnoc a' Chraois,245673,940083
+Lochan Dubhaidh,243184,951659
+Garbh-Chnoc Mòr,254284,954351
+Lindsay Wood,254753,952062
+Cnoc Malmsgaig,255735,949767
+Dail an Anairt,245909,951422
+Bad na h-Achlaise,244793,948203
+Loch a' Ghobha-Dhuibh,249685,949686
+Coire Fraoich,251844,950764
+Loch na Seilg,249391,950964
+Coill' Ardachaidh,257475,955288
+Creag Riabhach Mhòr,250555,951373
+Loch a' Mhòid,256883,941002
+Lochan Sgaothaichean,249145,944765
+Loch Bacach,246026,951993
+Meallan Liath,251428,950366
+Meall Bad a' Mhartuin,244242,956405
+An t-Sròn,244223,958087
+Cnoc a' Chuail,244140,952691
+Carn-Achaidh,247320,944720
+Loch a' Gharbh-bhaid,245497,959127
+An Gorm-loch,249668,948605
+Ben Loyal,257626,948256
+Sròn an Aìdeal,245468,947919
+Eilean Thunga,257448,958736
+Bàgh an Ard-achaidh,257398,955631
+Loch Odhrsgaraidh,241962,951960
+Eilean Choraidh,242207,958122
+An Caol-loch,255453,944720
+Eilean Mòr,249969,940388
+Creag Riabhach,250574,945089
+Àrd Neackie,244648,959720
+Druim nan Cliar,250929,958870
+Lochan Sgeireach,255654,944386
+Loch na Creige Riabhaich,243075,950522
+Loch na Creige Duibhe,244401,956678
+Dubh-loch na Beinne,246838,950605
+Srath Feinne-Bheinne,242258,945468
+Coire Leacach,253679,952686
+Lochan nam Meur Liath,251757,959933
+Bàgh Leac Finn,242872,957135
+Ben Hope,247749,950150
+Heathery Face Wood,241378,941127
+Càrn an Tionail,257601,947674
+Feinne-bheinn Mhòr,243447,946280
+Loch a' Mhadaidh-ruaidh,255400,946048
+Creag an Achaidh Mhòir,252822,945984
+Cnoc Bacach,245808,951818
+Sgòr a' Bhatain,257687,949287
+Inbhirean,243469,957695
+Creagan na Speireig,248264,954968
+Sgòr Fhionnaich,256307,948267
+Braetongue,259858,957598
+Srath an Dìthreibh,253263,945175
+Rubh' Àrd Bhaideanach,241606,956003
+Cnoc Riabhach,251020,945270
+Coire Fhionnaich,256712,948205
+Loch nan Ealachan,254683,944375
+Lochan Hakel,257068,952915
+Cnoc an Dubh-locha,255621,959873
+Loch Bealach Odhrsgaraidh,242315,950942
+Meall an Lochain Ghaineamhaich,241667,948827
+Cnoc an Dròbhair,254873,949777
+Creag Chaol,251388,948282
+Loch Bealach na Sgeulachd,242436,953904
+Loch an Aon-bhric,255062,946005
+Ard Thunga,258191,958662
+Ben Arnaboll,245918,959001
+Loch na Bèiste,258909,945950
+Cnoc nan Gobhar,241998,951784
+Srath Coir an Easaidh,242285,941617
+Cnoc nan Cùilean,259734,946191
+Sgòr Chaonasaid,257957,949832
+Bucktooth's Meadow,242410,943407
+An Grianan,243866,947159
+Kyle of Tongue,257811,958236
+Lochan Feur,243912,949352
+Loch Gaineamhach,242068,947788
+Creag Riabhach,258696,949207
+Loch a' Choin-bhoirinn,245604,957308
+Roadstead,244602,958262
+Cnoc nan Uan,243321,951992
+An Garbh-Chnoc,258310,955945
+Bad nan Clach,245092,958465
+Creag na Lùibe Bàine,245382,947460
+Loch Dionach-caraidh,255864,940232
+Meall an Ceirileach,241913,950079
+Cnoc na h-Iolaire,255501,951560
+Loch Hope,246185,954512
+Loch na Cloiche Gile,255846,944730
+Lochan na Feàrna,245141,950276
+Garbh Chnoc,257042,953986
+Tongue Wood,259498,958397
+Loch Cròcach,242845,949073
+Loch a' Bhualaidh,253698,956250
+Sail Romascaig,249175,948208
+Loch Fhionnaich,256611,948268
+Loch na Creige Riabhaich,258436,949157
+Bad Salach,258402,952118
+Loch Staing,257949,940549
+Camas an Dùin,244620,958743
+Cnoc an Daimh Beag,252105,940676
+Cnoc Dubh,254426,943113
+Loch Haluim,255796,945332
+Lochan Sliaghach,254463,945314
+Loch Craisg,259908,957691
+Loch Dubhaidh,243278,954472
+Loch Màthair Bhorgaidh,252620,941133
+Cnoc a' Mhoid,257158,940176
+Loch a' Bhuic,251968,941716
+Cnoc na Coileach,249359,941440
+Cnoc Toiteach,255700,956391
+Meadie Ridge,249916,943797
+Creag Riabhach,247827,947659
+Druim na Teanga,245338,959331
+Cnoc Staing,258722,941964
+Bad an Leth-leathaid,252501,945002
+Coille ri Truail,259027,953558
+Caol-loch Beag,242334,950138
+Calbhach Coire,257355,948768
+Glac an Tìoraidh,245886,957665
+An Lèan-Chàrn,241984,952583
+Feinne-Bheinn Bheag,242838,947713
+Loch a' Bhealaich Dhuibh,255825,948545
+Loch Meadie,250393,941012
+Creag Bhreaig,245032,953064
+West Wood,254375,951960
+Badnaquine,243771,942127
+Coille Cùl na Grèine,253317,948927
+Cnoc na Sròine,254035,940268
+Loch Eileanach,259176,940263
+Cnoc Dubhaidh,242754,952260
+McBrides Wood,254203,951419
+Creag Ach' an t-Srathain,255073,952836
+Meall Bad a' Mhuidhe,243992,955756
+Coille na Cùile,256865,949836
+Loch Coulside,258113,943528
+Loch an Dìthreibh,254120,947948
+Sgòr a' Chlèirich,256822,948561
+Glen Golly,242400,943431
+Loch na h-Airigh Bige,255025,954971
+Creag an t-Tralghean,257055,955082
+Loch Fhionnaich,255513,956203
+Carn a' Mhadaidh,252150,949610
+Loch nam Breac Buidhe,254683,945083
+Lurg an t-Sàbhail,240084,942554
+An t-Sròn,253384,948819
+An Caisteal,257798,948886
+Cnoc an t-Sabhail,246647,944168
+Strath More,245501,944487
+Lochan na Cuilce,257354,953524
+Beinn Bheag,257631,948256
+Am Feur-loch,243899,955275
+Eilean Mòr,245227,950924
+Loch Meall Chuilc,243690,944853
+Ben Hiel,259582,950056
+Tongue Primary School,259295,956821
+Smoo,241562,967044
+Achnahuaigh,257997,964190
+Talmine,258528,963138
+Hope,247485,960122
+Diuranais,240297,967795
+Melness,258473,963000
+Midtown,258034,960955
+West Strathan,256832,964602
+Skinnet,258847,961701
+Portnancon,242533,960498
+Sangobeg,242883,966062
+Leirinmore,242162,966617
+Portvasgo,258370,964813
+Druim Bhlar,241521,967058
+School Road,240362,967487
+Cornhill Road,258663,962485
+Joseph Mackay Court,258531,962422
+School Road,240333,967333
+Eilean Hoan,244701,967471
+Loch Maovally,251006,960122
+Talmine Bay,258699,962894
+Geodh' an Sgadain,245030,960143
+Geodha Brat,240598,968589
+Geodha a' Bhrìdeoin,249068,967303
+Loch a' Mhuilinn,256931,960925
+Lochan na Claise Domhain,256882,965874
+Geodha Glas Mhòr,252501,968498
+Clais Chàrnach,243958,965245
+Creag Ruadh,242649,967137
+A' Ghoil-Sgeir,243207,967053
+Sangobeg Sands,242911,966345
+Cnoc nan Each,249209,965300
+Cnoc na Mòine,256736,964191
+An Oitir,259988,962240
+Loch Eriboll,244244,960069
+Port Chamuill,243325,961128
+Traigh an t-Srathain,257391,965178
+Bàgh nam Faochag,244952,965661
+Loch Uamh Dhadhaidh,245418,964280
+Cnoc nan Gobhar,257450,964520
+Hames Place,240331,967836
+Eilean a' Chaoil,259148,965007
+Creag Mhòr,258573,964712
+Loch na Càthrach Duibhe,246000,961357
+Loch Vasgo,257999,964587
+Cnoc Eilig,255397,961899
+Lochan Riabhach,250892,966753
+A' chlèit,244314,962031
+Loch nam Biast,250229,966340
+Cnoc nan Gobhar,249064,963153
+Dubh-sgeir Mhòr,259748,964470
+Lochan na Glaic,250743,966174
+Lochan Ruadh,248827,961737
+Na Culadain,241026,969049
+Cnoc an Uillt Tharsuinn,250816,963393
+Tràigh na h-Uamhag,244026,966069
+Rubha Thormaid,254773,968051
+Bàgh an Ime,245313,965719
+Beinn Ceannabeinne,242297,964675
+An Cruachan,243486,967841
+Geodh' an Fhuarain,257215,965926
+Cnoc an Airbhe,258484,961886
+Loch Fada,252912,964557
+Bàgh Loch Sian,244703,962738
+Cnoc Odhar,256050,964469
+Lochan Clachaidh,243700,961905
+An Eigin Mhòr,253727,968364
+Geodha nam Bàirneach,243584,966218
+Sròn an Daimh,257215,966015
+Burragaig,240189,969596
+An Ceann Geal,250115,968463
+Bàgh Uamh Dhadhaidh,245631,964649
+Eilean Creagach,258876,963092
+Meall Meadhonach,241002,962799
+Loch nan Aigheann,252949,967998
+Sron a' Chorain,258650,960305
+Port Vasgo,258821,965293
+Loch na Clach Geal,252990,963464
+Tòrr na Bithe,245391,960504
+Sgeir a' Bhuic,247318,963078
+Ben Hutig,253859,965288
+Àrd Skinid,259593,962002
+Eilean Dubh,243665,961208
+Geodha an t-Srathain,249057,963959
+Geodha Meiril,248538,962865
+Leirinbeg,241531,967565
+An t-Aigeach,245679,965635
+Mol Mhòr,249532,968143
+Tòrr Mòr,245536,960826
+Port an Alltain,245518,961124
+Loch a' Choire,246644,961249
+Poll a' Chait Fhiadhaich,242721,967397
+Aodann Mhòr,240484,969275
+Ben Heilam,246936,961771
+Loch Meadaidh,240171,964519
+Rubh' Ard an t-Siùil,248784,967540
+Lochan na Seilg,253731,965906
+Bàgh Thalmin Beag,259164,962280
+Geodh' a' Bhàthaich,249085,967143
+Cnoc a' Bhaid-bheithe,251460,965463
+An Dubh-sgeir,245622,968052
+Bodach Dearg,250029,968751
+Rispond Bay,245403,965287
+Geodha Ruadh,256176,966621
+Loch na Ra'fin,250523,965345
+Stac Beag,257989,965625
+Geodha nam Barnach,252083,968472
+Geodha Raineach,257354,965662
+Geodha Smoo,242014,967627
+An Stac,252253,968572
+An Dubh-loch,255097,960035
+Loch na h-Uamhachd,255517,965808
+Geodha Raineach,249005,965008
+Loch Ach'an Lochaidh,245801,960670
+Cnoc nam Bràigh,244850,964429
+Stac Dubh,258477,965530
+Tràigh Allt Chàilgeag,244260,965720
+Meall Mor,258232,965589
+Sango Bay,241062,967778
+Rubha Creag Iain,245130,965803
+Strath Melness,256585,964091
+Creag Thairbhe,240568,968439
+Cnoc na Bèiste,250532,966065
+Geodha nan Columan,257309,965717
+Rubha Bracaidh,243405,966298
+Dubh-sgeir Bheag,259131,963267
+Clèit an t-Seabhaig,251909,968389
+Loch Sian,244758,963148
+Geodha Brat,255204,967207
+Cnoc Dubh,254296,962447
+Loch Duail,242976,963929
+Stacan Bana,249604,968536
+Rubha Ruadh,245017,962710
+A' Chioch,252694,968564
+Loch Cragaidh,245976,960201
+Greag Ruadh,241131,967616
+Rubh' an Daimh,244640,965592
+Cnoc nan Uamhag,243720,966080
+Aig a' Chreathair,258454,965492
+Pollag na Lùibe,242438,967529
+Portnancon,242785,960306
+Eilean Clùimhrig,246235,965822
+Talmine Island,259149,962407
+Cnoc Sròn a Mhartuinn,255740,964908
+Geodha nan Aigheann,253351,968276
+Cnoc Maovally,250727,960942
+Creag Ruadh,248687,962033
+Cnoc Àrd an t-Siùil,249760,967354
+Lochan nam Breac Buidhe,252591,964419
+Rubha na Creig' Airde,245357,965067
+Durness Primary School,240308,967594
+Creag na Griosaich,242796,960664
+Cnoc Damh,240130,964969
+Rubh' a' Mhuilt,247349,962428
+Geodha Dearg,250623,968183
+Cnoc Lochan na Seanaig,256360,960319
+Rubha Elspet,245629,964835
+Geodha Glas Beag,252842,968456
+Loch nan Clach Geala,255133,965569
+Bàgh Geal,242351,967583
+Sgeir Leathan,243027,966731
+Stac Mor,258299,965618
+Rubha na Grìosaich,244050,965935
+Pocan Smoo,242201,967832
+Blairmore,274072,904074
+Ardachu,267454,903594
+Tomich,260617,904867
+Pittentrail,271431,902507
+West Langwell,269502,909040
+Muie,267131,904446
+Farlary,276788,905832
+Rhilochan,274442,906850
+Rogart,273916,904293
+Inchomnie,274274,906813
+Balnadelson,260043,906123
+East Langwell,272834,906275
+Dalreavoch,274716,907907
+Culdrain,273975,904259
+A839,263112,905446
+Loch nam Faoileag,271853,913018
+Sìdhean Mhic Alla-Bhain,271280,911960
+Dail na Feusaig,269832,911083
+Loch na Saobhaidhe,265199,901580
+Sìdhean Clais an Uanain,276060,905130
+Cnoc Fhionnlaidh,274907,909681
+Creag Dhubh,263066,911017
+Coire Chaorachaidh,266806,912689
+Creag nam Fiadh,264789,913505
+Loch Dubh,261758,903448
+Strath Fleet,272049,902232
+Bad an t-Sean-tighe,274633,913593
+Loch nam Breac Beaga,265118,918762
+Cnoc Mòine na Cailinn,261390,906599
+Bad Lurgainn,269360,906532
+Bad an Fhèidh,270862,902002
+Dail Bhàn,275084,915739
+Sìthean Ruigh na Beinn,263711,907850
+Meall Meadhonach,267565,900641
+Loch na Cinneamhuin,268384,906936
+Pollie Hill,275422,917216
+Cnoc na h-Inghinn,261264,904084
+Srath na Seilge,270368,919209
+Loch na Pulaig,266888,913737
+Bad Leathan,265686,902982
+Terrace,278491,915071
+Cnoc na Caillich,273350,905846
+Loch Dubh-ghruamach,271708,908709
+Am Brù-lochan,265420,901234
+Lochan a' Ghiubhais,269930,901163
+Creag a' Bhòcaidh,266072,905305
+Cnoc Fodha,266565,909586
+Loch Horn,279691,905937
+Loch a' Mheallain Lèith,265992,917196
+Pollie Bridge Pool,276207,917981
+Cnoc na h-Airde,274340,905300
+Creag a' Bhata,272459,902944
+Loch Lòn na Gaoithe,274720,905496
+Loch a' Choin-duinn,276265,906536
+Hector's Hill,279371,918090
+Loch Preas nan Sgiathanach,268015,909097
+Blàr nan Sùil Gorma,264450,908957
+Cnoc Bad a' Chrasgaidh,275474,902806
+Loch na Gaineimh,269697,912496
+Creag Dhubh,269849,918527
+Bad Ra'fin,263704,917545
+Loch na Fuaralachd,260392,916278
+Loch an t-Slugaite,267681,915872
+Reidh-lochan,274235,907085
+Meall Dola,261985,906951
+Cnoc Achadh na Teanga,266040,908531
+Cnoc Eachain,279947,919257
+Strath Lunndaidh,278645,900841
+Loch Airighe Bheg,270316,902459
+Loch Muidhe,266576,905181
+Loch Beag na Fuaralachd,260942,915593
+Cnoc an t-Salachaidh,276829,903219
+Loch Airighe Mhòr,269245,902225
+Cnoc na h-Airigh-slèibh,272351,908660
+Loch Ach' an Eas,279761,916806
+Gate Pool,275988,919994
+Loch Lunndaidh,278381,900880
+Splockhill,273590,904070
+Cnoc na Buaile-fraoich,269678,907800
+Cnoc Achadh na h-Uaighe,271956,907306
+Coire Leacach,269943,914387
+Dailamhadaidh,277976,915283
+Tressady Wood,269651,904173
+Dailbane Hill,274128,914300
+Lochan na Gaoithe,266227,900698
+Cnoc an Lochan Duibhe,274828,913014
+Loch Tigh na Creige,261610,909323
+Meallan Liath Mòr,265944,917750
+Loch Beannach,268498,914643
+Creag a' Bhlàir,273640,900029
+Coire Beinn Lunndaidh,278914,901604
+Lochan Breac,266280,905016
+Coire na Bruaiche,263978,917128
+Cnoc Càiraidh,273253,904981
+Bad Seasg Mòr,260186,914340
+Tickler's Pool,275632,919225
+Muiemore Falls,275476,919092
+Cnoc an Liath-bhaid,273541,910086
+Caisteal na Coille,279534,913373
+Loch an Eòin,270905,914212
+Loch Bad na h-Earba,276581,913838
+Cnoc an Alltain Riabhaich,273160,914080
+Lochan Dubh Cnoc na h-Airde,274589,905019
+Sròn Leathad Chleansaid,261894,918276
+An Dròighneach,271966,900750
+Badachrasgaidh,274243,902816
+Cnoc na Gamhna,277993,903683
+Chair,277097,915772
+The Washing Pool,276750,916063
+Coir' an Torcain,264833,912847
+Meall a' Chaoruinn,267724,915415
+Coire Cruinn,267866,917257
+Cnoc na Sguaibe,269289,910292
+Loch nan Ubhlan,268248,901586
+Coire an Fhaicnich,270489,916957
+Strath Skinsdale,276099,919830
+Cnoc na Fuaralachd,261987,915302
+Loch Coire na Bruaiche,263598,916514
+Cnoc Lochan Iain Bhuidhe,268901,901762
+Meall a' Chaise,265120,911916
+Meall na h-Amaite,277482,914627
+Loch an Fheòir,262529,903532
+Meallan Liath Beag,266553,916398
+Creag Creagach,272871,917903
+Sìdhean na Carraigh,266910,911700
+Lochan na Faolaig,264194,900976
+Loch Craggie,262395,907491
+Cnoc Blàr an Dubhaidh,271869,911706
+Loch a' Chrioslaich,278511,916390
+Creag Dail nan Gillean,269240,918875
+Long Pool,277596,915708
+Meall Odhar,278710,906074
+Lochan Iain Bhuidhe,268951,901244
+Little Rogart Loch,272255,903746
+Cnoc Cracail,262223,901662
+Cnoc an Dùbhlain,270630,903970
+Cnoc an Lùib Bhig,274163,919495
+Lochan Dubh Cùl na h-Amaite,275929,914282
+Loch nan Giùran,275077,912348
+Aberscross Hill,277525,900569
+Cnoc Meadhonach,273436,905137
+Cnoc Cille Pheadair,278890,912425
+Strath Brora,269247,911607
+Dail na Ceardaich,263622,916782
+Loch a' Chàise,265705,911546
+Muiemore Lochs,276926,919738
+Cnoc na Feannaig,271676,919687
+Meall Meadhonach,264003,908406
+Lochan Dubh,274548,912289
+Lochan Dubh Cadhafuaraich,268181,918312
+Cnoc Leamhnachd,275330,911622
+Cnoc Bad an t-Sean-tighe,275824,913509
+Cnoc an Dail Bhric,272968,916371
+Loch Cracail Mòr,262622,902209
+Cnoc Neill,260508,910279
+Baddhu,260428,907056
+Creag Bhreac,270550,904384
+Cnoc an Torra Mhòir,277790,910863
+Hope Hill,277849,918880
+Cnoc Àrd an Tionail,275137,907065
+Loch Cracail Beag,263123,900914
+Torr a' Chlobha,276671,912808
+Cnoc an Fhithich,273580,901590
+Sìthean Achadh nan Eun,263479,911957
+Meall Meadhonach,261790,911648
+Meall a' Phiobaire,269204,915172
+Lochan Sgeireach,267104,915491
+Loch a' Ghiubhais,265720,906523
+Glas-Loch Mòr,267103,919608
+Coire Cnoc na Gamhna,278692,903096
+Loch Farlary,277224,905034
+Pollie Farm Pool,275731,915758
+Ruigh na Cùp,261283,903255
+Cnoc nan Gearr,279260,903183
+Cnoc an Uachdair,272627,906830
+An Stoc-Bheinn,264152,902508
+Cnoc a' Cheathraimh,276966,908980
+Loch Bad an t-Sean-tighe,273569,913271
+Creag Riabhach,271735,912644
+Loch na Glaic,275958,913261
+Cnoc a' Gharbh-leathaid,275856,910369
+Creag Dailfeusaig,270377,911393
+Loch Grùdaidh,274391,910150
+Cnoc an Ruidhean Chruaidh,276140,907567
+Chair Run,277013,915682
+Stable Pool,275604,919296
+Loch Dola,260738,908056
+Cnoc an t-Socaich,276969,908978
+Loch Beannach,273982,911346
+Creagan Glas,267091,901687
+Rogart,272509,901990
+Meall Eachainn,261868,900507
+Loch Salachaidh,276097,903714
+Meall Uaineil,269780,913731
+Bad a' Chòinich,275255,919651
+Coire Buidhe,268020,900976
+Cnoc na Fardaich,270367,909045
+Meall an t-Slugaite,269096,917136
+Island Run,277232,915745
+Meall na Gaoithe,272341,913865
+Amat Farm Pool,276180,915799
+Loch Dailidh n' Airbh,262093,903812
+Ox-Bow Lake,271541,903157
+Grumby Rock,270676,910214
+Cnoc Dubh,271535,906346
+Creag Leac nam Fitheach,273452,907916
+Beinn Lunndaidh,279135,901998
+Rogart Primary School,273608,903961
+Knockarthur,275384,906638
+B873,263810,938577
+B871,276429,939306
+Rubha Geal,273650,933731
+Meall Ailein,261312,931464
+Cnoc Ruigh na Sealbhaig,262960,935840
+Meall Àrd,266582,929274
+Coire Dorch,267165,920866
+Badanloch Hill,279892,934805
+Beadaig,264614,937093
+Cnoc Preas an Tairbh,272759,924013
+Cnoc a' Bhreac-achaidh,267680,935350
+Riasg Hill,277078,928106
+Cnoc na Breun-choille,278957,924572
+Lochan Dubh,267645,936310
+Cnoc Airigh an Leathaid,270067,932958
+Loch Ruigh nan Copag,264909,935411
+Coille Coire nam Feuran,266161,934957
+Creag Mhòr,269844,924016
+Cnoc Bad a' Chlair,276240,932990
+Badanloch Forest,279019,934854
+Loch Choire,263169,928458
+The Whip,262505,932173
+Lochan Dubh,271914,932944
+Cnoc Molach,278460,935400
+Cnoc Bad an t-Slamain,278418,935443
+Meall nan Aighean,268105,928867
+Coriefeuran Hill,266274,933359
+Rubha Mór,273927,936225
+Glas-loch Beag,266020,920123
+Coire Glas,269836,927542
+Meall an t-Socaich,276978,932731
+Poll Harraild Mòr,267847,939113
+Cnoc an Liath-bhaid Mhòir,275933,929141
+Naver Forest,270444,935208
+Loch Tarbhaidh,263779,935965
+Gorm-Loch Mòr,271318,923307
+Lochan a' Choire Bhuidhe,270322,939012
+Cnoc Loch Tarbhaidh,263741,935309
+Coire na Seilge,260076,920519
+Coire na Saidhe Duibhe,269505,928366
+Meall Meadhon,264972,927432
+Round Hill,266723,939620
+Cnoc Caol,274224,922440
+Dailmallart,267363,937890
+Meall a' Bhata,263572,926441
+Eilean a' Bhreac-achaidh,267935,935887
+Càrn nan Ceannaichean,273419,925118
+Loch Truderscaig,271187,932702
+Corrie na Bà,261105,930744
+Cnoc a' Chròm-uillt,272763,931222
+Cnoc Leac a' Ghille,265544,936748
+Creag Dhubh,272662,929543
+Cnoc Garbh Beag,273293,921234
+Cnoc an Tailleir,260039,936933
+Bad an Leathaid,270584,936182
+Meall na Caillich,260713,925286
+Coire Poll Dhomhnuill,267636,930560
+Bad na h-Earba,275884,924678
+Bun nan Tri-allt,261477,921520
+Rubha Mòr,276930,934587
+Creag an Lochain,275203,929994
+Gorm-Loch Beag,270677,927175
+Coire na Seilge,264529,926295
+Loch Rimsdale,273860,935107
+Ben Armine Forest,269143,920717
+Cnoc na Gaoithe,272794,935872
+Ceann na Beinne Bige,264388,933166
+Cnoc Bad an Leathaid,270190,935457
+Rubha Dubh,274103,935034
+Naver Forest,275811,937863
+Coire Dorcha,269073,924988
+Cnoc Ruigh nan Copag,263841,935244
+Loch Choire Forest,264461,928975
+Peat Bank,276385,920622
+Cnoc na h-Uidhe,274790,936982
+Cnoc na h-Iolaire,269222,934803
+Loch nan Clàr,275827,935777
+Coirenamfeuran,266073,934607
+Loch an Alltan Fheàrna,275001,933653
+Eilean nam Meann,274167,935172
+Glen Hill,278982,930143
+Cnoc na Gamhna,269220,936840
+Creag an Alltan Fhearna,274676,932121
+Eilean Poll an Lòinein,267416,938214
+Maol Coire a' Mhile,268378,923135
+Cnoc Uidh a' Chlarain,275801,934267
+Loch Molach,263043,939184
+Coire Buidhe,261259,938837
+Cnoc a' Chrom-uillt,273690,928730
+Rock Pool,275986,920147
+Creag an t-Socaich,277018,930688
+Achrimsdale Hill,278643,926963
+Preas a' Chamraig,271542,929026
+Green Loch,271988,939280
+Loch Gruama Mòr,261015,939572
+Blàrach Burn Pool,276595,920756
+Coire na Feàrna,262204,925707
+Càrn Gruama Mòr,261345,937418
+Cnoc na Meinne,277090,932040
+Cnoc an t-Sìthein,275088,926441
+Cnoc Bad na Fainne,271299,935306
+Coire Ruairidh,269113,920837
+Two Stones,276152,920299
+Round Hill,262806,934194
+Cnoc Bad a' Ghille Dhuibh,279557,936442
+Coire Meall Chaluim,265159,928180
+Cnoc Blàrach,278777,920572
+Alltanmolach,268613,931500
+Creag Riabhach na Greighe,261016,920843
+Coill Ach' a' Chuil,264404,937505
+Coire a' Mhile,269302,922479
+Meall an Fhuarain,261105,923693
+Monadh Stairneach,266228,926675
+Loch na Gaineimh,276642,930425
+Creag Liath,274215,929895
+Càrn Gruama Beag,262887,938617
+Cnoc Dail a' Thuraich,264567,939977
+Sròn an Eireannach,275626,938373
+Creag na h-Iolaire,267355,928889
+Loch Badanloch,277356,934004
+Meall a' Choire Bhuidhe,269723,938668
+Creag a' Choire Ghlais,269490,927303
+Coir' an Eas,269549,925616
+Loch Coire nam Feuran,266437,935228
+Loch Naver,261435,936470
+Coldbackie,261407,959998
+Dallcharn,262227,958646
+Blandy,262039,959974
+Borgie,266788,958771
+Syre,269379,944025
+Strathtongue,261906,959487
+Rhitongue,260019,959246
+Carnachadh Loch,270393,952977
+Loch Stephan,269592,955298
+Grian-loch Mòr,264472,955772
+Cnoc an Fhreiceadain,261121,959430
+Loch na Criche,273321,942991
+Lochan Dubh,262442,959345
+Loch an Achaidh Mhòir,261770,942415
+Creag an Achaidh Mhòir,260544,941329
+Loch Oich,279200,945718
+Lochan Dubh,264859,959961
+Loch Achcheargary,271213,953408
+Creag nan Laogh,270694,941562
+Lochan Dùinte,271633,958302
+Caol-loch Beag,277914,943497
+Coire Beag,267328,949440
+Creag Feusaige,274233,946602
+Loch nam Breac,266026,949570
+Coire nam Breac,265889,949943
+Beinn a' Mhadaidh,276896,941501
+Loch nam Breac Buidhe,261736,943312
+Lochan Dubh,266419,959466
+Loch nan Ealachan,267720,952025
+Loch Buidhe Beag,277301,959415
+Sìthean na Gearrsaich,260520,954228
+Loch Cormaic,262701,958068
+Coire Buidhe,267247,943944
+Naver Rock,270182,959022
+Tom Apigill,270747,956819
+Loch na Mòine,262825,951853
+Cnoc Chealamy,271164,950033
+Loch nan Clach,276960,953084
+Loch Buidhe Mòr,277831,958239
+Creagan Dubha Rèidhe Bhig,275191,944068
+Loch na Garbh-shròin,265465,943273
+Loch Langdale,268401,946441
+Caol-loch Creag nan Laogh,276931,957021
+Lochan na h-Uimheachd,260933,954385
+Coire na Caileig,263415,950246
+Loch Feusaige,274948,946457
+Lochan Dubha Àirigh Skelpick,273187,957045
+Sròn Ruadh,262726,950678
+Eilean Garbh,271942,947903
+Coir'an Achaidh Mhòir,260021,941760
+Eilean Fraoich,263118,946330
+Creagan Breac,263473,955720
+An Dubh-loch,261378,958925
+Garvalt Hill,264516,944157
+Na Caol Lochan,269226,955751
+Clàr-loch Mòr,264939,958713
+Cnoc Carnachadh,271545,952732
+Caol-loch Mòr,278120,944494
+Loch Bracsaid,269862,959180
+Loch a' Phriòsain,263715,945145
+Lochan na h-Uimheachd,260819,954062
+Eilean Ceann na Coille,268255,940690
+Loch Chealamy,272206,950584
+Druim Meleag,267893,950560
+Clàr-loch Beag,265244,958482
+Meall an Spothaidh,266769,949243
+Loch nam Breac,269259,958302
+Meall Eudainn,260658,945733
+Beinn Stumanadh,264071,949938
+Lochan Àirigh na Creige,272777,958320
+Eilean Mòr,265849,944675
+Loch Gaineamhach,263337,944427
+Loch Rosail,271609,940150
+Coir' Achadh nan Sac,264051,949336
+Srath Nabhair,272561,949208
+Ben Meadie,276876,958106
+Meall Ceann Loch Strathy,276282,945053
+Meall Bad na Cuaiche,276242,946597
+Meall Meadhonach,267130,948397
+Dawson Pool,270770,946025
+Caol-Loch,276274,959744
+Cnoc na Mòine,262764,952584
+Meall nan Clach Ruadha,260517,956989
+Beinn Rifa-Gil,274220,948954
+Rimsdale,274026,940060
+Creag na Speireig,260690,950474
+Lochans,279796,956729
+Cnoc nan Tri-chlach,279107,943864
+Coill' a' Phuill,263839,950885
+Eilean Mòr,262701,946271
+Langdale,269868,945087
+Borgie Forest,266699,953954
+Lochan nan Gobhar,268564,957853
+Long Hill,265692,942400
+Meall Leathad na Craoibhe,261530,955778
+Cnoc an Arbhair,266831,957647
+Loch na Gàire,264662,945425
+Loch Glasail,265169,940892
+Loch Bad na Gallaig,263011,942875
+Cnoc nan Gall,271401,946000
+Coir' an Eich,260959,946111
+Cnoc Craggie,260533,952911
+Loch nam Faoileag,273034,955174
+Lochan Leacach,268898,957231
+Loch Rifa-gil,274939,948352
+Ceann-na-coille,267828,940591
+Cnoc Bad an Fheòir,265060,941680
+Strath Tongue,262039,959080
+Stionach Coire,265311,948971
+Loch an Eilein,275399,950232
+Gull Loch,267518,943270
+Druim Buidhe,266657,953658
+Loch Gaineimh,279836,943051
+Dunviden Lochs,274916,950693
+Uidh-Gharbh,262326,953227
+Cnoc a' Bhreac-achaidh,265400,957350
+Loch Cròcach,264350,959240
+Loch Tuirslighe,265862,959237
+Lochan Bràighe,276575,951235
+Yellow Bog,279439,950642
+Loch Dubh Beul na Fàire,264725,959310
+Cnoc Airigh Mhic Leòid,268339,951082
+Dunviden Hill,274280,951620
+Collie na Leitire Bige,262419,950349
+Loch Meleag,267907,949925
+Coire Buidhe,270786,942572
+Loch nam Faoileag,273411,940858
+Meall a' Bhreac-Leathaid,266151,948657
+Loch nan Laogh,275783,955739
+Cnoc Bad na Gallaig,262725,941541
+Lochan Arbhair,267427,957219
+Loch Mòr na Coarach,276366,954595
+Loch nan Con-donna,267434,951526
+Coire na Creadha,260474,946271
+Beinn nam Bò,278608,958598
+Loch Molach,272446,941976
+Ben Tongue,260435,958810
+Cnoc a' Bhothain,269865,954138
+Rhifail Loch,271848,942302
+Palm Loch,270960,941003
+Lochan nan Cùilean,260205,945913
+Loch Bracsaid,269468,952596
+Loch a' Chnoic Ruadh,269125,954094
+Beinn Bhreac,260851,956443
+Cnoc Airigh na Meinne,262458,955656
+Cnoc Maol Malpelly,269961,949927
+Lochan Thaibstil,273372,958502
+Meall Loch nan Gamhna,264628,958180
+Garbh-Chnoc nan Ealachan,268056,952558
+Loch Craggie,261685,951914
+Cnoc Liath,262780,940760
+Cnoc Meala,278103,956588
+Eilean Uan,271027,959965
+Creag Dalhorrisgle,270731,956016
+Loch Claisein,265363,959973
+Cnoc nan Lamhainn,279041,958000
+Coire Mòr,263026,950491
+Cnoc Dail a' Chairn,262420,958209
+Eilean nan Crodh,262922,946048
+Lochan Dubh Skelpick,271628,956818
+Loch nan Coinean,267129,946118
+Loch nan Clach Geala,260539,953758
+Pole Hill,264210,941247
+Loch Syre,265991,944964
+Loch Buidhe,263108,959522
+Loch Bad an Fheòir,264813,941927
+Lochan Sgeireach,275792,943149
+Cnoc Dalveghouse,271146,955109
+Beinn Rosail,270183,940572
+Loch nam Breac Buidge,265010,956913
+Loch na Faoileig,264199,945200
+Eilean na Gàire,262973,945920
+Loch na Glaic,276597,958570
+Loch ma Nàire,272631,953706
+Loch Meala,278812,956928
+Grian-loch Beag,264183,956778
+Cnoc Bothan Uisge-Beatha,274070,943160
+Loch Loyal,262002,947795
+Rimsdale Hill,275472,940100
+Loch Strathy,277661,947087
+Ceann Garbh,272952,945812
+Cnoc nan Damh,267660,948550
+Loch Beag,265349,944917
+Loch Meadie,275298,959949
+Creag Dhubh,265492,949547
+Coire Cosagach,260298,946426
+Loch Warrender,274518,949212
+Loch Slaim,262434,953554
+Dail na Drochaide,271875,957577
+Lochan nan Càrn,269196,953416
+Loch nan Gamhna,264545,958077
+Lotts,266935,962865
+Crask,272049,962592
+Skerray,265572,962996
+Clashclevan,265980,962882
+Achtoty,267418,962307
+Swordly,273361,963025
+Modsary,265062,962204
+Farr,272036,963138
+Invernaver,270710,960246
+Torrisdale,267926,961569
+Am Blàran Odhar,270715,961934
+Kirtomy,274285,963547
+Clashaidy,266401,963546
+Achina,270738,961004
+Clachan,271686,962075
+Achnabat,266227,962701
+Strathan Skerray,264130,962967
+Tubeg,265976,963497
+Lamigo,265350,963143
+Armadale,278604,964664
+Munro Place,270589,961818
+Gordon Terrace,270597,962038
+Mackenzie Crescent,270681,962308
+Farr View,271104,962094
+Park Drive,270700,961944
+Rossal Place,270748,961941
+Creag Gharbh,276916,965738
+Rubha Dubh,265755,963898
+Geodh'na Muic,274829,965490
+Leabaidh Aonghais Chonnoich,271947,964655
+Neave Island,266394,964477
+Geodh' na Muic,270615,962743
+Creag Ruadh,269618,963049
+Farr Port,271099,963207
+Crasbackie Hill,277880,963460
+Rubh' an Eich Bhain,266375,964742
+Geodh' Chàise,272081,964458
+Loch Salachaidh,273463,962094
+Loch Feuranach,271913,960392
+Loch nan Cnamh,265890,961749
+Port an Fheadairigaig,266802,963685
+Uamh na h-Oidhche,263409,965322
+Ardmore Point,276969,966346
+Leac Langh,273042,964079
+Reismeave,278714,965392
+Eilean Clèit an Ime,271629,964806
+Uamh nan Soithichean,278602,965325
+Ardag Bheag,265192,963742
+Loch Modsarie,264867,961553
+Beinn Chuldail,279150,961848
+Eilean nan Ròn,263742,965336
+Am Mol-lochan,264269,965329
+Uamh na h-Acrach,274767,965256
+Lochan Tiormachd,276159,964855
+Port na h-Uaille,264366,965229
+Lochan Sleiteil,263194,963219
+Ard Beag,271265,963258
+Cnoc na Croiche,270650,961570
+Geodh' Ghamhainn,275959,965910
+Port a' Chinn,278341,965432
+Lochan nam Burag,265744,961045
+Farr Bay,270901,962897
+Geodh' an t-Sail,273984,963983
+Ard Mòr,270153,962617
+Lochan a' Choire,268495,960284
+Lochan Ruadh,263600,961916
+Geodh' Ruadh,272309,964168
+Geodh' nam Faochag,273742,963892
+Farr Point,271662,964593
+Creag Clachain,271398,962102
+Càrn Mòr,266092,963995
+Rubha Dearg,273495,963880
+Leathad Ballach,264619,965450
+Àird Torrisdale,267600,962815
+Mol Mòr,263544,965494
+Loch Eileanach,279046,960811
+Uamh Latha,263312,965152
+Lamigo Bay,265032,963655
+Sand Hills,279371,964361
+Sgeir Dhubh,279602,965788
+Port Mòr,277422,965906
+Stac an Fhamhair,266893,964249
+Am Breac-leathad,265560,963408
+Heiskeir,266276,963995
+Geodh' a' Bhlàir,276451,966267
+Rubha Geal,264589,963774
+Eilean Rubha na Moine,271386,964840
+Cnoc na Caillich,264470,965537
+Bay of Swordly,273427,963728
+Na Mill Bhuidhe,271287,964565
+Skerray Bay,266129,963897
+Port an t-Strathain,264295,963703
+Loch Gaineimh,276569,960946
+Port Gaineamhach,266831,964213
+Cnoc an Tighe,261719,960889
+Ard Beag,270865,962508
+Sròn a' Bhàgh,266105,964713
+Loch Mer,270448,960021
+Tongue Bay,260893,961998
+Carn na h-Uamhaig,264888,962574
+Bruth Lochan,276245,963421
+Sleiteil Rocks,262903,963341
+Kirtomy Bay,274372,964355
+Swordly Loch,272969,962882
+Cnoc nan Uan,266710,963189
+Poll Tuaireapach,265998,964538
+Cnoc a' Chuilbh,277257,961349
+Geodh' Mhanaich,266309,964667
+Port an Daimh,266163,964328
+Loch na Coit,266172,961392
+Loch Skerray,266408,960036
+Lochan Druim an Dùin,269353,961064
+Leathad Connaidh,273846,963238
+Loch Beag,271779,960854
+Dubh-Lochan,274907,963078
+An Innis,263259,965042
+Clais Mhor,273843,963536
+Mullach an Àird,275225,964763
+Màs na Buaile,267277,963578
+Ard a' Mhinn Ghlais,279798,966002
+Poll Leac an Ràcain,274271,964287
+Kirtomy Point,274936,965811
+Eilean Eiglei,277974,965846
+Càrn an Lamhaidh,275882,965712
+A' Chabach,271301,964083
+Sgeir an Òir,261112,964446
+Uamh nan Ròn,263108,965780
+Cnoc Eilean nan Gall,268130,960560
+Geodh' Ruadh,277633,965667
+Ben Blandy,262581,960101
+Geodh' Dubh,274674,964954
+Rubh' an Loisgein,263550,966193
+Eilean Iosal,262773,965968
+Loch na h-Imriche,276741,964325
+Meall Mòr,260591,960301
+Loch Chuibhe,269590,960091
+Sgeir an Eilean,274162,964183
+Eilean nan Gall,260776,963324
+Port na h-Innse,263439,965379
+Sgeir Bhàn,266745,964607
+Aìgeach,274107,964277
+Sgeir Dhubh,270805,963483
+Geodh' Ruadh,274545,964271
+Rubha an Aird Bhig,277667,965920
+Geodh' Dubh,271326,964166
+Loch Mòr,272005,960836
+Meall an Dòbhrain,275681,965740
+Cnoc a' Phuillachair,267290,960889
+Meall an Lochain Ruaidh,263513,961458
+Glaisgeo,271347,963561
+Lochan Blàr a' Bhainne,266973,961247
+Mol na Coinnle,264235,965114
+Cromsac Hill,279400,962790
+Càrn Talmhuinn,264255,966111
+Cnoc an Loisgein,263817,965602
+Uamh Ghamhainn,275310,966202
+Geodh' Geal,277263,965709
+Càrn an Fheidh,262761,962165
+Port Beag,273408,963571
+Creag Ruadh,271456,963776
+Geodh' an t-Seabhaig,276897,966374
+Glas-eilean,272881,964159
+Creag Bhridean,267658,963457
+Uamh Dhonn,275032,965866
+Torrisdale Bay,269382,962586
+Meall Glas,262878,965986
+Caol Beag,266452,964037
+Loch a' Chaoruinn,266726,960140
+Port an Alltain,279905,965912
+Eilean Rubha Ghamhainn,276062,965880
+Rubha nam Meallan,276608,966381
+Meall Thailm,262879,966196
+Bàgh Challbacaidh,261130,960540
+Port Mòr,273533,963657
+Loch an Tigh-choimhid,266202,960751
+Dial Hill,266130,963030
+Àrd Farr,271650,964296
+Rubha Dubh,266496,964816
+Farr High School,270584,961918
+Uamh nan Clach,271387,964830
+Sgeir Bhagain,274057,964050
+Cnoc a' Phobuill,266350,963700
+Poll an Leabaig,266778,964046
+Eilean Pollsain,275124,966143
+Geodh' Glas,273114,963815
+Cnoc Mòr,275642,963720
+Claigeann na Sgeir,261187,964761
+Caol Raineach,264286,965237
+Armadale Bay,279176,965187
+Culgower,297799,912065
+Crackaig Crofts,296396,911290
+Badnellan,288725,904506
+Brora,290470,903945
+Lower Brora,290479,903801
+Achrimsdale,290640,906492
+Gordonbush,284562,909617
+Clynelish,289528,905305
+Dalchalm,291026,905789
+East Clyne,290055,906283
+West Clyne,288923,905861
+Balnacoil,280210,910994
+Lothmore,297041,911419
+Backies,283275,902051
+Lothbeg,294528,910413
+Bruachrobie,288866,904285
+Ladiesloch,290049,904490
+Doll,287967,903218
+East Brora,290535,904522
+Ardachew,289575,904281
+North Brae,290609,904097
+South Argo Terrace,283786,900347
+Gower Lane,290538,903892
+Ross Terrace,290586,903744
+Victoria Road,290544,904484
+Memorial Square,290586,903961
+Ben Mailey Gardens,290944,904435
+Braambury Road,290247,904709
+Ross Gardens,283394,900488
+Victoria Crescent,290709,904134
+Victoria Road,291065,906156
+Argo Terrace,283659,900616
+Academy Street,290338,904457
+Park Court,290220,904060
+Uppat Place,290349,903480
+Harbour Road,290813,903905
+Woodland Crescent,283324,900380
+Tower Street,283545,900610
+Seaforth Place,290282,903548
+Ross Street,283599,900549
+Queen's Drive,285893,901860
+Victoria Drive,290704,904247
+Gower Street Lane,290561,903925
+Victoria Road,292041,907270
+East Millicent Avenue,283094,900042
+Muirfield Road,290739,904396
+Johnstone Crescent,290395,903628
+High Street,290220,903856
+Saltire,290476,905394
+Mill Way,290538,904180
+Golf Road,290851,904127
+Johnstone Place,290510,903725
+Salt Street,290948,903653
+Gower Court,290560,903822
+Market Street,290823,903710
+East Gate Lodge,284971,901091
+Woodland Way,283281,900299
+Main Street,283348,900035
+Col Bheinn Road,290194,903781
+Sibell Road,283846,900526
+Rosslyn Street,290269,903898
+Duke Street,283935,900115
+Links View,291016,904154
+Red Row,290936,903732
+Park Street,283695,900478
+Saltire,290964,905598
+Braambury Road,290384,904817
+Back Street,284726,901530
+Kinghorn Court,283472,900449
+Fountain Road,283145,900098
+Tarbat Crescent,290437,903526
+Gower Street,290589,903859
+Old Bank Road,283903,900379
+Station Square,290609,904097
+Shore Street,290954,903811
+Queen's Drive,283925,901869
+Dudgeon Park Road,290184,903609
+Dunrobin Glen,281552,903394
+Loch Mhuilinn,283186,912458
+Clynelish Moss,287915,904871
+Badair Abhainn,282067,903801
+Balnacoil Hill,281130,911830
+Beinn Smeòrail,286284,911699
+Baddanraffan,284380,914251
+Loch Coir' an Eoin,282798,916417
+Cnoc Meadhonach,284588,917269
+Kilearnan Hill,293617,917824
+Glas Choire,290356,913308
+Clynelish Road,289929,905447
+Moray Terrace,290622,903713
+Victoria Road,290397,905277
+South Brae,290538,903961
+Muirfield Drive,290838,904377
+Creag Riasgain,295707,912689
+Cnoc na h-Innse Mòire,282081,919101
+Cnoc Ruighean na Sgainn,280268,913943
+Carrol Rock,284389,907847
+Sròn Rubha na Gaoithe,299164,911656
+Cnoc Dail a' Bhàthaidh,280544,910013
+East Brora Muir,290810,904719
+Creag a' Chrionaich,292446,911521
+Ben Bhraggie,280804,901289
+Socach Hill,288496,906346
+Bad Leodhais,284270,913671
+Loch an Tubairnaich,287672,908932
+Meallan Liath Mòr,288179,913690
+Meallan Liath Beag,288379,915022
+Loch nan Caorach,280255,902092
+Cnoc a' Chrùbaich Bhig,286560,917892
+Glen Sletdale,290865,914309
+Bramberry Hill,289508,904926
+Cnoc a' Chliabhain,284791,904227
+Glen Loth,294564,910731
+Cnoc nam Meann,286740,919360
+Culgower Hill,297452,913443
+Coire Chomhaich,281351,905931
+A' Chràsg,294669,916631
+Cnoc Preas an Daimh,285538,919455
+Glen Loth,293685,914472
+Beinn Cas a' Bhaich,280884,905037
+Loch nan Greusaich,288094,904436
+Creagan Mòr,291576,908741
+Cnoc Cragaidh,286196,910833
+Cnoc a' Chrùbaich Mhòir,287271,916924
+Coire Aghaisgeig,284233,905982
+Eilean nam Faoileag,285599,906005
+Cnoc na h-Iolaire,293274,910856
+Meall Coire Aghaisgeig,282890,905144
+Cnoc Craggie Beag,290929,917759
+Beinn Mhealaich,296096,914963
+Gilbert's Hill,283550,907503
+Strath of Kildonan,293810,919094
+Loch an Lìn,287484,903811
+Badfleugh,291752,919495
+Badenahauglish,290941,909984
+Coille Bad Mheasain,293654,913167
+Na Dubh-Lochan,286932,904321
+Badan,285524,912815
+Creag Loisgte,299641,913875
+Meall Horn,281098,907469
+Coire Riabhach,289788,912711
+Glass Hill,280851,917057
+Asc na Grèine,290094,908324
+Cnoc Craggie,289588,919692
+Càrn Garbh,289249,913797
+Braeval,291998,908374
+Cnoc na Croiche,284416,900401
+Castle Hill,289552,903689
+Ben Uarie,292795,916427
+Beinn Dhorain,292531,915668
+Uppat Wood,287528,902813
+Loch a' Bhididh,281981,908249
+Coire na Mòine,280358,902446
+Druim Dearg,292816,914277
+Kilbraur Hill,282400,908378
+North Brora Muir,288766,904205
+Beinn an Leathaid Mhòir,283140,908552
+Cagar Feosaig,284020,904022
+Port a' Gheamhraidh,290474,903169
+Dunrobin Wood,285939,902084
+Col-Bheinn,288601,911066
+Cnoc an Daraich,290288,906248
+Creag Riabhach,293681,911924
+Lothbeg Point,295867,909564
+Eldrable Hill,298780,916668
+Dunrobin Castle,284975,901276
+Creag a' Bhodaich,291482,914110
+Clynelish Muir,288920,904750
+Ben Horn,280762,906364
+Golspie Primary School,283623,900281
+Killin Rock,286842,905887
+Cnoc Coir' an Eoin,282627,914916
+Cnoc a' Ghrianain,283773,911479
+Ben Bhraggie Wood,282269,901274
+Loch Brora,284691,908865
+Brora Primary School,290380,903741
+Golspie High School,283319,900166
+Carrol Crescent,290442,903811
+George Street,291000,903672
+Elder Street,290882,903739
+Saltire,290982,905651
+Smithy Lane,290567,903933
+Brora,290656,904156
+Braambury Road,290068,904550
+Queen's Drive,282250,900770
+Dudgeon Drive,290253,903500
+Queen's Drive,282846,902311
+Manse Park,290707,903879
+The Glutt,299910,936773
+Badanloch,280016,933179
+Lochside,287291,935657
+Kinbrace,286279,931810
+Coire Caol,294943,928046
+Cnoc Salislade,294407,923931
+Dalcharn Wood,286413,927397
+Cnoc a' Mheirlich,290761,921778
+Achentoul Hill,289409,933285
+Tor-Du',285386,930724
+Garvery Hill,299754,924701
+Glen More,296233,937368
+Margaret's Loch,297563,935502
+Loch Arichlinie,284697,934988
+Creag nan Geàrr,295591,924351
+Mid Hill,283980,924751
+Loch Lucy,287834,939564
+Torrbrach,295772,926912
+Loch Ascaig,284892,925530
+Cnoc Riabhach,292006,937698
+Loch na Stàirne,296155,930212
+Srath na Frithe,283689,926760
+Cnoc Dubh,285208,926025
+Cnoc na Tuathrach,290277,933887
+Cnoc na Fliuch-airigh,289560,930679
+Corrish Hill,283223,934059
+Easan Geal,289390,933807
+Windy Hill,285096,924534
+Cnoc Feith na Fola,282786,929011
+Beinn Dubhain,293679,920717
+Eas Gluta,298688,934115
+Loch Achnamoine,281369,931924
+Knockfin Heights,292488,934601
+The Achin,280404,929902
+Tom na h-Iolaire,292421,921394
+Badandrabhach,283648,934479
+Bad Shionnach,298869,929783
+Tomich,280705,926704
+An Cnoc Buidhe,288475,927527
+Coir' a' Phiceir,292091,928895
+Cnoc Sguabach Cadha,296310,933270
+Cnoc na h-Airigh,290244,928883
+Torr nan Gabhar,293203,926828
+Loch Braigh na h-Aibhne,299841,931874
+Strath Beg,285782,931459
+Cnoc a' Mheadhoin,292144,924739
+Cnoc nam Bo Riabhach,290630,939730
+Cnoc nam Fàl,292600,925520
+Mid Hill,298222,920908
+Alla Choire,294567,925386
+Cnoc Coire na Feàrna,293438,929842
+Loch an Ruathair,286641,936724
+Bad nan Gobhlan,280673,936133
+Ben Grìam Mòr,280639,938941
+Cnoc Dail-chairn,285578,928300
+Creag Dal-Langal,289333,921917
+Lochan Airigh Leathaid,299072,939019
+Suidh' an Fhir-bhig,296372,925291
+Learable Hill,289060,924350
+Lochan Dubh,288119,937107
+Meall a' Bhùirich,283930,938652
+Cnoc na Bèiste,291214,928477
+Cnoc Bad na h-Eirig,288849,926428
+Cnoc nam Fèinn,291548,924242
+Creag Sail a' Bhàthaich,285103,937609
+An Coire Glas,294899,926208
+Cnoc Garbh-Leathaid,296384,936012
+Small Mount,299078,928674
+Ceannabhaid,282253,925301
+Coire na Feàrna,293629,928603
+Cnoc Tuarie,282959,921330
+Coille Cill a' Mhuire,290388,922669
+Grey Hill,280365,922270
+Bad an Fheòir,287629,921382
+Cnoc Cròm-uillt,294506,938942
+Achentoul Forest,287067,936845
+Cnoc a' Chrochaidh,291081,921108
+Loch Scalabsdale,296353,924410
+Cnoc an Eireannaich,295722,927667
+Kinbrace Hill,288221,928998
+Borrobol Hill,287273,925318
+Loch Culaidh,286343,939055
+Coire nam Maigheach,295370,923619
+Loch Mhadaidh,299752,933045
+Cnoc Gaineimh,292815,933590
+Creag Scalabsdale,297040,924031
+Cnoc Ach' na h-Uai',281964,933488
+Creag nam Fìadh,284108,923715
+Glutt Loch,299219,937352
+Gleann nam Bean,295332,939886
+Halliagarry Hill,284471,922583
+Bad an t-Seo'ig,284660,933539
+Cnoc Loch Mhadadh,299416,932824
+Coire Gille Ghairbh,296637,928203
+Creag nan Caorach,287242,931290
+Borrobol Forest,280534,926120
+Cnoc Ascaig,286556,923384
+Kinbrace,286204,931654
+Kildonan,290153,921750
+Forsinard,289178,942771
+Trantlemore,289178,953150
+Croick,289490,954062
+Breacrie,289743,951133
+Dalhalvaig,289414,954804
+Achiemore,289493,957736
+Cnoc an Fhithich,298069,958479
+Cnoc Alltan Caoruinn,299813,949906
+Loch a' Bhroillich,281498,953869
+Dry Burn Forest,281488,946863
+Gleann Chorcaill,296786,957337
+Druim Dubh,282174,954961
+The Cross Lochs Forest,285062,945754
+Druim an Laraidh,291857,959900
+Cnoc Maol Donn,298064,956207
+Loch Dubh,281523,947476
+Lochàn Dubha na Cloiche,297863,948946
+Cnoc na Claise Luachraich,292875,954501
+Sletill Hill,292933,946528
+Loch Torr na Ceàrdaich,297020,951036
+Coille Mac nam Muc,289218,956039
+Rèidh a' Chruidh,284854,946398
+Loch nam Bò Uidhre,284519,957158
+Loch Bad Mhairtein,293663,954638
+Woodcock Hill Forest,288850,947398
+Cnoc a' Bhroillich,282011,953001
+Station Hill,299740,946650
+Clachgeal Hill,295911,957595
+Cnoc Maol Donn,297818,945629
+Loch nan Eun,292822,954824
+Loch Bad a' Channain,293319,940900
+Lochan Ealach Beag,296576,949564
+Smigel Pool,289229,957951
+Imriche Forest,292152,944934
+Cnoc an Fhuarain Bhàin,295267,953283
+Bad nan Crubag,293945,947421
+Loch an Fheòir,284437,956218
+Gleann Creagach,288836,952359
+Lochan nan Clach Geala,284099,952433
+Glen Urlan,297884,950844
+Lochan nan Clach Geala,291495,959750
+Cnoc Riabhach,290740,951960
+Forsinain Hill,291613,949594
+Cnoc Alltain Duibh,299234,947571
+Loch nan Clach,286212,959062
+Baden Dubh,295114,943296
+Am Bodach,281967,957206
+Dail Dhònuill,289855,945021
+Loch Preas an Lochan,284507,953775
+Meall a' Bhealaich,289348,940355
+Loch na Saobhaidhe,280017,947110
+Loch Cròcach,280469,943812
+Loch na Main,281980,954370
+Cnoc na Dubh-chlaise,280660,959815
+Cnoc na Fèithe Guirme,294309,953829
+Rumsdale,298412,940767
+Achiemore Pool,289335,958580
+Sìdhean Cùl na Beinne,299580,954669
+Dail Mèilich,290688,948313
+The Cross Lochs,287106,946043
+Loch nan Caorach,281912,953657
+Wedder Hill,291640,943597
+Loch nan Geadh,292396,957817
+Cnoc Lochan nan Clach Geala,293780,950100
+Loch Talaheel,295543,948897
+Lochan Dubh Cùl na Beinne,298450,954349
+Loch Rumsdale,296792,941854
+Loch Tuim Ghlais,297811,952599
+Loch Bad a' Bhothain,291750,950671
+Loch Coire nam Mang,280112,940540
+Beinn nam Bad Mòr,299847,955059
+The Dyke Forest,283418,943474
+The Hope Forest,292065,940865
+Loch Sletill,295789,947125
+Beinn Ruadh,284478,959862
+Lochan Dubh,290859,958571
+Cnoc a' Mhuilinn,288100,955850
+Lochan Dubh Pris Chaoil,292646,949717
+Cnoc a' Mheoir Dhuibh,293880,950740
+Caol-Loch,284329,958231
+Sean Airigh,294726,958779
+Cnoc Coillteil,283520,959089
+Cnoc nan Sguabag,295151,951047
+Sletill Forest,294492,946477
+Bighouse Hill,288343,957030
+Gleann a' Mhuilinn,288152,955496
+Loch nan Clach Geala,295613,957394
+Clàr Loch,295372,944221
+Strath Halladale,289672,952996
+Loch an Ruidhean-eòrna,286668,950985
+Lochan Dubh,286928,952918
+Loch Crasgach,283496,954354
+Cnoc Badaireach na Gaoithe,284358,951998
+Loch a' Chlèirich,296047,955114
+Loch a' Mhadaidh,297981,941809
+Loch Lèir,295546,945826
+Gleann Dubh,299196,957497
+Cnoc na h-Innse,298610,947760
+Cnoc Mairi Mùileir,295289,955162
+Cnoc a' Gharbh-bhadain,296439,946004
+Loch nam Breac,282640,947958
+Lochan na Ceàrdaich,283838,954980
+Lochàn Dubha na Cloiche,298564,948454
+Cnoc na Ceàrdaich,283905,955420
+Trantlemore Hill,288589,952999
+Clais Fhliuch,289788,951984
+Mid Hill,297713,957718
+Cnoc Loisgte,299813,949906
+Cnoc Pris Chaoil,292759,951327
+Strathy Forest,281223,957655
+Lochan Ealach Mòr,296623,948127
+Loch na Caorach,291299,958761
+Druim an Loch,286455,951070
+Cnoc Bad Mhairtein,293206,954912
+Cnoc Ghual,283971,949524
+Ben Griam Beg,283179,941177
+Loch na h-Eaglaise Mòr,286115,959868
+Gleann nam Bèist,282570,943232
+Coire Dorch,283654,941407
+Loch a' Mhuilinn,287405,956208
+Lochan Dubh,295512,952386
+Lochain a' Chlèirich,296496,954972
+Woodcock Hill,288530,948280
+Loch Eun,298331,942461
+Cnoc Preas,298390,948850
+Coire Rèidh a' Chruidh,285317,945919
+Channain Hill,293205,941330
+Loch na Seilge,292131,958663
+Loch Sàinn,293030,952593
+Lochan Dubh na Fèithe Caoile,298504,944254
+Cnoc na Main,281550,954460
+Dail Chianrain,298329,940752
+Bad a' Channain,294064,940967
+Caol-Loch,285033,954825
+Lochan nan Clach Geala,293573,949465
+Loch Saird,294514,951984
+An t-Eas,299538,959573
+Cnoc Clais a' Bhothain,292150,954180
+Lochan Dubh nan Clachan Geala,299888,956345
+Dail na Speireig,290468,949343
+Cnoc Fhionnlaidh,291597,955745
+Cnoc an Fhraoich,298660,958989
+Coille Ghasgaig,289510,950656
+Jock's Hillock,296489,959621
+Cnoc an Eich,298470,957690
+Loch nan Gall,286795,957905
+Poll a' Chull,290324,959753
+Cnoc an Fhreiceadain,288717,953873
+Loch Badaireach na Gaoithe,284389,951047
+Cnoc a' Bhreun-bhaid,285443,944934
+Loch Badaidh na Meana,285554,957548
+Bad nam Bo,299204,952432
+Loch Alltain Duibh,299117,948017
+Cnoc Bad an Dealaid,285013,952898
+Loch Druim a' Chliabhain,280895,941249
+Cnoc Seasaimh,299378,942928
+Loch na Cloiche,297527,947392
+Loch na h-Eaglaise Beag,285471,959000
+Lochan a' Ghlinne,296153,956656
+Cnoc nan Gall,294144,942850
+Dail Loisgte,290203,946642
+Cnoc Bad an Amair,285160,943471
+Forsinard,289098,942490
+A897,288617,940849
+Totegan,282857,967706
+Lower Dounreay,298567,967041
+Portskerra,287536,965785
+Aultivullin,281637,967910
+Baligill,285439,965572
+Fresgoe,295740,965960
+Buldoo,299805,967075
+Isauld,298639,964914
+Strathy,284093,965390
+Brawl,281125,966352
+Reay,297331,964904
+Melvich,287927,964789
+Lednagullin,280191,964631
+Aultiphurst,280453,965773
+Pentland Terrace,287745,964917
+The Terrace,295936,964565
+Shore Street,287536,966237
+Mackay Terrace,287538,965691
+Melvich Terrace,287934,964786
+Bayview Avenue,287500,965764
+The Avenue,295778,964517
+Beinn Ratha Court,295765,964444
+A836,289581,963111
+Càrn Garbh,290402,965793
+Berry Geo,287223,966391
+Port Totegan,282311,968827
+Eilean nan Uan,282347,968976
+Rubha an Tuir,289576,965605
+Rubha na Cloiche,286259,966681
+Camp Rock,293670,965993
+Cnoc na Dalach Baite,282834,964090
+Cnoc na Tobaireach,293312,961328
+Cnoc an Achadh,291414,961254
+Cnoc a' Choire Bhig,288065,963768
+Cnoc a' Bhodaich,284922,963195
+Aryleive Moss,299058,961238
+Geodh'na Larach Buidhe,286151,966593
+Oigin's Geo,299492,968350
+Edward's Geo,295666,966308
+Na Bioragan,289351,965869
+Middle Clett,292177,965678
+Loch Achrugan,282503,962914
+Rubha Dubh,280982,967973
+Cnoc na Tuthcaid,284330,965053
+Sgeir Leth-adharcach,290627,965867
+Geodh' Leathan,284187,966153
+Achridigill Loch,285817,961244
+Gleann Creagach,291955,963503
+Cnoc Glas,292870,965670
+Scarf Rocks,295814,966242
+Keoltag Drive,297351,964947
+Steven Terrace,283444,965487
+Leac Mhòr,289946,966022
+Clèit a' Gheodha Ruaidh,280910,966927
+A' Chleit Mhòr,286404,966722
+Geodh' Eisgiadh,291961,965401
+Dail a' Bhaite,283539,964433
+Milton Moss,298474,962187
+Cnoc Glas,281138,966676
+Cnoc Eipteil,286413,962887
+Loch nam Breac Mòr,281199,960290
+Lochan nam Faoileag,282865,969498
+Cnoc Geal,284008,965660
+Port an Uillt Ruaidh,283246,967464
+Cnoc Seònaid,280319,965069
+Cnoc Dubh,281420,966847
+Dail Teine,283224,962732
+Wester Clett,291863,965618
+Beinn Ràtha,295426,961316
+Geodha na Mòine,286906,966003
+Geodh' Ruadh,290531,965763
+Loch Gainmhich,281193,965032
+Geodh' Sheumais,294990,966116
+Comhran Iosal,284221,966096
+Sgeir Dhubh,281953,969153
+Loch nam Breac Beag,281536,960558
+Caol-Loch,292108,961915
+Loch Beag,288860,963855
+Beinn Ràtha Bheag,295476,961976
+Geodh' Ruadh,281948,968858
+Golval Hill,290893,961372
+Lochan nan Eun,298179,961337
+Sandside Bay,296318,965598
+Skerry Eel,294862,966181
+Cnoc Eadar Dha Allt,286760,964430
+Sgeir a' Phuirt,287873,966402
+Strathy Bay,283936,966323
+Loch Achbuiligan,298838,965570
+Red Point,293097,965863
+Geodh' Ruadh,280936,966747
+Loch Sgiathanach,287048,962322
+Geo Cuinge,297594,966783
+Creag Leathan,298362,963160
+Ben Ainnie,280607,964936
+Port Allt a' Mhuilinn,281070,968090
+Brachlach Hill,281759,963833
+Daileag an Riabhach,282789,961625
+Cnoc Glas,283080,968099
+Sandside Harbour,295796,966042
+Ling Geo,297266,966703
+Treli Geo,290932,965611
+Cnoc an Rathaid Mhòir,281381,964765
+Lochan Dubh,280666,964152
+Clais Buidhe,285206,966376
+Sgeir Ruadh,288160,966085
+An Tornaidh Bhuidhe,286707,966182
+Cnoc nan Airigh,298645,960571
+Geodh' a' Choin Riabhaich,285738,966316
+Cnoc nan Urchair,280729,964249
+Cnoc na Leanaig Gile,284857,964936
+Geodh' Stoir,289477,965842
+Rubha Bhrà,287639,966538
+Glas-eilean Beag,282159,968986
+Bas an Uamhag,287096,966335
+Creag Uaine,283104,968736
+Geodh' Grada,295452,966389
+Loch Akran,292254,960425
+Scarbach Geo,298110,967022
+Cnoc a' Choire Mhoir,288070,963789
+Garbh-eilean,282611,969900
+Cnoc na Cailliche,286436,964892
+Strathy Point,282113,967525
+Druim Allt a' Mhuilinn,282008,968513
+Càrn Garbh,284899,966330
+Cnoc na Moine,293959,965140
+Cnoc a' Ghlasraich,287205,964773
+Glas-eilean Mòr,282048,968950
+Loch na Moine,293682,965576
+Geodha Chuthaich,280422,966195
+Geodh' Dubh,282771,969819
+Lady Bighouse,290933,965718
+Geodh' a' Chnuic Ghlais,283103,968426
+Geodh'na Moine,294023,965805
+Loch Baligill,285614,962101
+Boursa Island,280790,967388
+Cnoc an t' Samhraidh,298061,961744
+Geodh nam Fitheach,299974,968713
+Geodha an Tairbh,286790,966129
+Loch Hollistan,292299,964667
+Coire Mòr,288217,963620
+Geodh' na Bà,283150,967685
+Cnoc na Bantraich,297980,964529
+Isauld Port,296768,965677
+Loch a' Bhealaich,289256,960163
+Creag an t-Siorraimh,285404,966279
+Boursa,280977,967401
+Lochan Ealach,281987,965091
+Port Mòr,295848,965617
+Geodh' Geal,287160,966118
+Cnoc Dachow,296390,964400
+Loch Garbh,293940,960489
+An t-Aigeach,287829,966747
+Cnoc nam Buachaillean,284768,960959
+Loch Earacha,289853,960741
+Geodh' Glas,287557,966430
+Port Fhearchair,280071,966021
+Rubha Meil Cuilce,281462,968648
+Easter Clett,292684,965683
+Creag Chailein,288384,962359
+Geodh' nam Muc,281668,968701
+Port Skerra,287786,966400
+Gling Glang,299761,968639
+Creag na Cnuimhe,285910,966573
+Leac Chailein,289683,965988
+Rubha Beag,286553,966727
+Geodha an Alltan,287102,965964
+Cnoc an Ruffer,285155,963772
+Creag Dhonn,280101,966072
+Cnoc Chorkael,289540,961610
+Beinn Ruadh,292683,963155
+Bun Bhaird,284309,966225
+Melvich Bay,288654,965352
+Loch Baligill Hill,285770,962360
+Port Ghrantaich,283115,967845
+Loch Mòr,288875,963274
+A' Ghualann,283310,967015
+Cnoc Feàrna,283960,961220
+Sandside Head,295361,966410
+White Geos,296746,966160
+Glupie Bhrael,280705,966438
+Rubha Ghoiridh,287391,966444
+Lochan Coulbackie,287286,961394
+Cnoc Caol,281883,967318
+Creag Mhòr,299190,962598
+Melvich Primary School,287579,965647
+Reay Primary School,296882,964908

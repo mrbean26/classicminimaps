@@ -17,21 +17,31 @@
 using namespace std;
 using namespace glm;
 
+struct openName {
+	string name = "";
+	vec2 position = vec2(0.0f);
+};
+
 class mapSquare {
 public:
 	bool active = false;
-	string filePath = "";
-	vector<vector<vec2>> shapes;
 
+	string fullFilePath = "";
+	string justFileName = "";
+	string gridSquareName = "";
+
+	vector<vector<vec2>> shapes;
 	vec2 minPoints = vec2(0.0f);
 	vec2 maxPoints = vec2(0.0f);
 
 	void load(string fileName) {
-		filePath = "assets/mapData/" + fileName;
+		justFileName = fileName;
+		fullFilePath = "assets/mapData/" + fileName;
+		gridSquareName = justFileName.substr(0, 2);
 
 		// read line by line
 		string line;
-		ifstream inFile(filePath);
+		ifstream inFile(fullFilePath);
 
 		while (getline(inFile, line)) {
 			// split between commas
@@ -91,6 +101,60 @@ public:
 		size = (GLuint)(vertices.size() / 2);
 		active = true;
 	}
+
+	// texts
+	vector<openName> allNames;
+	string namePath = "";
+
+	void loadOpenNames() {
+		namePath = "assets/roadNames/" + gridSquareName + "Names.txt";
+		vector<string> nameFileLines = savefiles::readLines(namePath.data());
+		int lineCount = nameFileLines.size();
+
+		for (int l = 0; l < lineCount; l++) {
+			vector<string> data = savefiles::splitComma(nameFileLines[l]);
+			
+			openName newNameReference = openName();
+			newNameReference.name = data[0];
+
+			if (data[1].find("Non State") != string::npos) {
+				continue;
+			}
+
+			if (data[1].find("Primary Education") != string::npos) {
+				continue;
+			}
+
+			if (data[1].find("other") != string::npos) {
+				continue;
+			}
+
+			if (data[1].find("Secondary Education") != string::npos) {
+				continue;
+			}
+
+			if (data[1].find("Further Education") != string::npos) {
+				continue;
+			}
+
+			if (data[1].find("Special Needs Education") != string::npos) {
+				continue;
+			}
+
+			if (data[1].find("Coach Station") != string::npos) {
+				continue;
+			}
+
+			if (data[1].find("Hospital") != string::npos) {
+				continue;
+			}
+
+			newNameReference.position.x = stof(data[1]);
+			newNameReference.position.y = stof(data[2]);
+
+			allNames.push_back(newNameReference);
+		}
+	}
 };
 
 namespace classicminimaps {
@@ -99,30 +163,31 @@ namespace classicminimaps {
 	float scaleDivider = 100.0f;
 	float height = 99.0f;
 
-	float distanceToLoad = 0.0f;
+	float distanceToLoad = 100.0f;
 	float rotationSearchInterval = 20.0f;
 
 	mapSquare rivers;
 	vector<mapSquare> currentMapSquares;
+	vector<openName> toRender;
 
 	void begin() {
-		int vertex = createShader("assets/shaders/mapVertex.txt", GL_VERTEX_SHADER);
-		int fragment = createShader("assets/shaders/mapFragment.txt", GL_FRAGMENT_SHADER);
-		shaderProgram = createProgram({ vertex, fragment });
+		int vertex = shader::createShader("assets/shaders/mapVertex.txt", GL_VERTEX_SHADER);
+		int fragment = shader::createShader("assets/shaders/mapFragment.txt", GL_FRAGMENT_SHADER);
+		shaderProgram = shader::createProgram({ vertex, fragment });
 
 		rivers = mapSquare();
 		rivers.load("WatercourseLink.shp.txt");
 		rivers.loadOpenGLAttributes();
 
 		// initialse mapsquares from file but don't load
-		vector<string> allSquareValues = readLines("assets/textPointsMinMax.txt");
-		int lineCount = allSquareValues.size();
+		vector<string> allSquareValues = savefiles::readLines("assets/textPointsMinMax.txt");
+		int lineCount = (int) allSquareValues.size();
 
 		for (int l = 0; l < lineCount; l++) {
-			vector<string> lineData = splitComma(allSquareValues[l]);
+			vector<string> lineData = savefiles::splitComma(allSquareValues[l]);
 
 			mapSquare newSquare = mapSquare();
-			newSquare.filePath = lineData[0] + "_RoadLink.shp.txt";
+			newSquare.justFileName = lineData[0] + "_RoadLink.shp.txt";
 			newSquare.minPoints = vec2(stof(lineData[1]), stof(lineData[2]));
 			newSquare.maxPoints = vec2(stof(lineData[3]), stof(lineData[4]));
 
@@ -131,15 +196,17 @@ namespace classicminimaps {
 	}
 
 	void mainloop() {
-		vec2 pos = vec2(519930.0f, 148090.0f);
+		vec2 pos = gridMath::latLngToGrid(vec2(51.2193951f, -0.2842279f));
 		classicminigraphics::cameraPosition = vec3(pos.x / classicminimaps::scaleDivider, pos.y / classicminimaps::scaleDivider, height);
 
 		loadChunks();
+		loadTexts();
 		render();
+		renderMapTexts();
 	}
 
 	void loadChunks() {
-		int squareCount = currentMapSquares.size();
+		int squareCount = (int)currentMapSquares.size();
 
 		for (int i = 0; i < squareCount; i++) {
 			if (currentMapSquares[i].active) {
@@ -153,8 +220,9 @@ namespace classicminimaps {
 
 				if (searchPos.x >= currentMapSquares[i].minPoints.x / scaleDivider && searchPos.x <= currentMapSquares[i].maxPoints.x / scaleDivider) {
 					if (searchPos.y >= currentMapSquares[i].minPoints.y / scaleDivider && searchPos.y <= currentMapSquares[i].maxPoints.y / scaleDivider) {
-						currentMapSquares[i].load(currentMapSquares[i].filePath);
+						currentMapSquares[i].load(currentMapSquares[i].justFileName);
 						currentMapSquares[i].loadOpenGLAttributes();
+						currentMapSquares[i].loadOpenNames();
 
 						break;
 					}
@@ -165,13 +233,13 @@ namespace classicminimaps {
 
 	void render() {
 		glLineWidth(1.0f);
-
-		setVectorFour(shaderProgram, "lineColours", vec4(1.0f));
-		setMat4(shaderProgram, "view", translate(mat4(1.0f), -classicminigraphics::cameraPosition));
-		setMat4(shaderProgram, "projection", perspective(radians(45.0f), classicminigraphics::aspectDivider,
+		
+		glUseProgram(shaderProgram);
+		shader::setVectorFour(shaderProgram, "lineColours", vec4(1.0f));
+		shader::setMat4(shaderProgram, "view", translate(mat4(1.0f), -classicminigraphics::cameraPosition));
+		shader::setMat4(shaderProgram, "projection", perspective(radians(45.0f), classicminigraphics::aspectDivider,
 			classicminigraphics::closeCamera, classicminigraphics::farCamera));
 
-		glUseProgram(shaderProgram);
 		int squareCount = (int)currentMapSquares.size();
 
 		for (int i = 0; i < squareCount; i++) {
@@ -183,8 +251,34 @@ namespace classicminimaps {
 			glDrawArrays(GL_LINES, 0, currentMapSquares[i].size);
 		}
 
-		setVectorFour(shaderProgram, "lineColours", vec4(0.0f, 0.0f, 1.0f, 1.0f));
+		shader::setVectorFour(shaderProgram, "lineColours", vec4(0.0f, 0.0f, 1.0f, 1.0f));
 		glBindVertexArray(rivers.VAO);
 		glDrawArrays(GL_LINES, 0, rivers.size);
+	}
+
+	void renderMapTexts() {
+		int toRenderCount = toRender.size();
+		for (int t = 0; t < toRenderCount; t++) {
+			text::renderText(toRender[t].name, vec3(toRender[t].position.x / scaleDivider, toRender[t].position.y / scaleDivider, 0.0f), 0.001f, true, vec4(0.0f, 1.0f, 0.0f, 1.0f));
+		}
+
+		toRender.clear();
+	}
+
+	void loadTexts() {
+		int currentSquareCount = currentMapSquares.size();
+
+		for (int i = 0; i < currentSquareCount; i++) {
+			int currentOpenNameCount = currentMapSquares[i].allNames.size();
+
+			for (int n = 0; n < currentOpenNameCount; n++) {
+				vec2 checkPosition = vec2(currentMapSquares[i].allNames[n].position);
+				checkPosition = checkPosition / vec2(scaleDivider);
+
+				if (distance(checkPosition, vec2(classicminigraphics::cameraPosition)) < distanceToLoad) {
+					toRender.push_back(currentMapSquares[i].allNames[n]);
+				}
+			}
+		}
 	}
 }

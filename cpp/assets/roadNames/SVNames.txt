@@ -1,0 +1,979 @@
+Maypole,92013,11532
+Middle Town,92095,16151
+Middle Town,88094,8157
+New Grimsby,88905,15207
+Dolphin Town,89017,15366
+Old Town,91518,10330
+Hugh Town,90272,10535
+St Agnes,87952,8138
+The Town,87889,14980
+Lower Town,91598,16164
+Higher Town,92972,15514
+Porthloo,90940,11591
+Old Grimsby,89298,15758
+Borough Road,89929,14792
+Pool Road,89445,14706
+Porth Loo Lane,90940,11591
+Old Town Road,91146,10227
+Telegraph Road,91424,11555
+Pungies Lane,91670,12196
+New Grimsby Quay,88804,15312
+Silvesters Lane,90822,10454
+Barnaby Lane,88277,7959
+Abbey Road,89243,14474
+Old Town Road,91411,10232
+Porthcressa Road,90387,10475
+A3112,90791,10428
+Rocky Hill Lane,91298,11044
+A3111,90791,10690
+Buzza Street,90499,10447
+Penzance Road,89681,14282
+Jerusalem Terrace,90151,10618
+Jackson's Hill,90795,10617
+Town Lane,91507,11704
+High Lane,91809,11756
+New Lane,87890,8165
+A3112,90530,10542
+Well Cross,90525,10551
+Back Lane,90207,10547
+Thoroughfare,90309,10563
+Lower Strand,90409,10555
+Hospital Lane,90723,10371
+Pelistry Lane,92638,11803
+Hairy Arm,89175,15451
+Back Lane,90549,10589
+Green Lane,92397,11869
+Hugh Street,90189,10610
+School Lane,92765,15599
+Old Lane,88044,8240
+Garrison Hill,90127,10651
+Ingram's Opening,90338,10474
+Carn Near Road,89337,13788
+Sally Port,90111,10484
+Back Lane,89245,15724
+Telegraph Road,90869,10733
+Porth Loo Lane,91124,11688
+King Edward's Road,90906,9953
+Mc Farland's Down,91268,12353
+Pound Lane,92885,15781
+Ram's Valley,90567,10496
+Pound Lane,92849,15742
+New Road,87657,14872
+A3111,90597,10659
+Watermill Lane,92060,12154
+Garrison Lane,90128,10571
+School Lane,92738,15630
+Carn Friars Lane,92710,11233
+Cruther's Neck,92907,15411
+Tommy's Hill,89540,15394
+King Edward's Road,90783,10298
+Old Town Lane,91481,10495
+Hairy Arm,89169,15524
+New Lane,87887,8166
+Well Lane,90186,10567
+Church Road,90755,10477
+Old Town Lane,91554,10610
+Abbey Road,88956,14840
+Cruther's Neck,92946,15281
+Pool Road,89040,14905
+Racket Town Road,89356,15001
+High Cross Lane,91542,10542
+Pungies Lane,91994,11745
+Appletree Road,88980,14440
+Buzza Road,90529,10424
+New Road,87703,14905
+Old Town Road,90854,10322
+Racket Town Road,89010,14899
+Old Lane,88040,8244
+Strand,90597,10659
+High Cross Lane,91638,10512
+Pilot's Retreat,90851,10451
+Barrel of Butter,87245,8874
+Shooting Rock,87630,7179
+Abbey Pool,89643,14139
+Trenemene,84841,5365
+Butterman's Point,86310,8875
+Annet Head,86064,9060
+Newman,89816,10917
+Little Biggal,94408,13188
+Northward Head,94336,14602
+Wras,90226,9692
+Little Maiden Bower,85101,14509
+Little Jolly Rock,91202,9272
+Inner Head,90913,9322
+Porth Cressa Brow,90429,10084
+Stony Porth,90720,9814
+Watty's Rock,86457,7373
+Western Rock,87549,7404
+Golden Ball Brow,89265,16985
+Lower Moors,91165,10638
+Pednbrose,91024,16827
+Great Minalto Ledges,87542,11814
+Little Rag Ledge,88699,13536
+Gimble Point,88024,16303
+Vane Hill,89084,15192
+Carn of Porth Killier,88055,8745
+Point of Fields,91394,16232
+Great Stone,86266,6190
+Great Rushy Bay Ledge,87630,13977
+Seal Rock,94945,14213
+Innisvouls Brow,95165,14237
+Halangy Down,91087,12385
+Cork Porth,88442,16637
+Abbey Wood,89186,14397
+Bowl Rock,91356,10140
+Gull Rock,88335,7192
+Arthur Neck,93750,13727
+West Porth,86251,8540
+Smith's Hole,87597,16130
+Gilstone,91808,9278
+Channel Ledge,88590,13351
+Jacky's Point,93066,10774
+Cornish Ledge,83159,6625
+Appletree Point,88877,14099
+The Hole,95423,13613
+The Plains,92315,16255
+White Sheets,93207,11025
+Little Britain Rock,93257,11002
+Great Minalto,87015,11721
+The Porth,91410,16054
+East Withan,92734,17531
+Shag Point,87384,12450
+Joggling Rock,88645,7525
+Jolly Rock,83360,6279
+Carn Levereth,94333,15996
+Outer Neck of Gerwick,86714,13942
+Gweal Ledges,86715,14919
+Great Smith,86843,9332
+Menbean,84717,5670
+Brow Ledge,88031,14650
+Menglow,87293,7823
+Old Kelp Pits,93031,11888
+Ray Island,89409,15653
+Great Menbean,86128,6597
+West Withan,92179,17837
+Newfoundland Point,92834,10205
+Rushy Carn,92412,17112
+Back Porth,90845,16744
+Giant's Chair,92993,10752
+West Porth,87564,12854
+Kittern Hill,88901,8618
+Point Carn,88636,15394
+Big Jolly Rock,91184,9258
+Little Porth Askin,88124,7466
+Kettle,88051,16745
+Turfy Hill Point,93095,16022
+Burnt Island,87415,8597
+The Colt,88255,6995
+Mouls,95730,14472
+Tobaccoman's Ledge,90389,13661
+Gull Rock,91462,9867
+Rat Island,90147,10898
+East Porth,88054,12755
+Lawrence's Brow,92520,15505
+Halftide Ledges,87117,9284
+Porth Wreck,93085,10878
+Rushy Point,90081,15235
+Davey's Rock,87284,13978
+Round Island,90203,17660
+Hulman,88830,13221
+Bishop Rock,80720,6441
+Tinkler's Rock,91674,16549
+Church Point,92305,9919
+Porth Coose Carn,87645,8886
+Old Kelp Pit,91553,16485
+Custom House Rock,86036,7837
+Bight Carn,87692,15879
+Paper Ledge,89081,13110
+Carn Near,89254,13350
+Tinkler's Point,91558,16615
+Little Ganinick,93421,13595
+Bergecooth Carns,87466,8222
+Channel Rocks,90273,14884
+Crab's Ledge,89828,13664
+Launceston Close,91470,10261
+A3110,92202,11071
+Decca Lane,91211,12114
+New Grimsby Quay,88756,15324
+Ennor Close,91518,10330
+Great English Island Ledge,93955,15014
+Dog Ledge,91660,15559
+West Craggyellis,90867,14206
+Rocks of Illiswilgig,85837,13683
+Brandy Point,94159,15504
+Black Rock,86357,7925
+Mount Todden Down,92965,11506
+Sun Rock,92976,10744
+Bryher,87644,15080
+Isles of Scilly,88356,12074
+Inner Rock of Carn Wethers,94517,15709
+Polreath,95466,15691
+Neck of the Pool,91935,15857
+Big Pool,87812,8559
+Holmbush Carn,94534,14494
+Halftide Rock,92523,12228
+Hedge Rock Ledge,90811,15736
+Didley's Point,90296,17071
+Lump of Clay Ledge,90203,15534
+The Bar,88255,15236
+Great Pentle Rock,90436,14264
+Jacky's Point,92527,17084
+Big Carn,87365,8539
+Ragged Island,94605,13854
+English Island,93938,14975
+Great Carn,94456,15247
+Shrimp Rock,92600,10517
+Great Merrick Ledge,92808,16864
+Tarbarrel Rock,87611,12238
+Pendrathen,91359,12834
+Porth Coose,87655,8552
+Bab's Carn,91451,16137
+New Grimsby Harbour,88729,15009
+South Chapel,94581,16052
+Outer Blue Carn,91918,9991
+Queen's Ledge,88368,15174
+Church Porth,92314,9903
+Little Merrick Ledge,92478,16532
+Samson,87765,12739
+Brow Breeze,90275,10259
+St Martin's Head,94183,16081
+Low Pool,91207,10774
+St Mary's Pool,90419,10979
+Picket Rock,84973,13833
+Little Shoal of Mackerel,87609,7571
+Great Ganilly,94735,14424
+Northern (Norrard) Rocks,85972,15603
+Gweal Neck,86922,15103
+The Hoe,89161,7700
+Porth Loo,90633,11344
+Timmy's Hill,87741,14871
+Carnew Point,87365,8017
+Brewer,92268,17978
+Coal Ledge,89514,16584
+Porth Hellick Down,92826,10735
+Pernagie Brow,91816,17326
+Carn Wethers,94445,15663
+Shoal Neck,86459,7337
+Stoneship Porth,87191,14372
+Porth Killier,88128,8624
+Riceman's Hole,87095,14242
+Round Rock,91789,15673
+Doctor's Keys,89518,10507
+Rabbit Rocks,92177,16945
+Kettle Bottom,87956,16811
+Horse Rock,86665,15333
+Old Town Bay,91381,9941
+Plumb Island,88662,14848
+Great English Island Neck,94016,14868
+Middle Ledge,89723,15892
+Rocks Minmow,86594,8270
+Nicholl's Rock,90578,9865
+Little Kettle,87988,16411
+Crow Foot,90994,13074
+Fennel,90274,9780
+Figtree Rocks,89544,13817
+The Cove,88772,7872
+The Road,90791,12487
+Great Porth Warna Rock,87964,7618
+Old Man,90530,16273
+Outer Rock of Chimney Rocks,94652,15436
+Zantman's Rock,80448,9563
+Little Carn,87472,8383
+Sheep Ledges,87034,14060
+Lawrence's Bay,92473,15541
+Popplestone Neck,87320,15102
+South Cuckoo,85929,15469
+South Carn,86285,7603
+Camper Cuttle,93196,11171
+Peashopper Island,89913,15970
+Hole of the Horse,87682,16081
+Big Rock,88839,15179
+Mullet Pool,94513,15761
+Flat Ledge,85489,9050
+Eastward Guthern,93381,13966
+Kittern Rock,88810,8824
+Little Porth Warna,88068,7540
+Merrick Island of Stony Porth,87306,14061
+Lake Anthown,86048,9055
+Northward Bight,94450,15984
+Top Rock Hill,92181,16779
+Great Bay,92648,16179
+Round Rock of Porth Coose,87528,9041
+Porth Askin,88168,7390
+Green Bay,88170,14637
+Chad Point,92597,17441
+Lawrence's Ledge,92885,14942
+Great Innisvouls,95331,14146
+St Warna's Carn,87985,7679
+Wether's Carn,87190,14743
+Carn Captain,84817,5597
+Tean,90823,16413
+Works Point,87844,14010
+Nag's Head,87804,7889
+St Mary's,91304,11442
+Lubber's Rock,88366,14280
+Deep Point,93224,11151
+Camper,86598,14985
+Renny,95187,13597
+Little Pentle Rock,90516,14236
+Bergecooth,87560,8248
+Shag Rock,85525,8501
+Goat's Hole,95059,14157
+Porth Mellin Carn,89387,15860
+Harry's Rock,93132,14977
+Moco Rock,85432,8324
+Little Smith Brow,87294,8988
+Carn Leh Cove,91380,9828
+West Porth Ledge,87509,12798
+Tolsooth,87461,8025
+Great Mussel Rock,87413,16079
+Little Stone,86207,6110
+Broad Neck,84256,5647
+Shag Rock,86178,7913
+Carn Kimbra,89239,8390
+Gilstone Ledges Rocks,83303,5182
+Lion Rock,91687,17969
+The Green,87876,14599
+Butter Porth,92214,17093
+Woolpack Point,89719,9818
+Abbey Hill,89097,14348
+West Broad Ledge,91234,15478
+Pulpit Rock,91330,9481
+Great Ledge,93603,13924
+Water Rocks Down,92997,11041
+Helvear Down,92051,12627
+Jack's Ledge,91951,15681
+Fennel,87251,8501
+The Flat,85911,15438
+Merrick Island,88427,14755
+New-found-out,88584,7454
+Seal Rock,85429,14050
+Wingletang Ledges,88423,6980
+Borough Beach,89995,15333
+Rosevean Neck,84107,5567
+Point Witcher,89076,8626
+Long Ledge,87256,13050
+Biggal,85022,12679
+The Brow,86457,7627
+Tins Walbert,87301,8801
+Yellow Rock,87847,13654
+Menawethan,95487,13665
+Appletree Carn,88912,14127
+Great Pool,89406,14601
+Deason's Cap,91859,14445
+Boat Carn,87624,16097
+Outer Penny Ledge,87183,8225
+Round Bowl,92237,16969
+Great Rock of Timmy's Hill,87741,14871
+Middle Ranneys,85269,8315
+Tean Sound,91322,16311
+North Hill,87724,13079
+Murr Rock,93667,16278
+Little Neck,85966,15670
+St Helen's Pool,90182,16739
+Darrity's Hole,93053,11320
+Scilly Point,92429,16790
+Raven's Porth,89467,15750
+St Helen's,89910,16986
+Steval,89354,10369
+Ganinick Brow,93311,13725
+Round Rock,89947,16147
+Beady Pool,88430,7375
+Frenchman's Rock,94388,13514
+Stepney Berth,87453,8654
+Foremans Island,90017,16075
+Carn Adnis,88137,7576
+Little Crebawethan,82749,6921
+Little Ganilly,93889,14162
+Beacon Hill,88787,15765
+Great Damasinnas,92939,14543
+Inner Penny Ledge,87362,8258
+Newfoundland Rocks,92731,10338
+Porth Loggos,92664,10257
+Middle Arthur,93998,13808
+Eastern Isles,94652,14206
+North East Porth,86175,9046
+Great Rag Ledge,88467,13459
+Chinks,88887,13518
+Salakee Down,92293,10133
+Tregear's Porth,92639,12232
+The Island,88112,14889
+Peeresses,87226,8314
+Merrick Island Neck,87248,14599
+Gulf Rock,87051,14315
+Great Popplestones,87459,15059
+Borthic,93232,14516
+Little Hangman Island,88109,15548
+Old Quay,92745,15187
+Tean Plat Point,88660,7467
+Plumb Hill,88953,14636
+Higher Ledge,91664,14485
+Merchant's Rock,89240,16039
+Gap Point,93213,11288
+Camber Rocks,90251,17430
+Gorregan Neck,85869,5886
+Old Nick's Table,93790,15833
+Peaked Rock,86511,7846
+Dutchman's Carn,90940,9478
+Outer Head,91082,9240
+Chapel Down,94192,15838
+Halangy Point,90885,12631
+Camper Gurling,87449,7769
+Dropnose Rock,89425,8081
+Little Ledge,92558,16899
+Muncoy Neck,86356,6712
+Long Rock Down,91369,12455
+Porth Seal,91841,16669
+Ruddy,85712,9189
+Tide Rock,89855,15800
+Jenkin's Rocks,84934,5677
+Western Rocks,83825,6090
+Rosevean,84018,5706
+Puncheon Rock,93088,10949
+Ward Hill,91899,10313
+Crow's Island,89803,16076
+Middle Bight,94419,15530
+Hale Rock,86737,7412
+Uncle Tom's Point,87783,7781
+Middle Colvel Rock,87416,13921
+Rascal's Ledge,90932,15579
+South Pelistry,92983,11807
+Ragged Rock,87627,7334
+Loop Hole,93808,15901
+Kettle Point,88165,16554
+Pednathise Head,83772,5200
+East Landing,90293,17608
+Pollock Rock,88080,16102
+Broad Sound,85691,8653
+Round Rock of Crebawethan,82597,7373
+Sleep's Abode,91217,9282
+The Point,88696,15255
+Castle Brose,87738,7715
+Shaken Rock,91220,16178
+Rock Great Carn,87601,14563
+Yellow Ledge,89799,13363
+Crow Sound,93158,13061
+Round Rock,86307,14401
+Dunstan's Rock,88275,15326
+North West Porth,85890,8972
+Ginamoney Carn,87625,8575
+The Peak,95440,13577
+Eastern Rock,87729,7142
+Little Crabs Ledge,88386,14348
+Gull Point,88934,8752
+Morning Point,90188,9801
+Heathy Hill Carns,87311,14378
+The Bite,88804,8247
+Horse Point,88250,7079
+Silver Carn,83803,6172
+Nut Rock,88922,12474
+Middle Ledge,85474,13622
+Bread and Cheese Cove,93915,15893
+Innisidgen Carn,92212,12656
+White Island,87075,12613
+Inner Blue Carn,91889,10083
+Pig Rock,92515,10308
+Stippit,84760,14506
+China Point,95611,13580
+Badplace Hill,87516,16177
+Inner Shag Rocks,95038,14551
+Little Minalto Ledges,86701,11412
+Long Crow,89028,13319
+Middle Damasinnas,92890,14482
+Shipman Head Down,87709,15613
+The Mare,88303,7104
+Anthony,92603,17057
+Three Brothers,87227,8642
+Southward Well,87809,11561
+Goat's Point,91399,16267
+Annet Flats,86578,8336
+Porth Hellick Point,92916,10447
+Newford Island,90652,11215
+Tolgillian,88674,7709
+West Porth,94638,14320
+Seal Rock,92243,14557
+Top Rock,92314,16770
+Flat Ledge,85137,14474
+Ganilly Bar,93869,14490
+Pilchard Pool,90479,10139
+Tea Ledge,90460,15098
+Pernagie Point,91815,16801
+Little Castle Vean,87775,7652
+Jacky's Rock,84708,14063
+North West Passage,84364,11623
+Castle Bryher Neck,86163,13987
+Little Ganilly Neck,93967,14018
+Great Shoal of Mackerel,87571,7633
+Outer Damasinnas,92959,14383
+Gorregan,84809,5642
+Chad Girt,92652,17398
+Old Woman's House,86253,8031
+Santaspery Neck,83820,6078
+Browarth,87873,8965
+Stony Island,88593,12702
+Pelistry Bay,93039,11817
+Great Ganinick,93263,13829
+Block House Point,92453,12490
+Grandfather Hugh's Point,88497,7215
+Outer Ranneys,85195,8366
+Smith Sound,86051,9028
+Square Rock,87223,15189
+Outer Carn,94895,14067
+Toll's Island,93053,11954
+Hard Lewis Rocks,95599,15856
+Crutches Carn,88694,8393
+Beat Carn,87578,7715
+Northwethel,89504,16403
+Toll's Porth,90744,12282
+Wee,82744,6747
+Great Hill,90985,16557
+Samson Flats,88145,12917
+Carn Nore,92663,10543
+Stinking Porth,87238,14684
+Crow Bar,91160,13636
+Round Rock of Porth Killier,88155,8814
+Round Rock,83341,6734
+Eastward Ledge,90291,17904
+Carnew Rock,87327,7949
+Crebinicks,80931,5926
+Joe's Rock,91419,9790
+Glory Hole,90671,16737
+Biggal,94473,13093
+Farm Beach,88788,14840
+Cheese Corner,91120,16731
+Sheep Ledge,92568,16473
+Round Rock,91844,17418
+Block House Bay,92394,12561
+Baker,92622,17848
+Carn of Bars,87377,14635
+Drum Rock,92400,10533
+Long Point,89500,15818
+Castle Down,88497,16052
+Cow and Calf,88456,8821
+White Island,92415,17584
+Gimble Point,88881,16064
+Old Rock,92920,10612
+Gilstone,83224,5290
+Moon Rock,86829,14546
+Beef Neck,89359,16743
+Little High Rock,87407,15588
+Block House Point,89784,15540
+Great Porth Warna,88019,7621
+Pigs Ledge,92494,15145
+Perpitch,94047,15438
+Shark's Fin,85898,9173
+Great Pool,87436,14870
+The Bight,87613,15981
+Pedney Brow,88499,7320
+Sea Carn,89564,13731
+Tolman Point,91625,9929
+Scilly Rock,86007,15553
+Baymark Rock,91744,10051
+Point of Bars,87347,14598
+Black Ledge,88079,12991
+Crow Point,89265,13289
+Merchant's Point,89236,16122
+Little English Island Ledge,93767,15171
+Horse Rock,93001,10820
+Westward Guthern,93111,13746
+Tresco,89272,14689
+Arthur Brow,94095,13710
+Hell Bay,87510,15855
+Higher Ledge,89685,15963
+Figtree Ledge,89574,13523
+Castle Porth,88199,15900
+Raveen,90466,9938
+Watermill Cove,92670,12404
+Little Kittern,89149,16433
+Downs,88023,8073
+The Hole,85871,15540
+Camperdown,84803,5479
+Brothers,86452,7085
+Farmer's Rock,84729,14340
+Smith's Carn,86474,8224
+East Gap Rock,90450,16730
+Clodgie Point,90987,16081
+Seal Rock Neck,85557,13971
+Silver Carn,87198,14797
+Minmanueth,85611,8880
+Ladies' Ledge Neck,94394,13912
+Seal Rock,85791,6522
+Camper Point,92617,17246
+Great Crabs Ledge,88337,14438
+The Mare,89745,13001
+Scattering Rocks,90794,15054
+Little Minalto,86644,11650
+Little Popplestones,87382,15182
+Little Hakestone,88785,7576
+Monk's Cowl,91005,9328
+Paddy's Island,89683,14184
+The Cliff,88949,15126
+Anchor Drang,87617,15784
+White Island Bar,92413,17036
+Rosevear,83890,5947
+Halangy Porth,90767,12416
+The Beast,88138,7109
+Biggal of Gorregan,84939,6100
+Creeb,90682,12425
+Great Arthur,94189,13501
+Toll's Hill,92765,12130
+Shoal Neck,84606,5721
+West Gap Rock,90258,16734
+Little Heathy,87147,14285
+Arthur Quay,93998,13921
+The Bow,89314,8683
+Stony Porth,87286,14131
+The Gulf,87521,16285
+Hellweathers Neck,86369,7783
+Hole of Cove Vean,88511,7975
+Lizard Point,90306,14879
+Normandy Down,93033,11226
+Westward Ledge,84730,14629
+Castella Down,87579,7892
+Braiden Rock,88442,15595
+Dry Splat,84042,5514
+Inner Rags,84527,5811
+Mainmark Rock,91857,9977
+Annet,86066,8628
+Horse Rock,92949,15008
+Yellow Carn Porth,91198,16304
+Higher Moors,92236,10912
+Little English Island,93899,15102
+Yellow Carn,91175,16333
+St Martin's,92088,16040
+Bounty Ledge,90154,13796
+Innisidgen Hill,91807,12611
+The Murrs,90808,9380
+Raven's Rock,89622,16131
+Camper,84916,14523
+St Warna's Cove,87920,7841
+Great Cheese Rock,90602,15254
+Hedge Rock,90704,15872
+Mincarlo,85391,12968
+Murr Rock,85187,14323
+Aunt Elsie's Rock,92317,17023
+Old Bess,83614,5179
+East Craggyellis,91065,14213
+Little Bay,92421,16678
+The Gulf,87006,14278
+Brandy Point Carn,94181,15527
+Higher Newford,91267,11961
+Great Wingletang,88496,7031
+Southward Well Point,88048,12093
+Crim Rocks,80267,9212
+Gunners,82750,9281
+Trueboy's Rocks,87042,14519
+Three Brothers,88061,14525
+Haycocks,85927,9125
+Little Hanjague,95693,15065
+Porth Minick,91666,9968
+Treweeke's Island,93311,15941
+Branders Rock,92686,15115
+Hangman Island,88146,15635
+Hanjague,95763,15070
+Works Carn,87835,14164
+Cruther's Point,92905,15141
+Periglis,87587,8377
+Bull's Porth,93528,15959
+Heathy Hill,87318,14296
+Isinvrank,86241,7117
+Castle Bryher,86368,14017
+Gimble Porth,88948,16209
+Illiswilgig,85817,13928
+Men-a-vaur,89357,17465
+Inner Neck of Gerwick,86952,14044
+Cook's Bar,89827,15517
+Pentle Bay,90271,14175
+Newman Point,89874,10863
+Town Beach,90553,10679
+Tobaccoman's Point,90472,13632
+Jacky's Rock,83682,6391
+Cruther's Hill,92910,15178
+Goat's Hole,91481,16392
+Porth Conger,88480,8630
+Little Carn,90252,10408
+Broad Sound Passage,84243,8925
+Chimney Rocks,94382,15326
+Crow Rock,90992,13075
+Carrickstarne,91434,9356
+Southward Carn,91448,15981
+Middle Penny Ledge,87230,8257
+Wras,91305,12890
+Saddle Rock,88018,7643
+Shipman Head Well Drang,87609,15721
+Higher Town Bay,93319,15223
+Great Porth,87428,14534
+Outer Rock of Carn Wethers,94580,15767
+Long Bar,88356,14532
+Little Carn Adnis,88185,7455
+Church Ledges,92289,9806
+Menrounds,86688,7786
+Carn Windlass,86269,8433
+Hunter's Lump,90815,15522
+Great Crebawethan,83081,7015
+Burnt Hill,93663,16050
+Gugh,88951,8330
+John Martin's Ledge,91616,15679
+Crow Island,86970,14778
+Chinks,90691,15436
+Hoe Point,89153,7741
+Kallimay Point,88266,8734
+Castle Vean,87733,7668
+Rosevear Neck,83931,5829
+Shipman Head,87451,16367
+Bathinghouse Porth,89579,13596
+Black Rocks,86025,14536
+West Porth,90559,16121
+Droppy Nose Point,87118,14200
+The Garrison,90138,10135
+Coal Porth,89501,16457
+Porth Morran,92302,17303
+Carn Lawrence,84810,5716
+Wingletang Down,88353,7464
+Shag Point,92439,17707
+Biggal of Melledgan,86057,6085
+Guther's Bar,91814,14750
+Mackerel Rocks,93068,16526
+Bow Ledges,89413,8621
+Carn Morval Down,90891,11929
+Southward Bight,94480,15894
+Inner Scud,93706,14381
+Plump Rocks,88638,14546
+Touch Rock,87072,14335
+Tide Rock,91024,17911
+Piper's Hole,88648,16555
+Black Point,88392,8607
+Muncoy,85756,6778
+Little English Island Neck,93841,15137
+Menpingrim,86919,7225
+Gerwick Ledges,86785,14165
+Trenear's Rock,92859,12198
+Renny Brow,95258,13763
+Round Rock of Porth Askin,87987,7338
+May's Hill,93716,15605
+The Chair,90848,9438
+Golden Ball,88986,17233
+Inner Ranneys,85807,8264
+Garden of Maiden Bower,85071,14240
+St Helen's Porth,90561,16703
+Tearing Ledge,93947,16624
+Tregarthen Hill,88620,16329
+Hellweathers,86294,7909
+Carn Morval Point,90512,11964
+Cook's Rock,89852,15509
+Pednbean,91244,16646
+Thomas' Porth,90792,11092
+The Calf,90432,11541
+Little Cheese Rock,90340,15586
+Cove Vean,88540,8004
+Little Arthur,94172,13910
+Stoney Porth,92547,17547
+Little Carn,88075,11993
+Arthur Porth,94158,13744
+Little Porth,90225,10344
+Appletree Bay,89144,13398
+Shag Rocks,94963,14708
+Broad Ledge,89743,13486
+Carns of Castella,87478,7951
+Wingletang Bay,88502,7386
+Taylor's Island,90575,11503
+Three Rocks,92663,14654
+Dropnose Porth,89280,8266
+Ponds Brow,83444,6385
+Great Britain Rock,93147,10987
+Hakestone,89004,7734
+Cones,90647,13775
+Sheep Carn,93989,13771
+Codnors Rocks,82975,7262
+Merrick Island,87174,14550
+Sackey's Rock,88637,7929
+Ladies' Ledge,94327,13974
+Buzza Rock,86643,13758
+Menawethan Neck,95400,13931
+Black Rock,84006,5281
+Logan Stone,88154,15461
+North Cuckoo,86082,15519
+Porth Morran Quay,92415,17402
+Buzza Hill,90639,10386
+Porth Hellick,92828,10428
+Green Island,90332,13778
+Wine Cove,92891,16066
+St Agnes,87978,7962
+Carn Ithen,84931,5535
+Lower Ledge,91805,14257
+Tinkler's Hill,91736,16373
+Inner Colvel Rock,87480,14003
+St Mary's Sound,89364,9245
+Underland Girt,92619,17513
+Dollar Ledge,85780,14066
+South Hill,87883,12366
+Small Boat Carn,87775,16019
+Melledgan Head,86113,6197
+St Martin's Bay,92879,16321
+Daisy,83948,5397
+Barrel of Butter,89641,10717
+Cradle Point,89868,15379
+Retarrier Ledges,82006,6023
+Maiden Bower,84999,14412
+Great High Rock,87302,15519
+Nornour,94426,14806
+Sprowse's Brow,83011,7011
+Gunner,87417,8332
+The Horse,87752,16094
+Moths Ledge,92059,15161
+Popplestone Corner,93723,16063
+South Stony Porth,87445,13917
+Samson Hill,87928,14231
+Innisidgen,92167,12811
+Cuttle Rock,93213,11112
+Porthloo Pool,91016,11139
+Crebawethan Neck,83295,6789
+Carn Morval,90545,11961
+Little Creeb,90832,12568
+Menfleming,85929,6440
+Black Rock,91087,17808
+Little Rushy Bay Ledge,87515,13895
+Carn of Cove Vean,88559,7902
+Little Smith,87267,9022
+Santamana Ledges,93341,16384
+Browarth Point,87834,8880
+Diamond Ledge,90553,13818
+Irishman's Ledge,94716,14909
+Tol Tuppens,88604,8677
+Frenchman's Rock,83876,6069
+English Island Carn,93813,15266
+Carn Thomas,90574,10737
+Kitchen Ledge,88178,15467
+Guther's Island,91859,14445
+Gun Hill,93899,15367
+Stony Porth,93743,15967
+Crabore Ledge,93613,15209
+Bight Drang,87617,15842
+Annet Neck,86599,8151
+Pernagie Isle,91734,17490
+George's Rock,88107,14100
+Pots,90110,12811
+Dropnose Point,89403,8142
+Old Grimsby Harbour,89548,15684
+Little Menbean,86047,6706
+Pollard,90923,9223
+Crump Island,91128,16013
+Ballard Point,87694,13372
+Castinicks,85686,11802
+Vink,84084,5433
+Parks Ledge,91813,14929
+Flat Carn,86294,6420
+Halftide Rock,92971,11866
+St Martin's Flats,92075,15698
+Little Mussel Rock,87409,16165
+Little Innisvouls,95505,14231
+Stephen's Ledge,91699,15430
+Crows Nest,92829,15044
+White Island Ledge,87278,12657
+Round Rock,95254,14632
+Mare Ledges,89965,13168
+Priest,87643,8329
+Gilbert's Porth,92927,11795
+Horse Rock,84891,14372
+Manuel Scud,92860,13884
+Norrard Rocks,84738,14317
+Helvear Hill,92198,12499
+Western Scud,93730,14174
+Blanket Bay,87684,8434
+St Helen's Gap,90354,16715
+Frenchman's Point,88338,15762
+Rosevear Ledges,83555,5771
+English Island Point,93821,15201
+Pelistry Ledges,93076,11663
+Wra Ledge,92636,14971
+Innisvouls Neck,95428,14206
+Long Ledge,90062,15888
+Watch Hill,88020,15236
+Middle Down,89615,14929
+Little Porth,91927,12896
+Lethegus Rocks,87701,7241
+Flat Rock,86212,7172
+Dry Ledge,93288,11672
+Carn Wrean,88895,8093
+Tresco Flats,88744,13775
+Long Point,87484,7686
+St Mary's Hospital,90747,10330
+North Pelistry,92953,12074
+Biggal,90266,9588
+Turfy Hill,93071,15996
+Arthur Head,94224,13395
+East Porth,90892,16221
+Carn Leh,91293,9892
+Bar Point,91506,12983
+Great Pool,93136,15405
+Piper's Hole,91279,9420
+Camper Dizzle,87434,7750
+Gilstone Ledges,91728,9599
+Round Rock,90120,12960
+House of the Head,87255,16360
+The Flats,89005,7792
+North Chapel,94511,16278
+John Batty's Hill,93716,15605
+Culver Hole,93305,15870
+Gweal,86689,15121
+Rushy Bay,87723,13977
+Dick's Carn,92610,10605
+Gerwick,86790,14011
+Conger Ledge,89378,13140
+Green Island,88398,12518
+Puffin Island,88157,13414
+Black Lump,95197,14395
+Peninnis Head,91093,9517
+Sharp Rock,85913,15693
+Rags,84445,5698
+Long Scud,93359,14164
+Doctor's Hole,86225,6347
+Jolly Point,94843,14523
+Carn Mahael,90794,9711
+Guther's Scud,92086,14464
+Carn Bite,88874,8204
+Steval Point,89393,10356
+Woolpack,89736,9680
+Halftide Bar,88343,14956
+Black Carn,87119,15111
+Cuckold's Carn,89280,8008
+Little High Rock Ledge,87448,15728
+Flea Rock,87096,13148
+Round Rock Ledge,91823,15568
+Gun Hill,88273,16469
+Melledgan,86145,6396
+Kitchen Porth,88151,15560
+East Porth,94886,14410
+Annet Ledge,85927,8081
+Bar Point,88030,13105
+Porth Cressa,90320,10095
+Little Crow,91006,13068
+Hole of Gorregan,84828,5457
+Muncoy Ledges,85863,6678
+Skirt Island,90198,13941
+Landing Carn,87844,7811
+Buccabu,86887,7541
+Little Ledge,93754,13889
+Little Pool,87581,14963
+Little Ledge of Mackerel Rocks,92841,16603
+Peaked Ledge,91979,14278
+Gweal Hill,87160,14930
+Outer Colvel Rock,87259,13774
+Camper Porth,92643,17296
+Broad Ledge,91730,15035
+Porth Mellon,90703,10852
+Green Porth,89553,15595
+Five Islands School,Secondary Education",91072
+Five Islands School,89299,15481
+St Mary's Airport,92013,10327
+St Agnes Base,88072,8191
+Back Lane,89058,15596
+Moor Well Lane,90793,10658
+Silver Street,90296,10507
+Barnaby Lane,88210,8109
+Church Street,90467,10527
+St Martin's Base,Secondary Education",92567
+High Lane,91985,11746
+Back Lane,88889,15410
+Tommy's Hill,89354,15505
+Trench Lane,91347,10284

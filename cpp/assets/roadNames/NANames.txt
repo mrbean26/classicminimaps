@@ -1,0 +1,363 @@
+Rubha Bhrengadal,15647,904493
+Stac an Armin,15132,906442
+Geo nan Ròn,8609,900362
+Sunadal,15677,905407
+Creagan Fharspeig,15797,904676
+Tigh Dugan,6698,901287
+Am Biran,15274,906309
+Geo Chrùbaidh,8099,900627
+Coinneag,15696,904528
+Geo Chaimbir,7447,901139
+Geo an Fheachdaire,14977,904851
+Aird Uachdarachd,10310,900473
+Geodha Ruadh,7009,902015
+Cnoc Glas,6269,901620
+An Campar,7543,901158
+Geo Oscar,8954,900904
+Rubha Bhriste,15077,906279
+Poll a' Choire,7601,900604
+Geo Sgarbhstac,15433,904530
+Loch a' Ghlinne,8356,900731
+Geo an Araich,15236,904811
+A' Chala,6533,901006
+Geo an t-Samh,9084,900895
+Creagan,6047,901790
+Geodha na Tàrnanach,15395,905819
+Conachair,9972,900237
+Am Plastair,5923,902051
+Gearrgeodha,15554,905955
+Creagan na Rubhaig Bana,15869,904824
+Mullach Mòr,9296,900152
+Stac Lee,14201,904917
+Soaigh,6445,901446
+Boraraigh,15406,905175
+Glacan Mòr,9220,900696
+Clagan na Rùsgachan,15033,905001
+Sgeir Mac Righ Lochlainn,5930,900777
+Laimhrig na Sròine,6913,901150
+An t-Sail,15451,905905
+Gob Phursan,6104,901004
+Stac Lee,14193,904915
+Geo Shunadal,15765,905390
+Na Cleitean,9322,900836
+Geo Sgeir Chaise,7832,901182
+Geodha Chaluim MhicMhuirich,7578,901280
+Laimhrig Adinet,6407,901772
+Sgarbhstac,15269,904491
+Stac a' Langa,10659,900069
+Mullach an Eilein,15361,905363
+Geo Bhradastac,9559,900645
+Mullach an Tuamail,15528,905097
+Mina Stac,10439,900777
+Geo Lee,14281,904868
+Gob na h-Airde,5985,901206
+Bradastac,9632,900647
+Stac Biorach,7169,901334
+Leac Mhina Stac,10427,900656
+Mol Carn na Liana,7902,900890
+Mol Shoay,6986,901260
+Geo nan Ròn,6842,901165
+Geo na Leachan Moire,15349,904642
+Rubha Langa,14126,904926
+Stac Shoaigh,7358,901362
+Geo nan Plaidean,10182,900494
+St Kilda,10432,901652
+Stac an Armin,15180,906423
+Leacan an Eitheir,8568,900300
+Poll Adinet,6359,901859
+Gob na h-Àirde,8813,900898
+Laimhail,15537,904427
+Glamisgeo,7024,901630
+Beul na Geo,7409,900910
+Sgeir na Caraidh,8242,900523
+Leacan an t-Sluic Mhòir,8699,900521
+Bearraidh na Creige Chaise,6598,901704
+Phursan Geo,6023,901076
+Clesgor,14913,904883
+Geo na Mol,10018,900441
+Sgeir Dhomhnuill,10554,900239
+An Airde,6035,901220
+Lianish,5828,901289
+Udracleit,15739,905518
+Stac Dona,6961,901066
+Geo Chruadalian,8476,900296
+Gob a' Ghaill,5701,901567
+Mol Ghiasgar,10558,900105
+Baghan,7424,900713
+Geodha na h-Àirde,8886,900924
+Geo na Stacan,7724,900504
+Gob Sgapanais,15549,904501
+Scarpalin,6349,900958
+Bròna Cleit,68683,946435
+Hamasgeir,73077,946338
+Dearc na Sgeir,72981,946964
+Sgeir Toman,72452,945220
+Gealtaire Mòr,74327,946608
+Eilean Mòr,72511,946864
+Tom na Geodha,72308,946809
+Sgeir Righinn,72549,945131
+Làmh na Sgeire Bheag,72765,946646
+Eilean Tighe,72785,946362
+Lamh na Sgeire Moire,72673,946552
+Roaiream,69135,946746
+Eilean a' Ghobha,69229,946386
+Soraigh,72563,945426
+Sròn na Faing,72794,946923
+Gealtaire Beag,73691,946454
+Flannan Isles,72860,946063
+Poll nan Ròn,68930,946626
+Geodh' an Truillich,72651,946304
+Hushinish,98978,912041
+Cearstaigh,96482,917111
+Loch Steisevat,96925,914638
+Loch na Learga,96769,916080
+Mànais,95835,913841
+Rubha na Creadha,97845,913032
+Rubha Bhannageodha,99092,900796
+Sgeir Caolas Liongaim,99916,919819
+Crogary,98502,911145
+Sròn Romul,96852,915832
+Sgeir Moil Duinn,95059,916353
+Rubha Ruadh,98253,912186
+Tràigh Hushinish,99153,911978
+Sròn Udemul,96316,915675
+Glen Romul,97493,916174
+Crogary Beg,99474,900776
+Vanna-gya,99043,900816
+Loch Uidemul,97648,914478
+Caolas an Scarp,99035,913063
+Geodha Ear,87770,911561
+Gil Cunaig,99968,913074
+Rubha Ruadh,98304,916098
+Obe,94970,915774
+Loch Beag a' Mhuilinn,97602,914039
+Loch Rumalach,97962,914747
+Cnoc Mòr,98345,911525
+Bàgh Hùisinis,99175,911529
+Sleitnis,97510,916815
+Geodha Roaga,98183,911785
+Àird Tro,99010,900596
+Rubh' an Tighe,99836,914563
+Beinn fo Thuath,98165,914225
+Magasgeir,98583,900290
+Tamna,99057,900534
+Mol Taavi,98981,900333
+Loch Togul,99483,900844
+Gàisgeir,87486,911574
+Geodha Foirse,98653,915470
+Mol Mòr,97352,913697
+Gloraig Hùisinis,98657,909869
+Geodha Islaca,96936,913994
+Greascleit,99811,913357
+Buaile na Bàlhaiche,99813,911043
+Tràigh Mheilein,99674,914311
+Horsanais,99761,908882
+Oisteim,96136,917171
+Duisgeir,96148,918600
+Scarp,96996,914967
+Camas a' Bhuic,99657,910319
+Liongam,99746,919758
+Sròn nam Fiadh,99619,912655
+Gloraig Tharasaigh,97026,906331
+Stiamaire,99466,912710
+Rubha na Glaodhaich,98930,913899
+Geo an Fheòir,97481,916537
+Beitearsaig,99674,911110
+Caolas Liongaim,99957,919708
+Tarta Geodha,95519,914697
+Bàgh a' Chàigeal,99014,900157
+Staca Liath,99501,919812
+Crogary More,99605,900861
+Hallageodha,99806,900834
+Fladaigh,99483,915237
+Rubha Hùisinis,98092,911179
+Eilean na Moil Mòire,97258,913610
+Baralòb,99651,909173
+Rubh' an Tòthain,99659,910852
+Gàisgeir Beag,88750,910749
+Gloraig Tharasaigh,96417,905840
+Loch Bràigh an t-Sìdhein,96077,914920
+Port a' Tuath,98930,912397
+Geodha Dubh Liongaim,99746,919611
+Loch a' Gheòidh,96265,916008
+Islibhig,99380,927908
+Mealasta,99154,924258
+Breinis,99252,926148
+Liath-Chleit,99788,922900
+Rubha Fainis,99057,923665
+Staca Còrr,98145,928078
+Griamanish Sands,99476,921011
+Camas Mol Linnis,99139,923492
+Cnoc Rainich,99455,923937
+Dubh Sgeir Lachdunn,98074,927805
+Loch Greabhat,98773,926653
+Geodha an Uillt,99378,928530
+Rubha Buaile Linnis,99172,923410
+Boghanan Geodha Duibhe,97596,921046
+Eirais an Duilisg,98536,928230
+Laimhrig na Seoraid,98246,922151
+Rubha Geodha an Fheòir,97477,922258
+Sgeir nan Leacan Ruadha,99921,932685
+Hairsgeir Beag,97208,923078
+Caolas an Eilein,98762,921781
+Rubha Dubh na Buaile,97717,926380
+Mala Sgeir,98893,924124
+Sgeir Shiobachd,97704,925991
+Loch Buaile Tiraso,98023,926363
+Geodha Chàrnach,99927,932337
+Grèineam,98058,924510
+Sgeir Ghlas Leac an Aiseig,99340,921548
+Rubha an t-Sìthein Duibh,98425,921359
+Sgeir Ghlas Ghriamanais,99401,921018
+Rubha Geodha Mòr a' Bhàin Bhig,97517,921346
+Àird Dhrolaigeo,99538,920442
+Mol Tiacanais,98981,924104
+Geodha na Damhach,99093,924596
+Sgeir Sheilearo,98401,921186
+Staca Biorach,99323,928841
+Leumadair Mòr,98033,922366
+Sgeir Eòghainn,98150,925553
+Sgeir a' Tuath,99545,932496
+Tràigh Mhòr an Eilein,98357,921896
+Cnoc Sgarbh a' Gheodha,97966,921713
+Leac a' Sgail,99355,922887
+Rubha Bàn,98111,927537
+Geodha Sgoilte,97551,921454
+Polla Thorr,99408,922320
+Sgeir Ghlas,98010,926016
+Crois Geodha,99869,929399
+Sgal,99530,922921
+Creag Lag Stidhegeadh,99846,920242
+Sgarbh a' Geodha Mhòir,97744,921638
+Uige Sgeir,99818,929588
+Cleit Ghriamanais,99673,920940
+Geodha Ruadha a' Bhàin Mhòir,97323,921927
+Tom Dhòmhnaill,99644,922628
+Geodha na h-Aona Cloich,97965,926681
+Sgeir a' Chota Mhòir,99010,928294
+Bodach Crom,99388,932329
+Geodha na Tràghad,99488,921114
+Dunageo,99235,923587
+Rubha Sgarbh a' Gheodha,97686,921755
+Bàn Beag,97356,921066
+Sgeirean an Taroin,99957,929653
+Sgeir Lachdunn,98247,923538
+Rubha a' Chaolais,99837,932363
+Camas Chala Moil,99268,923117
+Geodha nan Gobhar,99701,920290
+Rubha Foirsgeo,99404,922693
+Sgeir Uaine a' Bhàin Bhig,97310,921339
+Geodha Caol,97644,921021
+Camas a' Mhoil,98576,925320
+Camas Chlèidir,99275,928699
+Seann Stiogha Geodha,99352,922080
+Griamanais,99679,920789
+Stacageo,99536,929325
+Sgeir nan Sgarbh,98058,924308
+Hairsgeir Mòr,97502,923246
+Bàn Mòr,97589,922119
+Sgeir nam Fiasgan,98318,923804
+Sgeir Ghlas Mheadhanach,99365,921273
+Rubha na Geodha Sgoilte,97658,921509
+Buaile a' Chladaich,98743,925331
+Geodha Caol,98466,928165
+Sgeir Ghlas na Roinne,98310,920770
+Stac na h-Aibhne,98898,927885
+Stac an Tuill,98149,927866
+Sgeir Dhuibh Geodha an Fheòir,97512,922332
+Gàradh Droma,98259,924038
+Tarlageo,98947,925173
+Geodha an Fharaidh,99124,924738
+Àird Bhreinis,97843,926986
+Fearsam,98799,923877
+Rubha Dubh Ghrèineim,98184,924578
+Bodha a' Chraois,98215,922258
+Corraigeo,99028,924882
+Rubha Loisgte,99314,929219
+Geodha an Ear na Roinne,98338,920801
+Leac an Aiseig,99241,921776
+Geodha Mhàrtainn,98132,926090
+Laimhrig a Deas,99623,932261
+Rubha an Teampaill,99035,924281
+Geodha nam Boghannan,99312,921914
+Geodha an Iar na Roinne,98187,920846
+Geodha Dubh a' Bhàin Bhig,97519,921038
+Cnoc Thotaroil,99023,926254
+Rubha Leacach,97725,920847
+Poll Shiobachd,97799,926165
+Geodha a' Ghàraidh,98203,927735
+Staca-Geodha,99498,922518
+Mol Foirsgeo Geodha,99065,924467
+Ramarageo,98982,925331
+Geodha Dubh,98291,927988
+Seilearo,98230,927265
+Geodha nam Bràthan,99301,921857
+Rubha an t-Saoir,98431,925358
+Geodha na Bà,98701,928050
+Rubha Dubh Leac a' Sgail,99345,923034
+Loch nam Faoileag,98540,927850
+Camas Leire Geodha,97565,921826
+Geodha a' Rubha Leacaich,97811,920857
+Caolas Ghrèineim,98861,923739
+Geodha an Fheòir,97512,922197
+Sgeir Ghobhlach,98221,924127
+Geodha Cam Craosach,97952,926232
+Sgeir na Geodha Ruaidhe,97407,921858
+Sgeir Dhubh Ghrèineim,97749,924696
+Toirisgeo,99420,928981
+Sgeir Mhòr,98231,925589
+Geodha Ruadh,99439,922391
+Loch Islibhig,98960,927504
+Bodha Mol Griom,97781,926646
+Geodhachan Dubh a' Laig Chàrnaich,99796,920285
+Gualainn an Fhuarain,99736,921279
+Eilean Molach,99538,932369
+Sgeir Ghlas Bheag,98026,925878
+Camas Mol Griom,97891,926610
+Rubha an Dòbhrain,98380,920986
+Geodha Càm,98153,927620
+Toll Dubh an Eilein,99540,932434
+Geodha Griom,98046,926594
+Cas Bhràighe,99817,921516
+Àird Feinis,99245,929305
+Bodha a' Leumadair Mhòir,98095,922466
+Gob Dubh,98657,928173
+Sgeir Isgean,98850,923776
+Laimhrig a Tuath,99651,932455
+Foirsgeo,99449,922767
+Cnoc na Gile,99774,923675
+Geodha a' Reithe,99137,928277
+Sgeir a' Chuilean Bhig,98951,924059
+Àirighean a' Chraois,97848,922201
+Sgeir Iain Mhòir,98970,923939
+Bodha na Roinne,98125,920832
+Mealasta Island,97815,921560
+Rubha Staca-Geodha,99388,922454
+Boga Leathann,98277,924238
+Sgeir Ruadh,98385,921653
+Geodha an Taghain,98108,927480
+Cnoc Àrd,97929,921066
+Stacannan Chrois Gheodha,99730,929429
+Geodha Dubh,99229,929217
+Geodha Mòr a' Bhàin Bhig,97417,921319
+Sgeir Liath,98334,923688
+Rubha na h-Aona Cloich,97810,926853
+Geodha na Mnà,99339,922194
+Staca Leathann,98253,928155
+Sheilero Tolltach,98388,921159
+Geodha an t-Searraich,99289,929158
+Geodha na Muilne,97977,920877
+Geodha na Bà,99270,921697
+Dubh Sgeir,98393,928333
+Rubha a' Bhàin Mhòir,97352,922083
+Eirais nan Uan,98187,927973
+Camas Islibhig,98850,928039
+Drollageo,99386,920625
+Buaile Fainis,99035,923810
+Geodha na Gile,99463,928636
+Rubha Sith,99244,929033
+Buaile Linnis,99168,923349
+Geodha an Trìlleachain,97565,921527
+Geodha Dubh Seilearo,98037,927242
+Àird Ghriamanais,99384,920817
+Craos,98001,922134

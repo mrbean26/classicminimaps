@@ -1,0 +1,776 @@
+Sussex Bay,520070,98345
+English Channel,550000,50001
+Westdean,552346,99689
+Sutton,549355,99569
+Friston,555944,98111
+Seaford,548254,98853
+East Dean,555807,97774
+Crowlink,554472,97523
+Birling Gap,555384,96111
+Downside,559153,99931
+Richmond Road,548070,99072
+Barcombe Avenue,550292,99035
+Lower Street,555668,97709
+Upwick Mews,559232,99389
+Buckle Close,547168,99664
+Dillingburgh Road,559227,99500
+Parsonage Road,559723,99528
+Surrey Road,547459,99700
+Tudor Close,547749,99920
+Upland Road,559115,99092
+Rochester Close,559131,97835
+Parkside Road,548984,99500
+Badgers Copse,550042,99237
+Vale Close,549500,99989
+Hawth Crescent,547153,99915
+Crunden Road,559054,99725
+B2103,559449,97419
+Berwick Close,547510,99751
+Cranborne Avenue,559366,97592
+Stonewood Close,550373,99500
+Homefield Close,548539,99777
+Friston Hill,555570,98003
+Kimberley Road,547257,99509
+College Road,548568,98531
+East Dean Road,552784,99053
+Elgin Gardens,550293,99500
+Green Lane,548054,98967
+Lincoln Close,559093,97677
+Bay Pond Road,559796,99500
+Brooklyn Road,548235,99337
+Sycamore Close,550340,99332
+Summerdown Lane,556250,98425
+High Close,556147,98508
+Maurice Road,548965,98335
+Michel Dene Close,556074,98399
+Micklefield Way,549721,99053
+Beach Close,547562,99261
+Meads Road,548840,99281
+May Avenue,549978,99126
+Jevington Drive,547536,99703
+Eastbourne Road,549965,99256
+Farm Close,549882,99536
+Peakdean Lane,555984,98753
+Elm Close,550336,99265
+Mercread Road,548549,99058
+Victoria Gardens,559061,99911
+Millberg Road,550000,99913
+Stoke Manor Close,549739,99511
+Lullington Close,549835,98599
+Stafford Road,548548,99405
+Westdown Road,547863,99666
+Gore Park Avenue,559895,99804
+Cophall Lane,556115,97937
+Park Close,559936,99239
+Lindon Close,555536,98374
+Sandore Close,549416,99675
+East Street,548492,99036
+Wayside,555895,98000
+Mark Close,550337,98689
+Manor Close,549619,99222
+Chamberlain Road,559280,99972
+Chyngton Road,549407,98715
+Windmill Lane,555373,98243
+Poynings Close,550127,98818
+Chatham Place,548190,98906
+Fairway Close,559305,98650
+Blatchington Close,548580,99694
+Hamsey Lane,550290,98764
+Corsica Close,548844,98532
+Martello Road,548426,98593
+Broomfield Street,559256,99671
+Chyngton Place,549618,98684
+Compton Drive,559367,98748
+Friston Close,555397,98197
+Station Approach,548094,99203
+Wilmington Road,547969,99524
+Haven Brow,549203,99768
+Bramber Road,548770,98878
+High Street,548381,98965
+Church Street,559657,99406
+Buckle Rise,547041,99604
+The Causeway,548259,98806
+Elven Lane,556203,98177
+Sutton Park Road,548470,99239
+Albany Road,547401,99436
+The Lane,552302,99778
+Hawth Park Road,547244,99968
+Hindover Road,549193,99655
+Warren Close,555642,98292
+Upper Street,555664,97898
+Wellcombe Crescent,559763,97336
+Meadow Way,549500,99405
+Bodiam Close,550266,99653
+Chyngton Lane,550395,99013
+Glebe Close,559750,99199
+Dane Close,547993,98927
+Kingston Green,549838,99196
+St Mary's Cottages,559874,99384
+Kedale Road,548262,99565
+Greenwell Close,549865,99831
+Mountney Road,559500,99796
+Warren Hill,558614,98034
+Carlton Road,547867,99943
+The Mews,549530,99959
+Vicarage Road,559809,99265
+Ocklynge Road,559905,99649
+Milton Road,559494,99927
+Claremont Road,547753,99463
+Benenden Close,549474,99832
+Rugby Close,549534,99863
+Wellington Park,549258,99344
+Buckle By-Pass,547438,99952
+Combe Lane,559567,97259
+The Outlook,555235,98351
+Avondale Road,548514,99355
+Monceux Road,559403,99670
+Meads Brow,559643,97532
+Clinton Place,548268,99145
+Paradise Drive,559803,98831
+Hartfield Road,549307,99314
+Kingston Close,549866,99111
+Manor Road,549643,99231
+Northiam Road,559141,99773
+A259,547665,99648
+Kingsmead Walk,548185,99896
+Marine Parade,547217,99445
+Juniper Close,550232,99195
+Steyning Road,550316,98882
+Hazeldene,549509,99174
+Grosvenor Road,548040,99542
+Baker's Road,559952,99493
+Darwall Drive,549384,99058
+Ladycross Close,550034,99017
+Green Street,559407,99754
+Paradise Close,559617,98805
+Hythe Crescent,550295,99890
+Downlands Way,555898,98049
+Cliff Gardens,548743,98405
+Kingsmead Way,548121,99817
+Esplanade Mews,548284,98670
+Dacre Road,559324,99544
+Gilberts Drive,555715,97523
+Kingston Way,549976,99052
+Cophall Lane,556033,97884
+Old Willingdon Road,555478,98694
+Rye Close,550000,99836
+Steyning Close,550289,98875
+Church Street,548249,98976
+Crowlink Lane,555051,98070
+Kingsmead Close,548233,99884
+Bradford Street,559589,99420
+Gore Farm Close,555842,97991
+The Link,556241,98621
+Diamond Jubilee Close,548665,99086
+Shortdean Place,559549,99941
+Lindfield Avenue,550233,98812
+Findon Close,550286,99053
+Clinton Lane,548257,99176
+Went Way,555608,97624
+Seaford Road,554436,98255
+Prospect Gardens,559990,99624
+Sutton Drove,548937,99553
+Fiennes Close,559366,99860
+Salisbury Road,559536,97688
+Osborne Road,558817,99543
+Blatchington Road,548362,99339
+Love Lane,559793,99172
+Bakewell Road,559708,99670
+Warwick Road,548418,99211
+Denton Road,559892,97931
+Chyngton Way,550164,98633
+Buckle Drive,547124,99638
+Willow Drive,550247,99168
+Saxon Lane,548414,98906
+Chesterton Avenue,549851,99376
+Lexden Court,549136,99960
+Cuckmere Road,549898,98879
+Fitzgerald Avenue,548939,98665
+Morningside Close,548702,99915
+Albert Terrace,559209,99989
+Vicarage Lane,559631,99337
+The Close,549000,98578
+Chyngton Lane North,550410,99500
+Cornfield Close,548692,99137
+Steyne Road,548520,98798
+Motcombe Lane,559801,99633
+Downsview Road,549164,99188
+Bodmin Close,559080,99410
+Motcombe Road,559625,99604
+Connaught Road,547480,99395
+Letheren Place,559562,99320
+Park Road,547607,99348
+Vicarage Drive,559684,99264
+Okehurst Road,559439,99443
+Fairways Road,550103,98754
+Eastbourne Road,556000,97931
+Whiteley Close,549794,99221
+South Street,548322,98876
+Upper Street,555728,97978
+Lindsay Close,559180,98898
+Stirling Close,550199,99443
+Northcliffe Close,548876,99878
+Church Lane,548326,98977
+Wilkinson Way,548324,99749
+Guardswell Place,548500,99104
+Old Willingdon Road,555503,98735
+Birling Street,559253,99751
+Beachy Head Road,559634,97629
+Crown Street,559975,99603
+Downs View Close,556188,98000
+Greys Road,559808,99325
+St Mary's Corner,559905,99445
+Mary Ann Lane,555655,97492
+Esplanade,548346,98598
+Sutton Mews,549254,99652
+Pevensey Close,549772,99946
+Birling Gap Road,555715,96536
+Friston Hill,555473,98011
+Links Road,549300,98858
+Belgrave Road,548062,99687
+Rough Brow,549183,99743
+Pelham Road,548161,98971
+Mill Drive,549056,99533
+Homefield Road,548724,99872
+Downs View Lane,556292,98032
+Hythe View,550322,99924
+Foster Close,548333,99677
+Dulwich Close,549554,99754
+Cherry Garden Road,558906,99219
+Aquila Park,549302,99343
+Crouch Lane,548487,98907
+Birling Gap Road,555491,96077
+Beachy Head Road,557830,95710
+Hillside,555715,98133
+Upper Carlisle Road,559537,97863
+Short Brow,549136,99783
+Bishops Close,547412,99655
+St Crispians,547902,99337
+Millfield Close,549502,99774
+Old Camp Road,559284,98877
+Lower Road,559808,99699
+Friston Downs,555768,98864
+Eton Close,549336,99731
+Mill Close,555339,98223
+Lordslaine Close,559513,97721
+Wells Close,559136,97748
+Upper Street,555661,97894
+Brodie Place,559943,99563
+Martello Mews,548393,98599
+Richmond Terrace,548267,99289
+Upper Duke's Drive,559549,97222
+Sutton Road,548864,99353
+Churchill Close,559840,99204
+Cinque Ports Way,550233,99861
+The Covers,548524,98621
+The Ridgeway,555538,98421
+Rose Walk,548659,99739
+Foredown Close,559206,98700
+Bramber Lane,548575,98927
+Perth Close,550162,99429
+Marine Parade,547217,99445
+Gildredge Road,548696,99387
+Kingsmead,548128,99905
+Fairways Close,550030,98808
+Eastbourne Road,550396,99403
+The Byeways,548927,99594
+Old Motcombe Mews,559711,99603
+Little Place Lane,548267,99102
+Buckingham Close,548070,99929
+Sunningdale Close,549077,98603
+Hindover Crescent,549206,99586
+The Ridgeway,548777,99981
+Mallett Close,548242,98726
+Croft Lane,548407,99057
+Headland Avenue,549224,99102
+Gilberts Drive,555769,97674
+Pelham Yard,548334,98891
+West Street,548161,98971
+Dene Side,555914,98348
+King's Mead Lane,547994,99823
+Green Walk,549607,98968
+Lawns Avenue,559878,99562
+Sandore Road,549438,99696
+Vicarage Close,548594,99186
+Rodmell Road,549940,98770
+Bainbridge Close,548835,99067
+Broad Street,548322,99137
+Sancroft Road,558821,99361
+Fitzgerald Park,548905,98688
+Hawth Close,547181,99807
+Greenfield Road,559617,99500
+Blue Haze Avenue,549665,99856
+Walmer Road,550179,99683
+Harrow Close,549355,99785
+St Mary's Close,548089,99871
+Ashurst Road,548681,98778
+Upwick Road,559299,99367
+Bramber Close,548573,98904
+The Dentons,559890,97838
+St Wilfred's Place,549565,99091
+Ringmer Road,548351,98699
+Church Lane,559789,99451
+East Dean Road,558000,98283
+Bromley Road,549494,99789
+Sutton Croft Lane,548379,99077
+Kings Ride,547974,99927
+Tudor Manor Gardens,549942,99280
+Brightland Road,559789,99379
+Croft Court,548446,99057
+Edinburgh Road,547574,99371
+Royston Close,555435,98389
+Beacon Road,547786,99784
+Cricketfield Road,548582,98603
+Chyngton Way,550164,98633
+Eastbourne Road,556000,97931
+Coltstocks Road,559938,97663
+Wenthill Close,556002,97987
+Chyngton Avenue,550000,99599
+Old Willingdon Road,555399,98515
+Vale Road,549092,99874
+Edensor Road,559687,97232
+Baslow Road,559633,97403
+Link Road,559867,98177
+Charleston Road,559534,99693
+Marine Crescent,548500,98744
+Cliff Road,548833,98371
+Sheep Pen Lane,549447,99383
+Summerdown Close,559645,99048
+The Village,559996,97618
+Barcombe Close,559115,99310
+South Way,550000,98489
+Alfriston Close,559284,98877
+Cornfield Road,548793,99146
+Chyngton Gardens,549931,99601
+Links Close,549270,99000
+The Brow,555800,98801
+Went Way,555619,97647
+Sherwood Road,548713,99659
+Cliff Close,548805,98349
+Dymock Close,550330,99737
+The Lane,552102,99993
+Etherton Way,549225,99878
+Pinewood Close,548657,99953
+Chichester Road,548241,99414
+Sutton Avenue,549404,99019
+Glebe Drive,548480,99486
+Mary Ann Lane,555655,97492
+Hyde Tynings Close,559500,97900
+East Albany Road,548851,99439
+Manvers Road,558739,99336
+Downs Road,549150,99350
+The Close,555474,98090
+Chichester Close,548370,99481
+Warren Close,559317,97675
+Ash Drive,550313,99261
+Grove Road,548648,99365
+Borough Lane,559939,99347
+Bydown,549304,99565
+Longland Road,559104,99500
+Esher Close,548941,99969
+Cophall Lane,556033,97884
+Rectory Close,559750,99085
+Hawth Way,547649,99638
+Bracken Road,549405,98770
+Duke's Drive,560000,97192
+St John's Road,548188,98806
+St Mary's Road,559821,99751
+Upper Duke's Drive,559508,97296
+Salehurst Road,559449,99531
+Barcombe Close,550222,99028
+Dene Close,556001,98160
+Long Down,557577,96811
+Paradise Plantation,559469,98223
+Kiln Combe,557085,96304
+Combe Bottom,552185,98960
+Brass Point,553395,96924
+Bramble Bottom,556966,97203
+Shooters' Bottom,557482,95475
+Coombe Road,559077,99816
+Field Close,549958,98926
+Valley Rise,548832,99844
+Milton Crescent,559415,99912
+Rowan Close,550106,99156
+Garden Mews,559897,97691
+Southdown Road,549032,98841
+Crooked Lane,548538,98900
+Downside Close,559150,99272
+Roedean Close,549408,99804
+Gilberts Drive,555871,97945
+Place Lane,548297,99078
+Gore Park Road,559756,99782
+Paradise Drive,559677,98776
+Warren Lane,555647,98289
+West Dean Rise,549278,99923
+Ridge Lands Close,559087,99103
+Dane Road,548051,99013
+Arundel Road,549484,99000
+Michel Close,556037,98298
+Friston Hill,554548,99188
+Butchershole Bottom,555254,99299
+Crowlink,555123,96088
+Baily's Hill,554755,96978
+Cliff End,552563,97749
+Seaford Head,549389,97806
+South Hill,550597,97979
+Friston Bottom,554196,98710
+Crunden's Bottom,557819,99098
+Crapham Down,557440,97523
+Went Hill,555219,97429
+Newbarn Bottom,552677,98681
+Eastdean Down,556953,98073
+Hod Combe,556985,95514
+Gap Bottom,553905,97128
+Bullock Down,558182,96353
+Wigden's Bottom,557102,96813
+East Dean Hill,558850,98181
+Chapman's Bottom,556825,98946
+Flat Hill,554240,96798
+Pea Down,557136,98877
+Flagstaff Point,553872,96742
+Cuckmere Haven,551681,97490
+Exceat Saltings,551542,98929
+Head Ledge,559420,95413
+Falling Sands,559355,95467
+Frost Hill,557320,96084
+East Hale Bottom,557833,97032
+Yellow Falls,549649,97638
+Rough Bottom,553373,97223
+Beachy Head,558916,95386
+Black Robin Bottom,558518,97231
+Crapham Hill,558075,98056
+Friston Forest,554487,99964
+Hope Bottom,550849,97642
+Newbarn Hill,553130,98003
+Short Cliff,551193,97463
+Limekiln Bottom,553156,97582
+Horseshoe Plantation,556186,95824
+Cow Gap,559599,95812
+Seaford Bay,547309,98945
+Warren Hill,558731,97865
+Cherry Garden Plantation,558887,99112
+Beggar's Croft,553573,99763
+Exceat Hill,552456,99048
+Old Nore Point,543756,99977
+Seven Sisters,554647,96445
+Ewe Down,551006,99813
+Foxhole Bottom,552404,98289
+Flagstaff Bottom,554219,96951
+Hope Gap,550974,97356
+Mill Down,556829,97627
+Ringwood Bottom,557293,98508
+Crapham Bottom,558136,97755
+Hawks Brow,549025,98100
+Pashley Down Infant School,558775,99924
+Seaford Head School Lower School,548727,98643
+Seaford Primary School,548412,99598
+Annecy Roman Catholic Primary School,549163,98970
+Well Combe,559449,97236
+Pope Rear Green,550429,97483
+Eldon Bottom,557474,99750
+Flathill Bottom,554486,96862
+Seaford Head School,549427,98855
+Cuckmere House School,550169,99277
+Roedean Moira House,Non State Secondary Education",559714
+Threeways Nursing Home,547864,99878
+Seaford College of Education Annexe,548626,98820
+Newlands School,Non State Secondary Education",549596
+University of Brighton,559763,97425
+St John's Meads Church of England Primary School,559600,97258
+St Andrews School,559893,97333
+The South Downs Community School West Site,558882,99929
+Seaford,548082,99185
+Chyngton School,549926,99963
+High Street,560000,99440
+Den Hill,558500,99948
+Surrey Close,547503,99603
+Stoke Close,549699,99444
+The Boundary,548390,98667
+St Leonard's Place,559310,99317
+Rowsley Road,559711,97334
+Dean Road,548748,98796
+Michel Dene Road,556076,98347
+Buckthorn Close,550050,99137
+Harison Road,549378,99565
+Manor Road North,549749,99424
+Middle Furlong,548770,99219
+Highlands Road,548671,99199
+Sherwood Rise,548712,99658
+West View,548142,98849
+Saltwood Road,550000,99756
+Corsica Road,548963,98474
+Went Lane,556027,98168
+Rother Road,549263,98841
+Chesterton Drive,549935,99419
+Summerdown Road,559589,99031
+Stirling Avenue,550199,99443
+Carlton Close,548000,99746
+Friston Close,547449,99780
+Went Hill Park,549346,99362
+Heathfield Road,548870,98968
+Gerald Road,548926,98316
+Pashley Road,559169,99000
+Bishopstone,546920,99884
+Hillbrow,559997,97986
+Upper Sherwood Road,549000,99914
+Queens Park Gardens,547388,99545
+Sussex Gardens,556074,98026
+Beechwood Crescent,560000,99157
+Gildredge House,Secondary Education",559989
+Seaford Road,555149,98223
+Lions Place,549000,98660
+New Place,559685,99433
+Hurst Lane,559925,99964
+Peakdean Close,555886,98602
+Kingston Avenue,549808,99088
+Blatchington Hill,548480,99696
+Newick Close,550222,98724
+Steyne Close,548605,98858
+Chapel Close,548369,99722
+Friston Hill,555473,98011
+Birling Close,547556,99705
+Newbarn Drove,553460,99390
+Salisbury Road,548132,99476
+The Shepway,549931,99733
+Milldown Road,548930,99427
+Peppercombe Road,558779,99634
+Romney Close,550095,99500
+East Dean Road,559143,99169
+Mason Road,548770,99753
+Elven Close,556321,98245
+Hawth Place,547310,99950
+Meads,560312,97870
+Eastbourne,560749,98791
+Upperton,560142,99590
+Kilda Street,561864,99964
+Bolsover Road,560559,97779
+Michel Grove,560256,99513
+Hartington Place,561452,98782
+Naomi Close,560362,98286
+Bedford Grove,560872,99692
+Saffrons Road,560545,99000
+Gaudick Road,560074,98070
+Beatrice Lane,560682,99389
+Beltring Road,561804,99729
+Sydney Road,561720,99701
+Avenue Lane,560887,99275
+Rylstone Road,562222,99788
+South Lynn Drive,560595,99842
+Oxford Road,561877,99752
+Meads Street,560065,97535
+Upperton Road,560395,99490
+Hartfield Road,560810,99500
+Melbourne Road,561693,99583
+Wellesley Road,561434,99296
+Trinity Place,561519,98797
+St John's Road,560528,97891
+Ashford Square,561315,99453
+De Roos Road,560056,99993
+Fitzgerald Close,560547,98029
+Gilbert Road,561930,99886
+Watts Lane,560130,99751
+Hanover Road,562003,99746
+Winchcombe Road,561465,99679
+Stables Lane,561009,99000
+North Street,561519,99012
+Gildredge Road,560984,98914
+Chesterfield Road,560268,97645
+Elms Avenue,561647,98931
+Hartfield Lane,560970,99575
+Hyde Road,560884,98916
+Chiswick Place,561273,98545
+Pevensey Road,561649,99181
+Dudley Road,561720,99972
+Connaught Road,561144,98927
+Barden Road,562131,99899
+Spencer Road,561031,98752
+Old Wish Road,560900,98375
+Carlisle Road,560500,98260
+Grand Parade,561582,98690
+Richmond Place,560520,99483
+Willowfield Square,561847,99464
+Marine Road,561951,99309
+Western Road,561711,99818
+Old Orchard Road,560734,98982
+Carlton Road,562248,99987
+Waterworks Road,561500,99934
+Addingham Road,562170,99808
+Gaudick Place,560092,97974
+Grassington Road,560681,98376
+Regency Mews,561050,98034
+Laleham Close,560149,99716
+Compton Street,561294,98473
+Derwent Road,560140,97500
+Shackleton Close,561652,99107
+Meads Road,560392,98266
+Dalton Road,560162,97735
+Ceylon Place,561787,99213
+Mayfield Place,561230,99854
+College Green,560304,99829
+South Street,560981,98781
+Star Road,560012,99555
+Holywell Drive,560315,97358
+Chesterfield Gardens,560357,97592
+Torfield Road,560460,99657
+Stanley Road,561801,99946
+Cornfield Terrace,561251,98715
+Arlington Road,560648,99048
+Beltring Terrace,561820,99795
+Mill Gap Road,560631,99820
+Bernard Lane,560626,99434
+B2106,561977,99274
+King Edward's Parade,560821,97787
+Cavendish Avenue,561556,99634
+Blackwater Road,560810,98516
+South Cliff,560851,97838
+Gaudick Close,560134,98035
+Marine Parade,561904,99115
+Hardwick Road,561154,98605
+Lion Lane,561845,99068
+Stansted Road,561465,99852
+Ascham Place,560219,98184
+Roman Croft,560238,99759
+Ravens Croft,560780,97858
+Clarence Mews,561770,99884
+Saxon Ground,560269,99741
+Marine Parade Road,561869,99125
+Colonnade Road,561813,99135
+Roborough Close,561291,99665
+Howard Square,561371,98500
+Mount Road,560743,97840
+Junction Road,561214,99312
+Upperton Gardens,560736,99406
+New Road,561601,99521
+Tideswell Road,561500,99254
+Burlington Place,561384,98600
+Albion Road,561725,99875
+Enys Road,560768,99673
+Mark Lane,561061,99000
+College Road,560991,98519
+St Anne's Road,560647,99596
+The Goffs,560301,99382
+Bolton Road,561275,98928
+Foyle Way,560080,97059
+The Conifers,560945,99813
+Holywell Close,560012,97232
+West Terrace,560916,99000
+Milnthorpe Road,560176,97713
+Chawbrook Road,561636,99905
+Carew Road,560775,99864
+Commercial Road,561123,99398
+Darley Road,560064,97470
+Havelock Road,561633,99807
+Holbrook Close,560464,97703
+Clarence Road,561803,99978
+Selwyn Drive,560072,99777
+Burlington Road,561653,98857
+Avondale Road,561847,99913
+Hoad Road,561877,99685
+Leaf Hall Road,561930,99358
+Langney Road,561613,99232
+Abbotts Close,561449,99865
+Grove Road,560804,98927
+Neville Road,561681,99843
+Taddington Road,562131,99899
+Bayham Road,562083,99511
+Cornfield Lane,561210,98765
+Cornfield Road,561193,98904
+Longstone Road,561525,99371
+B2103,560617,97646
+Matlock Road,560051,97628
+Susan's Road,561428,99192
+St Vincents Place,560102,98116
+Lewes Road,560948,99941
+Upper Avenue,561223,99616
+Moat Croft Road,560108,99507
+Jevington Gardens,561000,98210
+Dittons Road,560398,99105
+Colonnade Gardens,561824,99097
+Hyde Gardens,561072,98939
+Leslie Street,561930,99824
+St George's Road,561810,99650
+The Avenue,560879,99354
+Springfield Road,561930,99760
+Calverley Road,560900,98833
+Wish Road,561190,98652
+Furness Road,560835,98701
+Queens Gardens,561760,99049
+Station Street,561038,99028
+Wilmington Square,561230,98270
+Saddlers Mews,561830,99190
+Selwyn Road,560275,99703
+Buxton Road,560366,97728
+Dursley Road,561490,99632
+Terminus Road,561290,99018
+Leaf Road,561365,99412
+Manifold Road,561666,99701
+De Walden Mews,560056,97744
+Cliff Road,560127,97281
+A2040,561000,99509
+Silverdale Road,560748,98068
+Firle Road,561750,99753
+St Gregory Close,560177,97956
+Bath Road,560825,98902
+Latimer Road,562216,99928
+Elms Road,561586,98909
+Wharf Road,560872,99220
+South Cliff Avenue,560976,98000
+York Road,560833,98858
+Redoubt Road,562145,99740
+The Quadrant,560282,99868
+Ratton Road,560085,99910
+Chatsworth Gardens,560552,97650
+Sheraton Close,560779,98607
+Upperton Lane,560680,99333
+Eversfield Road,560945,99536
+Holywell Road,560084,97275
+Wilmington Gardens,561118,98328
+Gorringe Road,561053,99977
+Harris Court,561495,99212
+Fairfield Road,560301,98031
+St James Road,562039,99656
+Beristede Close,560483,98224
+Southfields Road,560626,99193
+Holywell Retreat,560430,97257
+St Leonard's Road,561000,99328
+Ashford Road,561230,99228
+Willowfield Road,561819,99510
+Burfield Road,561930,99406
+Grange Road,560811,98400
+Lushington Road,561080,98870
+Ivy Terrace,560890,99033
+Seaside Road,561676,99038
+Granville Road,560562,98270
+Ascot Close,560777,97962
+Lushington Lane,561054,98825
+Beamsley Road,562216,99928
+Holywell Ledge,560553,97105
+The Pound,560828,97618
+Bourne Primary School,561737,99428
+Esperance Hospital,561378,98792
+Eastbourne College,560901,98350
+Homelea Residential Care Home,561014,99898
+The Shires Care Home,561030,99955
+Eastbourne,560985,99206
+St Bede's School,560111,97139
+Jephson Close,560560,97908
+Camden Road,560859,98847
+Trinity Trees,561364,98863
+Collington Close,560367,98105
+Lismore Road,561369,98948
+Cavendish Place,561592,99215
+Staveley Road,560408,97679
+Lascelles Terrace,561294,98473
+Bedfordwell Road,561097,99784
+St Aubyn's Road,562000,99435
+West Street,560947,98873
+Arundel Road,560646,99696
+Bourne Street,561659,99367
+Foyle Way,560044,96978
+New Upperton Road,560086,99578
+Cambridge Road,562090,99589
+Compton Place Road,560222,98995
+Sheen Road,561884,99562
+Belmore Road,561750,99593
+Saffrons Park,560335,98372
+Halton Road,562164,99659

@@ -1,0 +1,69 @@
+Thamna Sgeir,162321,1030708
+Bogha Còrr,161246,1031238
+Pairc as Iar,161861,1030445
+Geodha Blàtha Beag,161990,1030626
+Dà Bogha Ràmha Cleit,161929,1030724
+Lunndastoth,162348,1030857
+Sula Sgeir,162080,1030666
+Cnap Geodha Blàtha Beag,161882,1030594
+Pal a' Chaitainich,162332,1030923
+Gralisgeir,161821,1029657
+Geodh' a' Bhun Mhòir,162193,1030586
+Meagh Cich,162004,1030443
+Ràmha Cleit,162089,1030779
+Bhun Mòr,162208,1030569
+Creag Trithaiga,161952,1030412
+Boghannan s' Iar,161843,1031033
+Sròn na Lice,161867,1030363
+Levinis,161848,1030313
+Bogha Leathainn,161859,1030800
+Geodha Blàtha Mòr,162020,1030613
+Pal a' Tigh,162197,1030527
+Bealach an t-Suidhe,162020,1030459
+Sgeir an Teampuill,162164,1030486
+Bhun Beag,162178,1030624
+Geodha Phuill Bhàin,162101,1030664
+Palaichean Chrois,161804,1030379
+Harsgeir,180082,1032024
+Leac Mhòr Fianais,181571,1033260
+Làmha Cleit,181876,1032016
+Leac na' Sgrob,180740,1032096
+Lòba Sgeir,180281,1031856
+Sceapull,180392,1031983
+Langa Beirie,181568,1032884
+Ton Bràighe,180596,1032732
+Poll Thothatom,181410,1032034
+Sròn nan Caorach,181882,1032293
+Sgor na Lice Mòire,181452,1033503
+Geodha nan Gall,180664,1032545
+Cladach Crò Iain Dheirg,180403,1032211
+Hacaclaid,180634,1032004
+Stoc a' Phriosain,180890,1032051
+Prigeachan Lamhacleit,181894,1032049
+Geodha Blàtha Beag,181037,1032805
+Geodha Lèis,181157,1032758
+Leac Iain Tailleir,181909,1032088
+Geodha Blàtha Mòr,180972,1032729
+Pal a' Chlèirich,181280,1033044
+Pollan Uisge,181241,1032041
+Sgeildige,181284,1032835
+Heallair,180991,1032076
+Leacan's Iar,180442,1032284
+Cleit an t-Sionnaich,181707,1031949
+Bogh' a' Mheadhon Là,180655,1031745
+Gealldraig Mhòr,181921,1031463
+Poll Heallair,181074,1032085
+Gealldruig Bheag,181977,1031696
+Geodh' a' Stoth,181475,1032773
+Geodha Hacaclaid,180623,1032023
+Geodha na Breatuinn,181772,1031992
+Sròn an t-Tinntir,181440,1031929
+Caolas Lòba Sgeir,180218,1032052
+Geodha Mairi,181637,1032408
+Tobha Rònaigh,181753,1032249
+Geodh' an Tuill,181239,1033411
+Lisgear Mhòr,181219,1033675
+Rònaidh,181010,1032381
+Marcasgeo,180382,1032077
+Boghannan Lisgear,181136,1033665
+Caolas Harsgeir,180135,1031924

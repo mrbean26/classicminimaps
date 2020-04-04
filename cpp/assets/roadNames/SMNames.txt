@@ -1,0 +1,2856 @@
+St George's Channel,139913,245807
+The Smalls,146649,208888
+North Gut,159973,209475
+South Gut,159952,209294
+West Tump,159651,209328
+Grassholm Island,159795,209311
+East Tump,159856,209308
+St Brides,179693,210595
+Marloes,179389,208387
+North Lane,179116,208673
+Town Meadows,179554,208251
+Green Meadow Close,179443,208463
+Sandy Lane,178230,207939
+Gay Lane,179476,208285
+North Lane,179251,208721
+Town Meadows,179556,208247
+Sheer Face,172230,209976
+Tower Point,179000,210823
+Kittiwake Cove,172876,208460
+Spy Rock,173951,204830
+Mad Bay,173312,205316
+North Gully,173549,205416
+Frenchman's Bay,179863,203534
+Watery Bay,176878,207843
+Hog Bay,174100,204924
+Amy's Reach,173818,208978
+Castle Head,179788,211158
+Little Bay Point,173750,205595
+Renney Slip,175991,208689
+Little Castle Point,179725,203882
+Wildgoose Bay,172737,204814
+Marble Rocks,171687,209400
+Skomer Head,171552,208984
+Three Chimneys,178665,207226
+Head Rock,172741,204736
+Frank's Point,173630,204494
+Protheroe's Dock,174003,209396
+Crab Bay,173903,204705
+Rockfall Bench,171919,210093
+Victoria Bay,176646,207912
+Far Point,173946,205565
+Littlewill Bench,171281,209628
+Black Cliff,178553,209032
+Devil's Teeth,174462,205144
+Waybench,173215,209884
+Little Castle Bay,176532,207973
+St Brides Bay,172213,210300
+Pains Rock,171781,210217
+The Neck,174272,205298
+Black Stones,174779,208543
+The Loaf,173575,209467
+Little Bay,173706,205563
+New Quay,178743,209192
+Pitting Gales Point,175983,208362
+South Castle,173604,208882
+Huntsman's Leap,179552,211288
+Welshman's Bay,179781,204202
+Limpet Rocks,175501,208675
+Horse Neck,177227,207566
+Long Point,179735,204888
+Pig Stone,171302,209240
+Easter Point,174559,205411
+Windmill Cove,179854,205313
+Mew Stone,172793,208347
+Wick Basin,172103,208815
+The Hump,174381,205415
+Blacksmith's Landing,174130,205385
+The Lantern,174316,209189
+Peter's Bay,174229,205164
+Three Doors,176166,208274
+Middle Jamb,175440,208999
+Anvil Rock,171931,209622
+Broad Sound,176158,208292
+Pyramid Rock,171972,209773
+Crab Rocks,173959,204622
+The Bench,175688,208230
+Low Point,176616,209223
+Shag Rock,173712,208777
+The Bog,173636,204773
+South Haven,173277,208969
+The Basin,171991,208785
+Midland Isle,174688,209096
+West Pond,171845,209400
+Horse Pool,179117,209258
+Seal Hole,173539,209043
+The Anvil,175518,208806
+The Cutting,173758,204790
+Gateholm Stack,177248,207469
+Rye Rocks,173841,209588
+East Pond,172959,209688
+Mouse's Haven,175525,209213
+South Pond,172436,209064
+North Pond,173620,205188
+South Stream Cliff,173103,209044
+Albion Sands,177088,207465
+Long Nose,172752,204842
+Short Point,179832,204428
+The Wick,172245,208648
+Tusker Rock,175276,209442
+Short Nose,172792,204876
+Deadman's Bay,175969,208462
+Gateholm Sound,177167,207459
+Wooltack Bay,175602,209358
+Howney Stone,177648,209153
+Wreck Cove,174121,204787
+Siver,179475,211275
+Musselwick Mouth,178417,208855
+Driftwood Beach,173529,209287
+Hopgang,177892,208909
+Hooper's Point,178763,206296
+Westdale Bay,179746,205771
+Shag Hole Bay,174133,209282
+Crow Rocks,174303,205430
+Wildgoose Race,171035,206845
+The Oven,173113,204946
+Little Sound,174496,209086
+The Cable,175255,208964
+Jack Sound,175292,209089
+Crab Stones,174973,209093
+Rainy Rock,176407,207960
+Tom's House,171831,208924
+Little Neck,174466,205414
+Mathew's Slade,178460,207493
+Raggle Rocks,177710,207584
+Saunders Fist,171468,209660
+Wooltack Point,175492,209399
+Great Castle Head,179769,205608
+The Pits,177725,207739
+North Castle,173438,209695
+The Nab Head,179054,211127
+Horse Shoe,175428,209445
+East Bay,174482,205237
+The Stack,174551,205437
+Skomer Island,172490,209380
+Red Cliff,178992,206791
+Dumb-bell Bay,176880,207842
+The Head,172962,204713
+Musselwick Sands,178629,209109
+Bull Hole,171642,209854
+Captain Kites,173407,209223
+North Haven,173659,209504
+Long Point,174460,205192
+Gateholm Island,176984,207231
+High Cliff,173029,208675
+Marloes Sands,178354,207374
+High Point,176840,209258
+Thorn Rock,174033,208898
+South Pond,173586,204817
+Garland Stone,172189,210428
+Welsh Way,178372,208836
+Gorse Hill,172693,209459
+Welsh Way,173011,208873
+Skokholm Island,173616,204978
+The Table,171393,209712
+The Neck,174013,209142
+Jeffry's Haven,175580,209137
+Winter Pond,173464,204620
+Pigstone Bay,171327,209369
+Martin's Haven,176026,209189
+Quarry Point,172837,204696
+Haven Point,175877,209328
+Iron Point,179812,205365
+Matthews Wick,173745,209028
+Castle Bay,173693,208908
+End Wall Ridge,171670,209220
+Rob's Wick,174140,209017
+North Pond,172306,209702
+The Table,172955,204695
+The Spit,171293,209530
+Glebe Lane,179459,208490
+Gay Lane,179471,208292
+Tower View,179416,208418
+Church Close,179572,208340
+Whitchurch,179892,225444
+Solfach Uchaf,179905,224428
+Clegyr-Boia,173737,225014
+Tretio,178520,228914
+Cyffredin,179713,231044
+Aber Eiddy,179815,231251
+Treleddyd-fawr,175323,227854
+Llandruidion,178410,225038
+Treleidr,176662,228580
+Nine Wells,178731,224870
+Gwrhyd Mawr,176737,227610
+Trelerw,177368,224485
+Trevinert,176744,225409
+Berea,179284,229780
+Whitesands Bay,173703,227246
+Rhodiad-y-Brenin,176682,227141
+Vachelich,177971,225397
+Caerfarchell,179504,226969
+Rhosson,173061,225385
+St Davids,175405,225296
+Pit Street,174927,225386
+Maes-Yr-Hedydd,175547,225158
+Maes Ewan,179787,224486
+Pen-Y-Garn,175393,225171
+St Non's Close,175015,225197
+Meidr Dwyll,175460,226050
+Maes Y Cornel,179812,224339
+B4583,174698,226595
+Maes Maelgwyn,179859,225487
+Ffos Y Mynach,177469,225640
+A487,175617,225644
+Stephen's Lane,175278,225275
+Ffordd Caerfai,175649,224795
+Ffynnon Wen,175170,225081
+Feidr Dwr,176725,228274
+Ynys Dawel,179731,224699
+Noddfa Dewi,175621,225555
+Maes Y Mynach,176089,225348
+Maes Dyfed,175581,225410
+Feidr Pant-Y-Bryn,175732,225143
+Feidr Chwech-Erw,174718,226128
+Millard Park,175929,225292
+Maes Y Forwen,179997,224571
+Ffordd Melin-Isaf,174837,225197
+Ffordd Melin-Isaf,174659,225195
+Heol Y Bryn,175401,225241
+Ffordd Porth Clais,174111,224347
+Feidr Neuadd Y Dre,175510,225560
+High Street,175476,225278
+Ffordd Caerfai,175649,225077
+Feidr Chwech-Erw,174974,225531
+Maes-Y-Mor,179826,224284
+Fort Road,179962,224164
+Bryn Teg,175254,225157
+Waun Isaf,174565,224831
+Gerddi'r Bryn,175657,225729
+Mitre Lane,175240,225296
+Ffordd Glasfryn,175797,225430
+Fford Owen,175153,225182
+Quickwell Hill,175281,225581
+Glasfryn Lane,175596,225521
+Goat Street,175199,225289
+Maes-Y-Dre,175552,225022
+Waun Isaf,174803,225083
+Maes Yr Eglwys,179865,224310
+The Pebbles,175207,225362
+Sgwar Y Groes,175356,225308
+Maes Elfed,175891,225221
+Glanhafan,179967,224266
+New Street,175514,225507
+Ramsey Gardens,174908,225151
+St Brides View,179906,224123
+Heol Catrin,174981,225233
+Feidr Brenin,174344,228263
+Feidr Lâs,178435,226924
+Ffos Y Mynach,177368,224485
+Heol Dewi,175705,225649
+Peter's Lane,175484,225456
+Loch Warren,178990,223795
+Porth Lleuog,173041,227428
+Llechenhinen,172549,228311
+Penmaen melyn,171524,223674
+Ogof Ffwrn,170119,222043
+Ogof Mrs Morgan,172149,223194
+Y Llech,170586,224102
+Penrhyn Dalar,171905,225731
+Porth y Dwfr,175976,229124
+Pen Dal-aderyn,171515,223293
+Ynys Gwair,177499,230454
+Ogof Cwm,172222,226133
+Ynys Hwrddod,170664,223527
+Maen Bachau,172255,224460
+Penrhyn,172368,225085
+Porth Llong,172971,228488
+'Stacan Barcutan,177978,230681
+Pont y Geist,170832,223684
+Aber Creigwyr,178511,230640
+Cist Non,175045,224116
+Carn-ffald,174926,228242
+Picrite,173143,223308
+Ogof Thomas Williams,170212,222654
+Trwyn Bendro,169319,223672
+Carreg-gwylan-fach,177257,230458
+Rhod Uchaf,170604,224125
+The Bitches,170834,223684
+Ynys Eilun,170726,221922
+Pwll Melyn,179878,224417
+Maes Dewi,175748,225614
+B4583,175762,225868
+Gospel Lane,175410,225400
+Feidr Pant-Y-Bryn,175954,225035
+Daufraich,166112,223694
+Aber Castell,178758,224093
+Porth Mawr Whitesands Bay,172573,226792
+Cartws,179534,223720
+Carn Porth-llong,172828,228489
+Ogof Lle-sugn,173571,223512
+Trefeiddan Moor,173242,225032
+Porth-gwyn,174764,228809
+Pwll Bendro,169315,223572
+Penrhyn Twll,170623,222769
+Ynys Cantwr,170549,222376
+Aber Llong,178720,224053
+Carreg yr Esgob,172811,223053
+Aber-pwll,178446,230643
+Ramsey Sound,170731,223684
+Cribog,166602,223739
+The Mare,179950,222642
+Aberdinas,177586,230492
+Ogof Mynachdy,170097,222563
+The Basin,175178,224240
+Carn Warpool,174968,224863
+Ogof Magwyr Gwil Hugh,172732,226157
+Carreg y Barcud,177050,224022
+Green Scar,179660,222645
+Sterling Hock,179881,223692
+Penrhyn Halen,174915,228843
+Porthtaflod,171873,223056
+Twll y Dillyn,170504,222265
+Aber Mawr,169742,224216
+Carreg-gafeiliog,171936,226309
+Llechaucochion,178166,231374
+Midland,170505,222221
+Aber Ceffyl,177647,230557
+Penpleidian,176186,223787
+Craig y Creigwyr,172985,227584
+Ogof Felen,172069,224165
+Ogof Colomennod,169278,223734
+Merry Vale,174423,225026
+Dduallt,176375,229234
+Gewni,179683,223601
+Ogof Barfau,172775,226200
+Ogof Ffiol,175442,229026
+Porth Brâg,172141,225202
+Ogofau Duon,172110,224154
+Carreg yr Afr,175759,229126
+Em-sger,165124,222593
+Llech Uchaf,168287,224604
+Porth Henllys,172562,223522
+Penrhyn Ffynnon-las,175107,228970
+Trwynhwrddyn,173099,227319
+Caer Bwdy Bay,176670,224347
+Porthselau,172553,226090
+Trwyn-Siôn-Owen,170289,225310
+Porth y Rhaw,178561,224249
+Porth Coch Bach,175085,224199
+Ogof Ynys-bery,170243,222184
+The Ovens,169769,224458
+Trwyn Dduallt,176326,229515
+Maen Rhoson,166477,225816
+Ogof Goch,172216,224304
+Craig Friw,179377,223752
+Carreg Frân,173146,222937
+Trwyn Ogof Hen,170880,225117
+Maen-y-groes Moor,177953,229041
+Shoe Rock,171515,223108
+Ynys Gwelltog,170384,222486
+Maen Porth-llong,173102,228605
+St Non's Bay,175269,224135
+Twll y Gath,174217,223743
+Porth Tre-wen,177452,230254
+Cerrig Gwylan,179700,232246
+The Harbour,179586,222627
+Bancyn-ffald,169370,222803
+Dowrog Pool,176927,226904
+The Cradle,179009,223684
+Dowrog Common,177136,226987
+Trwyncastell,179306,231528
+Penberry,176638,229217
+North Bishop,166975,227960
+Ogof Crisial,172256,228035
+Maen Llwydwyn,172662,223513
+Carn Lŵyd,179720,231678
+Penllechwen,173975,228972
+Trwyn-drain-du,169670,224956
+Pen y Cyfrwy,175620,224030
+Yr Hen-ffordd,170603,223217
+Carnedd-lleithr,174719,228186
+Ogof Blawd-ceirch,175560,223975
+Rhod Isaf,170610,223948
+Carn Goch,172527,224476
+Trwyn-llwyd,173226,228655
+Llech Isaf,168100,223845
+Carn Llidi,173803,228006
+Porthstinian,172285,224853
+Carn Fach,172376,224209
+Trwynllundain,169352,223891
+Carreg Trwyn y Cyfrwy,175728,224001
+Penberry Moor,177776,228965
+Ffynnon Clegyr-Boia,174053,225213
+Certhios Porth-melgan,172513,227905
+Porth Cadnaw,171994,225499
+Ogof Mary,172385,224755
+Twll y Glyddel,170481,222465
+Trwyn y Cyfrwy,175630,223953
+Maen Cam,172172,226187
+Chanters' Seat,174752,223956
+Porthmelgan,172616,227768
+Porthlysgi Bay,172908,223461
+Black Scar,179257,222495
+Carnllundain,169611,223455
+Pen y Foel,172242,223143
+Porth Coch Mawr,174928,224105
+Ynys Dinas,172213,225131
+Morfa Common,177973,224413
+Lower Moor,174706,225155
+Ogofgolchfa,173029,226480
+Pig y Barcut,175191,229011
+Glasmaen,177952,230687
+Carn ar Wig,171801,223780
+Y Ceffyl,177556,230615
+Bishops and Clerks,167245,225680
+Ynys Fach,170756,223710
+Carreg Rhoson,166735,225470
+Ynys Bery,170202,221974
+Foel Fawr,170501,222602
+Pont yr Eilun,170885,221953
+Ystafelloedd,179267,223612
+Aberfelin,170717,223554
+Llech Ganol,177776,231265
+Trwynmynachdy,169839,222671
+Ogof Cantwr,170492,222286
+Ogof Coetan,172439,228226
+Porth y Rhaw,176991,229806
+Porth Mawr,172569,226887
+Ramsey Island,170061,223850
+Trywn Aber-pwll,178366,230701
+Treswny Moor,173811,225762
+Trwyn Cynddeiriog,174669,223932
+Ogof Morlanod,175505,229050
+Porthtaflod,171701,223222
+Meini Duon,169707,221689
+Abermyharan,170506,222972
+Porth Uwch,173593,228819
+Trwyn Porth-côch,174641,228882
+Porth Coch Bach,173125,223583
+Segar Rock,178972,223610
+Rhos Carreg-llwyd,175350,224175
+Carreg-gwylan,169226,223467
+Blue Lagoon,179509,231464
+Trwyn Garlic,169892,224064
+Wern Moor,178026,228812
+Cwter Sewyn,172384,227822
+Penlledwen,172851,227726
+Llech Cyllyll,174213,223684
+Treleddyd-fawr Moor,175685,227169
+Ogof Genau,169939,222946
+Gewni Beach,179666,223680
+Haccesh,178879,223897
+Maen Daufraich,166176,223907
+Gwyddelod,179994,223561
+Cader Rhwydog,169481,223537
+Dar y Cadno,173638,228874
+Porthselau Sand,172705,226093
+Porth y Twic,174990,228877
+Certhios Pen-lledwen,172761,227676
+Gwahan,170655,226052
+The Chambers,175292,224246
+Allt Felin-fawr,169447,223044
+Point St John,171877,225823
+Bay Dillyn,170448,222338
+Ogof Simdde,177337,230077
+Bay Ogof Hên,170590,225208
+Careg Lyfn,179642,223747
+Ogof Cadno,171888,223120
+Ogof Mŵn,178030,224267
+Gesail-fawr,174215,228871
+Carn Gwil Geli,172666,224396
+Penmaen Dewi,172239,227898
+Porthyn Hyfryd,172063,225337
+Shalom House,175671,225797
+Trwyn Llwyd,174614,228889
+Porth y Ffynnon,174544,223994
+Tretio Common,178387,228292
+Porth Coch,174404,228837
+Carnysgubor,169956,224601
+Pen Pedol,171803,223176
+Ogof Golchfa,174078,223621
+Porth Clais,174281,223833
+Abereiddi Bay,179472,231170
+Trwyn yr Allt,169397,223265
+Ogof Glyma,169420,223166
+Lludw Brwd,169795,224615
+Treiago Moor,177835,228758
+Pwll Trefeiddan,173385,225198
+Ysgol Dewi Sant,176038,225398
+Ysgol Bro Dewi Primary School,175357,225611
+Solva County Primary School,179850,224550
+St Davids Airfield,179054,225795
+Anchor Drive,175825,225191
+Pit Street,175034,225290
+Pen Rhiw,175100,225853
+Feidr Treginnis,173578,224730
+Ffordd Glasfryn,175871,225569
+Pen Rhiw,174934,226123
+Heol Non,175483,225598
+Church Lake,195904,205137
+Waterston,193580,205791
+St Ishmael's,183526,207270
+Albert Town,193888,215503
+Boulston,197536,212688
+Grove,198958,200809
+Walwyn's Castle,187457,211378
+Deerland,198472,210431
+Millin Cross,199428,213981
+Golden Hill,198697,202009
+Hook,197860,211224
+Neyland,196376,205299
+Pelcomb,192408,218174
+Burton,198381,205374
+Guildford,199113,209117
+Sardis,197045,208726
+Talbenny,183877,211922
+Merlin's Cross,199450,200889
+Waterloo,198034,203721
+Leonardston,194900,205509
+Liddeston,189545,206859
+Keeston,189972,219404
+Newton Mountain,198348,208056
+New Bridge,199155,219605
+Pennar Park,194578,202911
+Haroldston West,186627,215477
+Pelcomb Cross,191939,217957
+Tiers Cross,190623,210723
+Robeston West,188964,209457
+Llanstadwell,194868,204994
+Lambston,190769,216964
+Pelcomb Bridge,193307,217217
+Penfro,198638,201380
+Freystrop,195694,211270
+St Ann's Head,180531,203132
+Cuttybridge,193949,219122
+Johnston,193217,210478
+Aberdaugleddau,190362,205958
+Prendergast,195684,216207
+Dale,180632,205832
+Glenowen,195442,205691
+Druidston,187397,216495
+Simpson Cross,188992,219473
+Uzmaston,197055,214440
+Pope Hill,193732,212270
+Kingsbridge,199500,201404
+Broadway,187569,213640
+Houghton,198378,207299
+Hwlffordd,195348,215840
+Orange Gardens,198473,200860
+Lower Freystrop,195618,212406
+Priory,190406,207281
+Herbrandston,186999,207640
+Rosemarket,195362,208527
+Rhoscrowther,190463,202103
+The Marsh,195685,215593
+Hazelbeach,194644,204837
+Mascle Bridge,195345,205584
+Skerryford,192991,214584
+Walton West,186232,212930
+Middle Hill,195696,211878
+Portfield Gate,192020,215459
+Pennar,195775,202708
+Burton Ferry,197992,205105
+Neyland Vale,195773,205469
+Broad Haven,186065,213586
+Hakin,189570,205925
+Thornton,190410,207769
+Llanreath,195458,203277
+Pill,191121,205949
+Bentlass,196133,201522
+Little Haven,185754,212911
+Great Honeyborough,196121,205869
+Nolton Haven,186267,219185
+Doc Penfro,196915,203526
+Little Honeyborough,195330,206352
+Hundleton,195935,200534
+Hill Mountain,198062,208389
+Steynton,191815,207738
+Little Milford,196662,211922
+Poyston Cross,197950,219572
+Tangiers,195505,218422
+Green,198528,201869
+Monkton,197615,201299
+Robeston Cross,189086,209423
+Pembroke Ferry,197452,204612
+Port Lion,198977,208536
+Trooper's Inn,196254,210045
+Angle,186381,202980
+Merlin's Bridge,194878,214209
+Llangwm,199007,209472
+Llanion,197370,203597
+Nolton,186641,218191
+Crundale,197010,218185
+Dreenhill,192175,214312
+Pwllcrochan,192119,202659
+Hasguard,185245,209562
+Hubberston,189223,206430
+Sutton,190997,215917
+Withybush,196246,218881
+Hill Street,195212,215354
+Scotchwell Lane,196115,216310
+St Petrox Close,198680,200810
+Ferry Lane,197847,203222
+St Mary's Street,195214,215587
+Augustine Way,194973,214967
+Hall Court,193293,210387
+Cotts Road,185689,210198
+Eldergrove,187903,213718
+Pointfields Crescent,189857,205429
+3rd Street,193400,205429
+Cross Lane,197083,218126
+Poyston Close,194611,215843
+Court Terrace,198406,201749
+Catherines Gate,195243,213811
+Waterston Road,194644,204837
+Well Hill,198981,201145
+Haylett Lane,194732,214260
+Williamson Street,198356,201205
+Derwent Avenue,191968,207665
+Promenade Close,196065,205021
+The Rise,195693,215934
+Castle Street,196320,202266
+Vale Road,195897,205357
+Wiston Street,198640,202182
+Marshal Road,197500,201527
+Cleddau Avenue,196090,205214
+Riverside Avenue,196157,205190
+Burgage Green Close,183309,207428
+Watery Lane,199538,200784
+Barn Court,194983,215399
+Queen's Square,195217,215716
+Marine Road,186121,213551
+Woodland Crescent,191413,206275
+Laws Street,196870,203312
+John Lewis Street,188879,206000
+Imble Close,197024,202849
+Silverstream Drive,189403,206377
+Beech Tree Gardens,195142,215072
+Butterhill,199026,209208
+Trevaughan Close,195321,215064
+Boot & Shoe Close,196668,217731
+Union Hill,195626,215174
+Priory Lodge Drive,190255,206328
+Bowett Lane,196499,200223
+Bulford Road,190777,210695
+Hamilton Court,197716,203293
+Hakin Point,190032,205465
+St Peter's Road,193300,210657
+Meadow Walk,196190,216904
+Front Street,195364,208437
+Marine Gardens,190433,205854
+Uzmaston Road,196340,215491
+Twopenny Hay Close,199179,201350
+Shelley Road,195447,214915
+West Lane Close,190001,219272
+Rhoose Ferry Road,199393,206839
+Rumsey Drive,196391,205976
+Fairmeadow Close,186968,207901
+Paterchurch,198189,203476
+Crossways,195419,206357
+A4139,199061,201244
+Goldborough Road,194195,200974
+Hill Street,196389,202748
+Temperness Lane,191657,215105
+Leonardston Road,195176,205591
+Thomas Street,198433,201230
+Moorland Road,195198,211509
+Upper Thornton,190254,207954
+Wogan Road,198546,201750
+Walton Hill,186197,212930
+West Street,198240,201301
+Folkeston Road,186318,219367
+Picton Close,189332,205728
+New Road,195925,211366
+5th Street,193672,205635
+Hoch Lane,188184,219868
+Bush Hill,198193,202247
+Prescelly Park,195897,216892
+Hayguard Lane,195247,215760
+Little Honeyborough Lane,195008,206243
+West Bay Close,185879,202958
+Sportsway,196544,205404
+John Street,196318,205449
+St David's Road,194526,215888
+Harrier Road,194237,215804
+Olivers View,198821,202032
+Springfield Avenue,196200,205679
+Merlin's Hill,194806,214973
+Howard's Crescent,197220,218129
+Croft Terrace,196419,203182
+St Davids Road,199956,201119
+Ramsden Court,197255,201487
+Prendergast,195684,216207
+Hillcroft,193770,210420
+F Street,191485,203096
+Welsh Road,185993,219088
+Bentlass Road,196162,200817
+Palmerston Road,193651,214807
+Park Lane,196603,203405
+Hayston Road,193154,209932
+New Road,197272,211386
+Baring Gould Close,194962,215954
+Glenfield Park,198288,205443
+Bowett Close,196286,200645
+St Anne's Road,189821,206000
+Fairways,196179,202957
+Avenue N,193726,204759
+Blackbridge Crescent,191890,206000
+Castle View,195157,216063
+Mariners Way,191671,207142
+Albert Street,194927,215266
+Castle Pill Road,191824,207444
+Watery Lane,199607,200701
+Springfield Close,196230,205702
+Avenue D-D,193172,205539
+Ashtree Close,197019,208813
+Haroldston Hill,186231,214721
+Westgate Hill,198250,201542
+Oxland Lane,197491,206511
+St Daniel's Hill,198500,200910
+Fleming Crescent,194676,216003
+Elidyr Park,197908,208355
+Long Lane,186768,214131
+Orchard Court,193292,210751
+The Terrace,196099,203513
+Picton Road,189242,205898
+Britannia Drive,196898,202712
+Davies Lane,195874,202756
+Greenwell Close,196987,217962
+Mylett's Hill,199328,202743
+Kitchener Close,196233,203008
+Cuffern Close,194671,215780
+Station Road,193250,210669
+Cellar Hill,191280,205961
+Highgate Lane,196007,200507
+Sydney Rees Way,195555,216230
+Guilderoy Road,195925,200691
+Tudor Close,198838,200695
+Dewsland Street,190372,206230
+St Patrick's Road,197393,203070
+Bicton Road,184323,207792
+Stokes Avenue,195962,216382
+6th Street,193284,204929
+Queensway,195711,215955
+St Degmans,190520,202133
+Sycamore Woods,196554,202620
+Cuckoo Wood,197129,202701
+Owen Street,198335,201271
+Church Lane,195295,215380
+Callans Drive,199734,201343
+Pelcomb Drive,191903,217992
+Ferry Lane,197933,203070
+South Street,181064,205668
+Pembroke Road,194900,214054
+Criterion Way,196838,203859
+Magdalen Street,194725,214551
+Clay Lane,193583,212282
+Strawberry Hill,185418,212612
+Church Road,198453,205482
+Targate Road,195302,211001
+Dunston Lane,190877,218241
+Quay Street,195522,215463
+Butterhill,198931,208886
+Long Lane,185348,210164
+Beaconing Drive,192073,207717
+Pennar Court,196297,202836
+Sycamore Street,196472,202664
+Conway Drive,192000,207524
+Haven Road,193070,215424
+Clay Lane,193732,212270
+Westfield Close,191185,206922
+St Thomas Green,195205,215255
+Park Road,195594,216000
+Fern Hill Road,195347,214341
+Portfield,194519,215323
+Greenhill Road,196305,202458
+Rectory Avenue,189122,206152
+Lawrenny Street,196516,205210
+Wellington Road,189769,205559
+Gorsewood Drive,189219,205530
+First Lane,199572,201359
+Harcourt Close,197743,211346
+North Crescent,195151,216021
+Kingsmere Close,196031,217181
+Glenover Park,193970,214838
+Commerce Mews,195250,215558
+Holyland Drive,199493,201492
+Dale Road,193581,214992
+St Peter's Road,190098,206187
+Nether Edge Drive,194278,214774
+Longfellow Close,195545,214877
+Great Eastern Terrace,196399,204837
+Merchant's Park,198070,201161
+St Marks Church,195080,214210
+Meurigs Croft,197936,211070
+Sheltery Hill,194125,219965
+Richard John Road,190955,206553
+Church Street,196766,203250
+Ashford Park,196887,218245
+St Anne's Place,189736,205935
+Victoria Road,196043,203301
+Honeyborough Green,196032,205900
+Jordans Close,191826,207717
+Elm Park,196801,218077
+Jenkins' Close,195159,214418
+Brewery Street,196512,203500
+Nelson Quay,190295,205816
+Albion Street,190561,206230
+Woodland Drive,191270,206339
+Bluebell Close,196179,205844
+Upper Market Street,195275,215434
+Heritage Gate,196245,216948
+Dark Street,195202,215612
+Roebuck Close,191701,207308
+Westaway Drive,189278,205623
+Silverstream Crescent,189556,206383
+A4139,197116,203694
+Rectory Road,199349,209306
+St Michael's Road,199702,201251
+Finch Close,196851,202711
+Croeso Road,199404,201212
+Canterbury Road,197213,203901
+Amphion Court,197574,203238
+Pond Meadow,191750,207499
+Beaufort Road,198706,201805
+Bentlass Terrace,196317,202254
+Oak Road,196084,202721
+Grove Hill,199022,200616
+Lundy Close,191081,207172
+Hill Terrace,196542,205097
+Lambston Hill,190732,216901
+Bethel Road,197627,203070
+North Court,193930,215778
+St Margaret's Close,195163,214361
+Orchard Buildings,199217,201255
+Richmond Crescent,194659,215026
+B Street,190731,203095
+Church Lane,195695,216324
+Jogram Avenue,198565,201136
+Melville Terrace,195981,203390
+Connacht Way,197195,204231
+Brambly Croft,190145,208078
+Owen Street,196002,202789
+Linney Way,191143,207028
+Freemens Way,195129,214660
+Warwick Road,190809,205964
+Bush Hill,198193,202247
+Blue Anchor Way,180770,205686
+Lindsway Park,196079,216781
+Thomas Parry Way,194818,216130
+Slade Lane,194589,216485
+Pelcomb Hill,193122,217763
+Gay's Lane,196123,202582
+Perrot Avenue,195137,215674
+Under The Hills,194345,214363
+Haroldston Close,195118,214218
+Byron Road,195506,214931
+Oakwood Grove,195049,216181
+Buttermilk Close,198500,202416
+Castle Way,180834,205874
+Furzy Bank,196750,202691
+Finch Close,196264,216918
+Wheeler's Way,198621,200871
+Slip Hill,190668,205741
+Burgage Green Road,183351,207429
+Hayston Avenue,189614,205564
+Wesley Road,185871,212898
+Commercial Row,196355,203590
+Monnow Close,192000,207663
+Methodist Lane,197953,218207
+Sheffield Drive,191616,207339
+Milton Terrace,196606,203066
+Haven Park Crescent,193484,215364
+St Leonard's Park,195302,208264
+Mylett's Hill,198907,202337
+St Lawrence Hill,189661,206192
+Croft Avenue,188816,206190
+Vine Road,193473,211230
+Gerald Road,194169,215646
+Trinity Place,196052,205144
+Beechlands Park,194283,214598
+Golden Lane,199362,201792
+Milward Close,194912,215856
+Keeston Hill,189469,219141
+Whitehall Avenue,198360,202080
+Point Road,185632,212947
+Old School Court,196162,202691
+King William Street,197027,203644
+Tudor Gardens,195233,213976
+Golden Lane,198787,201620
+Hywel Way,198360,201000
+Cromwell Street,197155,203434
+Vale Road,198300,207200
+Cooks Close,199656,201349
+Coronation Avenue,195903,216174
+Sandyke Lane,186306,213913
+The Old Conduit,197860,201328
+Hazel Grove,194824,205024
+Thurston Lane,196892,207814
+Edward Street,190500,206097
+Waterloo Road,197618,203957
+Daffodil Drive,195131,216769
+The Friars Lane,195448,215697
+The Crescent,193287,210460
+Starbuck Road,190315,206270
+King William Court,197033,203671
+Dairy Park Grove,189539,206111
+Military Road,195364,205714
+Priory Street,190362,205958
+Castle View,198311,201854
+Milford Road,192684,209714
+Wilson Meadow,186194,213817
+Cross Park,196062,202901
+Sprinkle Lane,198962,210407
+Albany Street,196594,202717
+Shoulder Of Mutton,198777,201775
+Lucy Walters Close,195379,208525
+Ash Court,195177,208303
+Pelcomb Hill,193269,217259
+Gilgal Terrace,196158,202373
+Elm Lane,191252,206543
+Blockett Lane,185762,212738
+Charles Street,196146,205501
+B4325,193770,205766
+Mount Lane,191639,216203
+Vetch Close,198540,201067
+Windsor Way,195785,215528
+Milford Road,194855,215124
+Glen Owen Hill,195443,205688
+Back Terrace,197603,201386
+Martello Road,195616,203505
+Marble Hall Road,190841,206563
+Clay Lane,188486,206613
+Hill Lane,189626,219475
+Foley Way,194239,215411
+Charlton Place,196436,203291
+Belle Vue,196165,205430
+Alban Crescent,193838,205674
+B4320,191482,200190
+Tremeyrick Street,197030,203840
+Grassholm Close,191082,206777
+Ruther Park,193141,215340
+4th Street,193600,205576
+Vine Road,193483,211295
+Skomer Drive,190963,207197
+Myrtle Meadows,191611,206992
+St Twynnell's Close,198741,200778
+Ashleigh Gardens,199489,201091
+Heath Close,193553,211181
+Stratford Road,190574,206101
+Trinity Terrace,197818,205229
+Court Vale,198279,207147
+Southlands,198528,200831
+Ocean Way,194602,202907
+Bullwell Road,190545,203601
+Watery Lane,197639,200751
+George Street,190410,206334
+Greenway,197706,211489
+Rectory Close,199306,209374
+Walton Road,186121,213214
+Deerland Road,198472,210431
+Mill Road,195723,215743
+Hill Lane,195396,215568
+Presely View,196241,203070
+Hawthorn Rise,194237,215586
+Station Road,196652,205119
+Priory Avenue,195333,214999
+Sycamore Close,191332,206574
+Ashdale Mews,198750,201654
+West Perimeter Road,192809,205490
+C Street,190893,203084
+College Park,196277,205156
+Trinity Terrace,198365,205271
+Prospect Place,196681,203116
+Powell Close,198780,201947
+Buttermilk Lane,198525,202436
+Trafalgar Terrace,186230,213530
+Church Road,195324,204957
+Trinity Road,197232,203368
+Greenfield Close,196010,216625
+Tori-Gwddwg Hill,198200,218864
+Victoria Place,195502,215681
+Howells Close,197413,201641
+Havard Close,197837,211357
+Old Hakin Road,194240,214169
+Castle Road,183584,207374
+Orielton Terrace,195491,203331
+St Martin's Road,197500,201449
+Avenue S,193311,204796
+Walton Road,186070,213409
+Gaddarn Reach,196787,205578
+West Lane,194727,206435
+Woodholm Close,196828,217884
+South Hook Road,188348,205487
+Park Corner Road,193070,215118
+Grove Court Mews,198862,200912
+Marine Drive,191060,203112
+8th Street,193729,205289
+West Hook Road,197810,211345
+Cadogan Close,193533,211259
+Sanderling Close,194156,215851
+Hamilton Terrace,190500,205848
+Ropewalk Terrace,199312,201179
+Castle Hall Drive,191703,205934
+Avenue B,193720,205504
+Leys Lane,187932,216650
+Steynton Road,191377,207059
+Richmond Road,197007,204132
+Summerhill Close,188955,219474
+Freemens Way,195369,214709
+Ferry Road,196199,202384
+Oaklands,191268,206563
+Gordon Parry Close,196136,205636
+South Road,198372,201148
+Winch Lane,195376,215147
+Abbots Close,195036,215016
+Taskers Lane,187992,214315
+Williamston Close,194174,215214
+Swansquare,195358,215861
+Shoemakers Court,195211,215467
+Castle Hall Road,191804,205905
+Gatehouse View,198264,202399
+Glen Owen Hill,195418,205773
+Upper Lamphey Road,199820,201041
+Neyland Terrace,196498,204949
+Coombs Drive,191216,206230
+Dunsany Park,196038,215485
+Kiln Road,195271,215871
+Crowhill Road,195217,216637
+Barlow Street,190422,205898
+Lilac Close,191384,206710
+Avenue M,193423,204965
+Highlands Avenue,194901,215856
+Station Road,199097,201230
+Trewarren Road,183448,207269
+Angle Road,197261,201215
+Honeyborough Grove,196230,206010
+Trewarren Road,183475,207264
+Beachfields,186220,213767
+Goat Street,195332,215486
+Newton Road,194706,204729
+Castle Pill Road,191886,207160
+Picton Place,196767,203000
+Settlands Hill,185904,213229
+Pill Road,198352,211194
+Slade Lane,195053,216286
+Chapel Road,195585,203279
+Paynter Street,198512,201210
+Hampshire Drive,197432,203995
+Dredgman Hill,194271,213770
+Grassholm Place,187570,213681
+Western Way,196661,203632
+Cumby Terrace,196063,203366
+St Mary's Road,197322,203344
+Cartlett Road,195587,215844
+Greenhill Crescent,195050,213831
+Leonardston Road,194909,205522
+Robert Street,190516,205980
+Catalina Avenue,196000,203455
+Manchester Square,190532,206041
+Mill Bank,195630,215788
+Burton Road,198275,206609
+Back Lane,189575,219567
+Fleet Street,196375,202114
+Lower Quay Road,198168,211813
+Meads Court,190521,206512
+Mills Drive,196357,206089
+Douglas James Way,193761,215635
+Pembroke Ferry,197417,204521
+Grove Way,198927,200352
+Chapel Row,199027,209486
+Magdalen Street,194739,214477
+Phillips Lane,195991,202726
+Osprey Drive,194448,215888
+Leonardston Road,195176,205591
+Clare Walk,198592,202212
+Arthur Street,197122,203770
+Brookside Close,193574,211122
+Market Street,195250,215486
+Vicary Street,191203,205684
+Reservoir Road,191436,202865
+Folkeston Hill,186343,219000
+Sawdern Road,190496,202900
+Phillips Avenue,191058,206569
+Trooper's Inn,196169,210431
+Signal View,194999,216789
+Keeston Hill,189651,219087
+Meyler Crescent,190902,206710
+A4076,195718,215354
+Hazelbeach Road,193806,205645
+Venns Close,195117,213928
+Admiralty Way,196047,203615
+Green Close,191616,207591
+Avenue E,193714,205188
+School Gardens,196184,202750
+Coombs Road,191258,206281
+Brooke Avenue,190765,206063
+Church Hill Lane,197131,214484
+Old Hakin Road,194356,214211
+Stockwell Road,197000,204059
+Haven Park Drive,193574,215315
+Barn Street,195049,215587
+Lambston Hill,190738,216670
+Prince Of Wales Close,198318,207062
+Scotchwell Walk,195745,215748
+Middlekilns Road,186377,207978
+Osborn Close,196610,205608
+Jury Lane,194531,215497
+St Anthony's Way,194630,214862
+Priory Road,190527,206400
+Wellhead Lane,199085,209594
+Clay Lane,195621,214414
+Mansel Street,198285,201212
+Bunkers Hill,191425,207014
+Marble Hall Close,190707,206631
+Whitehall Drive,198292,202064
+Glenview Avenue,197248,203987
+Riverside Close,198548,201676
+Penfro Place,196581,203441
+James Street,196077,205557
+Charles Road,199347,201278
+Century Close,195083,216798
+Rosemary Close,196779,217951
+Chestnut Tree Drive,193506,211166
+Bush Row,195305,215322
+West Lane,189846,219217
+The Meads Drive,198211,211174
+Cleddau Avenue,195848,215493
+Thurston Lane,198277,205640
+Observatory Avenue,189413,205860
+Harbour Way,196804,203661
+Bracken Way,193522,210949
+Dolphin Court,196673,204918
+Avenue Q,193406,204849
+West Lane,196000,205981
+Pembroke Street,196305,203365
+Haven Drive,194631,202841
+Fairsea Close,188930,205750
+Gravel Lane,196564,203623
+Avenue C,193226,205695
+Green Lane,196591,204822
+Hermons Hill,195409,215486
+Liddeston Valley,189322,206493
+Riga Avenue,196263,205278
+Dingle Lane,197094,217929
+Well Road,193705,205851
+West Perimeter Road,193009,205931
+St Martin's Park,195105,216478
+The Gail,198883,209754
+Maple Avenue,194186,214576
+Clay Lane,195904,214831
+The Beacon,195279,208700
+Water Lane,196233,207456
+Avenue R,193689,204659
+Lords Meadow View,199411,201418
+Bay View Drive,188882,205797
+Nantucket Avenue,190243,206191
+Magdalen Street,194739,214477
+West Grove Lane,195989,200803
+Golden Lane,198884,201814
+Holloway,195286,215845
+Beach Hill,191281,205716
+Beaconing Road,194947,206693
+2nd Street,193163,205452
+Hubberston Court,189215,206376
+Bellevue Terrace,196363,203070
+Trafalgar Road,194191,215712
+Tower Hill,195168,215553
+Cricket Grove,195846,200805
+New Wells Road,198372,208184
+Neyland Hill,196475,205058
+Hammond Avenue,195252,215018
+Walton Road,186208,212975
+Deer Park Close,190426,210604
+North Gate,195250,215977
+Norgans Hill,197944,200853
+Cheriton Road,196312,202446
+Point Lane,199666,203806
+Orchard Row,199170,209161
+Criterion Way,196835,203857
+Warrior Way,197871,203877
+Whites Farm Way,195836,203630
+Denant Hill,191809,212567
+Liddeston Close,189494,206930
+Keep Hill End,188953,219532
+Avenue H,193807,204966
+Murray Road,191184,205733
+Main Road,193400,205832
+Gibbas Way,199989,201254
+Primrose Drive,195072,216944
+Lloyd George Lane,198311,200928
+B4329,195912,216593
+Greville Road,190807,206057
+Targate Road,195599,211215
+Crow Hill,195066,217523
+Goldborough Road,195786,200727
+Pill Road,191085,206068
+Vicarage Field,199500,201210
+Church Road,195904,205137
+Stranraer Avenue,195671,202679
+Park Villa Court,195883,216606
+Wellhead Lane,199090,209555
+Bowett Close,196257,200693
+Maple Close,191422,206471
+Webbs Drive,198414,201087
+Church Hill Lane,197423,214847
+Apley Terrace,197082,203492
+Hawkstone Road,197252,203437
+Bulford Close,192858,210331
+River View,199106,209107
+Brompton Grove,198365,205529
+Colley Court,197262,201357
+Hamilton Close,196182,202561
+Haroldston Hill,186538,215309
+Beaconing Road,195026,206506
+B4341,190119,214932
+Silverstream,189271,206752
+Shropshire Road,197523,204092
+B4322,197141,202885
+King Street,196500,203642
+B4319,198545,200973
+Brockfield Lane,199319,200299
+Brickhurst Park,193284,211361
+Court Vale,198279,207147
+Military Road,195497,202773
+Mount Pleasant Way,191262,206747
+Mill Street,198972,209426
+Brickhurst Close,193426,211231
+Lighthouse Drive,194640,204811
+E Street,191287,203070
+Tall Trees Close,193217,210019
+Hill Crescent,198273,207973
+Siskin Close,194183,215779
+Lewis Street,196818,203500
+Blackbridge Drive,191875,205947
+Walter's Avenue,195235,214249
+A4075,199311,201465
+St Marks Close,195049,214079
+9th Street,193573,204887
+Ebenezer Row,195308,215870
+The Rope Walk,189680,206000
+Bentlass Road,196148,200781
+The Green,198383,201824
+Ramsey Drive,191013,207098
+North Hall Estate,183416,207513
+Brookside Avenue,193598,211105
+Harbour Way,189382,206003
+5th Street,193481,205336
+B4325,196200,205555
+Edgar Morgan Way,195858,203709
+West Lane,186409,218118
+The Kilns,198747,209730
+Thurston Lane,198328,205502
+Cuffern View,189073,219477
+Tan Bank,195902,216461
+Avenue A,193224,205813
+Kensington Road,196217,205495
+Guillemot Avenue,195115,216805
+Woodlands View,193275,209999
+Middlekilns Road,185433,208065
+Brook Close,192000,207600
+Chestnut Way,191381,206396
+Shakespeare Avenue,190672,206080
+Ocean Way,194602,202907
+Church Road,194770,204814
+Haven Park Close,193643,215371
+Bastleford Road,195264,208835
+Ashdale Lane,198811,201638
+Kestrel Road,194354,215733
+Dean's Close,195013,214940
+Stranraer Lane,195763,202653
+Central Court,190655,206168
+Trooper's Inn,196246,210129
+Keeston Lane,190252,219484
+Freemans Walk,199454,200988
+Courtfield Drive,189042,219674
+Meyrick Street,196687,203342
+Narberth Road,196520,215906
+Orange Way,198685,201199
+Dimond Street,196825,203540
+Keats Grove,195552,215020
+Main Street,198653,201372
+Grove Street,196306,202197
+Reginald Close,195933,200438
+13th Street,192879,205280
+Pier Road,190683,205628
+Peregrine Close,194070,215853
+Rock Terrace,198830,201202
+Victoria Road,190021,206025
+Waterston Road,194410,204982
+Wentworth Close,188635,206740
+Ferry Road,196199,202384
+Harbour Close,196019,205319
+Hayston View,193068,210017
+Cromwell Heights,190718,206771
+Sunningdale Drive,188683,206570
+Tollgate Court,191001,206389
+Glanafon Gardens,195957,217328
+Brookside,183491,207363
+Strawberry Close,185299,212498
+Avenue B,193665,205538
+Style Park,196382,215562
+Pier Road,196863,203995
+Goshawk Road,194288,215913
+Merlin's Avenue,194795,214196
+St David's Road,194266,216100
+Glan Hafan,199461,209325
+Mansfield Street,190733,205901
+East Back,198711,201383
+Jockey Fields,195638,216252
+Church Terrace,198000,201411
+Water Street,196073,205849
+Penn's Close,193999,214854
+Creamston Road,198091,215410
+St Patricks Hill,195670,203419
+Rocky Park,198284,201820
+Hermitage Grove,196116,217141
+Grove Hill,199000,200724
+Elizabeth Court,196983,202750
+Westhill Avenue,191004,206772
+Castle View,189144,219483
+Cranham Park,193564,210437
+Spenser Way,195536,215068
+Springfield Close,195952,216766
+Keep Hill Close,198267,202267
+Springfield Road,197127,202558
+Horn's Lane,195176,215409
+Gleneagles Close,188645,206539
+Cawdor Close,194109,214899
+The Parade,198309,201428
+Rowland's Way,198690,200925
+Slaughter House Lane,190197,206177
+The Parade Ground,197394,204108
+Avenue T,192839,205094
+Trewarren Close,183737,207185
+Leonardston View,195937,205495
+St Daniel's Drive,198688,200852
+Court Road,194002,215741
+Perrots Road,195219,215916
+Newton Road,193701,205705
+Ashford Park,196920,218240
+West Grove Lane,195802,201109
+Trafalgar Road,190327,206150
+Glenfields Road,194141,214443
+Mill Back,197073,201144
+Dale Road,193939,215213
+Devonshire Road,197326,204122
+Isaac Way,198160,203250
+Norgans Hill,197933,200836
+Castleton Grove,196099,217260
+Hill Top Road,190793,203314
+Kensington Gardens,194739,215671
+Milford Road,192978,210223
+Deerland Road,198484,210400
+Old Bridge,195421,215884
+Rose Close,198327,202502
+Middle Street,195268,208453
+St David's Road,190415,206291
+B4320,197615,201299
+Guildford Row,199359,208989
+Clarence Street,196425,203500
+West Court,193836,215640
+B4327,194355,215310
+Rosehill Court,189151,215063
+South Court,193960,215682
+Clareston Close,194540,215855
+Primrose Close,196366,205850
+Bufferland Terrace,196370,202910
+Scarrowscant Lane,194378,214879
+Hill Lane,189263,219334
+Middle Row,198752,202109
+Queens Ditch,194949,215777
+St Thomas Avenue,195048,214202
+Long Mains,197360,201607
+The Point,190044,205488
+Bridge Street,189879,205799
+Oberon Grove,191587,207185
+St Davids Close,189193,206259
+A40,196030,217371
+Westaway Park,195203,208517
+Caldy Way,191074,207000
+Castle Quarry,197508,201900
+Avenue D,193169,205569
+Fair Oakes,194262,214445
+Hill Crescent,198261,207961
+Slade Lane,194082,216602
+Mill Back,197073,201144
+Mill Lane,194601,214465
+Pembroke Road,194914,213974
+Lower Thornton,190394,208140
+Popton Road,190561,203010
+Avenue K,193250,205294
+Castle Terrace,190971,206313
+Castle Street,195244,215715
+Charles Thomas Avenue,197422,203796
+Baring Gould Way,194760,215921
+Hywel Road,194013,215617
+Woodland Park,195907,205288
+Haven's Park,187111,207827
+B4325,191604,206113
+Castle Pill Crescent,191864,207545
+Maries Lane,195000,217301
+New Wells Road,198372,208184
+Spike's Lane,189666,205834
+Wordsworth Avenue,195702,214945
+Cutty Sark Drive,191251,207018
+The Grove,198265,211171
+Queen Elizabeth Avenue,196230,205186
+Charles Street,190500,205925
+Gilton Lane,187763,213057
+Church Road,198506,205669
+Treowen Road,196294,202828
+Jackson Drive,196596,206040
+High Street Close,196589,202878
+Green Lane,193616,205885
+Willow End,191420,206396
+Refinery Road,190803,202447
+Gaddarn Reach,196786,205560
+Caradoc Place,194176,215118
+Coldwell Terrace,198500,201993
+Northgate Street,198337,201612
+Spring Gardens Lane,195078,215674
+Upper Hill Street,189633,205909
+High Street,195290,215594
+St Andrew's Road,197322,203344
+Vawers Close,194825,215897
+Yorke Street,191000,205950
+Southampton Row,195962,203384
+B4327,187707,211858
+St Brides Road,185630,212790
+Ardent Close,191617,207111
+Scurlock Drive,196427,206063
+Sandy Lane,190384,219957
+Shakespeare Close,195318,214826
+Vaynor Road,190843,206230
+Kingsbridge Drive,199500,201404
+A4076,193324,210734
+Ridge View Close,196143,202275
+Church Road,189044,206318
+Imble Lane,197108,202603
+Scarrowscant Lane,194310,214879
+Gail Rise,198844,209878
+Hilton Avenue,191159,206120
+George Street,196108,205597
+Sunningdale Drive,188683,206570
+Wavell Crescent,197711,203228
+Hawn Lake,198544,205457
+Laurel Drive,194249,214575
+Third Street,191144,202976
+Dew Street,195081,215339
+Leven Close,198058,211115
+North Street,195214,215825
+Sandhurst Road,190816,205703
+Wesley Court,197755,203070
+Paradise Row,198433,201688
+Sycamore Grove,195022,216300
+Crowhill Road,195225,216539
+Larch Road,191410,206593
+Deerland Road,198630,209898
+Cuckoo Lane,192995,215726
+Links Drive,195723,202766
+Milton Crescent,191266,205781
+Haven Drive,188769,206072
+East End Square,198973,201254
+Slade Park,195083,216310
+Woodside Grove,198485,202066
+St Peter's Road,197333,203135
+Fort Rise,189090,205656
+St David's Road,193964,216510
+Arthur Morris Drive,196919,202796
+St Teilo's Road,197500,203088
+Pembroke Road,197423,202820
+Grove Road,183383,207246
+South Terrace,197938,201105
+Bush Street,197165,203250
+Stranraer Road,195752,202607
+Chapel Road,197203,218151
+East Perimeter Road,193757,204878
+Francis Street,190563,205910
+Parkway Close,196893,217962
+The Promenade,196028,204999
+Langford Road,193622,210521
+Plas Peregrine,191156,207444
+Moors Road,193481,210876
+Redhill Park,195133,216636
+Avenue K-K,193070,205386
+Prescelly Place,190151,206247
+Grove Gardens,198974,200957
+North Street,196598,202801
+Scoveston Road,193845,207001
+Bridge Lane,190156,219444
+Ash Grove,191250,206531
+Brunel Avenue,196158,205050
+Meadow Lane,186154,218538
+Neyland Heights,195988,205571
+South Meadows,198250,201069
+Well Lane,195603,216510
+Market Street,196234,203385
+Fountain Row,194959,215340
+Avenue A,193407,205789
+The Glades,195499,208609
+Gough's Court,190577,206472
+Musselwick Road,182714,206881
+Barnlake Point,197124,205347
+Hayston View,193045,210026
+Trewarren Drive,183179,207247
+Ferry Terrace,197652,203623
+Albion Square,196376,203418
+Bastleford Road,195069,209544
+Green Lane,196590,204837
+Furzy Park,194042,215012
+West Lane,186615,218188
+New Road,196877,211509
+Cleddau Close,198040,208327
+Front Street,196561,203736
+Wrench Close,198839,200733
+Trafalgar Terrace,196282,204865
+Glebelands,193196,210537
+City Road,194921,215764
+Princess Royal Way,195401,215286
+Keeston Hill,189318,219258
+Imogen Place,190561,206166
+River View,196102,200749
+Cardigan Road,196037,216821
+London Road,197662,203531
+Blenheim Court,196443,204800
+Hall Park Close,195785,216527
+Nubian Avenue,193998,215108
+Haven Court,197314,201599
+St Clement's Road,196422,204997
+Frederick Street,196413,205380
+Cairn Terrace,185115,210837
+Ellis Avenue,195111,215065
+Park Street,196569,203366
+Masefield Drive,195628,215042
+Peggys Lane,194267,215628
+Castle Back,195314,215698
+Swanswell Close,186454,213739
+Argyle Street,197074,203452
+Phillips Walk,195362,205538
+Meyrick Owen Way,196188,203500
+Sandyke Road,186367,213879
+Monkton,197715,201334
+11th Street,193945,204754
+Gwili Road,189789,206017
+Nelson Street,196169,202510
+Shirburn Close,186396,203011
+Newtown Road,197969,211026
+New Quay,195518,215614
+Lower Row,198688,202137
+Portfield Avenue,194609,215213
+Watery Lane,197781,201231
+Cherry Grove,195679,215833
+Adams Road,197202,201428
+Cambrian Place,195682,215608
+Ashdale Lane,198000,208395
+South Mews,198305,201119
+Moorcroft Road,189236,206037
+James Street,189676,206132
+Dartmouth Gardens,190254,206114
+The Anchorage,196446,203613
+West Lane,195889,205969
+Poppy Drive,196331,205879
+Fishguard Road,195907,216930
+Heol Derwen,195299,214380
+Stone Court,190856,206401
+Silverstream,189246,206467
+Brooklands Park,194200,214722
+Prescelly Road,194784,215958
+St Anne's Place,196263,204997
+Silverdale Close,193330,210918
+Cashfield Way,195182,216807
+Llewellyn Drive,198208,201034
+Cormoront Close,194994,216875
+St John's Road,197399,203327
+Bishops Lane,199841,200964
+Freemans View,195482,214377
+Greenhill Park Drive,195055,213880
+Chapel Street,190020,205529
+Brookfield Close,190125,219200
+Conduit Lane,189473,205639
+Fir Tree Close,194666,214195
+Ellesmere Avenue,195364,208582
+Exeter Road,191704,207227
+Snowdrop Lane,194223,215099
+Cuffern Road,189146,219800
+Poplar Meadow,195706,211237
+Court Rise,189288,206311
+Neyland Road,191949,207747
+Military Road,195176,205846
+Moorland Road,195450,211419
+Greenhall Park,193506,210440
+First Street,190894,202766
+Bulford Road,191862,210513
+Dingle Close,197001,217884
+Triplestone Close,186995,207750
+Goose's Lane,198913,201230
+Grove Drive,198887,200684
+Bridge Street,195408,215743
+Point Street,189937,205754
+Grove Place,185748,212893
+Wellington Gardens,189933,205481
+Stephen Street,190186,206100
+Goldcrest Avenue,193788,215487
+Lowless Close,198985,200425
+Osborn Park,196595,205519
+Woodbine Terrace,198560,201718
+Shoals Hook Lane,196112,216648
+Valence Walk,198580,202089
+Castle Way,180834,205874
+Margarets Way,199919,200935
+Woodbine Close,198727,201669
+Little Honeyborough Lane,195018,206212
+Bridge Lane,190473,219133
+Castle High,195035,215931
+Waterloo Road,189473,206139
+Woodlands Park,194854,214053
+St Lawrence Close,189592,206168
+Common Road,198452,201356
+Church Road,195330,204960
+10th Street,193661,204938
+B4326,190503,205924
+Park Corner Road,192765,215329
+St Clements Park,195506,211229
+Glen Owen Hill,195333,206094
+Keeston Lane,191306,219766
+Greenland Close,189159,219288
+Good Hook Lane,198376,216343
+Fern Rise,196212,205803
+B4330,195225,216510
+Haylett Lane,194762,213714
+Sidney Webb Close,196169,205127
+Gordon Street,196839,203609
+Spring View,197143,202644
+Little Castle Grove,186844,207585
+Hazel Bank Hill,194838,205222
+Esther's Lane,199084,209234
+Tudor Place,190788,210926
+St Brides Way,190981,207107
+Atlantic Drive,186495,214016
+Trinity Terrace,197835,205211
+The Chardist,198482,201691
+7th Street,193445,205000
+Laugharne Close,198808,202000
+Clover Park,196356,215623
+Carr Terrace,196326,202295
+Milton Close,195717,215021
+Cenarth Close,197538,204207
+Birch Mead,191279,206364
+Essex Road,197300,204220
+Meadow Park,198493,205394
+Fourth Street,191046,203212
+Neyland Road,192001,207750
+Nelson Avenue,189778,205673
+Westfield Drive,196184,206158
+St Margaret's Way,186948,207549
+Church Road,193520,209767
+Walton Hill,185840,212951
+Main Street,198937,209575
+Kiln Road,193577,211321
+Britannia Road,196750,202727
+Rifleman Lane,195253,215246
+West Street,195207,208274
+Imble Street,196487,202738
+Langford Road,193587,210520
+Pelcomb Villas,191974,218001
+Gelliswick Road,189000,205934
+Church Lake Terrace,195878,205360
+Llangwm Ferry Pill,199619,208720
+Longoar Bay,184948,206169
+Ticklas Point,182859,212821
+Watch House Point,183534,206271
+Sprat's Point,184224,206674
+Pwllcrochan Flats,192466,203376
+West Blockhouse Point,181803,203550
+Black Rock,181286,206090
+Fox Hole,185663,213112
+Bull Rock,185705,206539
+Withybush Woods,196536,218784
+Rook's Nest Point,184450,206408
+The Moors,180113,210443
+Fault Hill,190472,218546
+Popton Point,189212,203856
+The Bolster,192695,204539
+Pelcomb Green,192863,218075
+Triple Stone,185832,207140
+Lord's Meadows,199772,201519
+Quoits Water Pill,196982,201428
+Pill Lane,191021,205832
+Boltonhill Wood,192402,212054
+Hill Moor,189762,214137
+Furzy Hill,197947,210807
+Northmoor Common,195074,211967
+Black Cliff,185456,219142
+Golden Brake,199293,201895
+St Nicholas Crescent,198428,201875
+Denant Wood,192190,213048
+St Mary's Park,194261,207871
+Gloucester Way,197273,203951
+Upper Row,198748,202169
+Gothic Road,195955,205360
+Heritage Park,196107,217049
+Acorn Drive,193272,210813
+The Close,198405,211173
+Allendale Drive,183287,207260
+Fairbush Close,197033,218062
+Kings Gardens,196095,202789
+Highgate Lane,196041,200247
+Avenue J,193518,205115
+Woodbine Way,188818,206177
+Falcon Road,194446,215809
+Court Road,189622,206832
+Tregennis Hill,196320,203012
+Beach Road,195385,203306
+Douglas James Close,193610,215564
+Eastern Avenue,198031,203706
+Fleet Street,196375,202114
+Haven Park Avenue,193643,215371
+Avenue F,193911,205000
+Addison Road,196001,215454
+Thurston Lane,197029,208631
+St Lawrence Avenue,189689,206058
+Prioryville,190616,206325
+Lavinia Drive,196679,202581
+Hill Lane,189939,219408
+Long Lane,187738,214872
+Avallenau Drive,194648,214168
+Wood Lane,196242,206074
+Fulke Street,190516,205980
+Penry Point,197604,208391
+Meadow Way,193592,205860
+School Lane,196251,205514
+Maes Yr Ysgol,193619,210555
+Turnberry Close,188760,206503
+Victoria Gardens,193462,211018
+Scotchwell View,195905,216306
+Walton Hill,186001,212958
+Mariners Square,195142,215633
+Howarth Close,190562,206956
+Honeyborough Road,196087,205953
+Promenade Drive,196001,205103
+Haven View,196532,204842
+Glen Owen Hill,195328,206316
+Mayfield Road,196230,205634
+Fair View,193763,210470
+Golden Hill Road,198689,202000
+Meadow View,195105,216194
+Strongbow Walk,198455,202295
+Southdown Close,198927,200423
+Tudor Place,190752,210886
+Pleasant View,190440,202316
+Croft Road,186686,213994
+Pill Parks Way,199112,209420
+Ferry Lane,192385,207105
+Windsor Road,198706,201805
+Curlew Close,194039,215742
+Rose Avenue,195064,214026
+New Way,198560,201296
+Greenway Close,197658,211434
+Enfield Road,186077,213693
+Cedar Terrace,191601,206925
+Cromie Avenue,194518,215364
+Green Lane,193458,210907
+Melville Street,196218,203390
+Pill Road,198352,211194
+Hazel Bank Hill,194902,205462
+High Street,196500,202950
+Madoc's Haven,185874,217812
+Rhodal Bottom,192592,206406
+Millin Pill,199487,212918
+Cobbler's Hole,180483,202800
+Johnston Wood,193943,209798
+Kilpaison Burrows,189473,200565
+Longberry Point,183956,206563
+Butts Bay,185251,206545
+Little Wick,187417,205420
+Bullwell Bay,190113,203817
+Whitedole Bay,184755,201757
+Ferry Wood,197831,204464
+Sprinkle Pill,199609,210853
+Easthook Wood,192198,216584
+Primrose Hill,194815,208733
+Broad Moor,195712,209122
+Aberdaugleddyf,187555,204449
+The Gann Pool,181395,207182
+Folkeston Hill,186952,219064
+Golden Hill,198963,202292
+Lambston Wood,191212,216618
+Green Hill,192511,201464
+King's Wood,198355,202781
+Hobbs Point,196759,204190
+Castlebeach Wood,181448,205010
+Burton Cliff,198712,205074
+Hook Bight,197300,211555
+The Settlands,185675,213260
+Goldborough Pill,194524,201816
+Keeston Moor,189529,218619
+Newton Burrows,189977,200207
+Woodhouse Barn,196148,208254
+Hook Reach,198112,212028
+Great Castle Head,184814,206001
+Black Backs Wood,199448,214894
+Spring Gardens,195001,215643
+The Vomit,180421,203085
+Borough Head,183787,212770
+Cosheston Point,198388,204019
+Watwick Point,182168,204439
+Blue Anchor Wood,180975,205594
+Parsonsquarry Bay,185007,201397
+Pickleridge,181087,206948
+Halftide Rock,181927,203523
+Sandy Haven,185960,207047
+Ladder Rock,186097,216628
+Lowrey's Rock,184250,202965
+Calm Rock,181511,203431
+West Llanion Pill,196685,204028
+Carrs Rock,195537,204190
+South Hook Point,187010,205622
+East Llanion Pill,198258,203842
+Hook Wood,197916,211728
+Williamston Mountain,199742,206120
+Blacktar Point,199757,209334
+West Pickard Bay,186045,201007
+Furzy Point,183697,206521
+Scotch Bay,190758,205309
+Little Settlands,185774,213446
+St Ann's Hill,181128,204170
+Bolton Hill,191681,211269
+White Wall,185937,213475
+Druidston Chins,186026,216541
+Swallows' Hole,180911,202991
+Musselwick Point,182034,206275
+The Point,185590,213024
+Denant Bottom,191288,212410
+Cull Point,184106,206598
+Sheep Island,184268,201613
+Pennar Cants,193284,203167
+Lays Wood,199317,212859
+Kingston Bottom,199454,200135
+Haroldston Chins,185903,216183
+Druidston Haven,186045,216886
+Threelakes Wood,197748,202982
+Shag Rock,185887,214201
+Sleeping Bay,185588,206748
+Crow Hill,194522,217924
+Rickets Head,185410,218963
+Thorny Pit,180833,203217
+Halfway Rock,180769,211970
+Lindsway Bay,184076,206276
+Hayguard Hay Wood,180426,205396
+St Brides Haven,180142,211024
+Gray Rocks,184678,205961
+Little Haven,185645,212991
+Herring Stone,180477,202843
+Timber Hill,187508,214894
+North Hill,186729,203466
+Holywell,183414,212636
+Scalds Rocks,186060,217138
+Warey Haven,180740,211678
+Wright's Wood,199387,208672
+Mill Bay,181148,203150
+East Wood,199277,212626
+Fopston Bottom,180614,209405
+Black Hill,196763,212913
+Watwick Bay,181849,203909
+Sutton Mountain,190035,215816
+Havens Mouth,185094,206354
+Thornbush Wood,193726,219672
+Dale Point,182161,205194
+Newton Noyes,191899,204911
+Haroldston Bridge,185876,215401
+The Horse Shoe,192418,204705
+Barnlake Point,196912,205156
+Thorn Island,184613,203838
+Angle Bay,188396,202633
+Vomit Point,180067,203398
+Ash Wood,198114,212495
+Sleek Stone,185991,214422
+St Brides Green,180393,210760
+Black Point,185896,215294
+Kiln Park,198165,204921
+Harry's Carthouse,181063,203510
+St Ann's Head,180706,202961
+Castle Pill,191529,205862
+Winterton Marsh,180985,208906
+Badger Wood,198255,209291
+Mill Haven,181603,212399
+Stack Rocks,181115,213255
+Angle Point,187541,203220
+Sawdern Point,188948,203217
+Little Milford Wood,196478,211739
+Northwell Green,195673,212567
+Rook's Bay,185376,212859
+Loose Haven,182980,206337
+Soldier's Rocks,183429,206240
+Man of War Roads,190648,204580
+Hakin Point,190042,205416
+Kingswood Pill,198365,203508
+Barrack Hill,195999,203081
+Settling Nose,185932,215698
+Llangwm Pool,199929,208984
+Goultrop Roads,184225,212590
+Shady Grove,197929,213699
+Nolton Haven,185744,218400
+Mun Sands,185997,207011
+Quoits Wood,196963,200703
+Spreadeagle Pill,186202,208681
+Castles Bay,184339,201904
+Gravel Bay,187770,200532
+Westfield Pill,196483,206740
+Brandy Bay,181904,212728
+Dutch Gin,181732,212614
+Chester Point,185088,206309
+Pennar Mouth,194211,202950
+West Angle Bay,184955,203258
+Harries' Slade,194851,216292
+Grid Iron,196600,204754
+Green Hill Reservoir,192572,201471
+Monk Haven,182798,206343
+Bowen's Wood,196542,216294
+East Pickard Bay,186370,200890
+Llangwm Pill,199547,209214
+Wear Point,194007,204337
+Wenall Bay,183822,206578
+Mun's Mouth,186319,207005
+Gelliswick Bay,188707,205547
+Holyland Wood,199610,201678
+Knap Wood,199877,209865
+Rat Island,184053,202703
+Freshwater West,188121,200169
+Keeston Hill,189780,219149
+Falling Cliff,185241,212592
+Westfield Hill,196371,207826
+Pig's Stone,180785,202719
+Edward's Pill,199588,209294
+Castlebeach Bay,182142,204762
+Guttle Hole,185472,201187
+Emmet Rock,185991,214085
+Salt Pool,199772,205385
+Little Castle Head,185517,206442
+Red Hill,194290,217888
+Monk's Rock,185377,201092
+Musselwick,185030,212415
+Davy Williams' Haven,185583,218530
+Sleepingbay Point,185755,206946
+Cuckoo Wood,197509,202570
+Castle Beach,181912,205025
+Newton Mountain,198666,208008
+Black Cave,187030,200777
+Foxes' Holes,181678,212537
+Jacob's Pill,196571,202134
+Highgrove Nursing Home,193850,215519
+Pembroke Docks,195763,203837
+St Mary's Roman Catholic Primary School,196795,202824
+Orielton Community Primary School,195683,200335
+Fenton Community Primary School,194821,215456
+Pembroke Refinery,190888,203059
+Neyland Community School,196305,205548
+Withybush General Hospital,195742,216880
+Cleddau Reach V C School,198952,209754
+Hakin County Primary Junior School,189478,205804
+Herbrandston County Primary School,186907,208000
+Milford Haven School,191303,207263
+St Francis' Roman Catholic Primary School,190638,206579
+Bentlass Hill,196380,201005
+Chapel Bay,186109,203615
+Dale Roads,181854,205588
+Fowborough Point,199942,211068
+Martin's Haven,192272,203189
+Pennar Ridge,196135,202000
+The Rain,185794,213385
+The Falls,180410,211334
+Neyland Wood,196719,205524
+Ash Hill Wood,193934,219359
+Angle (Voluntary Controlled) School,186580,202922
+Millstream Park,185337,212376
+Priest's Vault,186127,217348
+Underdown Bottom,198727,200418
+Cosheston Pill,198590,203768
+Priory Brake,197982,201813
+Bangeston Bottom,199063,202754
+Lower Cliff,183985,206662
+Howney Rock,182061,212927
+Bangeston Wood,187207,201980
+Pennar Point,194327,203012
+Nash Wood,197049,210962
+Stack Rock,186478,204958
+Pelcomb Hill,193221,217929
+Watch House Bay,183630,206382
+Bowett Wood,197168,200653
+Milford Haven Refinery,193453,205082
+Ysgol Gynradd Prendergast Primary School,196034,216342
+Tiers Cross Solar Farm,191075,210121
+Pembrokeshire College,189835,205960
+Bro Cerwyn Hospital,196010,216939
+Maes Awyr Hwlffordd,196689,219581
+Broad Haven County Primary School,186253,213397
+Fairfield Residential Home,193270,210345
+Tasker Milward School,194466,215085
+Pembroke Power Station,193204,202602
+Milford Haven Refinery,188467,208514
+Pembroke Dock,197040,203528
+Ysgol Caer Elen,196207,217444
+Golden Grove School,198781,201066
+Torestin,190667,210612
+Meads Infant and Nursery School,190652,206509
+Johnston,193264,210657
+Redhill Preparatory School,194380,216186
+Hubberston Church in Wales (Voluntary Controlled) Primary and Nursery School,189429,205916
+Hakin Infants School,189138,205713
+Milford Haven Dock,190257,205559
+Albion Square County Primary School,196409,203373
+Haverfordwest Bus Station,195540,215793
+Pembroke Dock Ferry Terminal,195966,204070
+Mount Airey County Primary Infants School,195086,214931
+Pembroke Dock Community Primary School,197229,203131
+Portfield School,194406,215170
+The Meadows,193258,210416
+Golden Manor Infants School,198901,201707
+Monkton Priory Community Primary School,197733,201480
+Ysgol Syr Thomas Picton,195956,216087
+Portfield Special School,194324,215083
+Rickeston Mill,186716,209313
+South Hook LNG Terminal,187527,204439
+St Marks (Voluntary Aided) Primary School,195307,214223
+Hook Community Primary School,197864,211081
+Ysgol Glan Cleddau,194346,214966
+Mary Immaculate School,194902,214884
+Milford Haven Junior School,190756,206322
+Gelliswick Church in Wales Vc Primary School,189057,205795
+Coastlands School,183595,207169
+Johnston Community Primary School,193993,210599
+South Pembrokeshire Hospital,195740,203499
+Pennar Community School,195776,202819
+Haverfordwest Church in Wales (Voluntary Controlled) School,194950,215527
+Pembroke,199131,201164
+Angle Peninsula New Primary School,195764,200276
+Ysgol Penfro,197724,202389
+Ysgol Bro Cleddau,198749,209985
+Under The Hills,194369,214404
+Thomas Parry Way,194818,216130
+B4341,192812,215421
+Cartlett Close,195798,215621
+Vivian Drive,189847,205729
+Settlands Hill,185767,213034
+Wellington Street,196468,203500
+Coram Drive,196555,205969
+Water Street,196945,203660
+St Ann's Crescent,198565,201777
+Bulford Road,192860,210347
+Ashdale Lane,197965,208396
+High Street,196470,205177
+Chapel Road,197145,218097
+The Rath,190927,205616
+Cherry Tree Close,191222,206432
+Belfrey Close,188728,206664
+Hall's Nook,195281,208516
+Woodside Avenue,198400,201974
+Holyland Road,199287,201455
+Kavanagh Court,197758,203149
+Riverside View,197010,214465
+Yorke Close,191054,205893
+Priory Lodge Estate,190407,206389
+Slade,194061,216588
+Sandy Haven,185307,207505
+Dartmouth Street,190197,206056
+Cambrian Road,196635,205320
+Wayside Close,189134,219304
+Winch Crescent,195421,215150
+Middlekilns Road,186752,207978
+Victoria Court,196156,205395
+Cartlett,196002,215735
+Princes Street,196120,203278
+Glebelands,189338,206199
+Bishops Park,199815,200963
+Park View Crescent,197040,202993
+Avenue G,193609,205188
+Clay Lane,195465,214321
+Ferry Way,195034,213913
+Lower Lamphey Road,199401,200904
+Orchard Gardens,199244,201293
+Romilly Crescent,189550,206263
+Cannons Lane,196135,202692
+St Issell's Avenue,195033,214251
+Deerland Road,198258,210746
+Dale Road,192999,214589
+Connaught Place,197196,204038
+India Row,197168,201357
+Gwilliam Court,197299,201298
+St Anne's Drive,189507,205663
+Gelliswick Road,189000,205934
+Munro Court,197853,203070
+Puffin Way,186256,213812
+Withybush Road,196119,218107
+Imble Lane,197055,202649
+Neyland Vale,195926,205654
+A477,197640,203935
+Warrior Way,191765,207167
+Devon Drive,198542,202200
+Church Road,193252,210130
+Howells Avenue,195255,214999
+Laburnum Grove,194040,214874
+Burton Road,198365,207152
+Shipman's Lane,195017,215207
+Pembroke Road,196999,202895
+Holbrook Road,186694,213947
+Vicary Crescent,191250,205588
+Rosemary Lane,195239,215345
+Nicholls Road,199919,200935
+Charles Thomas Close,197308,203665
+Blockett Lane,185786,212561
+12th Street,193017,205185
+Pembrokeshire College,194454,214669
+Pennar Community School,196062,202848
+Crossways,195419,206357
+Milford Haven,190016,206225
+Haverfordwest,196020,215730
+St Daniel's Hill,198545,200973
+Military Road,195802,205351
+Maes Yr Ysgol,193619,210555
+Dredgman Hill,194690,214540
+Rhoose Ferry Road,198455,207261
+Settlands Hill,185963,213441
+CO-OP Lane,196355,203346
+Gordon Parry Road,196057,205713
+Great North Road,190889,206054
+Green Meadow Avenue,198463,201926
+Lower Thornton,190388,207895
+Lower Quay Road,198472,211925
+A4076,191183,206750
+Haroldston Hill,186146,213997
+B4322,196750,203330
+Creamston Road,196687,215400
+A487,194934,215400
+Cuckoo Lane,193237,215508
+Hazel Bank Hill,194851,205065
+Dredgman Hill,194569,214188
+Cuffern Road,188998,219548
+Welsh Road,186000,218582
+Brookfield Close,190124,219250
+Military Road,195458,205681
+Back Lane,195802,216306
+Llanion Cottages,197630,203500
+Holbrook Close,186686,214019
+Picton Road,196494,204851
+Holly Lane,198990,208474
+Norgan's Terrace,198070,201185
+Temperness Lane,191646,215345
+West Lane,195001,206423
+Donovan Reed Gardens,197250,203800
+Church Street,195142,215716
+Buttermilk Lane,198614,202388
+Gateholm Avenue,191134,206967
+Second Street,190727,202822
+Old Quay,195550,215421
+Picton Place,195585,215716
+Scotchwell Lane,196115,216310
+Poyer's Avenue,198066,201026
+Blenheim Drive,196512,206034
+The Close,193377,210647
+Bethany Road,193909,214466
+Tudor Way,194002,215151
+St Leonards Avenue,197201,218252
+Cromwell Court,199151,201194
+Tenby Court,197271,201429
+Sprinkle Lane,198878,209944
+Elm Grove,196079,206154
+Caradog's Well Road,194471,214538
+Delapoer Drive,194116,215163
+Queen Street,196540,203583
+Fleming Way,196218,205931
+Eastleigh Drive,191000,206063
+Fort Road,195846,203507
+Camuset Close,189318,206427
+Lower Hill Street,189818,205809
+A477,196194,206188
+Croft Court,198326,201714
+Nubian Crescent,189908,205624
+4th Street,193414,205284
+Gwyther Street,196954,203290
+Millmoor Way,186409,213998
+Railway Terrace,196584,205161
+New Road,195977,215541
+Church Way,195937,205202
+Elm Grove,198563,201930
+Driftwood Close,186102,213479
+Snowdrop Close,194252,215096
+Folkeston Road,187217,219702
+Montgomery Close,197502,201363
+Hazelbeach Road,193926,205457
+Bridgend Terrace,198085,201424
+Glen View,194573,214352
+Treffynnon,184957,228566
+Ford,195544,226277
+Llanddinog,183167,227084
+Dyffryn,194017,237171
+Trefwrdan,191876,232605
+Lower Kingheriot,180953,226107
+Abercastle,185407,233471
+Cerbid,182353,227515
+Golden Hill,197791,223919
+Camrose,192751,220380
+Bethlehem,198711,220688
+Trefin,183894,232510
+Llanychaer,198693,235375
+Y Sgwâr,184530,231284
+Mesur-y-dorth,184104,230774
+Llanwnda,193229,239511
+Panteg,192447,234691
+Solfach,180009,224339
+Leweston,194021,222490
+Rhydygele,185950,224433
+Treglemais,181905,228997
+Scleddau,194440,234260
+Rudbaxton,196109,220553
+Stop-and-Call,193898,238268
+Penyraber,195368,237313
+Treopert,189609,234195
+Llangloffan,190535,232338
+Wdig,194461,238271
+Llanrhian,181913,231380
+Spittal,197560,222978
+Treffgarne,195702,223564
+Haysford,192610,221617
+Middle Mill,180616,225869
+Cas-blaidd,195615,226585
+Llandeloy,185811,226710
+Wood,185393,222035
+Harmony,190159,238226
+Glan-dŵr,198159,225063
+Portheiddy,180344,231014
+Cwmwdig Water,180484,230460
+Hayscastle Cross,191386,225060
+Welsh Hook,193652,227851
+Trefasser,189580,237914
+Rhosycaerau,191990,237716
+Mathri,187938,231931
+Sealyham,196615,228083
+Bengal,195158,232692
+Newgale,184884,222380
+Abergwaun,195768,237009
+Trecwn,196718,232667
+Croes-goch,182802,230335
+Castell-newydd-bach,197957,228983
+Wolfsdale,193230,221587
+Brimaston,193060,225158
+Roch,187771,221110
+Carnhedryn Uchaf,180175,228010
+Cwm,196296,237232
+Colston,198606,228079
+Hayscastle,189631,225691
+Cuffern,189516,221436
+Tremarchog,190126,235579
+Pontiago,192280,238967
+Lower Solva,180679,224492
+Casmorys,190272,231559
+Porthgain,181548,232441
+Lochvane,182122,223885
+Penycwm,184970,223380
+Letterston,194463,229706
+Trefgarn Owen,186844,225514
+Llanon,184002,231273
+Roch Gate,187433,220939
+Pont-yr-hafod,190670,226079
+Brawdy,184256,225011
+Ocean Drive,187575,220929
+Jordanston Hill,192803,233169
+Upper Terrace,194442,229740
+Pen Wallis,195870,236561
+Heol Emrys,195605,237544
+Criney Hill,197200,235868
+Heol Rhian,181967,231294
+Victoria Avenue,195459,237361
+New Hill,194674,238501
+West Street,195617,237139
+Heol Cynan,195439,237513
+Brodog Lane,195602,237226
+Millway Lane,197911,223890
+Juniper Close,189723,221422
+Cae Gerddi,194080,238249
+Cefn Gallod,184137,232500
+High Street,195602,236883
+Hamilton Street,195870,236981
+Station Hill,194558,238214
+Ffordd Abercastell,184119,232543
+Damson Close,189677,221535
+Anthorn,195900,236566
+Llygad-Yr-Haul Hill,196756,233086
+Panty Celyn,195485,237730
+Claybogs Lane,193932,222629
+Old Newport Road,196345,237309
+Heol Penlan,193850,238386
+Tower Hill,196058,237060
+Church Road,194166,237915
+Ffordd Y Felin,183819,232496
+The Meadows,193849,237205
+Feidr Dylan,195496,237630
+Maesgrug,193935,238342
+Windyhall,195177,237516
+Erw Lon,185086,223361
+Heol Dwr,194314,234111
+Carreg Onnen,195489,236645
+Cranog Close,184007,232604
+A4219,193553,235128
+The Woodlands,189566,221397
+Cross Street,194200,237709
+Llwyncelyn,190181,231478
+Feidr Joseph,193498,230172
+St Giles's Court,193898,229538
+Gwelfor,195763,236564
+A487,195617,237139
+Beulah Hill,198148,228551
+Llanrhian Road,182017,231261
+Cart-Tws Bach,184949,228636
+Croft Lane,193134,225140
+Court Meadow,194082,229694
+Glanymor Road,194135,238014
+Ael-Y-Felin,184486,231191
+The Parrog,194947,237623
+Cedar Close,189606,221536
+Y-Glyn,190640,226059
+Bryn Golau,186831,225605
+Little Cedar Drive,192745,220662
+Goodwick Hill,194222,238120
+Parc Maen Hir,194918,229797
+Bramble Hill,187206,222655
+Ocean Drive,187523,220893
+Crofty Close,182757,230305
+Old Newport Road,196345,237309
+Heol Cerwyn,195668,236697
+Feidr Joseph,193386,230133
+Heol Dewi,195280,237581
+Castle Rise,197757,222971
+Old School Yard,186902,225491
+Feidr Pont Eglwys,193176,239446
+Ropeyard Close,195265,236914
+Bryn Seion,180069,224427
+Lota Park Road,195497,236830
+South Hill Lane,193588,225212
+Feidr Cefn,199040,238012
+Bryn Road,195673,237205
+Bridge Street,196295,237107
+Garn Fawr,195750,236854
+Jackson's Way,194103,237811
+Folly Road,192749,220227
+Erw Lon,185324,223418
+High Street,180121,224287
+Ffordd Yr Afon,184116,232391
+Old School Terrace,197705,223146
+Mathry Hill,188206,231901
+A487,194176,237670
+Seaview Crescent,194067,237725
+Back Lane,194079,238020
+Ffordd Abercastell,184122,232543
+Heol-Y-Felin,194139,237324
+Plasygamil Road,194242,237957
+Clos-Y-Gongol,195522,236698
+Park Street,195915,236912
+Rectory Road,196304,233042
+Golden Hill,197709,224001
+St David's Place,194261,237881
+Maes Awel,194269,234308
+Honeysuckle Hollow,192723,220568
+Lampit Way,195706,237424
+Bryn Elfed,195459,237530
+New Street,180671,224411
+Dan Y Bryn,196124,236677
+Have Lane,192102,221640
+Sladeway,195719,237301
+Spring Gardens,194176,229785
+Longstone Court,194974,229807
+Panteg Road,180099,224379
+Newgale Hill,184882,222407
+Hill Road,197901,232530
+Bro Heulog,184530,231241
+Haverfordwest Road,194653,229381
+Garn Wnda,195616,236784
+Main Street,180584,224363
+Beulah Hill,198037,228902
+Nant Y Ffynnon,193549,229726
+Rectory Road,196290,233070
+Jubilee Close,194649,229810
+Heol Preseli,195661,236712
+Heol Crwys,195380,237650
+Station Road,194849,229826
+Hill Street,194068,238099
+The Causeway,192723,220755
+Juniper Close,189733,221436
+Fir Tree Close,189700,221533
+Quay Road,194696,238435
+Llygad-Yr-Haul Hill,196786,232772
+Summer Hill,194657,229157
+Heol Crwys,183843,232561
+Croft Lane,193290,224979
+Penyraber,180216,224193
+Bluebell Lane,193216,221456
+Prendergast,180827,225186
+Meadow Park,195634,223557
+Bryn Gomer,195678,237654
+Gwaun View,196095,236828
+Castle Close,187799,221181
+Wesley Way,197576,223090
+Park Street,194020,238289
+Penbanc,195367,236917
+Maes Ernin,187991,232126
+Newport Road,196325,237172
+Coronation Road,195551,237087
+Clos-Y-Bigney,195217,236786
+Main Street,195848,237032
+Haul-Y-Bryn,195548,226310
+A40,195465,236788
+Precelly Crescent,194104,238292
+Heol Dyfed,195086,237394
+Feidr Pontiago,192822,239097
+Walnut Close,189692,221415
+B4330,191491,224905
+Feidr Pont Eglwys,192591,239361
+Quarry Lane,195795,227101
+Brynsiriol,195966,236789
+North End,183974,232626
+Roch Hill,187158,221493
+Maesgwyn Road,195321,236752
+Gorse Close,189735,221486
+Feidr Gongol,195508,236727
+Golden Hill,197709,224001
+Anchor Down,180223,224312
+Erw Las,195280,237096
+Maen-Dedwydd Road,197781,226908
+Maes Ffynnon,187715,221142
+Wesley Place,196396,233050
+Maes Yr Afon,194242,237697
+Heol Trefin,195594,237572
+Llanrhian Road,181562,232394
+Golwg Y Mor,185071,231289
+Bro Stinian,194275,234375
+East Moor Park,189627,221507
+Wern Road,194458,237985
+Feidr Fain,198770,227428
+Ropewalk,195544,237094
+Trem Y Mor,195227,237427
+Plas-Y-Fron,196389,236612
+Parcyshut,195712,236934
+Claybogs Lane,193878,222740
+Prendergast,180570,225812
+Llys Owen,194065,237085
+Heol Cleddau,195609,236750
+The Close,197503,222874
+Haverfordwest Road,194583,229471
+Glangleddau,195585,226681
+Bryn Llewellyn,195966,236503
+Midland Lane,193879,229515
+Main Street,180771,224532
+Llanrhian Road,181930,231368
+Waun Las,194313,234196
+Cefn Coed,194383,234350
+Y Gribin,180704,224447
+Heol Penlan,193850,238386
+Millway Lane,198107,223711
+Wood Hill,185146,221851
+Park Avenue,199357,230547
+Beech Close,189596,221469
+Feidr Fraich,195215,236424
+B4331,191502,230667
+East Moor Park,189627,221507
+Clive Road,195400,237168
+Tlysfan,195833,236568
+Chapel Lane,180068,224298
+Feidr Castell,195371,236621
+Pen Wallis,195909,236397
+Morfa Las,195719,236803
+Brodog Terrace,195536,237328
+Willow Way,192758,220621
+Glynymel Road,196395,237046
+Hottipass Street,196000,236842
+Wood Hill,184801,222171
+Main Street,194349,238099
+Quarry Lane,195822,227257
+Brynawelon,193966,238303
+Heol Glyndwr,195994,236685
+Craig-Las,194274,229523
+Clement Road,194433,238298
+Clos Rebecca,190229,231401
+The Slade,195713,237146
+Garnlas,196045,236653
+Smyth Street,196001,236962
+Long Lane,193282,222850
+Parc Loktudi,195223,236663
+Harbour Village,194839,238931
+Maes Waldo,195429,237433
+Newgale Hill,184956,222478
+Vergam Terrace,195377,237342
+Troed Y Rhiw,193974,237173
+Midland Lane,193572,229192
+Church Road,187757,221106
+Pantyrychen,194371,238367
+Garn Ingli,195754,236711
+Heol Caradog,196118,236515
+Cwm Gwyn,198240,236469
+Aber Hesgwm,199469,238944
+Carn-deifog Wood,198364,232039
+Summerton Wood,198890,229578
+Pwll March,184370,222568
+Cwm Gwaun,199811,235173
+Carreg Pen-las,199405,238859
+Tre-llys Hill,190014,234678
+Traeth Llyfn,180174,231959
+Y Das,197277,237962
+East Moor Wood,189856,221355
+Fox Hill Wood,195390,220219
+Big Harp Wood,198733,232567
+Pwll Hir,195202,239683
+Cerrig Gwynion,187823,237153
+Garn Fawr,189585,238870
+Tri Maen-trai,188140,238974
+Drim Wood,194487,237225
+Pen Porth Egr,180329,232477
+Portheiddy Common,180358,230558
+Black Rock,180043,223564
+Trwyn Elen,181864,232782
+Pwll Gwartheg,183017,232472
+Long Plantation,198818,221640
+Cribinau,186884,234448
+Porth Gwyn,181052,223541
+Porthmynawyd,182711,222866
+Castle Point,196197,237817
+Porthgain Harbour,181402,232573
+Cwm Badau,184946,233696
+Carreg Dibryder,180114,223949
+Penrhyn Mawr,198748,238571
+Pwllstrodur,186529,233834
+Pwll Deri,189055,238448
+Kensington Street,195952,236969
+Marchgae Paddock,195560,237442
+Feidr Fain,193892,229730
+Trefwrgi Road,193784,237225
+The Causeway,191608,221389
+West Lane,196588,227451
+Wallis Street,195846,236841
+Portland Square,180079,224273
+Plum Tree Drive,192790,220490
+Feidr Fain,193881,229923
+Penslade,195776,237205
+Pen-Y-Bryn,195263,237001
+Ropeyard Lane,195253,236795
+Scleddau Wood,194589,233570
+Priskilly Forest,192365,229642
+Folkeston Moor,186727,220219
+Y Garn,191668,231102
+Aber Cerrig-gwynion,187807,237206
+Pwll Crochan,182620,232498
+Carreg Twnpib,180116,223868
+Trwyn Llwyd,183268,232948
+Spittal Common,197525,223809
+Cwm-bach,183950,222972
+West Hill,185495,221620
+Pwll Llong,184035,233308
+Llech Dafad,188104,235794
+Ogof y Cae,182334,223007
+Aber Richard,197953,238141
+Ogof Felen,183131,222900
+Cwmbrandy,194619,236907
+Allt Llanstinan,194571,231884
+St Elvis Rock,180126,223613
+Porth Coch,188176,235996
+Ffynnon-Fair Wood,197402,232262
+Spittal Common,197235,222487
+Culporth,180092,232153
+Manorowen Wood,193736,236332
+Porth Gwymon Bach,185846,233790
+Pinch Hill,185495,221620
+Porth y Bwch,181187,223448
+Carreg yr Eos,196012,237262
+Broad Moor Wood,198725,232392
+Penbicas Wood,196121,232667
+Great Treffgarne Wood,195964,223356
+Tregroes Moor,193996,235452
+Pwll March,188372,236131
+Heart Covert,185857,223186
+Porth Egr,180333,232362
+Manorowen Hill,192741,235990
+Trwyn y Badau,188856,238653
+Pen-cw,195447,239449
+Porth Dwgan,188272,235269
+Dinas Mawr,188629,238624
+Dirkhole Wood,188940,221145
+Treffgarne Gorge,195965,224519
+Aber-west,181199,223235
+Lower Haythog Bottom,199771,220784
+Cwm Mawr,199929,237530
+Tre-llan Wood,198325,235799
+Cwm Witch,195667,233175
+Pentre Newydd Hill,198827,232960
+Cow and Calf,195529,239528
+Carreg Ddu,188327,238714
+Aber Yw,185600,233819
+Pen Deudraeth,188280,234912
+Carreg Bwch-du,187455,237346
+Pen Pwllmelyn,195379,235853
+Ynys Melyn,188556,238604
+Porth-gain,181336,232723
+March Mawr,188027,239644
+Allt y Dryll,197188,236579
+Ynys-fach,182206,232754
+Pwll y Blewyn,198181,238361
+Pwll Landdu,196706,237713
+Aber Bach,196047,237302
+Pwll Dyfrig,196766,237088
+Holmes Plantation,198521,222200
+Porth Gwymon Mawr,185987,233806
+Penrhyn Ychen,198285,238439
+Frog's Hole,189378,220847
+Clychau,183264,232622
+Carn Gwcw,195865,226514
+Godor Mabli,188347,236554
+Ambleston Common,199524,225993
+Dudwell Mountain,190705,223142
+Allt Fach,196628,236817
+Carreg Coffin,196379,237835
+Garn Wood,199582,235116
+Ynys Deullyn,184470,234171
+Gilfach Wood,188407,233015
+Plumstone Mountain,191697,223379
+Llambed Hill,189651,232224
+Little Treffgarne Wood,197062,223914
+Sibbernock Point,185101,221304
+Trwyn Shag,183123,232487
+Porth Glastwr,186912,234263
+Court Wood,199208,235368
+Carreg Tomas,196523,237911
+The Chestnuts,191887,221241
+Little Treffgarne Mountain,197031,225536
+Gwadn,180236,223721
+Trefochlyd Moor,181542,229369
+Llanlleifer,182283,232613
+Dirty Pool Wood,189801,220872
+Cwm Felin,192599,239984
+Aber Bach,188312,235047
+Carn Gelli,192317,237943
+Cerrig Duon,199595,239238
+Parc Cerreg,190973,221893
+Esgyrn Bottom,197640,234640
+Pwll Olfa,183674,233040
+Sound Dwyrain,185224,233887
+Aber Hywel,198981,238621
+Kilbarth Wood,195701,220559
+Carn Llucheden,180397,224076
+Ynys y Castell,185120,233927
+Letterston Moorland,193670,228932
+Carreg Dilys,180465,223578
+Cuffern Mountain,189853,222459
+Needle Rock,197564,238003
+Aber Twn,188897,238661
+Aber Draw,183296,232639
+Hook Wood,199315,224663
+Gribinau,182015,232697
+Ogof y Felin,183500,222844
+Rock Wood,199098,232376
+Esgyrn Wood,197342,234635
+Carreg Gerwynau,188830,238224
+Patrick's Ford,193309,227680
+Pwll Whiting,184072,233632
+Rhos Carne-coch,193040,237144
+Ynys y Ddinas,188678,238671
+Granston Plantation,189752,234493
+Coed y Barch,188650,223700
+Penrhyn Byr,188784,239064
+Cwm Celyn,193795,237582
+Tre-llys Moor,189934,234521
+Pen Castell-coch,183942,233827
+Stacen y Brenhin,181722,223061
+Cilgelynen Wood,198598,234779
+Dinas Fawr,181187,223021
+Pwll Ceunant,197019,237774
+Porth Ffynnon,180988,232754
+Aber Castle,185186,233728
+Porth Dwfn,180539,232648
+Rock Wood,196900,228134
+Traeth Niwgwl,184867,221641
+Porth Mawr,187094,234643
+Granston Wood,189523,233275
+Carn Treglemaes,181622,228104
+Wolfsdale Hill,194161,222326
+Goodwick Moor,194662,237599
+Goodwick Beach,194948,237996
+Ysgubor Mountain,196586,230430
+Waun-castell Wood,197174,232194
+Aber Henrow,184922,233916
+Carreg Dandy,188122,235527
+Carreg Ddu,196110,237213
+Mynydd Morfa,187413,234117
+Penmorfa,187232,234690
+Pen-yr-allt Wood,188283,234114
+Pentre-newydd Wood,199127,233029
+Broom Wood,188619,233810
+Cerbyd Moor,182347,227847
+Coed y Gignog,188829,224875
+Trwyn Llwynog,186860,234565
+Tre-Llewelyn Wood,193296,236861
+Little Rhyndaston Wood,188934,223736
+Spite Moor,180600,228658
+Pen y Bank,189593,229463
+Aber Felin,183263,232526
+Tre-yarched Wood,182982,230833
+Penbwchdy,187650,237316
+Trwyn Porth-gain,181181,232700
+Waun Ffynnon-clun,194020,238602
+Bathesland Wood,186395,220712
+Aber Grugog,198493,238410
+Fishguard Harbour,195479,238801
+Trecoed Wood,193379,232287
+Coed Ty-newydd-grug,192780,228895
+Church Hill,186491,221073
+Cockshoot Wood,193237,227201
+Aber Tunnel,181244,232685
+Pen Dinas,181040,222933
+Aber Mawr,188040,234675
+Fishguard Bay,197820,239281
+Porth Maenmelyn,188822,239212
+Saddle Point,195767,237678
+Pwlldawnau,187971,237046
+Ynys Ddu,188666,238869
+Coch y Ceiliog,197145,237909
+Ram's Wood,199199,220223
+Treseisyllt Hill,189274,235219
+Pwll Llong,188425,236210
+Pwll Gwylog,199908,239339
+Crug-glâs Moor,181284,229365
+Cwm Ffrwd,199036,232165
+Penrhyn Erw-goch,199202,238832
+Craig Hesgwm,199651,238925
+Dinas Fach,182573,222652
+Aber Dwyrain,181418,223019
+Stember Wood,197354,220143
+Sickly Common,183432,232200
+Penrhyn Hesgwm,199795,239317
+Lampit Bach,195934,237455
+Carreg Herefio,188143,236087
+Penclegyr,180448,232783
+Windyhill Wood,195043,220038
+The Warren,188691,234476
+Penrhyn,180271,223630
+Heathfield Wood,192404,230152
+Lampit Mawr,195846,237503
+Fishguard Harbour,195178,238941
+Ysgol Ger y Llan,193882,229375
+Ysgol Gymunedol Croesgoch,182704,230376
+Aber Mochyn,186857,234124
+Trwyn Caws,180025,223707
+Ysgol Bro Gwaun,194976,237320
+Trwyn Llwyd,187826,236596
+Lovelings Land,182793,228234
+Allt yr Yn,199127,232651
+Pwell Edyn,196796,237693
+Rhyndaston Mountain,188815,222960
+Carreg y Frân,186648,233924
+Maidenhall Point,185436,220422
+Cilshafe Wood,197883,236222
+Penrhyn Ffynnonofi,199949,239474
+Nant-y-bugail Wood,196923,232716
+Ysgeifiog Moor,180612,227839
+Pwllcrochan,188490,236447
+Venn Plantation,198768,221920
+Eweston Wood,187785,222718
+Allt Trebover,197523,236169
+Grave of Sampson's Finger,185119,233901
+Solva Harbour,180114,224005
+Carreg Golchfa,188230,235192
+Ysgol Glannau Gwaun,195383,237082
+Fishguard and Goodwick,194531,238174
+Cuffern Manor Nursing Home,189465,221324
+Spittal Church in Wales (Voluntary Controlled) School,197347,223095
+Wolf's Castle County Primary School,195689,226634
+Ysgol Gynradd y Garn,187259,221460
+Haverfordwest Solar Farm,197024,220866
+Mathry (Voluntary Controlled) School,187993,232063
+Goodwick County Primary School,194025,238197
+Fishguard Roman Catholic School,195278,237334
+Henner School,193103,238924
+Kensington Street,194102,237553
+St David's Road,193897,229612
+New Road,194327,237757
+Old Rectory Close,193663,229684
+Hillside Crescent,193990,237214
+Southgate Park,197364,222963
+Parc Loktudi,195223,236663
+Parc Y Ffynnon,194369,233995
+Chapel Lane,196013,237070
+St Bride's View,187478,221040
+Mor-Awel,182590,230267
+The Parrog,194695,237994
+Allt Y Carne,193951,237118
+Min-Y-Llan,193686,229784
+Pilgrim's Way,187303,221295
+Roch Hill,187085,221819
+Abereiddy Road,182601,230226
+Fishguard Ferry Terminal,194901,238562
+Summer Hill,194651,229331
+Mathry Hill,188044,231930
+Fishguard County Primary Infants School,195592,237388
+Prendergast,180739,224637
+B4313,196300,236680
+Grassholme Close,187360,221197
+Hill Terrace,195961,237082
+Feidr Pontiago,193131,239407
+Long Lane,193805,222545
+Trefwrgi Road,193393,237553
+Manor Parade,194079,237634
+Brynhedydd,188041,231723
+Hillside Close,194073,237201
+Walnut Close,189684,221414
+Llanrhian Road,182802,230335
+Quay Street,196268,237319
+Barham Road,197351,232661
+Bridge Street,198622,235412
+Chapel Road,194370,234088
+Abereiddy Road,182239,230306
+The Parrog,194811,237832
+A40,194695,237994
+Pwll Arian,188481,240309
+Cwta Aber,189344,240893
+Trwyn Aberfelin,192715,240450
+Ynys Onnen,189002,241148
+Ciliau Moor,193787,240023
+Y Penrhyn,191306,240836
+Aber Careg-y-Fran,199958,240531
+Aber Gwladus,192384,240598
+Y Penrhyn,194545,240502
+Pwll yr Aren,189799,241388
+Pant y Dŵr,193502,240350
+Aber Degan,190641,240865
+Carreg Onnen Bay,189067,240900
+The Warren,195049,240079
+Porthsychan,190639,240869
+Y Globa Fawr,191675,240919
+Trwyn Llwyd,190565,241027
+Carreg Onnen,188884,241108
+Carn Melyn,188667,240545
+Strumble Head,189756,241248
+Aber Morgan,191879,240717
+Pant y Bara,193348,240417
+March Bach,188178,240029
+Aber Clawdd Pridd,191873,240773
+Maen Jaspis,193883,240466
+Pen Globa,191569,240877
+Cnwc Degan,190957,240928
+Pen Anglas,194939,240460
+Ffynnon Allt,192819,240053
+Carn Lwyd,192004,240749
+Ynys Meicel,189269,241270
+Trwyn Llwyd,192057,240825
+Pwll Bach,190225,241282
+Aber Felin,192903,240333
+Pen Capel Degan,190956,241016
+Carn Halen,192329,240664
+Dritwg,191220,240800
+Anglas Bay,194504,240521
+Porth Maen,194252,240523
+Carreg y Wrach,189462,241345
+Careg-y-Fran,199886,240425
+Ogof Philip,193246,240419
+Dinas Island,199922,240576
+Pwlluog,190398,241080
+Crincoed Point,195123,240284
+Penfathach,194101,240437
+Carreg Gybi,190342,241259
+Pwll Ffyliaid,189243,240804

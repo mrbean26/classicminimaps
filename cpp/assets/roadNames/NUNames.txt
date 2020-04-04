@@ -1,0 +1,2246 @@
+Longframlington,413081,600954
+Great Tosson,402844,600577
+Alnwick,418736,613117
+Beanley,408144,618339
+Knocklaw,406502,601882
+Cartington,403742,604588
+Newton on the Moor,417212,605230
+Whitton,405644,601097
+Hazon,419283,604510
+Ingram,401708,616262
+Bolton,410632,613638
+Rothbury,405817,601766
+Newtown,403416,600988
+Powburn,405927,616987
+Brandon,404147,617132
+Abberwick,412938,613277
+Callaly,405259,609492
+Branton,404641,616286
+Thropton,402925,602234
+Eglingham,410557,619552
+Snitter,402503,603426
+Edlingham,411361,609048
+Glanton,407008,614505
+Swarland,417009,603589
+Shilbottle,419585,608659
+Old Swarland,416323,601947
+Whittingham,406941,612000
+Felton,418502,600407
+Hampeth,417426,606680
+North End,412984,601869
+South Street,418637,612903
+The Orchard,416668,603674
+Low Pastures,416890,603445
+Mart Field,406158,601530
+Recreation Lane,418540,600529
+St Georges Crescent,419000,612577
+Alnmouth Road,419934,612687
+Mouldshaugh Lane,418990,600896
+Gravelly Bank,405158,601704
+Green Batt,418621,613116
+Hillside Road,405851,602184
+Beechcroft,406246,601532
+The Avenue,418783,612935
+Back Bridge Street,419145,612743
+Monkhouse Terrace,418455,613124
+Percy Drive,416330,603864
+Tate Gardens,412492,600604
+Pickwick Place,418785,613160
+Carpenters Crescent,418528,611852
+Farm Drive,417149,613893
+Glendale Close,405541,601803
+Beech Tree Close,413194,600960
+Rothbury Road,412825,600853
+Tower Lane,418475,613150
+Carterside Road,404639,600856
+Meadowcroft Park,402766,602400
+B6346,412117,618447
+Burnside,402992,602161
+Alwynside,418073,613390
+Park View,419020,612835
+Callaly Road,406911,611801
+West Acres,419834,612832
+Rimside View,412862,601113
+Mouldshaugh Lane,418591,600812
+Market Place,418657,613302
+Cairn Park,412787,601035
+Cairn View,412703,601086
+King Street,418470,613037
+Denwick View,419810,612896
+High Street,405372,601653
+Farm Drive,417946,613684
+Cliff Drive,415236,614859
+St Thomas' Crescent,418000,612966
+Bondgate Court,418901,613270
+Eslington Lane,412911,601297
+The Peth,418525,600340
+Tynemouth Lane,405311,601742
+High Moor Drive,415073,614468
+Hillhead Road,405555,600432
+Catheugh Drive,414386,615311
+Hillside Road,404761,600080
+Clayport Bank,418198,612923
+Harrogate Lane,413220,601888
+Church Lane,403270,602310
+York Crescent,419301,612579
+Springfield Park,419502,612914
+Percy Terrace,418624,612959
+Iron Bridge Drive,416577,614830
+Cawledge View,419243,612227
+The Paddock,416670,603597
+B6341,418268,613000
+Hawthorn Close,419760,611552
+Farriers Rise,419523,608552
+Belle Vue Gardens,418473,612927
+B6341,406818,603608
+Whitton View,406234,601906
+Jubilee Crescent,406059,601456
+Alnside,406975,612077
+Village Farm,402935,602274
+Hotspur Place,418851,613130
+Duke Street,419197,612789
+Beechcroft,416474,603698
+The Causeway,412695,600916
+Wagtail Lane,406534,601426
+Acton Crescent,418647,601025
+Alnwick Fords,414470,604603
+Simonside Drive,412475,600623
+St Laurence Court,412856,601691
+B6341,405317,601655
+Benlaw Grove,418493,601016
+Windsor Gardens,418291,613170
+Camp Drive,414155,614272
+Leatherland Road,419566,608848
+Lisburn Terrace,418400,613013
+Springfield Meadow,419566,613033
+Thomas Percy Close,418725,612300
+Garden Terrace,407004,614467
+Sea View Terrace,419293,612544
+Playwell Road,407154,614550
+Sandy Close,418440,600778
+Wagtail Road,406410,601533
+Embleton Close,413024,601203
+The Peth,418436,600139
+Physic Lane,403737,602527
+Cragside View,405363,601820
+The Croft,402812,602358
+Low Wood,416876,603366
+Clayport Square,418539,613194
+Addycombe Gardens,406037,601996
+Crozier Drive,407374,602284
+Whittingham Road,407080,614424
+White House Drive,416215,616276
+Hotspur Hill,418837,613093
+Fairlands Close,416552,603667
+Northumberland Street,418414,613549
+Highfield Park,418700,612033
+Hotterel Drive,417149,615409
+Rugley Road,417403,611000
+Whitton Bank Road,405697,601480
+Old Park Road,416571,603210
+B6344,406420,601820
+Main Street,418418,600639
+Victory Drive,416600,603609
+Hotspur Court,419899,611720
+Low Chesters,416387,603848
+Beacon Road,417750,607052
+Church Street,405729,601681
+Wardle Close,418592,601202
+Hawfinch Drive,419562,611580
+Vintners Court,418661,611959
+Mill Lane,406948,601082
+Coquet Vale,418597,600432
+Victoria Crescent,419179,612578
+Grey Place,418788,613070
+Smiley Lane,418498,615148
+Back Duke Street,419222,612798
+Fullers Walk,418886,612014
+Healeycote View,412379,600791
+High Palmstrother Drive,415771,615790
+Lemmington Bank,413304,611697
+Coquet View,406408,601630
+Sycamore Avenue,417919,613000
+Brewery Lane,405846,601855
+Lady Hamilton Drive,416788,603669
+Whitesmiths Way,418624,611921
+Charleton Way,406615,601270
+Whittingham Road,407080,614424
+Garmintedge Bank,410559,612024
+Lagny Street,418481,613254
+Bridge Street,419198,612735
+Merchants Gardens,418675,612209
+West End,419205,608645
+High Town,412872,600746
+Weavers Way,418926,612117
+Villa Lane,412574,600708
+Taylor Drive,418917,611683
+Tollgate Road,406333,601447
+Whittingham Lane,407630,611436
+Cave Drive,415733,614549
+Hillside Road,404088,603887
+Riverside,418382,600249
+Upper Howick Street,418582,612918
+Cedar Grove,418016,613102
+Blackwood Place,416706,603596
+Station Road,406031,601620
+Shipleyburn Drive,415247,616602
+Roxbro Place,418767,613151
+Chester Well,416332,603628
+Knogley Way,412942,601079
+Addycombe Close,406251,601970
+Howick Street,418566,613058
+Rookwood Gardens,412825,600857
+Track of mill Race,414469,603356
+Mercers Way,418553,611802
+Moorlaw Drive,413907,614524
+Rimside Gardens,412965,601135
+Clayport Street,418416,613140
+South Road,419580,612478
+Coast View,416271,603348
+Cock Pit Drive,417115,614622
+Villa Lane,412636,600415
+Lindisfarne Road,418967,612566
+Arkle Court,418886,612112
+Militia Court,418815,613173
+Glovers Green,418905,612231
+Lordenshaw Drive,406513,601350
+A1,419765,612008
+Narrowgate,418580,613432
+Dingle Drive,414375,615486
+Cloudy Crags Drive,415015,613754
+Oaky Balks,419933,612607
+Larch Drive,419844,611405
+Lisburn Street,418571,613014
+The Coppice,416931,603397
+Hillrise Lane,412592,600712
+Stott Street,418956,612942
+Allerburn Lea,419561,613134
+B6342,406291,601551
+Bridge Street,405863,601670
+The Maltings,405612,601657
+South View,418662,600885
+Linnet Court,419594,611549
+Selby Road,419175,608436
+Old Park Road,416571,603210
+Front Street,407008,614505
+Cat Craig Drive,417050,615812
+The Lea,416396,603767
+The Peth,418436,600139
+Prospect Terrace,405445,601669
+Croft Road,406006,601521
+Leamington Lane,416441,603904
+St Laurence Court,412861,601723
+Greenlea Road,417024,603555
+Beacon Road,417750,607052
+Royal Oak Gardens,419657,612609
+Cheviot Lodge,412546,600850
+Harecross Park,412567,600939
+Silverton Lane,405902,601092
+Harrogate Lane,413186,601885
+Battlements,418040,612611
+B6346,418818,613254
+Lower Barresdale,418000,613297
+Ravenslaw Gardens,419471,612732
+Park View,418337,600654
+Walkergate,418470,613779
+Blaeberry Hill,405433,602108
+Rochester Drive,418441,601089
+Hotspur Street,418836,613171
+Melrose Way,418587,601129
+Argyle Terrace,418608,612882
+The Oval,418656,600972
+Ravenslaw Court,419395,612739
+Cragside Court,405428,601781
+Copper Beeches,406876,612057
+Brizlee Drive,414048,614411
+Canongate,418302,613770
+Hillcrest Park,419585,612907
+Knocklaw Park,406575,601925
+Greensfield Avenue,419000,612298
+Low Close,418401,600352
+Deanmoor Road,418541,608766
+St Johns Place,418337,612912
+Tower Drive,416002,614696
+Hope House Lane,418657,612697
+Bondgate Within,418742,613295
+Pottergate,418458,613477
+Black Dean Drive,417700,615310
+Percy Street,418627,613070
+West Lea,402570,602337
+The Lane,407101,614518
+Duchess's Drive,417415,614277
+Grange Road,420000,608580
+Ferny Bank,416298,603816
+St James Road,419386,608571
+Cornhill Estate,419309,612414
+Valley View,412497,600481
+Ravensmede,419727,612859
+Dawnway Drive,416436,603589
+Silverton Lane,406256,601055
+Kenmore Road,416578,603478
+Dene Close,418338,600879
+Callaly Road,406881,611774
+Gills Lane,418590,613107
+Trysting Tree Drive,417288,615579
+Tollgate Crescent,406299,601473
+Cherryhope,412880,601049
+Hardy Close,416504,603682
+Blakelaw Road,418782,612406
+Kenmore Close,416727,603415
+Town Foot,405903,601802
+Studley Drive,416890,603516
+Nelson Drive,416601,603675
+Davison Avenue,418491,600889
+Wreigh Burn Fields,402636,602438
+Leamington Lane,416829,603688
+Malthouse Road,419131,612852
+Fenkle Street,418599,613360
+Hillhead Road,405806,601079
+Paikes Street,418624,613353
+Barns Road,418514,600798
+Carterside Road,403525,600815
+Coopers Close,418709,612122
+Ash Close,419889,611830
+Willoughby Park,418304,612876
+Oak Drive,419806,611657
+Upper Barresdale,417845,613180
+New Row,418470,613395
+Clayport Gardens,418154,612962
+Church Fields,402872,602189
+Fenwick Park,412877,601250
+Front Street,413001,601288
+Clive Gardens,418188,613121
+St James Estate,419209,612268
+Croft Place,418787,613055
+Meadow Riggs,418592,612426
+Blakelaw Court,418759,612231
+Prospect Close,418406,600559
+Fairfields,418608,612147
+Robson Grove,418391,601101
+Whitton Bank Road,405636,601109
+South Lane,418645,600942
+West Brizlee Drive,414612,615033
+Aydon View,418488,612160
+The Avenue,405799,610000
+Ferny Lea,411204,619326
+Armorer Court,418657,611878
+Deer Park Drive,416512,614190
+Swansfield Park Road,418939,612646
+Cock Pit Lane,416850,614454
+A1068,419613,612256
+Garleigh Road,406368,601465
+Highfield,416867,603481
+Silverton Lane,406377,601217
+Augur Place,419283,612663
+Chapel Lands,417909,612815
+The Causeway,407171,614483
+High Bowling Green Drive,414478,614374
+Middle Road,419440,608707
+Cuthbert Heugh Drive,415721,616136
+Victoria Terrace,419180,612601
+Admiral Close,416770,603502
+Farm Road,416368,614897
+Alnwick Abbey Drive,417506,614277
+Hawfinch Drive,419530,611555
+Alnmouth Road,419833,612707
+Crawley Dene,406326,616328
+North Side,419449,608850
+Front Street,405658,601704
+Queen Street,419208,612705
+Hinding Lane,417801,616294
+Chapel Lane,418578,613170
+Breamish Gardens,405936,616964
+Willowburn Avenue,419306,612039
+Weavers Way,418926,612117
+Park Road,416295,602614
+The Pinfold,405218,601722
+Riddell Close,418471,600731
+Aydon Crescent,419275,612718
+Elm Square,419794,611559
+Low Bowling Green Drive,414541,614700
+Prudhoe Street,418840,613016
+Wright's Square,405900,601819
+The Haven,419799,608703
+Palmstrother Drive,415737,615529
+Farriers Court,418767,612022
+Bondgate Without,418963,613142
+Mount View,407226,614518
+Column Mews,419055,612930
+Lanton Close,416693,603417
+Playwell Road,407272,615044
+Mile Moor,403965,613424
+Castle Hill,406071,609713
+Throat Wood,410794,600675
+Whitton Dean,405837,600217
+Cartington Hill,404794,605395
+West Hills,404287,602380
+Quarterknowe Plantation,400950,613143
+Cushat Wood,403203,619728
+Lamp Hill,413967,610987
+Hope Wood,409254,601370
+Wellhope Knowe,409621,605466
+St Margaret's Green,415755,610040
+Hag's Wood,410341,600117
+Crow Plantation,400141,612783
+Stirkhill Plantation,414103,607729
+Cragend Hill,407589,601968
+Nova Scotia,404015,618707
+Gibb's Hill,403219,614289
+Hinding Dean,416998,617414
+Glantlees Hill,413033,606178
+Howdean Plantation,403968,608103
+East Hill,403324,616306
+East Hill,404630,618094
+Titlington Pike,408763,615991
+Dovecote Lane,418867,613082
+Wandy Marsh,408299,606610
+Wide Hope,412304,608430
+Augur Terrace,419218,612461
+Glen Aln,403240,612241
+Bickerton Wood,400326,600368
+Gowk Hill,408964,604749
+Corbie Cleugh,400953,614847
+The Tarn,407374,601647
+West Turnpike,406739,614438
+Battlements,418042,612526
+Hillside Road West,404579,601747
+Beech Grove,418028,613042
+Simonside View,405264,601823
+Whitton Bank Road,405620,601406
+Dispensary Street,418424,613350
+The Old Tweedmill,416333,603458
+Queen's Road,419203,612627
+St Michael's Lane,418651,613179
+Bertram Court,418449,601111
+Allerdene Court,405915,601787
+Providence Lane,405763,601807
+Armstrong Place,418554,612915
+York Road,419236,612563
+Front Street,412851,601513
+The Peth,418711,614176
+Cherry Tree Drive,416355,603723
+Blackthorn Close,419841,611613
+Woodlands,405679,601919
+Lady's Well Drive,417229,615382
+Nile Drive,416684,603657
+Haw Hill,405835,601632
+Kenmore Drive,416523,603546
+Cow Close Plantation,404775,609450
+Thorny Hill,410034,600818
+Black Strip,416611,604518
+Long Plantation,410273,607598
+Lamb Hill,410579,604628
+Whittingham Wood,405849,611271
+Thrunton Wood,407181,608865
+Cow Hill,404220,616140
+Hinding Dean,417498,617575
+Thieves Road Plantation,400298,613193
+Low Wood,416933,603275
+Barebellies Plantation,403120,618418
+Alnwick Moor,415557,611456
+Coe Hill,407474,607982
+Fence Wood,416285,600765
+Long Crag,406223,606934
+Castle Hill Plantation,405961,609795
+The Groves,419642,601734
+Bottle Wood,411538,608698
+Mare Meadows Plantation,404188,609299
+Longlee Moor,415583,619429
+Percy's Strip Wood,404936,619377
+Roughley Wood,409491,608548
+Rush Plantation,417399,604268
+Bank Wood,412587,611863
+Long Plantation,419385,614564
+Kimmer Lough,412067,617540
+Hillhead,419100,608028
+Percy's Cross Plantation,405386,619312
+High Wood,404026,602363
+Roddam Bog Plantation,401324,619102
+Swallow Knowe,407175,605712
+Hard Heugh,405107,606021
+Lumsden Hill,400214,613609
+Lemmington Wood,413169,610958
+Percy's Cross Fox Covert,405675,619405
+Millstone Cleugh,411864,605531
+Long Plantation,414277,603910
+The Strip,403186,619394
+Beanley Moss,409889,617219
+Moorlaw Dean,413798,614394
+Old Moor Plantation,405916,618482
+Whaupmoss Plantation,401649,619280
+Birsley Wood,411128,609855
+Wain Wood,412503,614220
+Lynch Wood,411017,601928
+How Moor,407654,610543
+Calf Close Plantation,405369,609695
+Horse Close Plantation,404974,610158
+Brizlee Wood,414205,614522
+Reaveley Hill,400293,618061
+Great Wood,408938,619540
+Ewe Hill,400209,615507
+St Helena Wood,401962,618572
+Glanton Hill,406608,614840
+Cow Wood,403293,619195
+Blackbridge Plantation,407465,618598
+Whitridge Hill Plantation,402468,618096
+Midding Hill,413034,607480
+Locking Dean,416307,616241
+Knowes Plantation,404002,613130
+Chapel Hill,404784,603946
+Cochrane Pike,400719,614023
+Reaveley Fox Covert,401409,617840
+Hillhead Plantation,402609,612616
+Lisle's Wood,416988,602829
+North Lodge Wood,405065,609986
+Long Wood,406551,616955
+Hall Wood,416858,604354
+Reaveley Braes,401486,616523
+Jack Wood,402913,619973
+Tinker's Plantation,405103,609272
+Coe Crags Wood,407877,606909
+Buildings Clump,402559,619921
+Tait's Plantation,403319,611356
+Summers Dene,412602,619251
+Quarry Wood,404445,601868
+Bieldy Pike,406956,604784
+California Wood,413099,615214
+Park Wood,416997,600505
+Wether Hill,401316,614435
+Debdon Lake,406376,602864
+Black Lough,413273,608424
+Smallburn Plantation,400382,607510
+Snitter Moss,407205,606193
+Swarland Wood,415514,603262
+Firth Wood,417244,609968
+Phyllis's Plantation,414592,607759
+Calf Wood,402808,618844
+Oxen Wood,413763,611183
+Gallow Law,406696,618745
+Tait's Strip,402766,612231
+Little Knogley Plantation,412183,604294
+Beacon Hill,418605,607834
+Blackchester Hill,400380,610250
+Swin Hope,412640,609331
+West Hills,403782,602029
+Debdon Plantation,406682,603665
+Halfmoon Plantation,402836,611057
+Unthank Plantation,401164,610770
+Wooden Hill,410963,604408
+Mount Oliver Plantation,403438,612844
+Brizlee Hill,415808,614723
+Little Cleugh,400486,614388
+The Thrum,408638,600566
+North Park Wood,405365,610384
+Green Law,401510,608940
+Ryegrass Covert,413020,604734
+Cabin Wood,404633,610409
+Coquetdale,407717,600207
+Titlington Wood,409518,616027
+Ticket Plantation,410494,619923
+Egler Dean,417207,615111
+Beanley Moor,410400,617963
+White House Hill,416126,617829
+Catgallows Plantation,404253,612813
+Healy Braes,405029,607111
+Shepherdslaw Plantation,409286,616825
+Garden Plantation,417180,604210
+Glantlees Reservoir,413658,605802
+Horse Close Strip,402442,619005
+North Strip,405054,610383
+Hulne Park,415338,614543
+Edlingham Woods,412051,606385
+Shipley Wood,415392,617732
+Middlemoor Plantation,418819,618879
+Spout Hill,404388,604518
+Longframlington Common,411015,604457
+Nelly's Moss Lakes,407875,601908
+Dunce Castle Plantation,404520,612767
+White House Woods,417332,617536
+Caisley Plantation,401521,610093
+Hill Wood,417837,614712
+Wee Macgregor Plantation,414703,605799
+Reaveley Greens Plantation,402077,617902
+Long Plantation,402782,615577
+Coquetside Plantation,407746,600951
+Aydon Forest (Inner),416731,612915
+Black Moss,406226,605919
+Lemington Wood,413677,609665
+Burn Plantation,402491,611697
+Low Wood,405311,610107
+Woodhead Plantation,410557,601667
+Rothbury Forest,405340,600773
+Thorny Knowe,413729,609133
+Shipley Dean,415418,618555
+Pickle Wood,414813,600441
+Bracken Wood,404203,602313
+Smalldene Plantation,414950,601914
+Waterside Plantation,407829,619902
+Willow Dykes Wood,402136,618652
+Black Plantation,418698,609612
+Rugley Wood,417055,610899
+Wormitlees Plantation,413641,604329
+Hadwen Wood,403684,603379
+Shivers Cleugh,400125,617066
+Rigg Wood,402595,619271
+Jenny's Lantern Hill,411395,614432
+Jubilee Wood,403087,619808
+March Plantation,400673,612245
+Bowling Green Plantation,414654,614702
+Taylor's Wood,403984,614766
+Shawdon Wood,408830,615068
+Selby's Wood,419942,610140
+West Hill,402373,614915
+Murdie's Covert,417789,618995
+Shirlaw Pike,410054,603911
+The Crow Trees,405148,601564
+Heathery Grange Wood,411126,601480
+Rocks Plantation,410219,619902
+Blackburn Lake,408901,601899
+Ellsnook Plantation,418202,619027
+Dovecot Plantation,416670,604813
+Hulne Park,416473,613659
+Chesters Plantation,417612,616686
+Chester Hill,416141,604384
+Branton Plantation,403997,614390
+Hollinsheugh Hill,415433,619686
+Whaupmoor Plantation,404837,614583
+Bunkerhill Plantation,415656,616188
+West Plantation,416462,604643
+Glantlees Plantation,414256,604836
+White Hill,416149,614562
+Leek's Hill,419347,613539
+Ring Plantation,406681,617582
+Milemoor Plantation,403339,612994
+Netherton Pike,400206,608515
+Black Plantation,418463,618491
+Mill Covert,408191,611123
+Trough Hill,410318,602329
+The Clump,417004,604559
+Hunterheugh Crags,411688,616915
+Pond Plantation,417154,604758
+Honey Hill,416639,619208
+Rimside Moor,408871,606221
+Pringle's Wood,407823,618703
+Hall Hill Plantation,413883,601496
+Fannysburn Plantation,401531,610389
+Gousty Gate Plantation,404835,611234
+Hulne Park,416432,615817
+Hulne Park,417486,613919
+Minto's Dean,417634,600908
+Rattler Plantation,401515,612136
+Linn Wood,409005,602097
+Oak Wood,414691,601223
+Big Birkey Hill,416178,612681
+Glantlees Wood,414285,605082
+The Park,411444,612443
+Gallowfield Brae,403526,601673
+Old Fawdon Hill,402258,614147
+Swansfield Park Primary School,418882,612855
+Whittingham C of E Primary School,406755,612033
+Alnwick Infirmary,419304,612988
+Rothbury First School,405828,601965
+The Duchess Community High School,418916,611592
+Atheys Moor,413788,602501
+Branton Community First School,404637,616338
+Sneap Plantation,419616,610174
+Whinny Plantation,419938,616871
+Hollin Shade,407657,601162
+Hedgeley Moor,406001,619099
+Cragpit Hill,406659,603769
+Aydon Forest (Outer),415190,611318
+Coneywarren Plantation,404037,612862
+Tumbleton Lake,406926,602663
+Midge Park,418701,601461
+Beanley Plantation,409591,617327
+Collingwood House Plantation,401895,611387
+Cockhall Strip,409540,619400
+Sunninghill Plantation,404831,609716
+Fox Covert,412332,619871
+Haugh Covert,400234,601739
+Shotton's Dean,400629,612757
+Humbleton Hill,406262,610126
+Gingling Cleugh,401531,614162
+Burgh Hill,402324,600501
+Ewe Hill,400361,616894
+Hulne Park,414284,615100
+Coe Crags,407435,607242
+Hillcrest Care Home,419657,613003
+Felton Church of England (Controlled) First School,418523,600686
+Alnwick Bus Station,418523,613243
+Dr Thomlinson Church of England Middle School,406363,601313
+St Michael's C of E Primary School,418207,613340
+St Paul's RCVA First School,419400,612904
+Barndale House School,418274,613404
+Front Street,413065,601210
+Chestnut Close,419945,611750
+Old School Close,418398,612964
+The Avenue,416395,603563
+Wagon Way Road,419091,612873
+Park Road,416411,602894
+Park Road,416346,602000
+Physic Lane,403323,602173
+Greenwell Road,418767,613366
+Riverside,406039,601729
+Tyelaw Meadows,419752,608875
+Howling Lane,418142,613198
+Taylor Drive,419213,611821
+Village View,403219,602090
+B1340,419246,613182
+West Turnpike,406739,614438
+Kenmore Croft,416579,603524
+Armstrong Grove,412752,601217
+Deanmoor Road,419126,608628
+Beech Drive,415908,614140
+Rothbury Community Hospital,405588,601434
+Moor Burn Drive,417651,613655
+Swarland First School,416407,604022
+St Paul's RCVA Middle School,419400,612904
+Thropton Village First School,403168,602360
+Church Street,413044,601006
+Farne Road,419234,608553
+Cheviot Road,419295,608486
+Market Street,418660,613275
+Mill Lane,406692,601365
+Carterside Road,405655,601101
+Springwood,416186,603305
+High Street,405443,601657
+Bailiffgate,418497,613609
+Friars Well Drive,416806,616099
+Fisher Lane,419316,613099
+The Peth,418600,613693
+Canongate,418209,613932
+Douglas Crescent,416259,602621
+Percy Road,419692,608809
+East Brizlee Drive,415204,615262
+Ratten Row,418163,613693
+Birch Close,419752,611708
+Chathill,418622,626864
+Newtown,404157,625143
+Black Heddon,403588,639864
+Belford,410875,633898
+Ellingham,417098,625736
+Ilderton,401681,621956
+Warenford,413682,628626
+Waren Mill,414765,634414
+Detchant,408602,636518
+Lilburn Tower,402076,624652
+Bamburgh,418097,634939
+North Charlton,416919,623004
+West Fleetham,419328,628545
+Roddam,402469,620382
+Lilburn Grange,403231,624942
+Chatton,405610,628370
+Ross,413221,637009
+Old Bewick,406668,621504
+Easington,412151,634800
+West Horton,402722,630785
+Lowick,401515,639681
+Holburn,404092,636183
+Doxford,418300,624090
+Warenton,410582,630389
+Wooperton,404370,620526
+Elwick,411564,636895
+Bellshill,412375,630749
+South Charlton,416467,620280
+Haugh Head,400331,626105
+Lilburn Glebe,403341,622451
+Lucker,415318,630204
+Preston,418576,625571
+New Bewick,406807,620294
+Middleton,410117,635570
+Chillingham,405665,626043
+East Kyloe,405850,639705
+Newham,417439,628417
+Burton,417953,632960
+Links Road,419053,634573
+Croft Way,410922,633451
+South Road,401540,639510
+South Road,401540,639510
+Front Street,418037,634907
+Burnside,410774,633762
+High Street,410920,633748
+The Neuk,410921,633928
+Bell Road,410698,633723
+Church Lane,401218,639697
+Market Place,410856,633927
+North Bank,410201,635457
+The Meadows,411165,633462
+Avenue Road,416550,625290
+North Bank,410568,634844
+South Road,411522,633177
+Village Meadows,401586,639544
+B6525,400616,638250
+Radcliffe Park,417750,634770
+Byers Close,410990,633431
+Mclaren Terrace,410997,633995
+Admiral Avenue,402359,620371
+Meadowgarth,411098,633378
+The Avenue,419755,623128
+Dilchburn Road,416278,620322
+New Road,405610,628370
+Bamburgh Court,418634,626867
+Well Close,401390,639487
+Dunmoor Road,410695,633465
+B6348,406429,628577
+Ingram Road,417950,634752
+Lindisfarne Avenue,418022,634724
+Taylors Field,416435,620334
+Newham Howeway,417373,628769
+Dryburn Road,401498,639755
+Church Lane,401239,639712
+Dixon Road,410837,633435
+Hill Top,415356,630236
+Dinningside,410891,633608
+The Wynding,417702,635475
+Islestone Court,417847,634745
+Sawmill Road,405342,638218
+Newham Howeway,417435,628492
+Radcliffe Road,417667,634864
+B6347,418356,620615
+Lucker Road,417479,634075
+Old Road,405837,628330
+The Avenue,419348,620513
+Mizen Court,417798,634701
+St Cuthberts Drive,410804,633932
+Church Street,410892,633956
+Main Street,401541,639689
+Nursery Lane,410933,633761
+Cheviot View,401477,639535
+Cragside Avenue,410750,634229
+Links Road,418761,634711
+Clark Place,410935,634044
+Village Meadows,401572,639517
+William's Way,410738,633622
+Mill Hill,405464,628208
+Raynham Road,410725,633496
+B1342,414763,634407
+Lucker Road,417869,634737
+New Road,405766,628395
+Rowan Court,410757,633505
+Battery Road,404010,638243
+Rogerson Road,410951,633396
+Station Road,412283,633651
+Lowick Road,404909,638852
+Dryburn Road,401478,639792
+Cragmill Road,411056,634415
+Dilchburn Road,415368,621108
+Cushat Close,410744,633432
+Admiral Avenue,402044,620351
+Croft Field,411048,633586
+Lambton Avenue,401881,639844
+Yeavering Court,410650,633447
+Old Road,405837,628330
+North Bank,410832,634252
+B1341,416154,632128
+Cragview Road,410777,633659
+Jay Piet Road,405804,638318
+Devil's Causeway,402480,633000
+Villiers Gardens,415104,630445
+Ingram Lane,418000,634632
+Phillips Place,401655,639772
+Castle Wynd,418095,634868
+Church Street,418000,634921
+The Wynding,417991,635142
+Cragmill Road,411105,634437
+Friars Court,417519,634830
+Church Hill Road,405688,628294
+West Street,410664,633821
+Castle Hill,403845,633610
+Fenwick Wood,406893,639204
+Village Plantation,403801,629420
+Kitty's Plantation,401431,632244
+Carr's Wood,413362,621573
+Cowhill Plantation,418646,622554
+Upper Hall Lake,409706,635413
+Roughting Linn,408271,628245
+Moor Edge Plantation,415678,622452
+Orchard Plantation,417658,622593
+Kiln Point,415331,635280
+Tealhole Point,410166,639187
+Haggmoor Plantation,416569,627124
+Taylor's Plantation,407580,625982
+Tunnel Wood,407526,620641
+Kirkley Wood,414022,636601
+High Moor,411992,628132
+Chatton Moor,409657,628631
+Chat Hill,418062,627124
+Water Supply 5,405747,638614
+Redhouses Wood,408752,630293
+Chattonpark Hill,407308,629298
+Lower Hall Lake,409856,635418
+Cocklawdean Head,411295,629336
+Swinhoe Strip,408856,635165
+Ferny Law,403507,627468
+Burnt Plantation,418581,627453
+Yearsley Plantation,418667,621004
+Harborough Plantation,402502,622544
+Low Moor,415269,627936
+Whitehill Head,410099,627264
+Chathill Plantation,417799,626877
+Horse Wood,405023,634261
+Dod Law,400686,631664
+Links End,414443,635955
+Wandon Plantation,404024,628470
+Drawkiln Hill,415727,633976
+Reely Law,410559,638843
+Quarryhouse Moor,410432,623976
+Smiley Law,416280,626681
+Low Moor,412244,628421
+Dick's Spinny,407702,634712
+Edington Dean,416350,622057
+Warenton Moor,410661,629249
+Oak Wood,406607,626898
+Broadhaugh Plantation,403718,629571
+North Wood,403630,637643
+Kiln Wood,412452,636415
+Foxhole Hill,415410,620005
+Bradley Moor,415952,628824
+Black Rock,416306,636153
+Sandyford Moor,410032,626346
+Well Plantation,418059,625437
+Chester Hill,417157,620466
+Bog Wood,404894,620877
+Cover Plantation,415745,621124
+Bewick Hill,407429,621568
+Bewick Moor,409052,621968
+Budle Bay,414917,635744
+Mclaren Drive,411102,633917
+Raynham Close,410690,633564
+Shepherd's Path,404431,638251
+Armstrong Cottages,419040,634542
+B6349,407147,631560
+Lilliput Lane,413647,628476
+Trickley Wood,402757,626924
+Harehope Hill,408872,620625
+Crook Hill,415849,633537
+Henshopelaw,408695,635504
+Hagg Moor,416325,627217
+Shirland Strip,402957,636552
+Linkeylaw Plantation,408489,629485
+Pace Hill,407681,638523
+Moor Plantation,416347,622041
+Dick's Oldwalls Wood,407459,634488
+North Wood,412535,629311
+Banks Plantation,412302,630895
+Water Supply 6,405592,638556
+Fad Hill,412260,629880
+Ely Moor,418756,627518
+Lidderton Hill,416181,632467
+Hallflat Plantation,416629,623453
+Hepburn Wood,407342,623871
+Ewe Hill,404386,624418
+Low Wood,418489,624068
+Blind Wells Plantation,406398,625150
+Brada Plantation,415892,634056
+Dogberry Plantation,415941,624695
+Hagg Wood,417584,626060
+Westlodge Plantations,409546,631811
+Uffa Hill,405800,638450
+Harpsichord Plantation,407049,626309
+Bullock Hemmel Plantation,406996,625341
+Lodge Plantation,403775,628695
+Holburn Lake,405025,636433
+Stell Plantation,412432,627081
+The Dell,406318,625726
+Castle Hill,409430,622447
+West Plantation,401425,627105
+North Plantation,402392,628070
+Kiln Plantation,418964,620105
+Smithy Hill,404411,636086
+Broad Wood,417392,626566
+Brownridge Hill,409985,628497
+Hay Hill,408587,628580
+Kittling Hill,416752,635737
+Lady's Plantation,402695,630059
+Ewartshill Plantation,419854,623847
+Lowmoor Point,409617,639934
+Lucker Moor,411984,627110
+Crow Plantation,403574,629280
+The Spinneys,407256,625562
+Brownridge Plantation,410149,628495
+Whinny Hill,409406,627641
+Quarry Wood,402097,635662
+Twizell Lake,412238,628593
+Rabbithill Plantation,413957,622281
+Hughe's Wood,415450,622952
+Longriggs Plantation,406094,626738
+Reapers Hill,418170,632103
+Drakes Hole,414625,634471
+Shepherdskirk Hill,404558,638341
+Pond Plantation,416359,625797
+Hagg Wood,415653,627453
+Forkings Plantation,410511,632280
+Whitelee Letch,411563,638100
+Nursery Wood,416703,631653
+Dancing Green Hill,406449,633400
+Law Plantation,411257,630613
+Humbleton Hill,417047,632524
+Lake Plantation,412086,628594
+Crow Wood,412542,621381
+Well Hill,416017,632173
+Amersidelaw Hill Plantation,407816,627839
+Wilderness,406836,636987
+Newhall Plantation,404153,628806
+Rigg Wood,407855,621021
+Hetton Dean,404039,634370
+Doddington Moor,400745,632214
+West Moor,405683,639028
+The Tarn,401672,620025
+Shaw's Plantation,418501,622328
+Newham Five Acres,418285,628006
+Hall Wood,408007,620272
+Detchant Wood,406775,636981
+Robbie's Wood,406304,636634
+Upper Swinhoe Lake,407827,635335
+High Wood,418451,623594
+Topboot Wood,404573,635227
+Labour in Vain Plantation,404828,629923
+Sea Lands,415115,634521
+Pump Plantation,401884,626933
+My Lord's Plantation,407358,625936
+Blossom Plantation,417555,622176
+Stonedyke Plantation,419511,621765
+Crag Plantation,408257,630420
+Long Plantation,419239,624847
+Tollgate Plantation,411331,629967
+Detchant Strip,406290,637486
+South Plantation,414835,622199
+Home Plantation,412482,630411
+Water Supply 10,405968,637800
+The Grove,417824,622546
+North Plantation,402381,625569
+Chillingham Wood,407603,626405
+Newlands North Moor,409037,631362
+Longstrip Plantation,409888,630993
+Weetwood Moor,401509,628435
+Greensheen Hill,405631,635758
+Wide Open,413561,639171
+Lyham Moor Plantation,408523,631397
+Dunstan Hill,418287,623737
+Limeworks Plantation,402385,635509
+Shop Hill,405967,633361
+The Glen,404501,634478
+Boat Wood,401910,620231
+North Charlton Moor,414638,622426
+Warenton Dean,410388,630784
+Camp Hill,413985,622807
+Cathangings Letch,411099,638284
+Daneshill Plantation,414227,623557
+Moorfoot Plantation,401775,625265
+The Pheasantry Plantation,406181,625450
+Ross Point,413320,639229
+Ros Castle,408117,625353
+Lady Well Plantation,419975,620391
+Coal Wood,408821,634138
+Finis Wood,403788,636517
+Elymoor Plantation,418975,627656
+Lowcairn Plantation,401697,625873
+Painty's Plantation,403420,628142
+Pond Wood,416263,621127
+Bamburgh Moor,417357,635701
+Brockdam Moor,415475,624101
+Craggy Wood,417087,621035
+Whinny Plantation,413010,628144
+Cracker Pool,418431,630326
+Square Wood,409273,635063
+Kay Hill,407525,626825
+Tippet Hill,403168,629544
+Funny-Shaped Wood,408340,620109
+Ross Bank Sands,414984,636602
+Hart Plantation,407535,625885
+Collier's Dean,407963,630196
+St Cuthbert's Cave Wood,405897,635159
+Pilmoor Wood,405116,621778
+Newhouses Wood,417067,630610
+Lyham Moor,407945,631099
+Black Plantation,409961,630816
+Redhouse Moor,400274,638475
+Belford Moor,408207,632720
+Mains Hill,403195,630130
+Fisher Hill,415677,628649
+Birley Hill,407464,627591
+Stobbingbushes Plantation,417617,624960
+Rocket Hill,415770,620721
+Old Wood,405707,638235
+Park Plantation,407260,629089
+Horsedean Plantation,403350,628760
+Tynely Moor,416103,623711
+Shielsteads Plantation,409943,630003
+Kyloe Wood,404903,638554
+Milldam Plantation,412387,628497
+West Hill,415189,634147
+Little Rabbit Hill,405030,636840
+Drakestruther Moss,408258,626767
+South Hill,415653,633805
+Park Wood,408625,637387
+Fenham Flats,410797,639580
+Deershed Plantation,402419,627259
+Lyham Hill,407324,631321
+Rosebrough Moor,412325,625818
+Threecock Plantation,402765,628367
+Chapel Hill,407088,639856
+Lower Swinhoe Lake,407646,635343
+Long Plantation,418242,625163
+Chillingham Park,407408,625625
+Bootjack Wood,404322,635223
+Ticket Hill,410356,620278
+West Moor,405594,639729
+Rye Hill,407211,631110
+Small Lake,405623,636740
+West Plantation,401449,631091
+Rosebrough Stell Plantation,412582,626284
+The Grove,417945,634878
+Heater Wood,416613,621508
+Yaxes Plantation,406643,625399
+Ten Acre Plantation,401734,627447
+South Moor Plantation,413283,626114
+Hindhaugh's Planting,407602,637363
+Fowberry Park,402977,627532
+Willie Law,409566,626126
+Cragfield Plantation,411823,630154
+Tick Law,408361,621324
+Henhill Covert,415670,627889
+Detchant Pond,408729,636245
+Turret Wood,411340,634363
+Quarry Plantation,404381,630615
+Dinning's Wood,411167,632742
+Cross Hill,414416,625682
+Chimney Hill,402691,630656
+Lilburn Pond,404111,622728
+Mill Race Plantation,405445,634026
+Cross Roads Covert,401918,636032
+Pond Plantation,402894,625790
+School Covert,403060,623902
+Budle Point,416407,635975
+Willowclose Plantation,419886,620194
+Lindslaw Plantation,401826,622510
+Chesterhill Slakes,414791,635181
+Bowl Hole,418707,634924
+Loan Plantation,409928,634930
+Quarry Plantation,417675,623605
+Woeful Hill,414126,625754
+Snipy Plantation,404692,631335
+Laverocklaw Strip,403025,636906
+Tilesheds Wood,407854,634221
+Virgin Hill,407175,635284
+Linkhall Moor,415562,621971
+Ravenshole,405596,622792
+Heater Plantation,405067,620398
+Long Hills,413365,634038
+Sinton's Dene,407726,636712
+Newtown Hill,416649,635505
+The Hanging Carr,407366,636170
+Commonflat Plantation,414117,626136
+Harkess Rocks,417635,635843
+Rabbit Hill,405188,636968
+Broomy Hill,402857,620397
+Folly Wood,407291,622979
+Wellfield Plantation,418759,623045
+Beatrice Wood,412211,621303
+Dickey Island Plantation,404877,629564
+Dee Hill,416095,628982
+Kennel Wood,408295,620754
+Skate Road,415063,637926
+Bountree Plantation,403116,629012
+Fadhill Plantation,412219,629866
+Coalhaugh Plantation,403400,629727
+Gillam's Plantation,406574,636372
+Crutch Hill,417584,628315
+Cateran Hill,410356,623322
+Copsey Hill,404925,636593
+Ratchwood Strip,415014,628429
+Sunnyside Hill,409854,634766
+Town Hill,403781,633126
+Budle Water,416037,636144
+Victory Wood,415504,621604
+Kiln Wood,407201,634147
+Heathery Spinney,402945,629341
+Little Hill Wood,407319,621317
+Snipehill,416411,626140
+Fawcet Hill,406850,635620
+Hannah's Wood,408800,620255
+Hunter's Hill,402660,620230
+Henhill Moor,415508,628145
+Middleton Pond,410274,635652
+Stinking Goat,412214,638196
+Quarry Wood,414176,626680
+Fine Hill,405275,638534
+Cateran Meadows Moss,409777,622908
+Swineclose Wood,418073,624290
+Ewe Hill,418386,631303
+Percy's Well Strip,402620,636708
+Brockleyhall Moor,415089,620898
+My Lady's Plantation,405928,625611
+Rodger's Plantation,401267,624989
+Grange Wood,404921,635073
+King's Moss,410406,623975
+Combs Plantation,418052,623202
+Glead Hill,410254,635052
+Wandylaw Moor,413679,625244
+Quarry Plantation,411711,628214
+Achnacarry Plantation,407543,626540
+Girneynick Plantation,406155,634198
+St Cuthbert's Grove,404652,635634
+Middle Moor,414700,623415
+Steelbank Plantation,419035,625320
+Charley's Hill,406515,626008
+Bamburgh Hill,407410,639740
+Amersidelaw Moor,408119,627069
+Craineybog Wood,403366,620448
+Oxclose Strip,403324,637107
+Washpool,415044,624796
+Keepers Wood,402704,637380
+Ell Hill,416807,630270
+Crutch Plantation,418114,626095
+Braes Wood,403394,620804
+Catspaw Plantation,403992,620781
+Highcairn Plantation,401572,626499
+East Hill,415529,634134
+Piers Wood,413028,637905
+Middlemoor Plantation,410348,631232
+Brownieside Hill,416099,623759
+Horseshoe Wood,414255,636856
+Newtown Moor,403165,626494
+Doxford Lake,418516,623933
+Smithy Strip,401506,621806
+Decoy Wood,402463,622828
+Calfclose Wood,406723,623829
+Rayheugh Moor,413071,626964
+Kirk Hill,416159,626505
+Blackcock Wood,403142,637507
+North Plantation,412694,631466
+Northmoor Plantation,409466,631242
+Cross Hill,418780,631107
+The Bight,415200,635148
+Tileshed Plantation,419044,627078
+Bonaparte's Hill,411968,629087
+Chesterhill Dean,414263,634251
+Whinny Hill,409254,633210
+Buckton Moor,407003,638039
+Clare's Wood,414952,622998
+Braidcarr Point,417348,635987
+Kittycarter Plantation,418481,621598
+Heddon Hill,400415,620300
+Hemphole Plantation,412582,630100
+Quarry Hill,401263,629907
+West Flat,403840,638337
+Railway Plantation,409934,637407
+Juniper Hill,408869,634643
+Hangwell Law,412413,624466
+Washpool Plantation,412163,628368
+Catlaw Plantation,406759,620970
+Broomyknowes Plantation,408474,639085
+Deer Hemmel Plantation,406824,625955
+Long Bank Plantation,414885,626611
+Nurseryhill Plantation,408225,620544
+Whitsunbank Hill,401572,627663
+Kettleburn Dene,408916,636939
+Lodge Plantation,408451,620302
+Lonsdales Hill,416537,634989
+Peter's Wood,414874,622732
+Islestone,419643,634966
+Poachers Wood,402492,637243
+Kirkley Hill,413360,637040
+Shiellow Wood,405844,637090
+Foulwork Burn,410527,639527
+Holburn Moss,405623,636424
+Virgin Hill Wood,407349,635250
+East Croft Plantation,414140,621715
+Pigdon Hill,416469,630961
+Pond Plantation,404675,630273
+Thains Wood,408156,620867
+Galloway Strip,402135,622564
+Horton Dean,403086,630476
+Kyloe Hills,404548,639224
+Home Plantation,419468,630630
+Patten's Plantation,419487,622086
+Ell Plantation,410419,629774
+Hepburn Moor,408299,624405
+Follyburn Wood,406257,623413
+Dunnyswell Plantation,401576,624641
+Stanky Moor,401399,638204
+Northmoor Plantation,407566,629726
+Shada Plantation,416481,634713
+Outer Moss,413736,623864
+Brockdam Plantation,416793,624767
+Simonside Plantation,402712,628710
+Bruntleybrae Plantation,403270,629691
+Eglingham Moor,410651,620618
+Swinhoe Moor,419548,627822
+Crag Hill,415518,620445
+Heddon Wood,400705,621551
+Plainfield Plantation,418715,622960
+Town Law,403063,631537
+Howemoor Plantation,403320,626364
+Castle Hill,403725,629017
+Black Heddon Hill,404547,638040
+Streetsheet Plantation,417850,622859
+Ros Hill Wood,409210,626201
+The Beech Strip,401276,634272
+Coalpitlees Plantation,414886,624733
+Crow Wood,402837,620357
+Sandybank Plantation,407730,626398
+Square Plantation,407426,625342
+Ratchwood Plantation,414528,628964
+Church Wood,406425,626274
+Water Supply 17,407075,636792
+Lodge Plantation,417009,621949
+Carr's Plantation,413891,621078
+White Hill,411400,637915
+Washingpool Plantation,414202,620709
+Hazelrigg Moss,406884,633512
+Camp Plantation,416179,623201
+Brada Hill,416055,633967
+Shellrigg Plantation,418760,622504
+Horton Moor,402058,632006
+Green Hill,418588,632356
+Longlands Wood,418159,624681
+Scar Wood,400167,625318
+Binsal Hill,415194,626518
+Shank Plantation,403552,626698
+South Moor Plantation,414413,621323
+Horse Hill,417739,627658
+Boundary Plantation,419134,625911
+Football Moor,404207,631673
+Moor Dam Plantation,406788,626209
+Millstone Hill,408818,626313
+Castleclose Plantation,416761,623090
+Chesters Hill,410310,634667
+Chathill,418623,627023
+Adderstone Services,413243,630147
+St Mary's Church of England Middle School,410579,633599
+Belford First School,410534,633580
+Ellingham C of E (Aided) Primary School,417580,625321
+Brownieside,416557,623716
+Green Close,401418,639515
+Coronation Crescent,410811,633638
+South Road,411445,633259
+Lowick Church of England (Voluntary Controlled) First School,401581,639650
+Crofters Court,410909,633513
+Hillside Road,410757,634173
+Chatton Road,404448,638734
+Stone Road,405692,637995
+Ingram Lane,418458,633944
+Doctors Lane,418031,634850
+Lucker Hall Steading,415180,630265
+Dingle Bungalow Road,405163,638551
+Spittal,400563,651510
+Beal,406212,642697
+Fenwick,406635,640023
+Holy Island,412765,642058
+Scremerston,400616,649325
+Goswick,405927,645177
+Berrington,400637,643192
+Ancroft,400021,645165
+Cheswick,402915,646406
+Haggerston,403831,643654
+West Mains,405326,642066
+Crooked Loaning,413228,642265
+South Greenwich Road,400704,651402
+Sandham Lane,412751,642024
+East Street,400428,651837
+Ravensdowne,400094,652891
+Main Street,400632,651417
+Lewin's Lane,412492,642026
+Prince Charles Crescent,400684,649000
+St Peters Terrace,400583,649310
+Spittal Hall Place,400106,651594
+Princes Street,400279,651796
+Fishers' Back Road,407470,641240
+Billendean Road,400096,651824
+Green Lane,412652,642049
+Island View,406600,640037
+Prince Charles Road,400610,649083
+Bride's Brae,400087,645116
+St Helens Terrace,400666,651607
+Hallowstell View,400166,651823
+North Greenwich Road,400527,651694
+Fenkle Street,412651,641916
+Cheviot Terrace,400544,649295
+St Cuthberts Square,412724,641932
+Sandstell Road,400421,651892
+Ocean Drive,405410,642071
+Oxford Lane,401000,646766
+The Avenue,400037,652611
+Pier Road,400348,652666
+Lindisfarne Causeway,410087,643122
+Crossgate Lane,412595,641901
+Marygate,412674,641989
+Church Lane,412571,641846
+Blenheim Place,400548,651500
+Palace Street East,400006,652638
+Prior Lane,412581,641885
+Middle Street,400410,651622
+Kipper Hill,400154,652692
+West Avenue,400526,649154
+Norham Green,400478,649355
+Woolmarket,400007,652851
+Chare Ends,412610,642102
+Crooked Loaning,413002,642253
+Prince Charles Street,400606,649147
+Barley Rise,400100,650948
+Ness Street,400081,652680
+Spittal Hall Road,400108,651597
+Commercial Road,400500,651694
+Main Street,400632,651417
+St Bartholomew's Crescent,400003,651565
+Bride's Brae,400155,644944
+Sea Road,400632,651550
+Prince Charles Place,400610,649083
+West Street,400314,651700
+Albert Road,400595,651340
+Eastcliffe,400378,651174
+Highcliffe,400196,651160
+Waterloo Place,400449,651625
+Adams Drive,400026,651474
+Meadow Haven,400948,652770
+Cuddy's Cove,401957,649686
+Parton Stiel,413960,640212
+Thrumble Hill,404266,640419
+Lough Head,413845,642751
+Town Wood,401950,648332
+Steel End,412988,641647
+Black Low,409440,641377
+Bog Wood,406608,640767
+Oyster Scap,412185,640386
+Near Skerrs,402939,648682
+Spittal Beach,400972,651226
+The Lough,413657,642924
+Belly Flats,405068,643194
+Holy Island Sands,410424,642181
+Raven's Nest,401847,649862
+Snook Point,409147,643590
+Hen Pool,413091,640748
+Thrumblehill Wood,404066,640609
+Heugh Hill,412582,641663
+Cow Road,400605,650970
+Cow Road,400400,650824
+Beal Point,408124,643204
+Maidenkirk Brae,401752,650141
+Fisher's Close Plantation,405251,644086
+Huds Head,401365,650696
+Old Colliery Wood,401037,648446
+The Braes,400306,643166
+West Hill Wood,400337,647532
+Slaughter House Plantation,404219,643925
+St Cuthbert's Isle,412306,641613
+Cheswick Sands,404781,646696
+Green's Haven,400324,653848
+Jock's Linn,402869,648770
+Middle Skerr,403491,648237
+Bear's Head,401125,650957
+Long Ridge,413508,641298
+Cockley Burn Wood,402729,648195
+Long Batt,412193,640933
+The Cutting Strip,400948,649051
+Cockle Stone,413506,641678
+Kentstone Hill,404411,641409
+Ladies Skerrs,400547,653553
+Islay Hill Plantation,406009,641402
+Granary Point,408638,641137
+Colly Skerr,400973,653234
+Scar Jockey,414003,642030
+Dean Plantation,404876,640981
+Plough Rock,414903,641923
+Madge's Batts,412044,640084
+Guile Point,412926,640493
+Calot Shad,400204,652355
+The Basin,411936,642108
+Windmill Hill,404406,645662
+Bucket Rocks,400729,653225
+Dolphin Stones,409728,641332
+Law Scap,413255,640760
+Hole Mouth,413766,641426
+Saltpan Rocks,402531,649238
+Glebe Hill,404841,641559
+Cargie's Plantation,402283,649738
+Carr Rock,400051,651985
+Fisherman's Haven,400396,653600
+Broad Stones,414057,642153
+High Plantation,401974,643678
+Toppye Knowe,401274,650805
+Sandham,413326,643597
+Back Skerrs,412745,644105
+Crag End,408112,643296
+The Ouse,413097,641788
+Emmanuel Head,413853,643545
+The Snook,410060,643343
+Redshin Cove,401752,650448
+Burgess' Cove,400111,654287
+Castlehead Rocks,412958,643877
+Coves Haven,412936,644018
+Cheswick Black Rocks,403918,647617
+Mill Harbour,402389,649546
+Snipe Point,412571,643941
+Goswick Sands,408795,644488
+Threapmoor Plantation,402870,641320
+Milkhouse Plantation,404539,644143
+Black Law,413101,640899
+Maidenkirk Flat,402017,649850
+Nessend,413051,643823
+Whittle Hill Plantation,400311,642514
+Crag End Rock,408055,643303
+The Swab,408425,641856
+Oxford Wood,400787,647199
+The Harbour,412633,641398
+Meadow Haven Rocks,401064,652912
+Keel Head,413432,643807
+Beal Sands,408974,641707
+The Hainings,412516,640214
+Far Skerr,403648,647963
+Sandeel Beds,411396,641218
+Ridge End,414196,641247
+Bride's Hole,414074,642902
+Mill Plantation,404863,640331
+Castle Point,414060,641585
+Willy Pott's Rock,413026,641641
+Barteyshill Plantation,401691,643320
+The Prior,401446,650434
+Old Law,413319,640252
+The Skipper,401545,650493
+Sandstell Point,400657,652191
+East Hill Wood,400709,647544
+Common Slap,409124,640339
+Sharpers' Head,400415,654081
+The Podler,401835,650184
+Carrow Hill,407224,642397
+Restoration Wood,400962,649363
+Red Shin,401693,650212
+Brotherston's Hole,400036,654755
+Burrows Hole,413769,640813
+Holy Island Church of England (Aided) First School,412457,642042
+Spittal Community School,400529,651632
+Cheswick Strip,402384,647159
+Riding Stone,413326,641683
+South Town Wood,401688,647202
+Square Wood,400553,648244
+Holy Island,412639,642766
+Road Ends Wood,401127,647601
+South Side Fields,403772,643278
+Doupster Burn Wood,401191,648205
+Maiden Kirk,401798,649922
+Sheldrake Pool,413910,642629
+Scremerston County First School,400511,649242
+Riverview Park,400216,651818
+Chare Ends,412588,642307
+Alnmouth,424624,610692
+South Broomhill,424892,600237
+Howick,425839,617737
+Dunstan,424936,619986
+Craster,425706,619936
+Bilton,422722,610813
+Stamford,422360,619235
+Radcliffe,426783,602448
+Birling,424937,606542
+Hadston,425341,600058
+High Buston,423136,608723
+Acklington,422305,601809
+Boulmer,426605,614327
+Church Side,424550,606333
+Littlehoughton,423013,616383
+Low Hauxley,428573,603018
+Guyzance,421180,603926
+Amble,426470,604472
+Denwick,420567,614438
+Lesbury,423242,611632
+High Hauxley,427886,603135
+North Togston,424998,602663
+The Butts,424928,605967
+Broomhill,424600,601189
+Low Buston,422457,607534
+Warkworth,424708,606039
+Longhoughton,424355,615463
+Rennington,421139,618486
+Hipsburn,423451,611019
+St Cuthbert Avenue,426842,604285
+Hauxley Way,426833,604042
+West Avenue,426063,604245
+A1068,426340,604032
+Church Road,421262,618528
+Lesbury Road,423206,611619
+Meadowburn,426725,604044
+St Oswalds Close,424507,605140
+Prospect Place,424643,610530
+Lesbury Road,423331,611286
+Brinkburn Place,426737,604226
+Fallodon Avenue,420178,608555
+Millway Loaning,421288,617695
+Dovecote Street,426598,604423
+Hallbank Lane,426238,604375
+School Lane,423619,611688
+Harbour Road,427000,604741
+Lawson Street,426666,604648
+Anne Crescent,427071,604139
+Dial Place,424680,606125
+Stone Row,424634,601249
+Ivy Street,427000,604543
+Stephenson Road,427066,604303
+Lacey Street,424430,615209
+Burton Road,427158,604360
+Acklington Drive,423145,601826
+Cunningham Close,424486,615708
+East View,424677,601520
+Fontburn,426758,604136
+Watershaugh Close,424005,605300
+Scott Street,426183,604119
+Southmead,426928,603833
+Rivergreen,426099,604638
+Castle Terrace,424789,605840
+Hadston Road,425547,600163
+Alnwick Road,423248,611670
+Youngers Terrace,424641,606091
+The Butts,424936,606027
+Townsend Court,423212,601803
+Bede Street,426354,604268
+Field House Close,423099,601836
+Meadowlands,423811,611962
+Anchorage Place,425855,604372
+Kiln Lonnen,420244,608508
+Ocean Road,426902,604650
+Sheila's Close,425662,603710
+Gloster Park,425741,603903
+Northumbria Terrace,426477,604163
+Chapel Row,424688,601497
+Castle Street,424746,605862
+Magdalene Fields,424757,605337
+Alnwood,424470,610729
+Morwick Road,423945,604720
+The Close,424558,605363
+Alnside Court,423500,611644
+Blackwood Street,427158,604639
+Southfield,421320,618414
+Heather Grove,423946,605161
+Queen Street,426512,604503
+The Pines,425486,600163
+New Barns Way,424544,605211
+Castle View,425911,604064
+Togston Court,424680,601604
+Friary Gardens,424573,610817
+Earls Grove,424657,605045
+Beach View,426381,613868
+West Crescent,426149,604222
+Acklington Road,424311,601551
+Priory Park,427034,603885
+Runciman Way,426930,604697
+Brandling Way,425777,600150
+William's Close,425578,603842
+Coquet Way,423845,605198
+Hipsburn Steadings,423548,610890
+Crowlea Road,424439,615143
+Station Road,423899,615024
+Broomhill Street,426878,604722
+Beachcroft,425721,600011
+Norham Drive,426391,603585
+Lesbury Road,423409,611213
+Elworthy Road,424084,615524
+Longhoughton Road,423761,612002
+Trenchard Way,424205,615547
+Scholefield Place,424626,610922
+Montagu Avenue,424297,605284
+Lingfield Close,423827,605140
+Churchill Avenue,427039,604391
+Sandy Way,427100,604470
+Greens Park,424860,605808
+Marine Road,427046,604602
+Percy Drive,426873,603988
+North Street,426459,604491
+Miller's Close,424887,605437
+Whin Hill,425811,619875
+Heugh Wynd,425783,619800
+Colliers Close,420678,608595
+Burnside,424297,615353
+The Wynd,424673,610699
+St Omer Road,423444,601853
+Central Avenue,426255,604088
+Windyside Hill,423737,618742
+Lindisfarne Road,426398,604074
+Foxton Drive,425336,611733
+Lake View,425361,600172
+Haven Hill,425843,619890
+Ashfield Terrace,420472,608427
+Guyzance Avenue,424786,601559
+Cunningham Road,424431,615711
+Church View,421257,618484
+Victoria Place,426120,604402
+Coquet Square,425254,600346
+Bridge Street,424747,606115
+Smith Street,426833,604611
+Fairfield View,420532,608524
+Millway Loaning,421175,618304
+Woodbine Street,426237,604143
+North End Close,424782,601673
+Albert Street,426286,604215
+Watershaugh Road,423876,605286
+Alnwick Way,426434,603702
+Leazes Street,426765,604686
+Newmoor Close,426863,603957
+West Close,424557,605173
+Brewery Lane,424656,606037
+Beal Bank,425523,605330
+Warkworth Way,426546,603497
+Heugh Road,425841,619674
+Station Road,424644,606350
+The Fairway,427926,603168
+Gibson Street,426202,604276
+Hawthorn Terrace,420647,608373
+Aidan Road,426401,604143
+Cross Street,426470,604472
+The Stanners,424624,606130
+B1338,424094,610912
+Churchill Way,423404,601774
+Lysander Court,424598,605229
+East Moor,424541,615443
+Park Road,424177,615470
+Steppy Lane,423722,611286
+Barony Close,424393,605275
+Station Road,424116,614974
+Middleton Street,426507,604350
+Tynedale,427078,603887
+South Acres,425801,619592
+Carey Place,424421,615652
+Barony Close,424403,605299
+Wansbeck Road,423309,600473
+Sea View,427158,604639
+Montagu Avenue,424352,605267
+Edwin Street,426338,604182
+Lake Road,425298,600175
+Willow Close,425340,600228
+Grosvenor Terrace,424577,610594
+Ladbroke Street,427069,604697
+King Edward Street,426482,604305
+Carey Close,424507,615624
+Wellwood Street,426432,604304
+Ryelea,424470,615116
+Ford Crescent,426594,603559
+Fairfield Road,420596,608501
+Coquet Street,426601,604647
+Bay View,427149,604754
+Davis Drive,427055,604339
+Simonside Crescent,425115,600230
+Gordon Street,427097,604663
+Old Barns Close,424162,605242
+Hermitage Drive,424524,606396
+Marine Road,424732,610521
+Chibburn Avenue,425394,600264
+Philip Drive,426964,604115
+Blackthorn Way,420504,608562
+Robsons Way,425532,603783
+The Parks,424770,600537
+Pease's Lane,424704,610454
+Garden Terrace,420769,608380
+Riverside,423635,611636
+Marjories Close,425505,603837
+Links Road,427325,604492
+John Street,426996,604628
+Wellfield Gardens,424566,610771
+Curly Lane,423298,611091
+Colliers Close,420678,608595
+Bamburgh Close,426339,603697
+Green Lane,423825,603307
+Bridge Street,426578,604512
+Beal Croft,424891,605533
+The Wynd,424673,610699
+Dairy Court,422858,601852
+Sea View,424305,615714
+Gordon Villas,427180,604704
+Acklington Road,424455,601546
+Riverbank,424957,605470
+Mariners View,425879,604439
+South End,424188,613433
+Springfield,424492,614915
+The Dunes,425678,600191
+Argyle Street,424635,610350
+Percy Drive,426913,603957
+Melrose Gardens,426892,604210
+Ethel's Close,425509,603770
+St Lawrence Avenue,426974,604464
+Henderson Street,426787,604582
+Charles Road,427244,604029
+South End,424282,614800
+Townfoot,423911,611951
+George Street,426615,604517
+Albion Close,424179,605340
+Carnaby Drive,425800,600195
+The Croft,424546,615100
+Bader Crescent,424378,615523
+Cheviot Crescent,425524,600000
+Hipsburn Crescent,423367,611129
+West End,425706,619936
+Acklington Road,426000,603902
+Woodside Crescent,425527,600040
+Bisley Road,426045,604120
+Weddel Drive,424071,615059
+B1339,423370,617870
+Wellfield,424850,605846
+Garden Terrace,424605,610486
+Rake Lane,422388,602846
+West Drive,425882,604155
+Warkworth Avenue,424497,605236
+Tedder Place,424084,615669
+Charles Road,427244,604029
+Grange Park,421382,618491
+The Coppice,423406,611263
+Longhoughton Road,423765,611923
+Ladyburn Way,425746,600088
+Churchill Way,423404,601774
+East Field,424448,615403
+B6345,426000,603902
+Etal Drive,426303,603639
+Turner Street,426502,604540
+Panhaven Road,427069,604604
+Croftlands,423868,611827
+South View,423336,611001
+The Close,425787,604015
+Byron Street,426454,604350
+Percy Street,426769,604515
+Quarry Avenue,423281,601855
+Guilden Road,424633,605334
+Harper Crescent,424081,615135
+Burnside,426732,604292
+Riverside Road,424682,610362
+Blackthorn Way,420504,608562
+Whitefield Crescent,425254,600346
+River Bank Road,424609,610562
+The Parks,424806,600441
+Riverside Park,426136,604503
+Cove Way,425832,604362
+Sylvia's Close,425577,603707
+Bridge End,423884,611765
+Hadston Road,425483,600124
+Hillary Close,424373,615410
+St Lawrence Terrace,424757,606184
+Portal Court,424271,615701
+Cunningham Court,424469,615782
+South Avenue,426249,604021
+Alndale,427108,604000
+Acklington Street,426090,604114
+Newburgh Street,426922,604619
+Knights Road,424554,605034
+Tynedale,427119,603862
+Andrew Drive,427033,604095
+Cartington Court,426741,604528
+Station Road,424577,601284
+Chillingham Court,426579,603612
+Eastgarth Avenue,426290,604326
+Oswald Street,426366,604242
+Togston Road,424756,601618
+Lime Street,426756,604664
+Hadston Links Wood,427350,600157
+Silver Carrs,428933,602256
+Sugar Sands,426051,616039
+Beacon Hill,428514,603161
+The Torrs,426903,614162
+Hoddleton Plantation,423625,619830
+Ladyburn Woods,426444,600285
+Fairney Hills,420219,601557
+Pan Rocks,427411,604855
+The Arval,425554,619434
+Outfall Wood,427328,600284
+Iron Scars,426015,616218
+Birling Carrs,425456,607833
+Church Hill,424588,610031
+Damses Wood,424216,617590
+Leslie Drive,426930,604399
+Second Avenue,426519,604332
+Anderson Crescent,427000,604404
+North End,424362,615317
+Glendale,427154,603943
+Northumberland Street,424635,610549
+Station Road,424577,601284
+Holywell Crescent,426916,604318
+B1330,424953,600029
+Hauxley Lane,428028,603000
+Lealands,423397,611715
+Lee Avenue,420026,608652
+Woodlands,424821,605653
+Mussel Scarp,429185,604662
+Fox Covert Plantation,425653,619169
+North Shore Wood,426977,600200
+Hurlbuck,425970,619950
+North Steel,429259,604873
+Haystack Hill,420019,601735
+Marmouth Scars,427040,612763
+Spinney Covert,423991,607018
+Cushat Wood,425371,616313
+Swine Den,426008,618646
+Alnmouth Bay,425521,609530
+Bewick Stone,426899,614346
+North Reins,427068,613853
+Howick Haven,426278,616679
+Greenseat Wood,424970,617378
+Coquet Hole,429509,604689
+Howdiemont Sands,426235,615684
+Black Hole,426034,619108
+Seaton Point,426489,612574
+Eden Hill,421915,611467
+Marden Rocks,425870,611251
+Hangman's Acre,425104,606138
+Muckle Carr,426074,619821
+The Hassocks Wood,422043,618749
+Hadston Carrs,428266,600870
+Coldrife Wood,427019,600387
+Coquet Island,429375,604666
+Black Bridge Wood,423721,605002
+Warkworth Moor,423105,604895
+Warkworth Harbour,426372,604924
+Gloster Hill,425460,604535
+Long Heugh,425734,618852
+Kinch Rock,429253,604423
+Pasturehill Plantation,420360,619835
+Low Park,421191,601932
+Quay Hole,429197,604589
+Norwell Brow,425578,619925
+Frank's Plantation,423828,616471
+Brady Carrs,426782,612400
+School Plantation,424767,619898
+Nabs Plantation,420189,610546
+North Park Wood,420796,601485
+Littlemill Plantation,423436,618151
+Pine Hill,423273,610078
+Craster Heugh,425521,619638
+Hole o' the Dike,425932,619431
+Willows Drift Woods,426405,600060
+Station Wood,421791,601293
+South Reins,427184,613416
+South Park Wood,421111,600707
+Elm Bush,428584,601613
+Fluke Hole,426051,611688
+Juncaster Plantation,424686,619200
+Snableazes Covert,421852,613867
+Ladyburn Lake,426951,600098
+Longhoughton Steel,426977,615590
+Amy's Wood,421861,616790
+Bilton Wood,422341,611799
+Hauxley Haven,428973,602928
+Boulmer Steel,427030,615069
+Gozells Hill,421625,612979
+Rumbling Kern,426246,617255
+Wildhope Hill,422380,611347
+Bondi Carrs,428962,601924
+Mustardhill Plantation,424473,619507
+South Steel,429508,604434
+Mill Walk Wood,424233,605634
+Wellhaugh Point,427822,604346
+Bally Carrs,426569,612454
+Crow Wood,425345,616804
+Cullernose Point,426126,618725
+Amble Links First School,427208,604444
+Longhoughton Church of England (Controlled) First School,424488,615304
+James Calvert Spence College,426234,603902
+Pan Point,427297,604779
+Far Lee Wood,421741,618787
+Horse Haven,429261,604474
+Mar Mouth,427222,613643
+Pasture House Wood,423547,617293
+Northmoor Wood,424531,618557
+Boulmer Haven,426875,613682
+Warkworth Church of England First School,424723,605213
+Amble First School,426358,604104
+Alnmouth,423093,611025
+Acklington,422219,601559
+Broomhill First School,424530,601207
+James Calvert Spence College,425942,603601
+Shilbottle Primary School,420434,608478
+Hipsburn Primary School,423764,611098
+High Street,426230,604347
+Togston Road,424756,601618
+Steppy Lane,423722,611286
+Orchard Loaning,421307,618351
+Barns Road,424468,605296
+Boulmer Road,424416,614902
+Togston,424574,601535
+Church Street,425844,619849
+Portal Place,424207,615667
+Hillside,423270,611187
+Church Street,426497,604429
+Chevington Avenue,425350,600213
+Marine Road,424732,610521
+The Wynd,426100,604387
+Norwell Brow,425654,619955
+Allison Street,426191,604216
+Marks Bridge,426408,603768
+The Parks,424664,601000
+Manor Grange,424707,600963
+Station Road,424570,601528
+Hauxley Lane,427818,603126
+Lint Gardens,424648,610881
+Morwick Road,424420,605306
+Kennedy Road,427088,604424
+Links Avenue,427208,604310
+Hauxley Lane,428572,603018
+Robsons Way,425532,603783
+Straffen Court,426631,604344
+St Johns Estate,425081,600000
+Hartside Crescent,425098,600269
+Beal Bank,424986,605603
+Beadnell,423022,629300
+Rock,420369,620192
+Seahouses,421943,632074
+High Newton-by-the-Sea,423539,625175
+North Sunderland,421042,631457
+Brunton,420864,624737
+Swinhoe,421228,628486
+Embleton,423086,622669
+Low Newton-by-the-Sea,424137,624565
+Christon Bank,421275,623049
+Main Street,421187,631498
+Broad Road,420999,632012
+The Haven,423089,629322
+Chapel Row,422086,632074
+Seafield Road,421827,632200
+Kippy Law,421770,631760
+Harcar Court,421644,631634
+Kennedy Green,423031,629121
+B1340,421422,623144
+Woodsteads,422872,622883
+Lamberts's Lane,422307,624000
+Rock Home Farm,420369,620264
+Stone Close,421905,631645
+King Street,422205,631610
+North Street,422082,632000
+St Ebbas Way,423446,629110
+Main Street,421452,631658
+The Wynding,422912,629257
+Longstone Crescent,423244,629401
+Greenacres,421847,631522
+George Street,422110,631964
+Meadow Lane,423137,629227
+Swinhoe Road,422830,629135
+Union Street,422156,632007
+Whinstone View,423057,622902
+Boatmans Place,424082,624661
+Mitchell Avenue,422162,631750
+Station Road,422905,622614
+South Street,422189,632001
+Quakers Row,423134,622727
+Osborne Gardens,421307,631631
+Bickerton's Field,423549,625115
+Creighton Place,422877,623002
+Castle Court,421210,632339
+Bamburgh View,420961,631527
+Kennedy Green,423054,629091
+Greyfield Estate,422961,622778
+Southfield Avenue,421715,631613
+Jackson Place,421834,631814
+Megstone Close,422147,631806
+Broad Road,421031,631630
+Osborne Terrace,421272,631595
+The Wamses,423739,628765
+Smithy Court,424959,620000
+Longstone Park,423269,629157
+Dovecote Close,423033,622540
+Farne Crescent,421038,632443
+Tamarin Close,423469,628950
+Crumstone,422009,632053
+Weatherley Street,422110,631964
+Crewe Street,422185,632073
+Rock Home Farm,420369,620264
+North Lane,421139,631611
+Longbeach Drive,423483,628987
+Mount View,421312,623000
+The Steadings,421440,622913
+Springfield View,421127,622782
+St Cuthbert Close,421008,631296
+Village Farm,421131,631527
+Dunstanburgh Road,425793,620045
+Dunstan View,422000,631900
+Dunes Court,423569,628807
+Staple Court,421860,631504
+Beech Croft,422067,631907
+King Street,422110,631750
+Quarryfields,422129,631577
+Farm Road,424094,624510
+Horsley Place,421490,623231
+Sea Lane,423632,622838
+Swinhoe Road,422647,629036
+Harbour Road,422078,632110
+Crown Street,421901,631918
+W T Stead Road,423222,622510
+West View,421025,631429
+Karieth Drive,423507,625056
+Mayfield,421960,631930
+South Lane,421200,631420
+Sandy Lane Court,423505,628874
+Bernicia Way,423361,628859
+The Croft,421005,631357
+Taylor Street,422132,631988
+Main Street,421838,631929
+Regal Close,420954,631300
+Islestone Drive,420871,631413
+James Street,421878,631702
+Jubilee Place,422111,631930
+Sea Lane,423316,622684
+Westview,422841,622819
+Emmington Hill,422304,620130
+The Sandbags,423646,638430
+Priest's Moor,421482,623569
+Northern Hares,424602,639276
+Black Kirk Rock,424566,625403
+Embleton Moor,421860,623818
+Queen Margaret's Cove,425989,622183
+Greymare Rock,425499,622180
+Scarcar Gut,422703,636002
+Nova Scotia,425849,621285
+Hares' Nick,425557,620030
+North Wamses,423439,638484
+Shoreston Rocks,420849,633363
+The Bush,423174,636065
+Ewart's Hill,420385,623773
+Shankhall Plantation,420072,627508
+Miller's Nick,422945,627600
+Springfield View,421127,622782
+Castle Drive,421109,632315
+Skeney Scar,423753,637334
+The Due,425122,622035
+Carr End,422415,632337
+Mosscrop Plantation,423665,621545
+Cutthroat Plantation,421173,627205
+St Mary's Haven,424649,624739
+Football Hole,424451,625769
+Gallow Moor,421775,620940
+Knoxes Reef,422240,636449
+Ebbe's Snook,424031,628724
+Fluke Hole,422321,632160
+Gull Crag,425709,621999
+Stamford Haven,422463,635856
+The Bridges,422182,636218
+Inner Sound,421381,634805
+Featherblow Hill,423042,628000
+The Hopper,425038,638971
+The Heughs,425412,620762
+Lobster Carr,424837,625332
+Farne Haven,421940,636083
+Sea Banks,424343,623614
+Piper Gut,423743,638436
+Snook,423991,625777
+Lady's Hole,423967,628880
+Out Carr,425248,624118
+Emblestone,424961,624225
+Big Harcar,423966,638500
+West Wideopen,422276,635967
+Faggot,425165,626458
+Solan Rock,421846,636328
+Beadnell Bay,423767,627226
+The Churn,421620,635976
+Burn Carrs,423589,627907
+Kelsoe Hill,423314,623926
+Roddam and Green,423722,638176
+Seal Gut,424804,639070
+Inner Farne,421809,635955
+Little Harcar,424193,638585
+The Tumblers,421722,632427
+Embleton Bay,425112,623440
+Burnfield Plantation,421641,629761
+Tughall Covert,420339,626373
+Horseclose Plantation,420578,620708
+Railston's Plantation,420216,620622
+Pern Carr,424759,625451
+Nameless Gut,423669,638258
+Bathing Rock,424397,623478
+Burn Carrs,423492,628178
+Scadpallet,424913,623801
+Forebank Plantation,422485,629270
+North Plantation,420544,624100
+Knivestone,425173,639676
+Braidstone Hole,422685,631926
+Cushat Stiel,425948,621326
+Pace Hill,422511,632180
+Beadnell Haven,423587,629626
+Chuck Bank,424409,624095
+Brownsman Haven,423633,638076
+Brandy Lake,423016,631681
+Greenhill Rocks,420270,633976
+Spitalford Bog Plantation,424114,620961
+Whinstone Dyke,423807,628991
+North Sunderland Harbour,422225,632200
+Sunderland Hole,424641,638861
+Humber Rock,424516,639063
+Brownsman,423788,637813
+Thorns Carr,425982,622166
+Newton Point,424463,625207
+Little Knoxes,421941,636373
+Whinny Hill,421680,620308
+Churn Gut,421578,636040
+Lowgos Bay,422542,632332
+Collith Hole,423286,629969
+Oxberrylaw Holes,425969,620567
+Pond Plantation,420301,620142
+Fills,424948,624639
+Brunton Covert,421533,624532
+The Kettle,421996,636181
+Castle Point,425911,622082
+Longstone,424742,638912
+Old Wood,420824,623140
+Robin Wood's Rock,423554,627234
+Newbiggin Bush,422269,636188
+Beadnell Harbour,423311,628453
+Little Scarcar,422773,636106
+The Brigses,422277,632187
+Crumstone,425383,637170
+The Thorn,422659,635914
+Oakslaw Plantation,420519,620951
+Braidcarr Rocks,422854,631734
+Knocklin Ends,422516,636561
+East Wideopen,422563,635957
+Blyth Rock,423731,629115
+Brada,424971,638711
+Black Rock,421951,635832
+Megstone,420560,637292
+Allansford Plantation,420436,624322
+Little Carr,426056,620279
+Liverpool Hole,425931,620467
+Monks House Rocks,420652,633557
+Pinnacles,423856,637432
+Hepie Hill,420087,628463
+Whittingham Carr,424598,626475
+Middin Gut,424247,638658
+Wideopen Gut,422071,635944
+Pinnacles Haven,423893,637685
+St Cuthbert's Gut,421685,636109
+Annstead Rocks,422848,630670
+Gun Rock,423419,637530
+Roan Rock,424077,628914
+London Rock,422005,635901
+Craford's Gut,424653,638692
+Callers,425071,637238
+South Wamses,423531,638249
+Nacker Hole,423725,629036
+Farne Islands,423514,637466
+Embletonburn Mouth,424611,622981
+Rumble Churn,425804,622096
+Snook Point,422836,631499
+Fish Carr,424608,623830
+White Cliff,423706,628956
+Scrog Hill,425293,621463
+Staple Sound,422768,637298
+Jenny Bells Carr,424793,623745
+Red Brae Point,423542,629323
+Hecla Hope,421994,632339
+Embleton Vincent Edwards Church of England First School,423107,622715
+Seahouses Primary School,421613,631544
+Brunton Airfield,420233,625454
+Whinny Plantation,422939,624312
+Staple Island,423772,637512
+Southend Rock,422550,632259
+Westfield Plantation,422932,621327
+Hallslee Plantation,420730,622296
+Comely Carr,423660,629582
+Seahouses Point,422401,632066
+Blue Caps,424564,638572
+East Plantation,421015,623261
+Clove Car,424444,638657
+Big Scarcar,422798,636010
+Little Rock,424158,628718
+Longcar Hole,422264,636366
+Hollow Plantation,423856,620907
+Castle View,421144,632329
+Brownsman Court,421975,631581
+Castle Close,421033,632374
+Bernicia Way,423343,628857
+Longstone Close,423324,629294
+Front Street,423167,622607
+St Aidan's,421320,632450
+The Sidings,421400,623012
+Kings Field,422272,631750
+Broad Road,420969,632393
+Harbour Road,423518,629127

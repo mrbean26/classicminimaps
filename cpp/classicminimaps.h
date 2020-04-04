@@ -10,6 +10,9 @@ namespace classicminimaps {
 	void loadChunks();
 	void render();
 
+	void renderMapTexts();
+	void loadTexts();
+
 	extern float scaleDivider;
 	extern float height;
 	extern int shaderProgram;

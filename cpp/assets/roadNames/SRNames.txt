@@ -1,0 +1,131 @@
+St Petrox,197007,197535
+Warren,192926,197852
+Bosherston,196578,194586
+St Twynnells,194924,197624
+Maiden Wells,197146,199560
+Chapel Hill,195760,198106
+Castlemartin,191261,198458
+Merrion,193767,196987
+Stackpole Elidor,198855,197272
+Stackpole,198358,196370
+Longstone Lane,193759,196757
+Axton Hill,193401,198769
+Church Lane,191246,198554
+Sandy Leys,191407,198273
+Merrion Cross,193767,196987
+North Lane,194854,197657
+Pwll Street,191459,198269
+Furzypark Lane,190498,198790
+North Lane,192926,197852
+Meadow Bank,194876,197621
+B4319,193250,197046
+Pwll Street,191412,198241
+West Lane,192948,197310
+Clay Lane,196101,199865
+Yerbeston Lane,197002,198534
+Merrion Cross,194046,196956
+Winston Close,194276,196854
+Addlegutter Lane,193169,195652
+Yerbeston Lane,197168,199518
+Oxland Park,197390,199800
+Deer Park View,198422,196340
+North Lane,193820,197867
+Windsor Road,196651,194629
+Lyserry Lane,195624,196151
+Longstone Lane,193685,195750
+Ermigate Lane,192818,196134
+Windmill Lane,193195,198015
+Windmill Lane,193199,197603
+Clay Lane,196949,199435
+Sampson Brake,196568,195591
+Trevallen Downs,197165,193010
+Sampson Brake,196732,195340
+Crocksydam,193540,194360
+Orielton Wood,195841,198825
+New Quay,197485,193106
+Coldwell Wood,196920,196894
+Shippingback Wood,198710,195406
+Long Matthew Point,197579,192816
+Church Lane,191144,198694
+The Downs,199951,197982
+Birch Hill,197844,195458
+Newton Down,196247,193098
+Furzton Wood,197529,198783
+Mount Sion Covert,191689,195695
+Cheriton Bottom,198483,196937
+Crickmail Down,194552,194074
+Bulliber Down,190766,195445
+Buckspool Down,195596,193642
+Castle Dock Wood,197675,196837
+Hanging Tar,188153,196624
+Brimstone Rock,188033,196799
+Green Wood,192983,199627
+North Hill,196947,194217
+Moody Nose,193544,194283
+Pen-y-holt Down,189896,195551
+Flimston Bay,193245,194467
+Barafundle Bay,199337,195014
+Kingston Hill,198626,199434
+Cockshot Wood,195451,199407
+St Govan's Head,197402,192899
+Stackpole Park,198361,195752
+Flimston Down,192081,194742
+Griffith Lorts Hole,199272,194811
+Stackpole Warren,198243,194452
+Three Corner Plantation,196420,199849
+Limebridge Wood,195974,199071
+Belvidere Hill,197418,196743
+Kennel Wood,195746,199770
+The Pole,188662,197524
+Limebridge Belt,196253,199561
+Newton Saddle,195851,192877
+Linney Down,188760,195899
+Pen-y-holt Stack,189648,195245
+Church Rock,198284,193727
+Saddle Point,198232,194020
+Bullslaughter Bay,194062,194239
+Dry Burrows,195080,199630
+Lily Pools,196841,194840
+Pond Wood,194906,199471
+Crickmarren Wood,194701,198760
+Merrion Covert,193798,197556
+Mewsford Point,194229,193839
+Hobbyhorse Bay,188703,195708
+Elegug Stacks,192663,194482
+Mount Sion Down,191251,195032
+Star Rock,197826,193773
+Pen-y-Holt Bay,189496,195498
+Stack Rocks,192688,194481
+Longstone Down,193741,194599
+Bosherston Mere,196225,192842
+Castle Lady Valley,190382,196540
+Blucks Pool,188587,197301
+Broad Haven,198014,193901
+Raming Hole,198763,194344
+Gun Cliff,198938,194368
+Lattice Windows,199284,194794
+Flimston Castles,193062,194498
+Underhill Wood,194386,198020
+Deal Hill,197594,194970
+The Devil's Barn,195952,193000
+Saddle Head,195883,192911
+Lyserry Covert,195423,195858
+Caroline Grove,197942,196331
+Warren Common,192885,197781
+Stackpole Head,199420,194321
+Cabin Door,189726,195312
+Linney Head,188358,195816
+Frains Lake,189430,197712
+Quay Wood,198735,196000
+White Well,196591,195037
+Mere Pool,197199,194064
+Wall Clump,198009,195726
+Frainslake Sands,188841,198060
+Berry Slade,188319,196928
+Wind Bay,188137,196281
+Chapel Hill Solar Farm,196135,197802
+Penrhyn Church in Wales VC Primary School,198455,196426
+Yerbeston Lane,197000,197552
+West Lane,193167,197501
+Redford Hill,194246,199387
+Furzypark Lane,190685,198690
