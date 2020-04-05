@@ -963,7 +963,7 @@ Camper Porth,92643,17296
 Broad Ledge,91730,15035
 Porth Mellon,90703,10852
 Green Porth,89553,15595
-Five Islands School,Secondary Education",91072
+Five Islands School,91072,10267
 Five Islands School,89299,15481
 St Mary's Airport,92013,10327
 St Agnes Base,88072,8191
@@ -972,7 +972,7 @@ Moor Well Lane,90793,10658
 Silver Street,90296,10507
 Barnaby Lane,88210,8109
 Church Street,90467,10527
-St Martin's Base,Secondary Education",92567
+St Martin's Base,92567,15776
 High Lane,91985,11746
 Back Lane,88889,15410
 Tommy's Hill,89354,15505

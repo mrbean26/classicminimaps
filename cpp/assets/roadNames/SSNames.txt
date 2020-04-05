@@ -1326,7 +1326,7 @@ Wester Wood,222923,123912
 Blue Mellem,226454,127495
 Elmscott Gutter,222353,121572
 Tut Hole,239774,126258
-Atlantic Academy,Non State Secondary Education",235712
+Atlantic Academy,235712,122841
 Hartland Primary School,226123,124591
 Woolsery Primary School,233041,120964
 Town Meadows,232994,121228
@@ -2175,7 +2175,7 @@ Torrington Community Hospital,250005,119437
 Beaford Community Primary and Nursery School,255331,114962
 Hatchmoor Nursing Home,250981,119628
 Bradford Primary School,241914,105724
-Shebbear College,Non State Secondary Education",244890
+Shebbear College,244890,109420
 The Clinton C of E Primary School,252730,111896
 Upcott Barton,257164,115629
 Langtree Community Primary School,245085,115714
@@ -4346,7 +4346,7 @@ Horsacott Farm Solar Farm,252323,131518
 Landkey Primary School,259298,131163
 Fremington Community Primary and Nursery School,250984,132205
 Golden Sands,243144,129068
-Petroc,Higher or University Education",255181
+Petroc,255181,132326
 RMB Chivenor,249353,134557
 Broomhayes School and Childrens Centre,247143,126027
 Kingsacre Primary School,248181,136808
@@ -4397,7 +4397,7 @@ Westmead,248289,136739
 Alverdiscott,250171,125118
 Little Bridge House,251769,132203
 Belle Vue Airfield,253091,121878
-Leisureline House,Higher or University Education",254350
+Leisureline House,254350,131616
 Forches Cross Community Primary School and Nursery School,257177,132732
 Lampard Community School,257103,132247
 The Park Community School,256413,131972
@@ -4427,7 +4427,7 @@ Pathfield School,255550,133209
 Georgeham Church of England (Voluntary Controlled) Primary School,246224,139853
 Newport Community School Primary Academy,256984,132201
 Southmead Primary School,249210,135958
-The Kingsley School,Non State Secondary Education",244543
+The Kingsley School,244543,126973
 Gainsborough Drive,242556,128717
 Maple Grove,254127,132061
 Godborough View,243942,126916
@@ -6489,7 +6489,7 @@ Ysgol y Bynea,254708,199528
 Gowerton,259252,196420
 Ty Llwchwr,257160,198169
 Morfa Junior Mixed School,251753,199071
-Bishopston Comprehensive School,Secondary Education",258058
+Bishopston Comprehensive School,258058,189359
 Tre Uchaf Primary School,257654,198341
 Gowerton Primary School,258251,196698
 Gorseinon Bus Station,258899,198595
@@ -9128,7 +9128,7 @@ South Molton Hospital,271160,125773
 Filleigh Community Primary School,266614,127998
 Chittlehampton Church of England Primary School,263567,125572
 Brayford Primary School,269064,134784
-West Buckland School,Non State Secondary Education",266850
+West Buckland School,266850,131606
 Deep Ground Solar Farm,273245,130956
 Kingsland Barton,269324,125932
 Umberleigh Community Primary School,261141,123902
@@ -13209,7 +13209,7 @@ Ysgol Gynradd Plasmarl,266226,196216
 St Thomas Community Primary School,266750,193365
 Ysgol Golwg-y-Mor,265188,193918
 Glasfryn House,263004,194730
-Focus School Swansea Campus,Non State Secondary Education",267213
+Focus School Swansea Campus,267213,198439
 Ysgol Gynradd Gymraeg Castell-Nedd,275674,197425
 Ysgol Gynradd Gnoll,275555,197013
 Swansea City Bus Station,265336,192773
@@ -13224,7 +13224,7 @@ St Illtyd's Roman Catholic Primary School,267485,195374
 Dyffryn Comprehensive School,278676,187434
 St David's Catholic Primary School,261192,189025
 Mayals Primary School,261075,189961
-Gower College,Higher or University Education",265392
+Gower College,265392,193167
 St Joseph's Roman Catholic Primary School,275657,196592
 Dynevor Centre for Art Design and Media,265363,193205
 Ysgol Carreg Hir,274452,195398
@@ -13303,7 +13303,7 @@ Ysgol Gynradd Gymraeg Tyle'r Ynn,274035,195519
 Gower College Swansea,262808,193497
 Blaenhonddan County Primary School,274630,199284
 Mynyddbach Comprehensive School,264836,197506
-Ysgol Bae Baglan,Secondary Education",273996
+Ysgol Bae Baglan,273996,191616
 Castle Graig,265752,196197
 Dyffryn Lower Comprehensive School,277065,189463
 Grange Primary School,261192,189025
@@ -15286,7 +15286,7 @@ Old Close Plantation,281157,116135
 Landscore Primary School,282165,100316
 Kennerleigh Wood,281724,106524
 Alworthy Plantation,285445,116032
-Blundell's School,Non State Secondary Education",297354
+Blundell's School,297354,112933
 Crabhill Copse,295432,105056
 Old Plantation,281546,116933
 Huntsham Castle,299168,117898
@@ -18623,7 +18623,7 @@ Oldcastle Primary School,290519,179272
 Corntown Solar Farm,293791,176715
 Porthcawl Primary School,282687,177666
 St John's School Porthcawl,283846,177541
-St Clare's Junior School,Non State Secondary Education",283774
+St Clare's Junior School,283774,177653
 Ysgol Iolo Morganwg,299691,174342
 Bridgend College Business Support and Innovation Centre,292261,178873
 Llantwit Major,297062,168864
@@ -18703,7 +18703,7 @@ Frampton Lane,297456,169425
 Blaen Dewi,292290,172270
 Ham Manor,297318,168000
 Lake Hill Drive,299784,174053
-Upper School,Primary Education,Secondary Education"
+Upper School,290614,178792
 Crawshay Drive,297479,168975
 Llanmaes Road,297649,169304
 West Park County Primary School,281482,178321
@@ -21313,7 +21313,7 @@ Ysgol Gyfun Gymraeg Llangynwyd,286854,188345
 Mynydd Cynffig County Infants School,283760,182822
 Hendreforgan Primary School,298446,188044
 St Mary's Roman Catholic Primary School,290046,180184
-Ysgol Maesteg,Secondary Education",285567
+Ysgol Maesteg,285567,191712
 Park Primary School,295123,196105
 Ysgol Gynradd Corneli,281868,181606
 Pentre County Primary Mixed and Infants School,296884,196314
@@ -21335,7 +21335,7 @@ Coed Cwm Kenfig,283765,186531
 St Mary's and St Patrick's Catholic Primary School,285540,191013
 Ysgol Gynradd Gymraeg Cwm Garw,290467,191689
 Pencoed Comprehensive School,296042,181062
-Bridgend College,Higher or University Education",296779
+Bridgend College,296779,181798
 Tremains Wood,292165,180141
 Darren Fawr,289619,192651
 Ysgol Gynradd Gymraeg Ynyswen,294961,197372
@@ -21410,7 +21410,7 @@ Llwynypia Primary School,299105,193064
 Tonypandy Primary School,299409,192227
 Sarn Park Service Area,290658,182948
 Afon-y-Felin Primary School,281887,182139
-Coleg Cymunedol y Dderwen,Secondary Education",290146
+Coleg Cymunedol y Dderwen,290146,184282
 Penyrenglyn Community Primary School,294458,197781
 Ysgol Gynradd Bodringallt Primary School,298648,195187
 Ysgol y Ferch O'r Sgêr,281941,181741
@@ -21622,7 +21622,7 @@ Ty Pentwyn Nursing Home,296303,196051
 Nanthir Road,290252,192851
 Heol-Y-Felin,294916,184807
 Maes y Rhedyn,288678,180813
-Tonypandy Community College,Secondary Education",299266
+Tonypandy Community College,299266,191777
 Eglwys Nunydd,280370,184775
 Tynewydd Row,293214,190781
 Lôn Y Rheilffordd,289087,183928

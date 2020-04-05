@@ -967,7 +967,7 @@ Manse Drive,304685,637876
 Kello Hospital,304335,637596
 Moss Side Road,303419,637126
 North Back Road,304254,637915
-"Thief,Named Road,317334
+"Thief,317334,628001
 Knock Street,303764,637808
 Cornhill Road,302202,635557
 Lodge Park,303524,637212
@@ -3816,7 +3816,7 @@ St Mary's Roman Catholic Primary School,302703,664070
 Forrester High School,319543,671681
 Low Port Primary School,300480,677276
 Ratho Primary School,313637,670786
-"Beatlie School,Special Needs Education,306605
+"Beatlie School,306605,668075
 Uphall,306223,670585
 Blackness Primary School,304328,679522
 Currie Community High School,317419,667797
@@ -13837,7 +13837,7 @@ Victoria Dock,326876,676865
 Fountain Green,328261,665513
 Shaw's Wood,334780,666195
 Roseburn Primary School,322853,672969
-Edinburgh College,Higher or University Education",331548
+Edinburgh College,331548,672762
 Dalkeith Schools Community Campus,334717,668089
 St Andrews Roman Catholic Primary School,334269,662843
 Oxgangs Primary School,322851,669481
@@ -13866,7 +13866,7 @@ Swanston Service Station,323024,668165
 Prestonpans Primary School,339147,673928
 Craiglockhart Primary School,323385,671653
 Princess Alexandra Eye Pavilion,325263,672991
-North Esk Lodge,Non State Secondary Education",334349
+North Esk Lodge,334349,672894
 The Edinburgh Academy,324371,675821
 St Thomas of Aquin's High School,325276,672927
 Murrayburn Primary School,320022,670671
@@ -13881,9 +13881,9 @@ Forthview Primary School,322655,675944
 Victoria Manor Nursing Home,326718,674953
 Royal Edinburgh Hospital,324032,671183
 Liberton Primary School,327493,670582
-Fettes College,Non State Secondary Education",323455
-Wallyford Primary School,Primary Education",337302
-Edinburgh Bus Station,Coach Station",325707
+Fettes College,323455,675368
+Wallyford Primary School,337302,671996
+Edinburgh Bus Station,325707,674243
 Mauricewood Primary School,324041,661547
 Edinburgh Waverley,325677,673778
 St Mary's Roman Catholic Primary School,330799,664925
@@ -13924,7 +13924,7 @@ Bonaly Primary School,321400,668076
 Loretto School,335085,672868
 Elsie Inglis Nursing Home,327303,674123
 Towerbank Primary School,330610,674096
-Stewart's Melville College,Non State Secondary Education",323492
+Stewart's Melville College,323492,674106
 Eskbank,332444,665925
 The University of Edinburgh Easter Bush Campus,324837,664233
 Penicuik High School,322947,660144
@@ -13960,7 +13960,7 @@ Craiglockhart Campus,322603,670166
 Boroughmuir High School,324227,672639
 Taobh na Pàirce,326473,675891
 Loretto Roman Catholic Primary School,334718,672525
-George Heriot's School,Non State Secondary Education",325494
+George Heriot's School,325494,673192
 Ellen's Glen House,328236,669055
 St Columba's Hospice,324480,677021
 Canal View Primary School,320066,669942
@@ -13995,7 +13995,7 @@ Drummohr Nursing Home,336589,672205
 Stenhouse Primary School,321191,671545
 Brunstane Primary School,331163,672631
 Tynecastle High School,323288,672549
-The Mary Erskine School for Girls,Non State Secondary Education",321955
+The Mary Erskine School for Girls,321955,673980
 Astley Ainslie Hospital,325255,671287
 St Gabriel's Roman Catholic Primary School,338755,673975
 Whitecraig Primary School,335089,670017
@@ -14028,14 +14028,14 @@ The Royal Blind School,324959,671317
 Imperial House,326844,677316
 St Catherine's RC Primary School,327821,668454
 Heriot's Centre for Sport and Exercise,325524,673324
-St George's School for Girls,Non State Secondary Education",322921
+St George's School for Girls,322921,673466
 St Matthew's Roman Catholic Primary School,329057,662985
 Gracemount Primary School,327878,668572
 Burnbrae Primary School,330836,664169
 Saint Lukes RC Primary School,334960,664414
 Newtongrange Primary School,333570,664300
 St John Vianney Primary School,327803,670086
-Edinburgh Steiner School,Non State Secondary Education",323644
+Edinburgh Steiner School,323644,671599
 Stockbridge Primary School,324703,674705
 Musselburgh Service Area,333754,670855
 Saltersgate School,334717,668089
@@ -24423,7 +24423,7 @@ The Berwick Nursing Home,399428,653787
 Norham St Ceolwulfs Church of England (Controlled) First School,389643,647138
 Tweedmouth Community Middle School,399698,651503
 The Grove Special School,399235,651499
-Berwick Academy,Secondary Education",399926
+Berwick Academy,399926,651203
 Meg's Dub,397234,658608
 Elphole Plantation,380517,654537
 Joshua Plantation,384051,651437

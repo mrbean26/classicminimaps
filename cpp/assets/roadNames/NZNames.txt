@@ -1015,7 +1015,7 @@ Grass Moor,410165,505152
 Browson Plantation,411796,509524
 Lambert Wood,416709,505609
 Park Wood,412377,506851
-"St Mary's Roman Catholic (Voluntary Aided) Primary School,Primary Education,405218
+"St Mary's Roman Catholic (Voluntary Aided) Primary School,405218,516446
 Richmond Church of England Primary School,417605,501386
 St Mary's Roman Catholic Primary School,418207,501189
 Green Lane Church of England (Controlled) Primary School,406017,516794
@@ -4364,11 +4364,11 @@ Oxpasture Hill,419840,555090
 Fellside Plantation,419815,548119
 Ravenscrag Wood,407419,549886
 Fotherley Moss,401511,557494
-Consett Academy,Secondary Education",411171
+Consett Academy,411171,551477
 Chopwell Primary School,411834,558150
 Shotley Bridge Junior School,409384,553108
 Castleside Primary School,407937,548705
-"St Patrick's Roman Catholic (Voluntary Aided) Primary School,Primary Education,410963
+"St Patrick's Roman Catholic (Voluntary Aided) Primary School,410963,551228
 Delves Lane Community School,411560,549702
 Greenland Community Primary School,418865,551969
 St Michael's Roman Catholic (Voluntary Aided) Primary School,418972,543711
@@ -4391,7 +4391,7 @@ St Michael's Roman Catholic Primary School,419648,543973
 Consett Infant School and Nursery Unit,410999,551013
 Tanfield School,418888,553577
 Epworth Nursing Home,418493,554117
-Hookergate School,Secondary Education",414651
+Hookergate School,414651,559223
 Pretoria Court,411378,553234
 Catchgate Primary School,416236,551902
 St Pius X Roman Catholic (Voluntary Aided) Primary School,409135,550101
@@ -6615,7 +6615,7 @@ Northumberland College,414985,577251
 St Cuthbert's Roman Catholic Primary School,416907,566565
 Prudhoe Castle First School,408732,562929
 Albemarle Barracks,408182,569749
-St Thomas More Roman Catholic School,Secondary Education",417874
+St Thomas More Roman Catholic School,417874,563086
 Heather Plantation,402736,579633
 Bantam Wood,407864,578593
 Whiteside Wood,402025,560903
@@ -9477,7 +9477,7 @@ Skerne Park Primary School,428967,513055
 Federation of Abbey Schools,427506,514283
 St Mary's Church of England (Aided) Primary School,438110,516466
 Polam Hall School,428635,513755
-Carmel Roman Catholic College,Secondary Education",426896
+Carmel Roman Catholic College,426896,514436
 Darwin Grove,430234,513384
 Victoria Embankment,428933,513853
 Keswick Grove,429510,513477
@@ -18481,7 +18481,7 @@ Durham University,428070,542166
 Shotton Primary School,439338,541297
 St Aiden's Catholic Academy,439724,555917
 Our Lady Queen of Peace Roman Catholic (Voluntary Aided) Primary School,432274,553130
-"St Bede's Roman Catholic (Voluntary Aided) Primary School,Primary Education,423879
+"St Bede's Roman Catholic (Voluntary Aided) Primary School,423879,547467
 Hylton Red House Primary School,436659,558879
 Shield Row Primary School,420277,553733
 Burnside Primary School,433467,550223
@@ -18503,7 +18503,7 @@ John F Kennedy Primary School,431448,556007
 Elemore Hall School,435033,544158
 Washington Galleries Bus Station,429961,556272
 Fulwell Infant School,439504,559724
-"St Patrick's Roman Catholic (Voluntary Aided) Primary School,Primary Education,425032
+"St Patrick's Roman Catholic (Voluntary Aided) Primary School,425032,540045
 Laurel Avenue Community Primary School,428966,542416
 East Rainton Primary School,433385,547768
 Rickleton Primary School,428924,553778
@@ -18606,7 +18606,7 @@ Bearpark Primary School,423884,543439
 Sherburn Village Primary School,432145,542647
 Witton Gilbert Primary School,423376,545839
 Gateshead College Automotive Centre of Excellence,424801,559186
-"St Hild's College Church of England (Aided) Primary School,Primary Education,429403
+"St Hild's College Church of England (Aided) Primary School,429403,542864
 Bloemfontein Primary School,420296,551372
 George Washington Primary School,430048,558229
 Durham High School for Girls,426740,540201
@@ -18649,7 +18649,7 @@ St Anne's Roman Catholic (Voluntary Aided) Primary School,435914,556375
 Oakfield Infants School,425526,559365
 Grindon Infant School,435545,554957
 Concord Bus Station,430647,557706
-St Robert of Newminster Roman Catholic School and Sixth Form College,Secondary Education",430758
+St Robert of Newminster Roman Catholic School and Sixth Form College,430758,554900
 West Rainton Primary School,431613,546502
 St Joseph's Roman Catholic Primary School,439338,546851
 Bullion Lane Primary School,426824,550957
@@ -19087,7 +19087,7 @@ Riverview Lodge Nursing Home,438450,558358
 Maple Lodge Nursing Home,437644,559791
 The Mews Care Home,433344,552670
 Belmont Church of England (Controlled) Junior School,430511,543499
-"St Joseph's Roman Catholic (Voluntary Aided) Primary School,Primary Education,429242
+"St Joseph's Roman Catholic (Voluntary Aided) Primary School,429242,542729
 Park View Community School,427905,551410
 The Meadows,430694,551254
 St Oswald's Roman Catholic Primary School,427436,559237
@@ -28444,7 +28444,7 @@ Dame Allan's Boys School,422415,565295
 Coble House Nursing Home,436119,571602
 Meadow Well,434296,567595
 Walker Technology College,429216,565260
-Newcastle Royal Grammar School,Non State Secondary Education",425130
+Newcastle Royal Grammar School,425130,565449
 Brunton First School,422969,570711
 Sir Charles Parsons School,429041,565151
 St Bede's Roman Catholic Primary School,420008,564988
@@ -28532,12 +28532,12 @@ Cow Hill,423174,566177
 Washingwell Wood,421884,560048
 Sandy Goit,437318,568884
 Alexandra Road Infants School,425374,562447
-South Shields Interchange,Coach Station",436417
+South Shields Interchange,436417,567140
 Rosemount Nursing Home,433443,571970
 St Marys Roman Catholic Primary School (Aided),435317,570849
 Biddick Hall Junior School,435762,563570
 St James' Roman Catholic (Voluntary Aided) Primary School,431570,563721
-Churchill Community College,Secondary Education",431566
+Churchill Community College,431566,567912
 Silverdale School,432178,568227
 Astley Community High School,430372,575105
 Colegate Community Primary School,428552,561068
@@ -28668,7 +28668,7 @@ West Jesmond Primary School,425127,566328
 Stanton Lodge Nursing Home,431837,571461
 North Shields,435327,568287
 Birchdale Nursing Home,426435,562342
-Kenton School,Secondary Education",422015
+Kenton School,422015,567781
 South Gosforth,425136,567980
 Cramlington,425730,577114
 Hadrian Road,431061,566518
@@ -28708,7 +28708,7 @@ Kells Lane Primary School,425902,560289
 Metrocentre,421559,562739
 Rockcliffe First School,436244,571893
 Heworth,428473,561980
-Westfield School,Non State Secondary Education",423772
+Westfield School,423772,567188
 John Marley Training Workshops,420090,564737
 Riverside Primary Academy,422938,562474
 Chillingham Road Primary School,427165,565616
@@ -29377,7 +29377,7 @@ Zetland Drive,434844,570986
 Mortimer Community College,436807,565303
 Northern Counties School,425041,566094
 Bridgewater,420894,564115
-Gateshead Jewish Boarding School,Non State Secondary Education",425419
+Gateshead Jewish Boarding School,425419,562285
 Bonchester Place,427503,577778
 B1307,425278,563505
 Brandling,427652,562113
@@ -29462,7 +29462,7 @@ Holywell Close,423806,564816
 Foxglove Place,424401,572073
 Broadside,429672,561975
 Genister Place,421728,565692
-Newcastle High School for Girls,Non State Primary Education,Non State Secondary Education"
+Newcastle High School for Girls,425092,565951
 Monkseaton,434691,572108
 Queens Vale,430415,567635
 Morley Place,431500,571609
@@ -31449,7 +31449,7 @@ Bedlingtonshire Community High School,427936,582632
 Red Row First School,425422,599175
 Stakeford First School,427143,585635
 The Northumberland C of E Academy Grace Darling Campus,430331,587842
-The Northumberland Church of England Academy Josephine Butler Campus,Secondary Education",428996
+The Northumberland Church of England Academy Josephine Butler Campus,428996,587083
 Durban House Nursing Home,430754,581979
 Cleaswell Hill School,425772,585405
 Horton Grange Primary School,428730,581566
@@ -31480,7 +31480,7 @@ Linton Primary School,426365,591380
 Pegswood,422781,587154
 Wansbeck General Hospital,429064,587845
 Blyth Bus Station,431511,581572
-St Benet Biscop Catholic Academy,Secondary Education",425242
+St Benet Biscop Catholic Academy,425242,581876
 Grange View County First School,424255,593830
 St George's Hospital,420344,587153
 Morpeth,420359,585397
@@ -36242,12 +36242,12 @@ Nessfield Nursing Home,457435,519770
 Ingleby Arncliffe Church of England (Voluntary Aided) Primary School,444652,501062
 Marwood Church of England (Voluntary Controlled) Infant School,455675,510774
 The Grangefield Academy,442619,519131
-Trinity Catholic College,Secondary Education",449836
+Trinity Catholic College,449836,516824
 Lingfield Primary School,451982,514612
 Oxbridge Lane Primary School,443644,518634
 Ian Ramsey Church of England Academy,441942,518679
 The Poplars,445224,516570
-Nunthorpe Academy,Secondary Education",454290
+Nunthorpe Academy,454290,515245
 Yarm Primary School,442246,511871
 Sunnyside Primary School,450095,514983
 Westmoor View Nursing Home,452641,514638
@@ -40182,7 +40182,7 @@ Jesmond Gardens Primary School,449835,533448
 Whitehouse Primary School,442506,520049
 Stranton Primary School,450761,531660
 The Northern School of Art,451411,532661
-The English Martyrs School and Sixth Form College,Secondary Education",449179
+The English Martyrs School and Sixth Form College,449179,531398
 Norton Primary Academy,445534,520938
 Stockton Riverside College Bede Sixth Form,446568,524771
 Port of Hartlepool,451829,533912
@@ -40229,7 +40229,7 @@ St Helen's Primary School,452487,534257
 North Shore Academy,444943,520349
 Golden Flatts Primary School,451030,529503
 Chestnut Lodge Nursing Home,444641,520798
-Cleveland College of Art and Design,Higher or University Education",450980
+Cleveland College of Art and Design,450980,532578
 Springwell School,449414,533868
 Red House School,444442,522305
 St Bega's Roman Catholic Primary School,452009,534547
@@ -44470,7 +44470,7 @@ Potts Flash,461077,525337
 Yearby Bank Plantation,460275,520424
 Grundales,462506,523134
 Redcar East,461338,524183
-Saltburn Primary School,Secondary Education",465849
+Saltburn Primary School,465849,520768
 Redcar Central,460188,524927
 John Emmerson Batty Primary School,461467,524141
 Hunnies Howle,464467,522477
@@ -45505,7 +45505,7 @@ Hawsker Cum Stainsacre Church of England (Voluntary Controlled) Primary School,4
 Oakland Nursing Home,488764,511506
 Whitby Community Hospital,489692,510704
 Lythe Church of England (Voluntary Controlled) Primary School,484340,513037
-Caedmon College Whitby (Scoresby Site),Secondary Education",489568
+Caedmon College Whitby (Scoresby Site),489568,510140
 Airy Hill Community Primary School,489643,510307
 Goathland Primary School,483179,501652
 Eskdale School,490550,509261
@@ -45548,14 +45548,14 @@ Sleights Church of England (Voluntary Controlled) Primary School,486731,507129
 Egton,480412,505387
 Ruswarp,489043,509171
 West Cliff Primary School,489398,511207
-Caedmon College Whitby (Normanby Site),Secondary Education",489225
+Caedmon College Whitby (Normanby Site),489225,510447
 Goathland,483716,501286
 St Hedda's Roman Catholic Primary School,480418,505314
 Whitby,489851,510834
 Stakesby Community Primary School,488839,510735
 Ruswarp Church of England Primary School,489035,509269
 Sleights,486782,508122
-Fyling Hall School,Non State Secondary Education",493764
+Fyling Hall School,493764,504420
 St Hilda's Roman Catholic Primary School,489727,510237
 Grosmont,482818,505295
 Horse Road,490180,510555

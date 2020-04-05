@@ -1112,7 +1112,7 @@ Little Dibgate Wood,617442,136275
 Horn's Wood,603217,134246
 Sticket Wood,601290,137600
 Backhouse Wood,607222,137649
-"Romney,Railway,611228
+"Romney,611228,131309
 The Roughs,614398,134506
 Tilelodge Wood,603440,136552
 Great Crump Wood,605044,135630
@@ -3670,7 +3670,7 @@ Selling,605198,157275
 Ashford International,601186,142114
 Canterbury College,615633,157501
 Pilgrims Hospice,613785,158176
-CATS Canterbury,Non State Secondary Education",615820
+CATS Canterbury,615820,156907
 Wye School,605817,147092
 Sheldwich Primary School,601173,156562
 Canterbury Campus,613695,159435
@@ -3730,7 +3730,7 @@ St Anselm's Roman Catholic School,616310,156081
 Pilgrims' Way Primary School,616159,157020
 Willesborough Junior School,603102,141676
 Boughton-under-Blean and Dunkirk Primary School,605877,159515
-The Canterbury Academy,Secondary Education",613733
+The Canterbury Academy,613733,157638
 Kent College,613142,159247
 St Stephen's Infant School,614888,159283
 Petham Primary School,613096,151314
@@ -11349,7 +11349,7 @@ Queen Elizabeth the Queen Mother Hospital,635945,169677
 Hilderstone College,638881,168032
 St Laurence in Thanet Church of England Junior School,636961,165531
 Westgate-on-Sea,632460,169992
-Hartsdown Academy,Secondary Education",634548
+Hartsdown Academy,634548,169771
 St Lawrence College Junior School,637874,166020
 St Nicholas at Wade Church of England Primary School,626346,166677
 CCVI Sixth Form Centre,638143,164990
@@ -11565,7 +11565,7 @@ Chitty Lane,622954,164696
 Laleham Gap School,636111,166562
 New Cross Road,636492,167458
 Botany Road,638734,170680
-Small Haven School,Non State Secondary Education",636719
+Small Haven School,636719,166221
 St Peter's Home,635725,170156
 Eaton Lodge Nursing Home,632311,170168
 Elham Way,639277,166637

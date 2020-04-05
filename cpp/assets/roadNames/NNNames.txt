@@ -5410,7 +5410,7 @@ Thorney Hill,297462,713270
 Newra Wood,285733,716332
 Glen of Kinpauch,289571,705927
 Little Law,299580,708731
-Auchterarder Community School,Secondary Education",294408
+Auchterarder Community School,294408,713116
 Strathallan Airfield,292093,716208
 Braco Primary School,283657,709722
 Gleneagles,292919,710558
@@ -6190,7 +6190,7 @@ Broom,297122,754687
 Balhousie Pitlochry Care Home,293758,757889
 Pitlochry Power Station,293542,757753
 Logierait Primary School,297680,752774
-Breadalbane Academy,Secondary Education",285270
+Breadalbane Academy,285270,748691
 Aberfeldy Community Hospital,286085,748929
 Pitlochry,293826,758100
 Pitlochry Community Hospital,293720,758008

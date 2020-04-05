@@ -2848,7 +2848,7 @@ Bishops Lydeard,316469,128860
 Tonedale Lodge Solar Farm,311966,120935
 Lydeard St Lawrence Community Primary School,312898,132092
 Stogumber Church of England Primary School,309960,137147
-Wellington School,Non State Secondary Education",313983
+Wellington School,313983,120259
 Warren Copse,310621,131530
 Quakinghouse Copse,310514,126010
 Marketpath Wood,302506,135034
@@ -2906,7 +2906,7 @@ Stogumber,311062,137214
 Taunton Deane Service Area,319767,120338
 Beech Grove Primary School,313498,120706
 Bishops Lydeard C of E VC Primary School,316938,129618
-"Oake,Primary Education,315319
+"Oake,315319,125607
 Saxon Close,315356,125834
 Cushuish Lane,319664,130475
 Holford Lane,314453,134029
@@ -6935,7 +6935,7 @@ Woodlands Nursing Home,315804,174695
 Lansdowne School,315775,176580
 Ty Gwyn Nursing Home,318264,171506
 High Street Primary School,311073,167802
-The Cathedral School,Non State Secondary Education",315705
+The Cathedral School,315705,177939
 Ninian Park,316687,175951
 Waun-gron Park,314736,177296
 Albert Primary School and Nursery Unit,318606,172041
@@ -6946,7 +6946,7 @@ Mill Stream,307683,176059
 Fforest-fawr,303482,179265
 Coedbychan,312570,177588
 Sully Sound,316439,167249
-Kings Monkton School,Non State Secondary Education",318885
+Kings Monkton School,318885,176966
 Rockwood Hospital,315026,178069
 St Mary the Virgin CW Primary School,318599,175613
 Stacey Primary School,319964,177468
@@ -7037,7 +7037,7 @@ Ty Hafan,314341,167692
 Cardiff Queen Street,318815,176527
 St Richard Gwyn Roman Catholic High School,313757,169904
 Danescourt Primary School,314136,178958
-Westbourne School,Non State Secondary Education",318452
+Westbourne School,318452,171510
 Ysgol Glan Morfa,319883,176062
 Ysgol Gymraeg Bro Morgannwg,310525,168972
 Lakeside County Primary School,318966,179901
@@ -7290,7 +7290,7 @@ Neilson Close,319680,176343
 Adamsdown Primary School,319613,176688
 Ysgol Pen-y-Garth,316959,171989
 Port Office,311688,167221
-Howell's Junior and Nursery School,Non State Primary Education,Non State Secondary Education"
+Howell's Junior and Nursery School,315922,177504
 All Saints Church in Wales Primary School,310363,168359
 St David Avenue,315851,171672
 Norbury Avenue,314319,177259
@@ -12875,7 +12875,7 @@ Heol-Y-Wern,311572,195512
 Abercwmboi-Isaf Road,303672,199337
 Commercial Street,315264,198465
 Station Terrace,301710,180507
-Ysgol Uwchradd yr Ysgol Newydd,Secondary Education",315141
+Ysgol Uwchradd yr Ysgol Newydd,315141,180073
 Waun Wen,301743,189975
 Mill Road,315293,187484
 Cardiff Road,315235,197501
@@ -17800,7 +17800,7 @@ Enmore (Voluntary Controlled) Primary School,323713,134856
 Somerset College of Arts and Technology,321470,124759
 Westonzoyland,336408,134692
 Northgate Primary School,329713,137359
-King's College,Non State Secondary Education",323746
+King's College,323746,123807
 Westover Green Community School,329192,136842
 King's Hall School,322736,127566
 Hamp Nursery and Infants' School,329743,136049
@@ -17859,17 +17859,17 @@ Spaxton (Voluntary Controlled) Primary School,322641,136752
 St John and St Francis Church of England (Voluntary Aided) Primary School,331619,136584
 Queen's College Junior School,321839,123298
 Chilton Trinity School,329551,138392
-Taunton School,Non State Primary Education,Non State Secondary Education"
+Taunton School,322110,126127
 Hamp Academy,329640,135980
 Robert Blake Science College,329705,136160
 Park Wall Solar Farm,332026,136010
 Bishop Henderson Church of England Primary School,321392,123662
-Bridgwater Bus Station,Coach Station",330199
+Bridgwater Bus Station,330199,137197
 St Joseph's Roman Catholic Primary School,328878,136847
 Bridgwater College,330986,137269
 The Castle School,321768,124827
 Wellsprings Primary School,322664,126645
-Queen's College,Non State Secondary Education",321573
+Queen's College,321573,123160
 Parkfield County Primary School,321889,124158
 Somerset Bridge Primary School,330011,134997
 Elmwood School,329710,136166
@@ -25480,7 +25480,7 @@ Griffithstown Primary School Infants Dept,329187,199042
 Malpas Court Primary School,330062,191491
 Sunnybank Nursing Home,329008,199392
 Cwmbrân,329767,195840
-St John's College,Non State Secondary Education",323054
+St John's College,323054,181620
 Bassaleg School,327520,186833
 Newport Transporter Bridge West,331698,186246
 Queen's Hill Education Unit,330706,188517
@@ -25602,7 +25602,7 @@ St Bernadettes Roman Catholic Primary School,320781,181569
 Ysgol Gyfun Gwent Is Coed,329881,184976
 St Philip Evans' Roman Catholic Primary School,320311,180415
 Ysgol Gynradd Gaer,329657,186935
-Llantarnam Hall Rougemont School,Non State Secondary Education",329866
+Llantarnam Hall Rougemont School,329866,191814
 St Gabriel's Roman Catholic Primary School,335038,188559
 Ysgol Gymraeg Cwm Gwyddon,321680,194915
 Llanyrafon Primary School,330335,194917
@@ -31021,7 +31021,7 @@ Ilchester Community Primary School Junior Department,352124,123843
 Elmhurst Junior School,348760,136664
 Camel Hill Service Area,359279,125590
 King Ina Church of England Academy,349161,128444
-Chilton Cantelo House,Non State Secondary Education",356910
+Chilton Cantelo House,356910,122075
 Lias Road,347741,135722
 Whellers Meadow,346340,120024
 Sharpham Drove,346714,136999
@@ -33195,7 +33195,7 @@ Nether Wood,350808,156083
 Folly Wood,357644,141983
 Rowberrow Bottom,345557,157931
 Tealham Moor,341073,145772
-Sidcot School,Non State Primary Education,Non State Secondary Education"
+Sidcot School,342979,157362
 Wedmore First School,342782,147564
 Priddy Primary School,352751,151357
 Weare Academy First School,340721,153054
@@ -33313,7 +33313,7 @@ Burrington Combe,349188,157943
 Billing's Hill,343492,147654
 Nedge Lane,358321,151923
 Whitehouse Lane,359290,154878
-Wells Cathedral School,Non State Secondary Education",355063
+Wells Cathedral School,355063,146252
 Lynchcombe Lane,350369,148785
 Crickham Lane,343472,150004
 Lyncombe Lane,343956,158872
@@ -38426,10 +38426,10 @@ Avonmouth,351610,178063
 Hartcliffe Nursing Home,357754,168009
 Colston's Primary School,358519,174318
 St Mary Redcliffe and Temple Church of England School,359300,172080
-Redlandhill House,Non State Secondary Education",357636
+Redlandhill House,357636,174916
 Westbury Nursing Home,357322,177781
 Four Acres Primary School,356453,167801
-The Red Maids' School,Non State Secondary Education",357399
+The Red Maids' School,357399,176916
 Bridge College Centre,359287,167766
 Honeymead Nursing Home,357929,170875
 Bristol Free School,357566,178232
@@ -38441,7 +38441,7 @@ Charborough Road Primary School,359939,178667
 Southville Primary School,357770,171523
 Elm View Nursing Home,341005,170807
 Merchants Academy,357054,167850
-Queen Elizabeth's Hospital School,Non State Secondary Education",357784
+Queen Elizabeth's Hospital School,357784,173043
 St Bernards Roman Catholic Primary School,353167,176704
 Golden Valley Primary School,347963,170605
 Elmlea Junior School,356879,176377
@@ -38467,7 +38467,7 @@ Badocks Wood Primary School and Children's Centre,358019,177988
 Bedminster,358772,171394
 Humphrey Repton House,357523,179061
 Fonthill Primary School,359083,178653
-"St Mary's Church of England (Voluntary Aided) Primary School,Primary Education,350312
+"St Mary's Church of England (Voluntary Aided) Primary School,350312,175372
 St Mary Redcliffe Church of England VC Primary School,359151,171587
 Hareclive Academy,358191,167634
 Winford Church of England Primary School,353878,165080
@@ -38484,7 +38484,7 @@ Acorn Lakes,340765,166764
 Southmead Hospital,359029,177701
 Fish Pond Wood,353669,173215
 Farleigh Hill,351842,168177
-Bristol Bus and Coach Station,Coach Station",358909
+Bristol Bus and Coach Station,358909,173525
 High Wood,354327,168535
 Chew Magna Primary School,357799,163371
 Fairfield School,349417,168822
@@ -38540,7 +38540,7 @@ Westbury Park Primary School,357632,175467
 British and Irish Modern Music Institute,358983,173769
 Charlton Farm Childrens Hospice,349241,173980
 University of the West of England,356154,171804
-Clifton High School,Non State Secondary Education",357042
+Clifton High School,357042,173503
 Cabot House,359631,175427
 Clifton Down,357649,174143
 Abbots Leigh Manor Nursing Home,354007,173472
@@ -38558,7 +38558,7 @@ Brentry Primary School,357800,179466
 University of Bristol Dental Hospital,358729,173444
 Colston's Primary School,358711,174486
 Crockerne Church of England Primary School,352286,175510
-Redland High School for Girls,Non State Secondary Education",358403
+Redland High School for Girls,358403,174684
 Ashley Down Primary School Brunel Field,359597,175651
 Elmlea Infants School,356870,176326
 St Barnabas CEVC Primary School,359695,174449
@@ -38577,7 +38577,7 @@ Fairfield Resource Centre,359656,174662
 St Peter's Church of England Primary School,346868,175942
 South Bristol Skills Academy,359442,168150
 Nuffield Health Chesterfield Hospital,357302,172951
-Andalusia Academy,Non State Secondary Education",359644
+Andalusia Academy,359644,173293
 St Bonaventure's Catholic Primary School,358563,175641
 Avonmouth Church of England Primary School,352143,177588
 St Peter's Church of England Primary School,356932,168748
@@ -38632,7 +38632,7 @@ Northleaze Church of England Primary School,354952,170395
 St Nicholas Chantry Church of England (Voluntary Controlled) Primary School,341320,171429
 Sea Mills Primary School,354909,176350
 Court-De-Wyck Primary School,344782,166010
-Badminton School,Non State Primary Education,Non State Secondary Education"
+Badminton School,357197,176470
 University of Bristol,358322,173153
 High Down Junior School,345455,175942
 St Pius X Roman Catholic Primary School,357152,168138
@@ -38985,7 +38985,7 @@ Highbury Villas,358245,173666
 Redford Walk,356639,167425
 De Clifford Road,355358,178570
 Henley Park,343457,165207
-Bridge Learning Campus,Secondary Education",359287
+Bridge Learning Campus,359287,167766
 Holy Cross Roman Catholic Primary School,358350,171763
 Knowle DGE,358673,169769
 Downs Cote Drive,357000,176798
@@ -42448,7 +42448,7 @@ Okeford Common,378661,111661
 Yeatman Hospital,363606,116782
 Milborne Port Primary School,367829,118857
 Yewstock College,378864,115025
-Leweston School,Non State Secondary Education",363636
+Leweston School,363636,112253
 The Gryphon School,363955,117957
 All Saints Church of England (Voluntary Controlled) Primary School,369492,112992
 Hazelbury Bryan Primary School,375213,108357
@@ -44047,7 +44047,7 @@ Ash Bed,360844,131398
 Spear Copse,376869,127240
 Sunny Hill Preparatory School,367247,133619
 Wyke Primary School,379925,126393
-Bruton School for Girls,Non State Secondary Education",367247
+Bruton School for Girls,367247,133619
 King Arthur's Community School,370341,128563
 Evercreech Church of England Primary School,364932,139257
 Upton Noble Church of England (Voluntary Controlled) Primary School,371315,139310
@@ -46618,7 +46618,7 @@ St Nicholas Church of England Primary School,369032,154571
 Paulton Memorial Hospital,365702,155640
 Fosse Way School,367235,153986
 River View,378826,147833
-Steiner Academy,Secondary Education",377248
+Steiner Academy,377248,147765
 Pondsmead Nursing Home,363459,147231
 Vallis First School,377420,148296
 Bishop Henderson Church of England School,368300,149548
@@ -52917,7 +52917,7 @@ Stanton Drew Primary School,360081,162783
 Bromley Heath Junior School,365316,177859
 Bristol Brunel Academy,363333,174471
 Three Ways School,374298,161923
-King Edward's School,Non State Secondary Education",376283
+King Edward's School,376283,165383
 Culverhayes Nursing Home,373091,164229
 St Philip's Church of England Primary School,373586,162549
 The Kingfisher School,362375,172456
@@ -53076,7 +53076,7 @@ University of the West of England Glenside Campus,362295,176269
 St Nicholas of Tolentine RC Primary School,360026,173583
 Colston's Preparatory School,361550,176060
 Ilminster Avenue E-ACT Academy,360036,169805
-SABIS International School,Non State Secondary Education",379127
+SABIS International School,379127,171736
 St Saviour's Church of England Nursery and Infant School,375850,166672
 Bath Community Academy,372786,162844
 Oldland Common,367630,171724
@@ -56320,7 +56320,7 @@ Thornbury Hospital,364218,190428
 North Nibley Church of England Primary School,373760,196075
 Baileys Court Primary School,362833,180753
 Willow Cottage Nursing Home,371545,182601
-Marlwood School,Secondary Education",362810
+Marlwood School,362810,188533
 Tyndale Primary School,370728,183165
 Olveston Church of England Primary School,360188,187433
 Tortworth (Voluntary Controlled) Primary School,370011,193065
@@ -56348,7 +56348,7 @@ Tumbleyhill Wood,377925,196592
 Says Court Solar Farm,369200,180987
 Coombe Hill,376400,194143
 Britton Bottom,378659,186301
-Katharine Lady Berkeley's School,Secondary Education",374733
+Katharine Lady Berkeley's School,374733,192489
 Whitley Wood,379774,197553
 Kingrove Common,373349,180953
 Pits Hill,365206,184503
@@ -56380,7 +56380,7 @@ Crossways Junior School,364816,190178
 Grange Farm Solar Farm,363438,182763
 Manorbrook Primary School,364052,190998
 Brimsham Green School,370580,184101
-The Ridings' Federation Yate International Academy,Primary Education,Secondary Education"
+The Ridings' Federation Yate International Academy,371142,181787
 Gillingstool Primary School,364055,189898
 St Michael's Church of England Primary School,362341,180006
 Frampton Cotterell Church of England Primary School,366305,181838
@@ -56417,7 +56417,7 @@ St Mary's Church of England Voluntary Aided Primary School,363491,190539
 Iron Acton Sub Station,366764,185730
 Abbotswood Primary School,370760,180924
 Olive Tree House,360137,181286
-Bradley Stoke Community School,Secondary Education",362475
+Bradley Stoke Community School,362475,181921
 Alexander Hosea Primary School,372691,188436
 Winterbourne International Academy,364925,180710
 Elm Park Primary School,365446,180951
@@ -57907,7 +57907,7 @@ New Coppice,395615,113692
 Conygar Clump,386525,109250
 The Forum Centre,388533,106819
 Spetisbury Church of England Voluntary Aided Hall and Sloper Primary School,390873,102943
-Devine House,Non State Secondary Education",386905
+Devine House,386905,114373
 The Forum School,382138,111410
 Pimperne C of E V C Primary School,390358,109813
 Sixpenny Handley First School,399421,117245
@@ -59354,7 +59354,7 @@ Littlecombe Hill,389685,139830
 Wilderness,386594,122286
 South Down,384356,135301
 Buxbury Hill,398427,126883
-"Hindon Church of England (Voluntary Aided) Primary School,Primary Education,391333
+"Hindon Church of England (Voluntary Aided) Primary School,391333,132768
 Stonedown Wood,399474,120457
 Eight Acre Plantation,384489,125019
 Fonthill Abbey Wood,391874,130845
@@ -59386,7 +59386,7 @@ Hiscombe Wood,383300,138240
 Lugmarsh Plantation,385770,130383
 Totterdale Copse,394875,128094
 Motcombe C of E VA Primary School,384851,125308
-"The Abbey Church of England (Voluntary Aided) Primary School,Primary Education,385927
+"The Abbey Church of England (Voluntary Aided) Primary School,385927,122367
 Tisbury,394538,129049
 Shaftesbury School,386795,122354
 Semley Church of England (Voluntary Aided) Primary School,389248,126824
@@ -61541,7 +61541,7 @@ Warminster School,386875,144978
 Grove Primary School,384834,156385
 Trowbridge Oaks,386574,157540
 Westbury Leigh Church of England Primary School,385968,150300
-Warminster School,Non State Secondary Education",386982
+Warminster School,386982,145338
 Keevil Church of England Primary School,391799,158087
 Studley Green Primary School,384320,156914
 The Clarendon College,384883,156878
@@ -64213,7 +64213,7 @@ Colerne Airfield,380581,171415
 Corsham Regis Primary School,386912,170836
 St Mary's Broughton Gifford (Voluntary Controlled) Church of England Primary School,387923,163249
 Stanton St Quintin Community Primary School,390622,179945
-St Margaret's Preparatory School,Non State Secondary Education",399467
+St Margaret's Preparatory School,399467,171380
 Notton House School,391000,169904
 Bowerhill Primary School,391480,162037
 Chippenham,392096,173703
@@ -64249,7 +64249,7 @@ Neston Primary School,385975,168224
 Shaw Church of England (Voluntary Controlled) Primary School,388852,165795
 Avoncliff,380440,160074
 Monkton Park Primary School,392687,173423
-Grittleton House School,Non State Secondary Education",386108
+Grittleton House School,386108,179930
 Box Church of England Primary School,382581,168585
 Julia's House,399795,161787
 Melksham Community Hospital,390946,163153
@@ -65667,7 +65667,7 @@ Seagry Church of England Primary School,394603,180625
 Nailsworth Bus Station,384965,199621
 Hullavington PV Solar Park,388583,182633
 Brinkworth Earl Danby's Church of Englandprimary School,399460,181975
-The Acorn School,Non State Secondary Education",385068
+The Acorn School,385068,199594
 Ruskin Mill Education Trust,384674,199018
 Horsley Church of England Primary School,383736,198083
 Kemble Primary School,398964,197312

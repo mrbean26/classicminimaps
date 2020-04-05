@@ -1940,7 +1940,7 @@ Oakbank Primary School,309601,723132
 Viewlands Primary School,310024,722908
 Perth Royal Infirmary,310327,723609
 Perth High School,309398,723188
-St John's RC Academy,Secondary Education",311357
+St John's RC Academy,311357,725128
 North Muirton Primary School,310609,725669
 Pathways Centre Perth College,311871,723480
 York Place,311278,723506
@@ -7029,7 +7029,7 @@ Eassie Primary School,333584,745153
 Cortachy Primary School,339367,759717
 Northmuir Primary School,338507,754694
 Ardler School,326541,741914
-Webster's High School,Secondary Education",338429
+Webster's High School,338429,753668
 Isla Road,324954,748235
 Woodend Drive,338253,754815
 Wimberley Court,322427,740259
@@ -8347,7 +8347,7 @@ Lawhead Primary School,349021,716002
 St Andrews Community Hospital,350295,715313
 University of St Andrews,350161,716556
 University of St Andrews,351032,716682
-St Leonards School,Non State Secondary Education",351401
+St Leonards School,351401,716488
 Anstruther Primary School,356550,704020
 St Andrews House,349984,715341
 A917,354865,702678
@@ -10208,7 +10208,7 @@ Newport Primary School,342420,727062
 Carlogie Primary School,356770,735334
 Monikie Primary School,351147,738259
 Claypotts Castle Primary School,344662,731961
-High School of Dundee,Non State Primary Education,Non State Secondary Education"
+High School of Dundee,340203,730554
 Golf Street,355761,734222
 Leuchars Airfield,347016,720700
 Mattocks Primary School,347354,736847
@@ -13919,7 +13919,7 @@ Castle Place,383028,772332
 Trenchard Way,382934,772227
 West Park Place,382463,772243
 Brae View,382616,771200
-Lathallan School,Non State Secondary Education",380216
+Lathallan School,380216,767689
 Beattie Terrace,382774,772449
 Gourdon Primary School,382681,770928
 Braeview Gardens,382607,771258

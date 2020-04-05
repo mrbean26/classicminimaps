@@ -6041,7 +6041,7 @@ Cnoc Glas,151164,962434
 Peicir,148566,962439
 Geodh' an Raimh,155398,961780
 Stàthanais,152300,966277
-Sgoil Lionail,Secondary Education",152163
+Sgoil Lionail,152163,964140
 Polbain,199505,910273
 Reiff,196976,913855
 Altandhu,198390,912618

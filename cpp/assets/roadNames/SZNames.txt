@@ -191,7 +191,7 @@ Alderbury Copse,401295,79828
 St Mark's CE VA Primary School,401246,79004
 St Mary's RC VA Primary School,402882,78650
 Purbeck View School,402726,79407
-Harrow House International College,Non State Secondary Education",402606
+Harrow House International College,402606,79463
 Swanage Primary School,402806,78422
 The Swanage School,401354,79024
 Hanbury Road,402487,78803
@@ -4149,7 +4149,7 @@ Longfleet Church of England (Voluntary Controlled) Primary School,402011,91738
 The Bournemouth and Poole College,402881,91719
 Mudeford Junior School,417708,92632
 Sandbanks,403715,87053
-Canford School,Secondary Education",403419
+Canford School,403419,98444
 Elm Academy,406067,95911
 Hillbourne Primary School,400481,94597
 Burwood Nursing Home,401231,95933
@@ -4261,7 +4261,7 @@ St Katharine's Church of England Primary School,415727,91622
 St Ann's Hospital,405216,88786
 Poole High School,401342,91686
 Poole Hospital,402013,91307
-Bournemouth Travel Interchange,Coach Station",409616
+Bournemouth Travel Interchange,409616,91933
 Portfield School,409689,97879
 Buckholme Towers School and Nursery,403219,91513
 Alderney Hospital,404237,94504
@@ -4285,7 +4285,7 @@ Tregonwell Academy,412540,93442
 Somerford Primary Community School,417413,93248
 Pokesdown,412326,92423
 The Sarah Manners Centre,412221,93110
-St Aldhelm's Academy,Secondary Education",404722
+St Aldhelm's Academy,404722,93706
 Queen's Park Academy,409977,94223
 Harewood College,412450,93201
 Heatherlands Primary School,405098,92466
@@ -9546,9 +9546,9 @@ Newchurch Primary School,456234,85361
 Godshill Primary School,452623,82000
 Bay House School,459036,98942
 Berry Hill Pre-School,458328,83465
-Carisbrooke College,Secondary Education",448454
+Carisbrooke College,448454,88955
 Love Lane Primary School,449078,94920
-Ryde School with Upper Chine,Secondary Education",458777
+Ryde School with Upper Chine,458777,92499
 Solent Grange Nursing Home,452524,90449
 St Mary's Hospital,449510,90381
 Brighstone Church of England (Aided) Primary School,442806,82664
@@ -9577,7 +9577,7 @@ Carisbrooke Church of England (Controlled) Primary School,448866,88442
 Studio School,450550,95249
 Sandown Bay Academy,458955,84594
 Greenmount Primary School,458286,92093
-Priory School,Non State Secondary Education",451614
+Priory School,451614,93524
 Ryde Academy,458375,91797
 Cowes Enterprise College,448806,96125
 East Cowes Floating Bridge,450150,95543
@@ -9703,7 +9703,7 @@ Isle of Wight Airport,457488,83572
 Arreton St George's Church of England (Controlled) Primary School,453522,86632
 Dover Park Primary School and Nursery,459555,92285
 Golf Links Road,459120,84702
-Medina College,Secondary Education",450606
+Medina College,450606,90453
 Sandy Lane,450025,86275
 Denny Gardens,457611,81520
 Blackwater Road,450356,87736
@@ -11121,7 +11121,7 @@ Craneswater Junior School,465559,98876
 Meon Junior School,466771,99985
 Nettlestone Primary School,462317,90749
 Portsmouth Ferry Terminal,463149,99609
-Mayville High School,Non State Secondary Education",464984
+Mayville High School,464984,98523
 Meon Infant School,466778,99925
 The Harbour School,467396,99990
 Bembridge Airport,463141,86976
@@ -11137,7 +11137,7 @@ Southsea Infant School,465038,98952
 Devonshire Infant School,465667,99660
 St Swithun's School,464978,98575
 Cottage Grove Primary School,464411,99468
-St John's College,Non State Primary Education,Non State Secondary Education"
+St John's College,464526,99133
 The Bay Church of England Primary School,460004,84655
 Aquarius Nursing Home,465869,98561
 Oakfield Church of England (Aided) Primary School,460334,92056

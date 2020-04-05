@@ -3959,7 +3959,7 @@ Muirhead Primary School,233467,631683
 Haysholm School,233146,639782
 Barassie,232896,632922
 Springside Primary School,236770,638791
-Ayrshire College,Higher or University Education",234379
+Ayrshire College,234379,621543
 Grammar Primary School,233808,621066
 Dundonald Primary School,236777,634893
 Southcraig Campus,234116,620423
@@ -21272,7 +21272,7 @@ Charing Cross,258050,665828
 Hillhead High School,257114,666945
 Blackfriars Primary School,259258,663756
 St Mirren Grampian Nursing Home,249063,665273
-Riverside Campus,Higher or University Education",259273
+Riverside Campus,259273,664346
 Hutchesons' Grammar School,258153,662907
 Kelvindale,255656,669107
 Milngavie,255574,674446
@@ -21481,7 +21481,7 @@ Greenfield Primary School,254669,665223
 Ashfield,259463,668484
 Saint Peter's Primary School,240933,676816
 Bishopton,243750,670501
-Craigholme School,Non State Secondary Education",256640
+Craigholme School,256640,663198
 St Peter the Apostle High School,250096,671720
 Glasgow Caledonian University George Moore Building Govan Mbeki Building Charles Oakley Building,259285,666073
 Library,247945,663815
@@ -21503,7 +21503,7 @@ Sighthill Community Campus,259925,666705
 Anniesland,254913,668716
 Kinning Park,256867,664275
 Bearsden Academy,253481,672967
-Jordanhill School,Secondary Education",254127
+Jordanhill School,254127,668172
 Cartvale Secondary School,255974,665223
 Lochfield Primary School,248721,662170
 The Prince and Princess of Wales Hospice,255220,663741
@@ -21546,7 +21546,7 @@ St George's Cross,258113,666555
 Braehead Primary School,240068,675965
 Royal Conservatoire of Scotland,258823,665979
 Broomlea School,259397,667591
-The High School of Glasgow,Secondary Education",254479
+The High School of Glasgow,254479,668594
 Corseford School,240750,661209
 St Andrew's Building,257472,666611
 Crosshill,258796,662251
@@ -22129,7 +22129,7 @@ Ashdale Drive,254292,663070
 Buchanan Lodge Care Home,253371,673148
 King's Park Primary School,259563,660877
 John Paul Academy,256548,670338
-Kelvinside Academy,Secondary Education",256575
+Kelvinside Academy,256575,667965
 West George College,256445,665869
 Church Street,249483,671333
 Staffa Drive,248070,661361
@@ -28359,7 +28359,7 @@ Ladywell Primary School,274561,657158
 St Patricks Primary School,270283,644910
 St Elizabeth Primary School,271652,653158
 St Bartholomews Primary School,260546,659744
-Fernhill School,Non State Secondary Education",262137
+Fernhill School,262137,659100
 Ballantine House Nursing Home,278050,650422
 Muirhouse Primary School,276976,654952
 Townhill Primary School,269423,654888
@@ -28376,7 +28376,7 @@ Muir Street Primary School,274913,657646
 Beckford Primary School,271198,656393
 Greenlees Nursing Home,263960,659127
 Berryhill Primary School,278288,655472
-Orchard Primary School,Secondary Education",279710
+Orchard Primary School,279710,653223
 St Peter's Primary School,270610,654276
 Cathkin High School,263399,659901
 Larkhall,276157,651010
@@ -35873,7 +35873,7 @@ St Andrew's Primary School,274773,675983
 St Ninians High School,265020,673535
 St Joachim's Roman Catholic Primary School,265280,662248
 Carrickstone House and Day Hospital,275143,676286
-Dornoch Street Campus,Higher or University Education",260623
+Dornoch Street Campus,260623,664276
 Whitelees Primary School,278721,676387
 Victoria Primary School,275550,665411
 West Coats Primary School,263782,660134
@@ -35901,7 +35901,7 @@ Cumbernauld,276430,673899
 St Mary's Roman Catholic Primary School,273395,664049
 Cumbernauld Academy,277060,674505
 Lenzie Primary School,265367,672125
-Hilltop Primary School,Primary Education",278170
+Hilltop Primary School,278170,665108
 Coatbridge High School,273825,665193
 Foot o' Loan Wood,274155,669680
 St Philip's School,278998,666264
@@ -35974,7 +35974,7 @@ Gartcosh,270095,667795
 Aitkenhead Primary School,269790,662092
 Airdrie Academy,276054,666413
 St Roch's Secondary School,260409,666172
-Kirkintilloch Campus,Higher or University Education",265379
+Kirkintilloch Campus,265379,673601
 Holytown Primary School,276785,660181
 Croftfoot School,260144,660228
 St Gerard's Primary School,273576,661131
@@ -35994,7 +35994,7 @@ Sikeside Primary School,274942,664236
 Avenue End Primary School,264968,666576
 Oxgang Primary School,266759,673542
 Power Networks Demonstration Centre,276937,677191
-New College Lanarkshire,Higher or University Education",275889
+New College Lanarkshire,275889,674245
 Lillyburn Care Home,265382,675736
 Mavisbank Nursing Home,260816,669832
 Balmuildy Primary School,260570,671133
@@ -45979,7 +45979,7 @@ Cow Wood,295678,695388
 Baxter Wood,284042,683282
 Common Hill,281062,687641
 Avenue Plantation,286266,687515
-Beaconhurst School,Non State Secondary Education",280128
+Beaconhurst School,280128,696930
 Grangemouth Chemical Works,291801,681793
 Head of Muir Primary School,280843,680868
 Tillicoultry Primary School,292122,697345
@@ -46072,7 +46072,7 @@ Culross Primary School,298908,685907
 Bothkennar Primary School,290820,683368
 St Margaret's Primary School,283509,689275
 Langlees Primary School,288882,681880
-Caledonia Campus South Centre,Non State Secondary Education",287097
+Caledonia Campus South Centre,287097,693279
 St Serf's Primary School,285866,695464
 Stenhousemuir Primary School,286726,683048
 Camelon,286743,680747

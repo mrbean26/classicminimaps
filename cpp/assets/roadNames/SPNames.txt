@@ -8234,7 +8234,7 @@ Woodlands Infant School,411822,277932
 The Kingfisher School,407007,266049
 King's Norton Boys School,404119,279978
 Dorridge,416962,274885
-Arden School,Secondary Education",417737
+Arden School,417737,275859
 St Alban's Roman Catholic Primary School,407694,279611
 Studley St Mary's Church of England Junior School,407116,263409
 Fairway Primary School,403762,278429
@@ -8309,7 +8309,7 @@ The Sheldon Unit,400583,278460
 Whitlock's End,410197,277104
 Roman Way First School,406999,267440
 Astwood Bank First School,404193,262921
-Heart of Worcestershire College,Higher or University Education",404283
+Heart of Worcestershire College,404283,268137
 Meadow Rose,400943,278039
 Wootton Wawen Church of England Primary School,414909,263196
 The Meadows Primary School,401320,278465
@@ -8359,7 +8359,7 @@ Wythall,409251,275801
 Haslucks Green School,411336,279456
 Hillis Lodge,400681,278295
 Skilts School,409429,267683
-St Thomas Aquinas Roman Catholic School,Secondary Education",403675
+St Thomas Aquinas Roman Catholic School,403675,279087
 Meadow Green Farm Primary School,408121,275189
 St John Fisher Roman Catholic Primary School,402846,277307
 Bournville College,401043,277566
@@ -8668,7 +8668,7 @@ West Heath Primary School,403124,277971
 Birchensale Road,403070,268067
 Kixley Lane,418426,276806
 Alderbrook School and Arts College,413913,278729
-Kingsley College,Secondary Education",406384
+Kingsley College,406384,264751
 Holly Drive,408779,277035
 Wychwood Avenue,417960,277693
 St Luke's Church of England First School,403750,266464
@@ -18991,7 +18991,7 @@ Fairfax School,413762,296067
 Whetstone Field Primary School,405686,299697
 Sutton Park,411756,296788
 New Oscott Primary School,409407,295233
-First Academy,Non State Secondary Education",408473
+First Academy,408473,286109
 Story Wood School,408976,293342
 Spring Road,411229,282926
 The Rosary Roman Catholic Primary School,410262,287463
@@ -19008,7 +19008,7 @@ St Saviour's Church of England Primary School,409776,288170
 Selly Park Technology College for Girls,405616,282059
 Alston Primary School,411572,287067
 Walmley Junior School,414268,293011
-Perry Beeches Vi the Free School,Non State Secondary Education",405839
+Perry Beeches Vi the Free School,405839,287405
 Edward Street Hospital,400183,291229
 St Matthews Church of England Primary School,408326,287889
 Anglesey Primary School,406162,289060
@@ -19024,7 +19024,7 @@ St James Church of England Infant and Junior School,403522,290012
 Maryvale Roman Catholic Primary School,407419,294462
 Yew Tree Primary School,416305,280486
 Hatchford Brook Junior and Infant School,415307,283249
-"St Anthony's Roman Catholic Nursery,Primary Education,417148
+"St Anthony's Roman Catholic Nursery,417148,288169
 Summerfield Primary School,404191,287860
 St Anne's Roman Catholic Primary School,407385,297902
 Little Sutton Primary School,412897,299454
@@ -19037,7 +19037,7 @@ Lakey Lane Junior and Infant School,411590,281511
 Moor Hall Primary School,412629,298737
 Jervoise School,402213,282477
 Kingshurst Academy,417257,287551
-Darul Uloom Islamic High School,Non State Primary Education,Non State Secondary Education"
+Darul Uloom Islamic High School,409838,285627
 Banners Gate Primary School,408398,295649
 Bordesley,408443,285996
 Whitehall Junior Community School,401916,297000
@@ -19049,7 +19049,7 @@ Tamarind Centre,411209,286340
 Heathfield Primary School,406254,289771
 Abu Bakr Girls School,400688,297615
 All Saints Church of England Primary School,400475,292601
-Handsworth Grammar School,Secondary Education",404594
+Handsworth Grammar School,404594,289622
 Greet Primary School,409783,283903
 Coppice Primary School,411960,298051
 The Oval Primary School,413919,286912
@@ -19074,7 +19074,7 @@ Deykin Avenue Junior and Infant School,408540,290716
 Holy Cross Roman Catholic Primary School,414112,295363
 James Brindley School,408971,292742
 Perry Beeches V School,410505,285015
-South and City College Birmingham Fusion Building,Higher or University Education",407550
+South and City College Birmingham Fusion Building,407550,286405
 Welsh House Farm Community School,401878,283863
 Lanchester School,416301,290328
 King Edward VI High School for Girls,405265,283731
@@ -19116,17 +19116,17 @@ Park Hall Infant School,403351,297020
 Ferndale Primary School,404403,293548
 Cole Valley Nursing Home,408465,280295
 St Margaret's Church of England Junior Infant and Nursery School,404437,295560
-Lordswood Boys School,Secondary Education",402532
+Lordswood Boys School,402532,285933
 Walsall College,401357,299043
 Palfrey Junior School,400932,297235
 Perry Beeches Junior and Infant Schools,406420,293674
 St Dunstans Roman Catholic School,407557,281606
-Bournville School and Sixth Form Centre,Secondary Education",403233
+Bournville School and Sixth Form Centre,403233,280709
 Ardenleigh Hospital,411408,290892
 Water Orton,417478,291220
 Victoria College,402136,280110
 Hazrat Khadijatul Kubra Girls School,408947,285814
-City Hasanat College,Higher or University Education",410359
+City Hasanat College,410359,288874
 Five Ways,405971,285845
 St Bernard's Roman Catholic Primary School,409490,282108
 St Clement's Nursing Home,409428,289411
@@ -19146,7 +19146,7 @@ Sutton Park,410195,298291
 The Spinney,404569,298027
 Hamstead,404942,292546
 Meadow View Junior Mixed Infant School,406790,296208
-Academy of Music and Sound,Higher or University Education",406786
+Academy of Music and Sound,406786,287513
 Pheasey Park Farm Primary School,406387,295780
 Holy Trinity Church of England Primary School,400896,290337
 Thimblemill Pool,401555,287101
@@ -19181,12 +19181,12 @@ Garden Grove,404432,292654
 Birmingham International,418650,283625
 St Thomas More Roman Catholic Primary School,414817,284270
 Starbank Junior and Infants School Annexe,411589,286106
-Birmingham Metropolitan College,Higher or University Education",407041
+Birmingham Metropolitan College,407041,293454
 University of Birmingham,404557,283281
 Yarnfield Primary School,411222,283095
 Roundabout Wood,408213,299442
 The Barberry,403990,283435
-Highclare School for Girls,Non State Secondary Education",412062
+Highclare School for Girls,412062,294237
 Yew Tree Community School,408053,290318
 The Dam,413073,293526
 Dogkennel Belt,419742,292780
@@ -19196,7 +19196,7 @@ Moseley New Pool,409169,281695
 Chelmsley Wood,417841,287156
 Perry Beeches II the Free School,406375,287308
 Asprey Court Care Home,411949,292717
-Swanshurst School,Secondary Education",408674
+Swanshurst School,408674,281267
 The Deanery Church of England (Voluntary Aided) Primary School,413934,293818
 Stechford,412951,287471
 St Pauls Bus Station,401297,298633
@@ -19230,7 +19230,7 @@ Acocks Green,412427,283467
 St Barnabas Church of England Primary School,411488,291402
 Mayfield School,406207,289718
 Duddeston,408813,287821
-George Dixon Academy,Secondary Education",403176
+George Dixon Academy,403176,286447
 Good Hope Hospital,412851,296713
 Albion Court,404153,288105
 Holy Trinity Catholic School,409292,285516
@@ -19256,7 +19256,7 @@ Chuckery Primary School,402127,298452
 Hallmoor School,415050,287005
 Yew Tree Primary School,403033,295771
 Ark St Alban's Academy,407558,285429
-Aston University Engineering Academy,Secondary Education",407810
+Aston University Engineering Academy,407810,287909
 Somerville Primary School and Nursery Class,409931,285987
 Hollyfield Primary School,413551,296018
 Al-Birr Independent School,408216,287417
@@ -19275,7 +19275,7 @@ Hamstead Junior School,403908,293127
 Heathlands Primary Academy,413994,289185
 Perry Locks Nursing Home,407211,292670
 Princethorpe Junior School,402228,282012
-Starbank School,Secondary Education",411273
+Starbank School,411273,285970
 Annie Lennard Infant School,401138,287078
 Saltley Academy,411271,287316
 Sandwell Academy,402269,290136
@@ -19289,7 +19289,7 @@ Norfolk House School,403917,285863
 Salafi Independent School,409708,285826
 George Dixon Primary School,403051,286485
 Curdworth Primary School,418177,292789
-Waverley Studio College,Secondary Education",411414
+Waverley Studio College,411414,286604
 St Andrew's Healthcare,405832,281928
 Gravelly Hill,410079,290831
 Bournville School of Art,404392,281369
@@ -19307,13 +19307,13 @@ Saint Cuthbert's Roman Catholic Primary School,412427,287623
 City College,407469,289629
 Tame Valley Community School,412645,289903
 St Gerards Roman Catholic Junior and Infant School,414583,291655
-Aston Manor School,Non State Secondary Education",407604
+Aston Manor School,407604,288720
 Golden Hillock Community School,409593,284396
 Crocketts Community Primary School,402028,288153
 Bon Accord House,412046,283473
 Bishop Vesey's Grammar School,412272,296846
 Bishop Wilson Primary School,418477,286811
-Al-Hijrah School,Secondary Education",410028
+Al-Hijrah School,410028,286981
 Mander Portman Woodward Independent College,405418,285746
 St George's School Edgbaston,405481,285510
 Penns Primary School,412496,292813
@@ -19322,7 +19322,7 @@ Kimichi School,412410,283887
 Oasis Academy Hobmoor,412410,285480
 Woodcock Hill Primary School,401181,281466
 Birchfield Community School,406932,290189
-King Solomon International Business School,Non State Primary Education,Non State Secondary Education"
+King Solomon International Business School,407875,288052
 Smethwick Galton Bridge,401386,289383
 The Priory Primary School,400873,294759
 Clare Court,404146,288146
@@ -19331,7 +19331,7 @@ St Mary's the Mount Roman Catholic Primary School,401980,297696
 Cherry Oak School,404034,282556
 St Margaret's Church of England Primary School,413647,282806
 Princethorpe Infant School,402228,282012
-Al-Hijrah School,Non State Secondary Education",411038
+Al-Hijrah School,411038,286251
 Bell Hill Campus Schools,402065,280188
 Harborne Lane Specialist Care Centre,403812,283081
 Baskerville School,402315,284475
@@ -19394,7 +19394,7 @@ North Walsall Primary Academy,401240,299869
 Eversfield Preparatory School,415096,280031
 St George's Academy Newtown,406701,288028
 Shireland Hall Primary Academy,403106,287354
-South and City College Birmingham Digbeth Centre,Higher or University Education",407832
+South and City College Birmingham Digbeth Centre,407832,286394
 Washwood Heath Gas Works,409832,289239
 Timberley Academy,415631,288777
 Bescot Stadium,400701,296262
@@ -19411,7 +19411,7 @@ Bartley Green School,400140,282203
 St Paul's School,408176,284248
 Holy Trinity Church of England Primary School,406425,290614
 Greenacres,411808,294395
-Harborne Academy,Secondary Education",404278
+Harborne Academy,404278,284881
 Mapledene Primary School,415970,284592
 The Broadway Lower School,407435,289702
 Harborne Primary School,403278,284562
@@ -19421,7 +19421,7 @@ St Mary's Church of England Junior and Infant School,405630,290493
 Willowbrook Care Home,407109,292438
 James Brindley School,407135,282475
 Minworth Junior and Infant School,415747,292244
-Handsworth Wood Boys' School,Secondary Education",405019
+Handsworth Wood Boys' School,405019,290871
 St Mary and St John Junior and Infant School,410262,291022
 West House School,406030,285477
 Hodge Hill College,412335,289368
@@ -19472,7 +19472,7 @@ Hallfield School,405038,285160
 Billesley Primary School,409060,280774
 Erdington Academy,410938,290732
 Westminster Primary School,406341,290229
-"Christ Church,Primary Education,408607
+"Christ Church,408607,285115
 Langley School,411960,298051
 Bournville Junior School,404395,281292
 Eaton Valley Primary School,401238,292211
@@ -19514,7 +19514,7 @@ The Pines Special School,413520,289668
 King Edward VI Grammar School,405387,289452
 Elms Farm Community Primary School,415509,285115
 Erdington Skills Centre,411265,292002
-Hillcrest School and Sixth Form Centre,Secondary Education",401308
+Hillcrest School and Sixth Form Centre,401308,283038
 Warley Infant and Nursery School,400126,286448
 Palfrey Infant School,400972,297321
 Delves Court Nursing Home,401642,296279
@@ -19528,7 +19528,7 @@ Conway Primary School,409008,284686
 St George's Church of England Primary School,404966,286145
 Mayfield School,406823,289148
 Billesley Infant and Nursery School,409100,280806
-Birmingham Ormiston Academy,Secondary Education",407747
+Birmingham Ormiston Academy,407747,287262
 Lode Heath School,415147,281023
 Hydesville Tower School and Nursery,402138,298905
 Merstone School,417366,289009
@@ -19559,7 +19559,7 @@ Health Futures University Technical College,400144,291479
 Blakenhale Junior School,414891,286184
 Calthorpe Academy,408065,285512
 Marston Green Infant School,416978,285348
-London School of Science and Technology,Higher or University Education",407842
+London School of Science and Technology,407842,286741
 Lyndon Green Infants School,414085,284729
 Audley Primary School,413991,287844
 Yardley Wood,409995,280340
@@ -19576,7 +19576,7 @@ New Hall Primary and Children's Centre,415020,296446
 Hall Green Junior School,410611,281425
 Edgbaston High School for Girls,404977,285419
 Aston Tower Community Primary School,407786,289069
-Lordswood Girls School and the Sixth Form Centre,Secondary Education",402388
+Lordswood Girls School and the Sixth Form Centre,402388,285949
 Hall Green School,410366,281672
 Ninestiles School an Academy,411634,282244
 Birmingham New Street,406983,286645
@@ -19599,13 +19599,13 @@ Coleshill Heath School,417862,286336
 BMI the Priory Hospital,405958,284206
 John Henry Newman Catholic College,417066,287411
 Springfield Primary School,409747,282842
-Abbey College Birmingham,Non State Secondary Education",406593
+Abbey College Birmingham,406593,287466
 James Watt Primary School,404214,289093
 Sutton Cottage Hospital,411888,295698
 South and City College Birmingham,404831,289470
 Holyhead School,403793,289626
 Park Hill Primary School,400232,295607
-The Streetly School,Secondary Education",407995
+The Streetly School,407995,296827
 University,404440,283741
 Hamstead Infant School,403844,293107
 Cape Primary School,403139,287718
@@ -20296,7 +20296,7 @@ Penndale Close,412426,292738
 Turf Pits Lane,413710,299458
 Stonnal Grove,411453,292935
 Upper Green Lane,400416,299849
-University of Birmingham School,Secondary Education",403700
+University of Birmingham School,403700,281888
 Elmwood Road,408040,296616
 Hallmoor School,414788,287149
 Benson Community School,404769,288881
@@ -20310,7 +20310,7 @@ St Vincent's Catholic Primary School,408581,287480
 Grestone Primary School,404371,291638
 Kings Road,408123,294971
 Herbert Road,402134,286145
-"Shirestone Junior,Primary Education,415849
+"Shirestone Junior,415849,286892
 Bridge School,410432,291604
 Selly Oak,404450,282686
 Sacred Heart Catholic School,406839,290137
@@ -20328,7 +20328,7 @@ Shaw Hill Grove,411242,287960
 King's Rise Academy,408482,294646
 Joseph Leckie Community Technology College,401338,296409
 Coventry Road,415114,283746
-Heartlands Academy,Secondary Education",408552
+Heartlands Academy,408552,287817
 Circle Health,406038,283630
 King Edward VI Five Ways School,400228,281557
 Hargate Primary School,400409,291891
@@ -20375,7 +20375,7 @@ Ash Lodge Nursing Home,401239,287920
 Birchills Church of England Primary Community School,400696,298984
 Corncrake Drive,417475,289516
 Great King Street,406147,288328
-Perry Beeches III,Non State Secondary Education",406428
+Perry Beeches III,406428,286038
 Victoria Park Primary School,402720,288142
 The International School and Community College,415697,287441
 St Marys Hospice,405126,282333
@@ -22535,7 +22535,7 @@ Bampton Church of England Primary School,431554,203758
 Middletown Grange,435439,212528
 St Christopher's Church of England School,424384,202467
 Ascott-under-Wychwood,430114,218859
-Cokethorpe School,Non State Primary Education,Non State Secondary Education"
+Cokethorpe School,437036,206394
 Burford School Annexe,425237,212380
 Mill House,435922,210314
 The Blake Church of England Aided Primary School,436321,209505
@@ -23683,7 +23683,7 @@ Henry Cornish Care Centre,431956,227466
 Chipping Norton School,431632,226701
 Bury's Hill,439643,232515
 Whichford Wood,430356,234189
-Sibford School,Non State Secondary Education",435842
+Sibford School,435842,237097
 Enstone Firs,437836,223703
 Kingham Primary School,426222,224336
 Langston Nursing Home,425722,222713
@@ -29393,8 +29393,8 @@ The Warwickshire Nuffield Hospital,431441,268165
 Hereward College of Further Education,428877,278159
 Trinity Roman Catholic School,430683,266587
 St Gregory's Roman Catholic School,437355,279058
-Pattison College,Non State Secondary Education",435447
-The Kingsley School,Non State Primary Education,Non State Secondary Education"
+Pattison College,435447,278736
+The Kingsley School,431629,266334
 Briar Hill Infant School,432655,263144
 Kenilworth School and Sports College,430058,272011
 Leigh Church of England Primary School,427923,277948
@@ -29434,7 +29434,7 @@ Park View,428526,265176
 Provost Williams Church of England Primary School,438267,274128
 St Peters Roman Catholic Primary School,431664,265838
 Big Rough,439151,277819
-Bishop Ullathorne Roman Catholic School,Secondary Education",431441
+Bishop Ullathorne Roman Catholic School,431441,275545
 Bushey Hill,428180,262030
 Black Waste Wood,427216,276084
 Newburgh Primary School,427269,263836
@@ -29485,14 +29485,14 @@ Westgate Primary School,427933,264739
 Warwick Hospital,428456,265852
 Milverton Primary School,431324,266484
 Southfields Primary School,434508,279177
-Ernesford Grange Community Academy,Secondary Education",436944
-"Round Oak School,Special Needs Education,430154
+Ernesford Grange Community Academy,436944,277656
+"Round Oak School,430154,264653
 Charter Primary School,429472,277528
 Pool Meadow Bus Station,433641,279261
 Coventry Airport,435398,274787
 Coventry University,433404,278888
 Coventry,433220,278214
-Aylesford School and Sixth Form College,Primary Education,Secondary Education"
+Aylesford School and Sixth Form College,427279,263509
 Mount Nod Primary School,428997,279401
 Our Lady's Roman Catholic Primary School,439982,270869
 Ernesford Grange Primary School,437347,278000
@@ -29526,7 +29526,7 @@ Coventry University,433900,278309
 St John Vianney Roman Catholic Primary School,429585,279192
 Bablake School,432690,279678
 St Margaret's Church of England Junior School,432660,263046
-Arnold Lodge Preparatory School,Non State Primary Education,Non State Secondary Education"
+Arnold Lodge Preparatory School,431715,266650
 The University of Warwick,429983,275486
 Sidney Stringer Academy,433927,279436
 Telford Infant School,433039,268233
@@ -29539,7 +29539,7 @@ Thorns Community Infant School,429519,271557
 The Ridgeway School,428995,266093
 Balsall Common Primary School,423860,276415
 Berkswell,424430,277640
-North Leamington School,Secondary Education",431961
+North Leamington School,431961,267973
 Priors House,431336,268214
 The Westwood School,429179,277006
 Warwickshire College,430846,265668
@@ -29549,11 +29549,11 @@ Emscote Infants School,429598,265665
 Quadrant Hall,433246,278593
 Phil Mead House,437866,278211
 Kingsway Community Primary School,431590,264500
-King Henry VIII School,Non State Primary Education,Non State Secondary Education"
+King Henry VIII School,433063,278117
 Telford Junior School,433013,268220
 Aldermoor Farm Primary School,435736,277947
 Bablake Junior School,432725,279607
-Wmg Academy for Young Engineers,Secondary Education",429280
+Wmg Academy for Young Engineers,429280,276872
 City College,433864,279709
 St Patrick's Roman Catholic Primary School,431631,264470
 Hawthorne House,428706,279282
@@ -29876,7 +29876,7 @@ Eagle Drive,426615,277536
 Woodfield School,430989,274817
 Rowley Road,434640,275048
 Burton Green Church of England Academy,426744,275347
-Heart of England School,Secondary Education",423945
+Heart of England School,423945,276548
 Avenue M,432466,271382
 Shrubland Street Community Primary School,432305,264639
 Baginton Fields School,435718,275966
@@ -34075,7 +34075,7 @@ Joseph Cash Primary School,433460,281319
 King Edward VI College Nuneaton,436719,291703
 Bentley House Nursing Home,428390,296531
 Walsgrave Church of England Primary School,438126,280952
-Etone Technology Language Vocational College,Secondary Education",436821
+Etone Technology Language Vocational College,436821,292095
 Arc School Ansley,428985,291656
 Parkgate Primary School,432896,283104
 St Benedict's Catholic Primary School,431767,297204
@@ -34088,7 +34088,7 @@ Coventry College Henley Campus,436116,281579
 Hampton-in-Arden,420584,281134
 Eastern Green Junior School,427546,280071
 Nicholas Chamberlaine Technology College,436879,287069
-Oak Wood Primary and Secondary Schools,Secondary Education",436798
+Oak Wood Primary and Secondary Schools,436798,290368
 Frederick Bird Primary School,434881,280059
 John Shelton Community Primary School,433640,283578
 Holbrook Primary School,434223,282430
@@ -34108,7 +34108,7 @@ Mary Anne Evans Hospice,435458,290574
 The Meriden Hospital,438298,280743
 Our Lady of the Angels Roman Catholic Infant School,436353,291245
 Stoke Heath Primary School,435210,280577
-St Thomas More School and Sixth Form College,Secondary Education",435381
+St Thomas More School and Sixth Form College,435381,291083
 Coventry Arena,434459,283367
 Good Shepherd Roman Catholic School,435016,282065
 Sherbourne Fields School,430871,280330
@@ -37387,7 +37387,7 @@ Gloucester Green Bus Station,450989,206407
 Sandford Hydro,452876,201686
 Lincoln College,451480,206285
 Linacre College,451876,207002
-"St Clare's,Further Education,450909
+"St Clare's,450909,208461
 Windale Community Primary School,455378,202360
 Wheatley Park School,459819,206496
 Osney Lock Hydro,450307,205909
@@ -37465,8 +37465,8 @@ Merton College,451810,205975
 Old Road Campus,454332,206265
 Windmill Primary School,454918,206873
 All Soul's College,451669,206343
-St Edward's School,Non State Secondary Education",450577
-Oxford High School,Non State Secondary Education",451214
+St Edward's School,450577,208932
+Oxford High School,451214,208626
 Wood Farm Primary School,455107,206275
 Northfield School,454755,202500
 Magdalen College,452236,206334
@@ -37485,7 +37485,7 @@ Regent's Park College,451113,206723
 Edward Field Primary and Nursery Schools,449962,213303
 Freeland Church of England Primary School,441029,213261
 Church Cowley St James' C of E Primary School,454337,203540
-D'Overbroecks College,Non State Secondary Education",450881
+D'Overbroecks College,450881,208958
 Oxford Parkway,450170,211980
 New Marston Primary School,453309,208150
 Worcester College,450790,206554
@@ -37535,12 +37535,12 @@ Wychwood School,451129,207840
 St Andrew's Church of England Primary School,454784,207152
 St Luke's Nursing Home,454174,206812
 Mabel Prichard School,454316,202877
-Napier House,Non State Secondary Education",454075
+Napier House,454075,206823
 Emmanuel Christian School,453702,202746
 Pegasus School,455807,202775
 St Ebbe's Church of England (Aided) Primary School,451148,205405
 Warneford Hospital and Clinic,453835,206060
-Rye St Antony School,Non State Secondary Education",453576
+Rye St Antony School,453576,206967
 Our Lady's Roman Catholic Primary School,454548,204170
 Summer Fields School,451022,209131
 Lady Margaret Hall,451640,207702
@@ -37548,7 +37548,7 @@ St Stephen's House,452631,205633
 Exeter College,451466,206394
 The Cherwell School,451361,208868
 University of Oxford Magdalen College Waynflete Building,452243,206047
-Headington School,Non State Secondary Education",453698
+Headington School,453698,206786
 Hanborough Manor Church of England School,442054,214057
 North Hinksey Church of England Primary School,449372,205509
 St John Fisher Catholic Primary School,454691,203110
@@ -37591,7 +37591,7 @@ St Antony's College,450960,207453
 North Kidlington Primary School,448991,214187
 Green Gates,450727,209594
 St Francis Church of England Primary School,455252,204548
-Dragon School,Non State Secondary Education",451514
+Dragon School,451514,207945
 The Manor Hospital,454245,207135
 Sandhills Community Primary School,456724,207625
 Dry Sandford Primary School,446949,200560
@@ -37774,7 +37774,7 @@ Verinia Court,445156,216956
 Church Lane,453049,218509
 A423,452767,203000
 Old School House,451999,206574
-Oxford Montessori Schools,Non State Secondary Education",454559
+Oxford Montessori Schools,454559,210914
 Wendlebury Road,456242,219889
 Worcester Street,450938,206378
 The Avenue,452333,201687
@@ -39989,7 +39989,7 @@ A43,458846,236206
 Croughton American Elementary School,455489,232908
 Park Vale,445801,239540
 Bloxham Road,441304,234687
-Heyford Park Free School Specialisms Campus,Secondary Education",450658
+Heyford Park Free School Specialisms Campus,450658,225650
 Ardley Road,453433,224290
 Duxford Close,459576,223816
 Manor Road,458492,237193
@@ -43990,10 +43990,10 @@ Southam St James Church of England Primary School,441926,262238
 St James Infants School,457051,262319
 Southam Solar Park,440360,260861
 Wolston St Margaret's Church of England Primary School,441092,275632
-Daventry University Technical College,Secondary Education",457199
+Daventry University Technical College,457199,263027
 Newstead Lodge Nursing Home,441098,261428
 Bilton School,447912,273892
-Danetre and Southbrook Learning Village,Primary Education,Secondary Education"
+Danetre and Southbrook Learning Village,458144,262467
 Northlands Primary School and Nursery,450691,275613
 Ashlawn School,452412,273420
 Eastlands Primary School,451912,274843
@@ -44009,7 +44009,7 @@ Monksmoor Primary School,458247,264606
 Long Lawford Primary School,447571,276064
 Crick Primary School,458963,272548
 St Mary's Roman Catholic Primary School,442090,261905
-The Parker E-ACT Academy,Secondary Education",457256
+The Parker E-ACT Academy,457256,263302
 Whimbrel Close,451387,277840
 Hardwick Hall Way,456658,265029
 Park Lane,449863,274788
@@ -47586,7 +47586,7 @@ Enderby Road,455767,297963
 The Children's Hospital School,457661,299703
 Burnsway,442032,294135
 Bradbury Close,454751,294952
-The Samworth Enterprise Academy,Secondary Education",458459
+The Samworth Enterprise Academy,458459,299755
 Dunton Road,454541,291089
 Fosse Close,447984,291588
 Teal Drive,441253,292988
@@ -52477,7 +52477,7 @@ Briary Wood,472661,242250
 Everdon Stubbs,460682,256554
 Cheese Copse,468339,242837
 The Moors,475029,253553
-Silverstone UTC,Secondary Education",467612
+Silverstone UTC,467612,242845
 The Red House Nursing Home,461961,240882
 Preston Hedges Primary School,476728,256703
 Collingtree Church of England Primary School,475162,255723
@@ -55263,7 +55263,7 @@ Further Haylag Plantation,468879,266281
 Cank Covert,470561,268122
 Johnson's Covert,475363,279143
 Black Pit's Spinney,467792,276758
-The Duston School,Secondary Education",471214
+The Duston School,471214,261718
 Guilsborough Church of England (Aided) Primary School,467384,273006
 Castle Primary School,475161,261263
 Boothville Primary School,478328,263946
@@ -55285,7 +55285,7 @@ Brington Primary School,466236,264114
 Naseby Church of England Primary Academy,468897,278040
 Woodvale Primary School,479963,264252
 Northgate School,475005,262618
-Northampton Academy,Secondary Education",479942
+Northampton Academy,479942,262901
 St Luke's CEVA Primary School,471534,260726
 Pytchley Court Nursing Home,474737,270103
 Cynthia Spencer Hospice,477649,263636
@@ -55320,7 +55320,7 @@ Bridgewater Primary School,478441,261197
 Moulton Primary School,478178,266429
 Kings Meadow School,478159,265155
 Moulton College,477270,267449
-Bosworth Independent College,Non State Secondary Education",475433
+Bosworth Independent College,475433,261775
 Spring Lane Primary School,474990,260827
 Northampton General Hospital,476272,260346
 Northampton College,475815,260848
@@ -55530,7 +55530,7 @@ West Haddon Endowed School,462821,271846
 Oak Street,475484,261143
 Brick Kiln Lane,475500,261848
 Covington Street,477026,261000
-Upton Hall,Non State Primary Education,Non State Secondary Education"
+Upton Hall,471721,260144
 Hopping Hill Primary School,472468,261863
 Westwood Nursing Home,473400,261732
 The Beehive Northgate School Arts College,474990,264259
@@ -57410,7 +57410,7 @@ Poplar Spinney,474486,298705
 Glenmere Community Primary School,461734,299400
 Brooke House College,473164,287605
 Farndon Fields Primary School,473114,285799
-St John Fisher Catholic Voluntary Academy,Secondary Education",461405
+St John Fisher Catholic Voluntary Academy,461405,299750
 Stoneygate School,466392,296867
 The Meadow Community Primary School,461203,299073
 Arnesby Church of England Primary School,461548,292336
@@ -57459,7 +57459,7 @@ Hallaton Church of England Primary School,478604,296587
 St Joseph's Roman Catholic Primary School,473049,287169
 Kibworth Church of England Primary School,467909,294175
 Lubenham All Saints Church of England Primary School,470720,287066
-Leicester Grammar School,Non State Secondary Education",464966
+Leicester Grammar School,464966,298646
 Douglass Drive,473804,287930
 Heygate Street,473349,287637
 Worcester Drive,473424,288097
@@ -60996,7 +60996,7 @@ Swing Gate First School and Nursery,499844,207464
 Buckinghamshire New University,482183,213519
 John Colet School,487035,208615
 The Misbourne School,489736,200541
-Berkhamsted School,Non State Primary Education,Non State Secondary Education"
+Berkhamsted School,498903,207464
 Heritage House School,496791,202408
 St Edward's Catholic Junior School,483460,213049
 Chartridge Combined School,493011,203652
@@ -65077,7 +65077,7 @@ South Loughton Valley Park,484240,237519
 The Open University,488563,237008
 Beaudesert Lower School,493850,225823
 Howe Park School,483979,234422
-Bridge Academy Central,Secondary Education",486180
+Bridge Academy Central,486180,236745
 Lidlington,498962,239139
 Middleton Primary School,488422,239043
 Heronsgate School,489513,236134
@@ -65097,7 +65097,7 @@ Bradwell Village School,483472,239658
 St Michael's Church of England Combined School,485043,226184
 Abbeys Primary School,486166,234903
 Whaddon Church of England First School,480711,233941
-Oakgrove School,Secondary Education",488664
+Oakgrove School,488664,238710
 Merebrook Infant School,484387,235119
 Greenleas Lower School,490021,225344
 Stanbridge Lower School,496725,224355
@@ -65138,12 +65138,12 @@ Palmer's Shrubs,498216,231561
 Blackland Covert,482915,225916
 Whaddon Park,481095,234534
 Little Brickhill Copse,492144,232970
-Milton Keynes Academy,Secondary Education",486102
+Milton Keynes Academy,486102,237364
 Slated Row School,489012,237831
 Swanbourne Church of England (Voluntary Aided) School,480067,227417
 Broughton Manor Preparatory School,490014,239690
 Holne Chase Primary School,486167,233098
-"St Leonard's,other,Primary Education
+"St Leonard's,492140,228414
 Five Acres Nursing Home,488354,236249
 Husborne Crawley Lower School,495984,235809
 Totternhoe Lower School,498929,221120
@@ -65167,7 +65167,7 @@ Caroline Haslett Primary School,483945,235799
 Woburn Sands,492431,236371
 Parklands,487481,238919
 Fenny Stratford,488076,234273
-Walton High Brooklands Campus,Secondary Education",491058
+Walton High Brooklands Campus,491058,239671
 High Ash Church of England Primary School,490650,230519
 St George's Lower School,492582,225719
 Swanbourne House School,480040,227250
@@ -65206,9 +65206,9 @@ Newton Leys Primary School and Nursery,486815,231469
 Oldbrook First School,485430,237724
 Ridgmont Lower School,497583,235987
 Leighton Buzzard,491036,224899
-The Cedars Upper School and Community College,Secondary Education",491433
+The Cedars Upper School and Community College,491433,224142
 Ashbrook School,482047,238404
-St Pauls Roman Catholic School,Secondary Education",485698
+St Pauls Roman Catholic School,485698,237009
 Monkston Primary School,489599,238195
 Germander Park First School,484927,239642
 Giles Brook Primary School,483093,233490
@@ -67603,7 +67603,7 @@ Great Linford Combined School,485275,241801
 Bushfield School,481948,240777
 Sharnbrook John Gibbard Lower School,499715,259666
 Church End Lower School,499636,241265
-Stantonbury Campus,Secondary Education",484559
+Stantonbury Campus,484559,241327
 Willen Hospice,487851,241150
 Yardley Hastings Primary School,486512,257018
 Pinchmill Lower School,499477,257905
@@ -67612,7 +67612,7 @@ The Radcliffe School,480713,240861
 Hackleton Church of England Primary School,480290,255200
 Pepper Hill School,483374,241218
 Stanton School,483920,241040
-Stephenson Academy,Secondary Education",484940
+Stephenson Academy,484940,241464
 Downs Barn Nursery,485855,240203
 Stoke Goldington Church of England School,483749,248612
 Emberton School,488722,249535
@@ -71386,7 +71386,7 @@ Higham Ferrers Nursery and Infant School,495821,268512
 Odell Solar Park,496051,260440
 Hayway Infant and Nursery School,495522,267482
 Walgrave Primary School,480513,272333
-Overstone Park School,Non State Secondary Education",480992
+Overstone Park School,480992,265598
 Hayes Wood,482488,266171
 Darnell's Dene,496091,262846
 Big Covert,487527,272907
@@ -71403,7 +71403,7 @@ Stanwell Spinney,487071,269267
 Goldenash Spinney,480762,264774
 Park Pond,482069,267401
 Great Doddington Primary School,488192,264890
-Wellingborough Campus,Higher or University Education",489093
+Wellingborough Campus,489093,268020
 Three Corner Spinney,487828,277413
 Christopher Reeves VA Lower School,494136,262376
 Rowan Gate Primary School,489789,268671
@@ -71423,7 +71423,7 @@ Denfield Park Primary School,496045,267193
 Ecton Brook Primary School,481819,262429
 Wilby Church of England Primary School,486708,266172
 St Lawrence Lower School,495471,264419
-St Peter's Independent School,Non State Primary Education,Non State Secondary Education"
+St Peter's Independent School,480372,263491
 Irthlingborough Infant School and Nursery,494389,270780
 Blackthorn Primary School,480748,263827
 Wren Spinney Community Special School,485494,278508
@@ -71445,7 +71445,7 @@ Sir Christopher Hatton School,489179,268807
 Pytchley Endowed Church of England Primary School,485838,274644
 Grendon Church of England Primary School,487845,260280
 The Latimer Arts College,489051,276845
-Wellingborough School,Non State Secondary Education",489872
+Wellingborough School,489872,267295
 Hawthorn Community Primary School,486859,277874
 St Peter's School,486574,277728
 Kingsley School,488718,278131
@@ -71757,7 +71757,7 @@ Wymington Road,494182,262818
 Barnwell Drive,495195,265901
 Irchester Community Primary School,492421,265863
 Warkton Lane,489479,277896
-Tresham College of Further and Higher Education,Higher or University Education",487691
+Tresham College of Further and Higher Education,487691,277523
 St Mary's Church of England (Aided) Primary School,487492,278890
 Northampton Road,485881,278145
 Orlingbury Road,485947,274382
@@ -73709,7 +73709,7 @@ Grafton Park Wood,493332,281300
 Frere Hill Wood,498572,292100
 Our Lady of Walsingham Roman Catholic Primary School,488600,289320
 Red Kite Special Academy,486237,288514
-Montsaye Academy,Secondary Education",480916
+Montsaye Academy,480916,281318
 Beanfield Primary School,486373,288452
 Kingswood Primary School,487110,287390
 Geddington Church of England Primary School,489622,282947
@@ -73718,7 +73718,7 @@ Exeter Primary School and Children's Centre,488570,288120
 Shire Lodge Nursing Home,488026,290548
 St Brendan's Catholic Primary School,486722,288919
 Havelock Junior School,480494,283336
-Kettering Buccleuch Academy,Secondary Education",487663
+Kettering Buccleuch Academy,487663,280271
 Lodge Park Academy,486835,290157
 Middle Laundimer Wood,493387,287362
 Dryleas Wood,492072,294356
@@ -73894,7 +73894,7 @@ Uppingham Road,486732,294000
 Huntingdon Close,488192,286457
 Kettering Road,492540,289304
 Corby Road,491407,287114
-Tresham College of Further and Higher Education,Higher or University Education",488950
+Tresham College of Further and Higher Education,488950,288497
 Southbrook,486901,287483
 Havelock Infants School,480471,283405
 Leighfield Primary School,486150,299384

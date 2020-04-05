@@ -6525,7 +6525,7 @@ Whitehaven,297455,518663
 St Gregory and St Patrick's Roman Catholic Community School,298012,516883
 Valley Primary School and Nursery,298195,515741
 South Beach,296648,518230
-St Benedict's Catholic High School,Secondary Education",299297
+St Benedict's Catholic High School,299297,517697
 Hannah Moor,294670,514074
 Pattering Holes,295279,511916
 Mayfield School,299323,517425

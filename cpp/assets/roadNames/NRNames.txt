@@ -4945,7 +4945,7 @@ Kintarbert,182792,667683
 Tarbert Ferry Terminal,187118,668900
 Tighnabruaich Primary School,197396,672635
 Srondoire,184783,679238
-Tarbert Academy,Secondary Education",186518
+Tarbert Academy,186518,668437
 School Road,186468,668400
 Burnside,186322,668627
 Back Road,186365,668536

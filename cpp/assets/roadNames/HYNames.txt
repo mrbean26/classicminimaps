@@ -3489,7 +3489,7 @@ Gerra Taing,375983,1043146
 Bay of Sjaivar,378942,1055728
 Whale Geo,365078,1045551
 Geo of Bewan,378703,1055328
-Sanday Junior Secondary School,Secondary Education",366630
+Sanday Junior Secondary School,366630,1040683
 Alisters Geo,378854,1043795
 Cellar of Hamargeo,375571,1054607
 Leavo,365648,1042154

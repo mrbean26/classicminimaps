@@ -206,7 +206,7 @@ Eilean Carragraich,65812,796240
 Sgeirean Màs a' Mhill,65694,794279
 Rubha Chàrnain,68370,797033
 Castlebay Ferry Terminal,66477,798187
-Castlebay Community School,Secondary Education",65954
+Castlebay Community School,65954,798461
 A888,68784,798845
 St Brendan Home,65935,797986
 Hynish,98533,739329
@@ -480,5 +480,5 @@ Sgeir na Cloiche,99629,747940
 Port nan Cuiseag,99078,747926
 Bana-druim,92502,745584
 Clachan Beaga,93438,744544
-Ard-Sgoil Thiriodh Tiree High School,Secondary Education",97705
+Ard-Sgoil Thiriodh Tiree High School,97705,747578
 B8066,98548,741157

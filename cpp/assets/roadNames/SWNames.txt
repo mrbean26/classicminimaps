@@ -1935,7 +1935,7 @@ Church Carn,141243,36174
 West Cornwall Hospital,146851,30662
 St Erth Community Primary School,155328,35289
 Alverton Community Primary School,146429,29708
-St Pirans School,Non State Secondary Education",155559
+St Pirans School,155559,36567
 St Maddern's Church of England School,145425,31739
 Millpond View Care Home,155770,36842
 Gulval Community Primary School,148042,31711
@@ -5524,7 +5524,7 @@ Monk,176192,59182
 Carn Gowla,169855,51411
 Sheep Rock,166810,46813
 Magor Plantation,164135,42640
-Cornwall College of Further and Higher Education,Higher or University Education",166404
+Cornwall College of Further and Higher Education,166404,41668
 Treleigh Community Primary School,170505,43528
 The Curnow School,169901,42542
 Illogan School,166997,44072
@@ -6276,7 +6276,7 @@ Lizard Pool,199933,39319
 Coggan Rock,192562,38057
 Philleigh,184300,39567
 Falmouth University,180803,32121
-Falmouth Marine School,Higher or University Education",180501
+Falmouth Marine School,180501,32628
 Falmouth Town,181151,32093
 King Charles Court Nursing Home,180819,32587
 Langholme,181217,32261
@@ -7416,7 +7416,7 @@ Trendeal Hill,188892,52965
 Tinkers Castle Wood,180459,52013
 Newlyn Downs,183122,54105
 Truro Bus Station,182813,44714
-Truro High School,Non State Secondary Education",182146
+Truro High School,182146,44116
 St Erme with Trispen Community Primary School,184755,49950
 Trethosa Solar Park,193897,54589
 Penair,184599,45561
@@ -7545,7 +7545,7 @@ Trennick Lane,183250,44509
 Roseland Parc Nursing Home,192744,44938
 Higher Polsue Way,186382,46248
 St Clement Street,182670,45036
-Polwhele House School,Non State Secondary Education",183817
+Polwhele House School,183817,47183
 Ladock Church of England School,189568,51000
 Peters Hill,196896,53250
 Probus Community Primary School,189803,48001

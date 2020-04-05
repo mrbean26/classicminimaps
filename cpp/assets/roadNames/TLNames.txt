@@ -4340,7 +4340,7 @@ Harpenden Memorial Hospital,513608,214629
 St Catherine of Siena Roman Catholic Primary School,511510,201124
 St Paul's Church of England Primary School,508023,200368
 Redbourn Infant and Nursery School,510247,212469
-St Albans High School for Girls,Non State Secondary Education",515174
+St Albans High School for Girls,515174,207722
 Mount Pleasant Lane Junior Mixed Infant School,512299,202015
 Kings Langley,508039,202033
 Lockers Park School,504985,207279
@@ -4441,7 +4441,7 @@ Maple Grove Primary School,507003,209645
 High Beeches Primary School,514844,214009
 Tudor Primary School,506216,206370
 Crabtree Junior School,514509,214289
-Beaumont School,Secondary Education",517655
+Beaumont School,517655,207743
 Breakspeare School,509112,201576
 Nash Mills Church of England Primary School,506915,204874
 Aycliffe Drive Primary School,506431,209243
@@ -9195,7 +9195,7 @@ Frogmore Bottom,517406,222883
 Cain Hill,509810,235405
 Conduit Plantation,514013,229571
 Nunswood,514259,237400
-Manshead School,Secondary Education",503722
+Manshead School,503722,220270
 Chalk Hill,515205,226728
 Rabia Girls School,507430,222143
 St Mary's (Voluntary Aided) Church of England Lower School,508945,238100
@@ -9212,7 +9212,7 @@ Dallow Primary School,508334,221538
 Hitch Wood,519274,223523
 Southfield Primary School,503977,223740
 Campton Lower School,512835,238144
-Littlemore House,Secondary Education",508391
+Littlemore House,508391,226046
 Flitwick,503331,235074
 Kingshott School,519907,228031
 The Hill,510586,239632
@@ -9257,7 +9257,7 @@ Hawthorn Park Primary School,502874,224597
 Hadrian Academy,503047,222633
 Benslow Nursing Home,519445,229472
 St Matthew's Primary School,509454,222030
-UTC Central Bedfordshire,Secondary Education",503277
+UTC Central Bedfordshire,503277,225040
 River Bank Primary School,508559,222981
 Chantry Primary School,503765,223661
 Chalton Lower School,503252,226420
@@ -9286,7 +9286,7 @@ Someries Junior School,511306,222992
 RAF Henlow,516496,236781
 Streetfield Middle School,503417,220456
 Downside Primary School,506252,222434
-Hitchin Girls' School,Secondary Education",518993
+Hitchin Girls' School,518993,229111
 Robert Bloomfield Middle School,513894,238638
 Henlow Middle (Voluntary Controlled) School,518037,238473
 Meppershall Church of England (Voluntary Aided) Lower School,513675,236250
@@ -9305,7 +9305,7 @@ William Austin Junior and Infants School,508129,223710
 St Vincent's Roman Catholic Primary School,502362,224319
 King's House School,505698,223664
 Thomas Whitehead Church of England Primary School,501820,224065
-York Street Campus,Higher or University Education",509615
+York Street Campus,509615,221847
 Silsoe Pre School,507861,235161
 Shillington Lower School,512307,234465
 Focus School Dunstable Campus,503061,222352
@@ -12877,7 +12877,7 @@ St Gregory's Roman Catholic Middle School,503167,250027
 Lakeview School,505647,244760
 Queens Park Academy Community Nursery,503634,249677
 Wootton Lower School,500849,245299
-Bedford School,Non State Secondary Education",505214
+Bedford School,505214,250456
 Wootton Upper School,500156,244806
 Laburnum Lower School,516825,249297
 Milton Ernest (Voluntary Controlled) Lower School,501929,256036
@@ -12898,7 +12898,7 @@ St Swithuns (Voluntary Controlled) Lower School,517348,249009
 Bedford Road Lower School,503006,247824
 Bedford,504209,249700
 Broadmead Lower School,502233,242624
-Bedford Girls' School,Primary Education,Secondary Education"
+Bedford Girls' School,505489,249368
 The Hills Academy,506481,251294
 Mark Rutherford Upper School and Community College,507339,252426
 Willington Lower School,511163,250081
@@ -14397,7 +14397,7 @@ Kymbrook Lower School,508296,261181
 Skulking Dudley Coppice,504242,279976
 Great Staughton Primary School,512860,264696
 Huntingdon Wood,515202,262112
-Kimbolton School,Non State Primary Education,Non State Secondary Education"
+Kimbolton School,510020,267574
 Agdengreen Wood,512559,265791
 Agden Green,512528,266323
 Meadow Coppice,505393,278998
@@ -16409,7 +16409,7 @@ Lake Fields,507793,287304
 Bluestone Covert,509091,287369
 West Town Primary Academy,518463,298676
 City Learning Centre,518191,299205
-Nene Park Academy,Secondary Education",516286
+Nene Park Academy,516286,296306
 Double Bank Solar Farm,519999,281632
 Peterborough High School,517819,298888
 Glapthorn Church of England Primary School,501807,290454
@@ -21008,7 +21008,7 @@ Brick Kiln Wood,523515,204020
 Commonswood School,525774,211018
 St Christopher's Nursing Home,522622,207179
 Hubbard's Wood,530959,215904
-Dame Alice Owen's School,Secondary Education",524157
+Dame Alice Owen's School,524157,200456
 Holyfield Marsh,537322,203864
 Queenswood School,526711,203473
 Flamstead End School,534443,203717
@@ -21043,7 +21043,7 @@ Lochinver House School,525657,202351
 The Wroxham School,523556,201507
 St Philip Howard Catholic Primary School,522577,207992
 Brookmans Park,524120,204028
-Monk's Walk School,Secondary Education",523395
+Monk's Walk School,523395,215131
 Four Swannes Primary School,536229,200572
 Knebworth Primary and Nursery School,525306,219961
 Watton-at-Stone,529594,219229
@@ -21058,7 +21058,7 @@ HaileyburyTurnford School,536534,203240
 Tower Primary School,536355,215067
 The Sir Frederic Osborn School,525793,212907
 King Harold School,539326,200801
-"Puller Memorial,other,Primary Education
+"Puller Memorial,536436,218746
 Sheredes Primary School,536807,207814
 Panshanger Primary School,525420,213057
 The Cranbourne Primary School,537639,210499
@@ -21125,7 +21125,7 @@ Theobalds Grove,535899,201043
 Stanborough School,522878,211571
 St Joseph Roman Catholic Primary School,536359,200991
 Simon Balle School,533281,212242
-Sherrardswood School,Non State Primary Education,Non State Secondary Education"
+Sherrardswood School,523741,215785
 Abel Smith Primary School,532924,212548
 University of Hertfordshire,531432,210304
 Cheshunt,536654,202177
@@ -24242,7 +24242,7 @@ Greenside School,525530,222724
 Norton St Nicholas Church of England (Voluntary Aided) Primary School,523162,234336
 Roger De Clare Church of England First School and Nursery,539320,222973
 North Hertfordshire College,523951,223564
-Redemption Church and Redemption Academy,Non State Secondary Education",526300
+Redemption Church and Redemption Academy,526300,224977
 Martins Wood Primary School,525804,226133
 Longmeadow Primary School,525838,222108
 Fairfield Park Lower School,520750,235034
@@ -24318,7 +24318,7 @@ Bedwell Primary School,525185,224451
 St Edmund's Preparatory School,537536,221990
 Stevenage,523454,224092
 Pixmore Junior School,522259,232125
-The Da Vinci Studio School of Science and Engineering,Secondary Education",523915
+The Da Vinci Studio School of Science and Engineering,523915,223563
 Hartsfield Junior Mixed and Infant School,524883,233996
 Knebworth,524889,220309
 Radburn Primary School,523192,232056
@@ -24344,7 +24344,7 @@ Northfields Infants and Nursery School,521961,234373
 Ardeley St Lawrence Church of England Primary School,530836,227043
 St Edmund's College,537536,221990
 The Academy of Central Bedfordshire,521928,236827
-St Christopher School,Non State Primary Education,Non State Secondary Education"
+St Christopher School,521733,231234
 The Thomas Alleyne Academy,523446,225590
 Woolgrove School,523634,232139
 Royston Hospital,535763,239937
@@ -26226,7 +26226,7 @@ Petersfield Church of England (Aided) Primary School,535839,249974
 Icknield Walk First School,536446,241061
 Melbourn Village College,538274,245088
 Royston,535457,241288
-Biggleswade Campus,Non State Primary Education,Non State Secondary Education"
+Biggleswade Campus,520911,246499
 Gamlingay First School,523592,252414
 Little Grandsden Airfield,526608,253485
 Bury Lane Solar Farm,536807,244427
@@ -26254,7 +26254,7 @@ Johnston's Pond,533648,252126
 New Barns Plantation,535161,259261
 Monkfield Park Primary School,531844,259394
 Sutton Church of England (Voluntary Aided) Lower School,522276,247439
-Stratton Upper School and Community College,Secondary Education",520064
+Stratton Upper School and Community College,520064,244718
 Everton Lower School,520495,251075
 Munceys Farm,537860,242620
 St Andrews Lower School,520736,245266
@@ -28589,12 +28589,12 @@ Thorndown Primary School,530415,272744
 Elsworth Church of England (Voluntary Aided) Primary School,531314,263817
 Earith Primary School,538541,274985
 Hemingford Grey Primary School,529867,270752
-Hinchingbrooke School,Secondary Education",522551
+Hinchingbrooke School,522551,271518
 Thongsley Fields Primary and Nursery School,524574,273188
 Over Primary School,537581,270442
 Swavesey Primary School,536371,268580
 Fenstanton and Hilton Primary School,532085,268877
-Swavesey Village College,Secondary Education",535903
+Swavesey Village College,535903,268092
 Houghton Primary School,528052,272165
 St Ivo School,530469,272073
 RAF Wyton,528484,274748
@@ -28747,7 +28747,7 @@ Holywell Church of England (Controlled) Primary School,534191,271682
 Temple Close,524302,271685
 Cambridge Road,531438,268337
 Wiggin Hill Solar Farm,530990,274897
-St Peter's School,Secondary Education",523829
+St Peter's School,523829,272731
 Dene Close,525122,272660
 Hartford Junior School,524763,272506
 Wessell,528545,272355
@@ -30185,7 +30185,7 @@ Upwood Airfield,526263,283687
 Fenside Cow Common,532683,281902
 Bury Church of England Aided Primary School,528405,283828
 Osier Fen,521128,292686
-St John Fisher Roman Catholic High School,Secondary Education",520569
+St John Fisher Roman Catholic High School,520569,299642
 Benwick Primary School,534270,290119
 Stanground Academy,520334,295939
 Warboys Wood,530112,281802
@@ -32539,7 +32539,7 @@ Milwards Primary School and Nursery,543897,207551
 Harlowbury Primary School,547894,211854
 Fawbert and Barnard's Primary School,547264,211262
 Dr Walker's Church of England (Voluntary Controlled) Primary School,556969,206832
-Sir Charles Kao UTC,Secondary Education",544948
+Sir Charles Kao UTC,544948,209961
 Hatfield Heath Community Primary School,552230,215121
 Purford Green Primary School,546332,208962
 Harlow Town,544619,211235
@@ -34688,7 +34688,7 @@ Bishop's Stortford College,548095,221498
 Birchwood High School,550347,221512
 Newport Free Grammar School,552036,234402
 Anstey First School,540436,232756
-The Christian School,Non State Secondary Education",555817
+The Christian School,555817,221257
 Forest Hall School,552079,223952
 Birchanger Church of England (Voluntary Controlled) Primary School,550873,223000
 Manor Fields Primary School,547555,220017
@@ -37127,7 +37127,7 @@ The Leys School,545014,257388
 Recovery College East,546009,257530
 Cambridge University Boat Houses,545938,259098
 Linton Church of England Infant School,556262,246756
-Landmark International School,Non State Secondary Education",552036
+Landmark International School,552036,256290
 St Mary's School,545360,257313
 Strangeways Research Laboratory,547112,254982
 Great Chesterford Church of England Academy,550738,242835
@@ -37197,7 +37197,7 @@ Middle Bit Plantation,557770,255050
 Primrose Croft,544995,259704
 Cherry Hinton Church of England Primary School,548967,256906
 Homerton College,546080,256273
-Cambridge School of Visual and Performing Arts,Higher or University Education",546290
+Cambridge School of Visual and Performing Arts,546290,258698
 Black Peak Solar Farm,540480,244073
 Cambridge Centre for Sixth Form Studies,545981,257348
 Anglia Ruskin University,545864,258276
@@ -37226,7 +37226,7 @@ University of Cambridge Old Addenbrookes Site,545121,257839
 Christ's College,545161,258572
 Fitzwilliam College,543957,259536
 The Perse Pelican Pre Preparatory School,546623,255886
-University Technical College Cambridge,Secondary Education",546064
+University Technical College Cambridge,546064,255493
 The Bellbird Primary School,548769,249470
 St John's College School,543965,258915
 National Extension College,545968,256372
@@ -37236,7 +37236,7 @@ Trinity Hall,544634,258497
 Abbey College,545863,257373
 Thriplow Church of England (Voluntary Aided) Primary School,544038,246891
 The Spinney Primary School,548407,256902
-St Andrew's College,Non State Secondary Education",545453
+St Andrew's College,545453,257892
 St Andrews Tutorial College,544868,258300
 Hauxton Primary School,544128,251977
 Linton Heights Junior School,556846,247028
@@ -37253,7 +37253,7 @@ Great Chesterford,550458,242448
 Bellerbys College Cambridge,545259,257363
 St Andrew's College,545842,257380
 Clare College Memorial Court,544289,258412
-St Mary's School,Non State Secondary Education",545140
+St Mary's School,545140,257028
 Holme Court School,553171,249157
 Hinton Grange,547619,256292
 The Cambridge Care Home,546075,259806
@@ -37269,7 +37269,7 @@ Fawcett Primary School,545003,255229
 University of Cambridge Downing Site,545178,258198
 St Bede's Interchurch Comprehensive School,547838,257026
 Cambridge University Rugby Union Football Club,543846,258205
-The Netherhall School,Secondary Education",548079
+The Netherhall School,548079,255615
 Granta School,555528,246967
 Cambridge International Airport,548788,258371
 Cambridge Steiner School,550806,256392
@@ -37459,7 +37459,7 @@ St Catharine's College,545578,257530
 Wesley House,545100,258860
 Colville Road,548930,256537
 Mount Pleasant,548640,249634
-Heritage School,Non State Secondary Education",545201
+Heritage School,545201,257511
 Trinity Close,558745,250734
 Newnham College,544135,257711
 Oyster Row,546750,259497
@@ -39507,7 +39507,7 @@ Church Hill,556407,265460
 Two Mill Field,544184,267768
 Further Field,543395,266384
 Rackham Primary School,550319,278714
-King's Ely,Non State Primary Education,Non State Secondary Education"
+King's Ely,553825,279737
 The Pathfinder C of E Primary School,540176,267317
 Bottisham Village College,553994,260875
 Chesterton Primary School,546683,260383
@@ -41008,7 +41008,7 @@ Cavalry Primary School,542320,295899
 Heron House Nursing Home,541377,295524
 Burrowmoor Primary School,541470,296222
 Lionel Walden Primary School,540282,290699
-Ely College,Secondary Education",553759
+Ely College,553759,281095
 All Saints Primary School,541681,297725
 Highfield Special School,553764,280866
 Littleport and Cambridgeshire Academy,556105,287494
@@ -43309,7 +43309,7 @@ St John's Danbury Church of England Primary School,578565,205375
 Our Lady Immaculate Roman Catholic Primary School,570528,206362
 Cherry Wood Grange Care Home,570114,205869
 Oaklands County Infants School,570629,205800
-"Mildmay Junior,Primary Education,570724
+"Mildmay Junior,570724,204262
 Hatfield Peverel St Andrew's Junior School,579677,211375
 Chelmsford College,571087,205511
 Heathcote School,578368,205154
@@ -43380,7 +43380,7 @@ Great Leighs Primary School,573081,217206
 Perryfields Infant School,571786,208617
 The Beaulieu Park School,572263,209858
 Widford Lodge,569819,205274
-Writtle College,Higher or University Education",567905
+Writtle College,567905,206791
 The Boswells School,571961,208627
 Chelmsford Service Area,573926,209293
 Broomfield Hospital,570113,211395
@@ -45318,14 +45318,14 @@ Church Pond,560534,223821
 Lyonshall Wood,578281,225202
 The Willows,570193,230462
 Stisted Church of England Primary Academy,580000,224974
-Felsted School,Non State Secondary Education",568142
+Felsted School,568142,220649
 Edith Borthwick School,574875,224123
 Great Dunmow Primary School,561835,221995
 Andrew House School,567718,220340
-Gosfield School,Non State Secondary Education",578908
+Gosfield School,578908,230701
 Rayne Primary and Nursery School,572497,222914
 Notley Green Primary School,574282,221493
-Helena Romanes School and Sixth Form Centre,Secondary Education",562049
+Helena Romanes School and Sixth Form Centre,562049,223137
 Great Sampford Primary School,564409,235464
 Felsted Preparatory School,567899,220318
 White Court School,574099,220820
@@ -45356,7 +45356,7 @@ Beckers Green Primary School,577741,222676
 Castle Hedingham,577326,236182
 St Marys Court,575619,225436
 St Andrew's Church of England (Voluntary Controlled) Primary School,575815,238759
-Hedingham School and Sixth Form,Secondary Education",577841
+Hedingham School and Sixth Form,577841,235151
 Tabor Academy,574836,223769
 Braintree,576141,222735
 Spriggs Solar Farm,562803,232494
@@ -46883,7 +46883,7 @@ St Felix Roman Catholic Primary School,565842,245321
 Broadlands Hall,568721,247042
 Ridgewell Airfield,575379,241918
 Stour Valley Community School,577463,245604
-Stoke College,Non State Secondary Education",574053
+Stoke College,574053,243246
 Castle Camps Church of England (Controlled) Primary School,563173,243167
 Kettlefields Primary School,563768,258139
 Wickhambrook Community Primary School,574689,255132
@@ -51548,7 +51548,7 @@ Powers Hall Infant School and Nursery,580873,215102
 Feering Church of England (Voluntary Controlled) Primary School,587090,219943
 Elm Hall Primary School,581827,216702
 Wentworth Primary School,584652,205970
-Maltings Academy,Secondary Education",581615
+Maltings Academy,581615,214284
 Maylandsea Primary School,590855,201913
 Chipping Hill Primary School,581825,215426
 St Nicholas Church of England (Voluntary Controlled) Primary School,599247,203727
@@ -51566,7 +51566,7 @@ Milldene Primary School,589775,216785
 Witham,582154,215223
 St Luke's Church of England (Controlled) Primary School,589541,216023
 Plume School,584974,206694
-Thurstable School Sports College and Sixth Form Centre,Secondary Education",589666
+Thurstable School Sports College and Sixth Form Centre,589666,216980
 Great Totham Primary School,585348,212060
 Stow Maries Aerodrome,581952,200026
 Sextons Lane,586043,213896
@@ -54141,7 +54141,7 @@ Soaring Primary Montessori Primary School,585586,224671
 Paxman Academy,597540,223288
 St Andrew's Church of England (Voluntary Aided) Primary School,582029,231091
 Colchester General Hospital,599552,227410
-St Mary's School,Non State Secondary Education",598192
+St Mary's School,598192,225022
 Montgomery Infant School and Nursery,598576,222520
 Tall Trees Nursing Home,599215,227144
 Holy Trinity Church of England Primary School,593534,226360
@@ -57832,7 +57832,7 @@ Stowlangtoft Hall,596239,268940
 Woolpit Community Primary School,598032,262104
 Bury St Edmunds County Upper School,584580,265473
 Joyce Cockram Day Hospital,585003,262532
-West Suffolk College,Higher or University Education",584304
+West Suffolk College,584304,264640
 Riverwalk School,584529,263568
 St James Church of England (Voluntary Aided) Middle School,585982,264138
 Ixworth Church of England (Voluntary Controlled) Primary School,593494,270438

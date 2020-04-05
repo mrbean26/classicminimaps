@@ -9056,12 +9056,12 @@ Plantings School,248025,56575
 Stoke Damerel Community College,246658,55750
 Brunel Primary and Nursery School,242329,58984
 St Peter's Church of England (Voluntary Aided) Primary School and Nursery,247156,54516
-Sir John Hunt Community Sports College,Secondary Education",247792
+Sir John Hunt Community Sports College,247792,59846
 St Andrew's Church of England (Voluntary Aided) Primary School,247293,54170
 Burraton Community Primary School,241091,59193
 Hele's School,253318,56958
 Chaddlewood Primary School,255326,56390
-Torpoint Community College,Secondary Education",243092
+Torpoint Community College,243092,55409
 Laira Green Primary School,250167,55934
 Eggbuckland Vale Primary School,249469,57861
 Knowle Primary School,246251,59587
@@ -9085,7 +9085,7 @@ Heddon Wood,257005,50576
 Trethenic Nursing Home,248080,55544
 Tregonhawke Cliff,240583,51393
 Great Kithill Plantation,242265,56668
-UTC Plymouth,Secondary Education",245461
+UTC Plymouth,245461,55362
 Brakehill Plantation,252961,47412
 Broomball Hill,246196,58540
 The Rookery,251874,49697
@@ -9172,7 +9172,7 @@ Boringdon Primary School,253721,57027
 Mayflower Community Academy and Nursery,246169,57449
 Longcause Community Special School,254711,55721
 Stuart Road Primary School,246817,55276
-Marine Academy Plymouth,Secondary Education",245474
+Marine Academy Plymouth,245474,58506
 Hyde Park Junior School,248172,56156
 The Roland Levinsky Building,248279,54744
 Devonport,245865,55430
@@ -9190,7 +9190,7 @@ Devonport High School for Girls,247195,56948
 Plympton St Maurice Primary School,254678,55374
 Salisbury Road Primary School,249091,54972
 Plymouth Stonehouse,246104,53948
-Lipson the Co-operative Academy,Secondary Education",249941
+Lipson the Co-operative Academy,249941,55620
 Plymouth University,250179,59443
 Woodford Primary School,252868,56972
 Pilgrim Primary School,247493,54884
@@ -9200,7 +9200,7 @@ St Edward's Church Primary School,250255,58054
 Holy Cross Roman Catholic Primary School,248505,54615
 Glen Park Primary School,255587,56287
 Millbay Docks,246626,53967
-Plymouth School of Creative Arts,Secondary Education",246972
+Plymouth School of Creative Arts,246972,54292
 Bishop Cornish Church of England Primary School,242551,58126
 Peninsula Dental School,245900,54495
 The Lawns Nursing Home,255001,52099
@@ -9446,7 +9446,7 @@ Leigham Primary School,251162,58226
 City College Plymouth,246050,54877
 Mullet Close,250381,55824
 Mount Tamar School,245178,58650
-Plymouth College,Non State Primary Education,Non State Secondary Education"
+Plymouth College,248123,55970
 Killerton Lane,250730,54287
 Sherford Road,254113,53380
 Cranmere Road,249291,56830
@@ -11661,7 +11661,7 @@ Beara Down,251037,87839
 Maiseclose Plantations,247095,91394
 Youlden Plantations,255872,97397
 Blackdown Nursing Home,250252,80156
-Okehampton College,Secondary Education",259229
+Okehampton College,259229,94773
 Halwill Community Primary School,244582,99835
 Meldon Viaduct,256623,92482
 St James CE Primary School,259811,95883
@@ -13124,7 +13124,7 @@ East Allington Primary School,276918,48288
 Kingsbridge Community Primary School,274043,44611
 Ugborough Primary School,267678,55920
 Stowford Primary School,264181,56468
-Kingsbridge Community College,Secondary Education",272862
+Kingsbridge Community College,272862,43864
 Kingsbridge Bus Station,273501,44076
 Hazard Solar Farm,275060,59246
 Aveton Gifford Church of England Primary School,269435,47685
@@ -13981,7 +13981,7 @@ Pil Tor,273500,75969
 Woodencliff Wood,275830,71443
 Brimpts Northern Wood,267272,74606
 Pudsham Down,273308,75293
-Schumacher College,Higher or University Education",278706
+Schumacher College,278706,62753
 Wind Tor,270801,75779
 Upper Plantation,270848,72776
 Rattery Furze Plantation,272986,61812
@@ -14012,10 +14012,10 @@ Yar Tor,267861,73938
 Dean Wood,271100,64841
 Ilsington Church of England Primary School,278609,76176
 Bidwell Brook School,278511,62312
-Atrium Studio,Secondary Education",276340
+Atrium Studio,276340,70780
 King Edward VI Community College,279657,61134
 Landscove Church of England Primary School,277474,66293
-South Devon Steiner School,Non State Secondary Education",277366
+South Devon Steiner School,277366,63312
 South Brent Primary School,270000,60059
 South Dartmoor Community College,276435,71064
 Dartington C of E Primary School and Nursery,278520,62407
@@ -16067,7 +16067,7 @@ Forest Cove,284825,47014
 Sugary Cove,288651,50024
 Stockern Plantation,282407,57279
 Roselands Primary School,287820,58938
-Dartmouth Academy,Primary Education,Secondary Education"
+Dartmouth Academy,286660,50697
 Brixham Church of England Primary School,292821,55716
 Kingswear Hoodown,288183,52281
 Churston Ferrers Grammar School,289260,56197
@@ -19824,7 +19824,7 @@ Channing's Wood,282820,69596
 Paignton,288948,60609
 Totnes St John's Church of England Primary School,281015,60075
 The Grove School,280164,60268
-Stoodley Knowle School,Non State Secondary Education",293869
+Stoodley Knowle School,293869,64224
 Torbay Hospital Annexe,289725,66249
 Torbay Hospital,289822,65814
 Newton Abbot Community NHS Hospital,285802,72314
@@ -19842,7 +19842,7 @@ Ratcliffe School,295210,75848
 Totnes Hospital,280451,60571
 Teign School,286631,73989
 Decoy Community Primary School,286932,70024
-Newton Abbot College,Secondary Education",285761
+Newton Abbot College,285761,71683
 Sacred Heart Roman Catholic School,288656,61181
 Coombeshead Academy,285328,71784
 Bramble Down,281998,68837
@@ -19950,13 +19950,13 @@ Ellacombe Academy,291749,64687
 Shiphay Learning Academy,289080,65695
 Canada Hill Primary School,284788,70196
 Cuthbert Mayne School,291380,66015
-Devon Studio School,Secondary Education",289699
+Devon Studio School,289699,66299
 Shaldon Primary School,293159,72345
 Hazeldown School,293652,74681
 Broadhampton Primary School,280152,66261
 Mount Tryon,292610,64260
 Westlands School of Mathematics and Computing,292023,65089
-Stover School,Non State Secondary Education",283867
+Stover School,283867,74120
 Mount Stuart Hospital,290699,65054
 Watcombe Primary School,291638,67265
 Rowcroft Hospice,290119,64605
@@ -19969,7 +19969,7 @@ Oldway Primary School,288649,61365
 Curledge Street Academy,288664,60417
 Ilsham Church of England Primary School,293163,64121
 Abbotskerswell Primary School,285644,68914
-Teignmouth Community School,Secondary Education",293818
+Teignmouth Community School,293818,73473
 Torquay Boys Grammar School,289685,65132
 Collaton St Mary Church of England Primary School,286339,60124
 Rydon Primary School,287356,73802
@@ -23108,7 +23108,7 @@ Newton St Cyres,288057,98899
 Starcross Pier,297850,81789
 Whipton Barton Infants and Nursery School,294695,93433
 Broadclyst Community Primary School,298426,97427
-The Maynard School,Non State Secondary Education",292738
+The Maynard School,292738,92536
 Ladysmith Junior School,293472,93134
 Newton St Cyres School,288151,98241
 Countess Wear Community School,294618,89561
@@ -23185,7 +23185,7 @@ Broadley Coppice,297255,99170
 Obelisk Plantation,292351,80959
 Choldon Brake,285758,97320
 Southbrook School,294314,90702
-St Wilfrid's School,Non State Secondary Education",291513
+St Wilfrid's School,291513,92885
 Exton,298039,86387
 The Junipers,293903,91649
 St David's Primary School,291577,92755
@@ -23224,14 +23224,14 @@ Ellen Tinkham School Further Education College,294713,93061
 Isca College of Media Arts,293360,90848
 Christow Community Primary School,283212,85114
 St Leonard's Church of England Primary School,292704,91853
-Magdalen Court School,Non State Secondary Education",293144
+Magdalen Court School,293144,92045
 Trinity School Church of England Primary and Nursery School,295456,89613
 Starcross Primary School,297503,81649
 Barton Place,291153,95396
 Exeter Tutorial College,292962,92353
 Exwick Heights Primary School,290154,93321
 Lady Seawards Church of England Primary School,298306,88823
-Exeter School,Non State Secondary Education",293347
+Exeter School,293347,92098
 Exeter St David's,291175,93337
 Vranch House School,294522,93421
 Exmouth,299995,81267
@@ -23241,7 +23241,7 @@ Crediton,283990,99477
 Exeter College,291892,92855
 Redhills Community Primary School,290681,92476
 Peterhayes,296566,94835
-"Royal Devon and Exeter Hospital,Hospital,293779
+"Royal Devon and Exeter Hospital,293779,91860
 St Luke's Science and Sports College,295828,93581
 West Exe Technology College,291372,90817
 Newton St Cyres Primary School,288419,97724

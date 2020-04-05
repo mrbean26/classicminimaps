@@ -3314,7 +3314,7 @@ Southport,333842,417115
 Queenscourt Hospice,335652,415668
 The Grange Primary School,335255,400102
 Kew Woods Primary School,335540,415325
-Christ the King Roman Catholic High School and Sixth Form Centre,Secondary Education",333922
+Christ the King Roman Catholic High School and Sixth Form Centre,333922,414983
 Redgate Community Primary School,330416,406620
 Halsall St Cuthbert's Church of England Primary School,336898,410044
 Scarisbrick St Mark's Church of England Primary School,337830,413515
@@ -3329,7 +3329,7 @@ Birkdale,332978,415702
 St Philip's Church of England Primary School,334407,416491
 Southport General Infirmary,335275,415628
 Hillside,332267,414380
-Maricourt Roman Catholic High School,Secondary Education",337967
+Maricourt Roman Catholic High School,337967,401826
 Lydiate Primary School,337217,403748
 Southport College,334152,417335
 Birkdale Primary School,333557,415438
@@ -6365,7 +6365,7 @@ Woodlands School,332083,435503
 Blackpool Airport,332121,431241
 St John's Roman Catholic Primary School,335259,439951
 Baines School,334556,438264
-AKS Lytham,Non State Primary Education,Non State Secondary Education"
+AKS Lytham,333483,427720
 Lytham Hall Park Primary School,335850,427473
 St Thomas' Primary School,332827,428598
 Squires Gate,330888,431701
@@ -8474,7 +8474,7 @@ The Breck Primary School,335570,440246
 Carter's Charity (VC) Primary School,337185,449377
 Great Arley School,333923,443202
 Northfold Community Primary School,332217,443801
-Rossall School,Non State Secondary Education",331524
+Rossall School,331524,444974
 Galloway Crescent,332734,440334
 Hawthorn Avenue,332467,445961
 Amounderness Way,332754,442813
@@ -17070,7 +17070,7 @@ St Mary's Roman Catholic Primary School,355314,418974
 Dalton St Michaels Church of England Primary School,349536,408202
 Corpus Christi Roman Catholic Primary School,347644,401257
 Charnock Richard Service Area,354331,415177
-Wigan UTC Academy,Secondary Education",358102
+Wigan UTC Academy,358102,406016
 St John Rigby Roman Catholic Sixth Form College,353888,406559
 Moorside Community Primary School,350254,405066
 Ormskirk West End Primary School,341186,409313
@@ -17110,7 +17110,7 @@ Adlington Park,358682,411761
 John Wood,358185,414921
 Barber's Moor,349386,419494
 New Lane,342730,413130
-The Deanery Church of England High School and Sixth Form College,Secondary Education",357825
+The Deanery Church of England High School and Sixth Form College,357825,405973
 Mawdesley St Peter's Church of England Primary School,349234,415057
 St Anne's Church of England Primary School,355949,407270
 Gillibrand Primary School,357576,416800
@@ -17267,7 +17267,7 @@ Sacred Heart Catholic Primary School,356909,406894
 Rectory Church of England Primary School,355810,400422
 Wrightington Mossy Lea Primary School,353631,412495
 St Mary's Church of England Primary School,352297,416608
-Rainford High Technology College,Secondary Education",348237
+Rainford High Technology College,348237,401464
 Bickerstaffe Church of England School,344484,404158
 Coppull Parish Church of England Primary School,356783,414450
 Our Lady Queen of Peace Roman Catholic High School and Engineering College,347613,407814
@@ -23265,7 +23265,7 @@ Holy Family Roman Catholic Primary School,350908,431842
 Thistleton Lodge,340229,437670
 Grimsargh St Michael's Church of England Primary School,358266,434072
 St Teresa's Roman Catholic Primary School,351359,428316
-Carr Hill High School and Sixth Form Centre,Secondary Education",342947
+Carr Hill High School and Sixth Form Centre,342947,431848
 St Leonard's Church of England Primary School,355499,427864
 Lostock Hall Community Primary School,354744,425713
 Little Hoole Primary School,348154,424007
@@ -23280,7 +23280,7 @@ Acorns Primary School,354401,431107
 Lisieux Hall,357224,421469
 Preston City Campus,353585,430379
 Moorbrook School,353128,431241
-Central Bus and Coach Station,Coach Station",354214
+Central Bus and Coach Station,354214,429640
 Lea Community Primary School,349939,430243
 St Joseph's Roman Catholic Primary School,359289,426119
 Aurora Keyes Barn School,346200,431604
@@ -23309,7 +23309,7 @@ Bilsborrow John Cross Church of England Primary School,351149,439923
 School Covert,356843,423294
 Farrington's Plantation,343768,420953
 Preston College the Park School,353904,430763
-Myerscough College,Higher or University Education",349727
+Myerscough College,349727,439983
 Roebuck Primary School,352511,430636
 Much Hoole Moss,349765,422547
 Preston's College,354002,432275
@@ -23392,7 +23392,7 @@ Treales Church of England Primary School,344452,434574
 Clayton Brook County Primary School,357962,424180
 Highfield Priory School,356752,432408
 St Mary's Roman Catholic High School,356537,426446
-"Fulwood,Primary Education,353730
+"Fulwood,353730,433494
 Mountwood Academy,353686,429086
 Cumberland School,356604,425055
 Archbishop Temple School a Church of England Specialist College,353792,432202
@@ -23440,7 +23440,7 @@ Tarleton High School,345406,421320
 Barnacre Road Primary School,359979,437801
 St Anthony's Catholic Primary School,352370,431753
 Cop Lane Church of England Primary School,352202,427472
-"Kirkham Grammar Junior,Primary Education,341665
+"Kirkham Grammar Junior,341665,431925
 Worden Sports College,352987,422026
 St Anne's Roman Catholic Primary School,352683,421565
 The Hamptons,357638,424797
@@ -28499,7 +28499,7 @@ Willow Lane Community Primary School,346735,461665
 Ryelands Primary School,346892,462893
 Caton Community Primary School,353113,464066
 Morecambe Bay Community Primary School,343750,464355
-Ripley St Thomas Church of England Academy,Secondary Education",347588
+Ripley St Thomas Church of England Academy,347588,460768
 Heysham Port,340340,460098
 Know End Point,345655,474410
 Quarryhill Wood,356135,462349
@@ -28544,7 +28544,7 @@ Caton Moor,356995,463657
 Moor End Wood,351687,467202
 Wash Dub Wood,355979,474603
 Beaumont College,347533,463886
-"The Cathedral Roman Catholic Primary School,Primary Education,348167
+"The Cathedral Roman Catholic Primary School,348167,461472
 Hillcroft,347652,465685
 Sandylands Community Primary School,342268,463143
 Morecambe,343192,464175
@@ -28573,7 +28573,7 @@ Bare Lane,345464,464618
 West End Primary School,342598,463497
 Quernmore CE (Controlled) Primary School,351719,460258
 Laurel Bank,346701,461421
-Carnforth High School,Secondary Education",350441
+Carnforth High School,350441,470371
 Yealand Church of England Primary School,350375,475228
 Lancaster and Morecambe College,345978,463286
 Carnforth Service Area,350724,471647
@@ -28582,7 +28582,7 @@ Grosvenor Park Primary School,345925,462793
 Skerton St Luke's Church of England (Voluntary Aided) Primary School,347545,463364
 Lancaster Christ Church Church of England Primary School,348841,461969
 The Queen Victoria Centre,343896,464444
-Islamic College Jamea Al Kauthar,Non State Secondary Education",347640
+Islamic College Jamea Al Kauthar,347640,460069
 Lancaster Girls Grammar School,347537,461404
 Westgate Primary School and Childrens Centre,343756,463121
 Lancaster Dallas Road Community Primary School,347446,461460
@@ -41322,7 +41322,7 @@ Ladybridge County Primary School,368623,408351
 St Augustin's Church of England Primary School,378732,401700
 Bolton Interchange,371803,408855
 St Thomas of Canterbury Roman Catholic School,369398,409864
-Bolton School Girls Division,Non State Secondary Education",370027
+Bolton School Girls Division,370027,409151
 Our Lady's Roman Catholic Primary School,361177,408318
 Dukesgate Academy,372242,404354
 The Ferns Primary Academy,372898,405967
@@ -41405,7 +41405,7 @@ Chapelfield Primary School,379071,406248
 St Peter's Smithills Dean Church of England Primary School,369600,411778
 Captain's Clough,369149,410468
 Tucker's Hill,360522,409997
-Rivington Park School,Non State Secondary Education",363578
+Rivington Park School,363578,412929
 Westhoughton High School,365872,405890
 Philips Park,379883,404595
 High Rid Plantation,366433,409984
@@ -41510,7 +41510,7 @@ Holy Family Catholic Primary School,360241,402418
 St Mary's Roman Catholic Primary School,364664,410578
 Platt Bridge Community School and Children's Centre,360686,402965
 Lowercroft Primary School,377529,410574
-Bolton School Boys Division,Non State Secondary Education",370040
+Bolton School Boys Division,370040,409177
 Mill View Care Home,371444,408244
 Prestolee County Primary School,375538,405809
 Harwood Meadows County Primary School,374769,411105
@@ -48279,7 +48279,7 @@ White Fold Wood,362208,439306
 Altham St James' Church of England Primary School,376854,432741
 St Oswald's Roman Catholic Primary School,375398,427036
 Peel Park Primary School,376694,429250
-Our Lady and St John Roman Catholic College,Secondary Education",370212
+Our Lady and St John Roman Catholic College,370212,427442
 Shadsworth Infants School,370707,427543
 The Hollins Technology College,376592,426997
 Belthorn Academy Primary School,371864,424592
@@ -48389,13 +48389,13 @@ Whalley,372968,436524
 Hazeldene,368250,432685
 Rishton,372417,429814
 Northwood Nursing and Rest Home,366743,428427
-Oakhill College,Non State Secondary Education",373873
+Oakhill College,373873,436770
 Braeside,373251,427390
 Accrington Huncoat Primary School,377563,430646
 Langho,370598,434408
 Rishton Methodist Primary School,372886,430037
 Great Harwood St Bartholomew's Parish Church of England (Voluntary Aided) Primary School,373270,432589
-Westholme School,Non State Secondary Education",365199
+Westholme School,365199,428665
 Spring Hill Community Primary School,374966,427932
 Sabden Primary School,377856,437538
 St Mary's Roman Catholic Primary School,364812,431815
@@ -48424,7 +48424,7 @@ St Joseph's Roman Catholic Primary School,368744,438004
 Haslingden Primary School,378717,422871
 Dukes Brow,372784,432031
 Lower Darwen Primary School,369046,424869
-Queen Elizabeth's Grammar School,Non State Secondary Education",367429
+Queen Elizabeth's Grammar School,367429,428660
 Pleckgate High School Mathematics and Computing College,367757,430229
 St John's Church of England Primary School,373357,431651
 St Mary's Roman Catholic Primary School,377771,437114
@@ -48454,7 +48454,7 @@ The White House Park School,362336,423626
 Darwen,369436,422505
 Oswaldtwistle School,374209,428093
 St Mary's Roman Catholic Primary School,370467,434030
-Heathland College,Non State Secondary Education",376789
+Heathland College,376789,428192
 Turfcote,378368,421968
 Stonyhurst College,368936,438805
 Broadway Primary School,379077,421676
@@ -50292,7 +50292,7 @@ Clitheroe,374154,442000
 Pendle Primary School,374654,442379
 St Michael and St John's Roman Catholic Primary School,374385,441652
 Bolton by Bowland Church of England (Voluntary Aided) Primary School,378855,449400
-Moorland School,Non State Secondary Education",374369
+Moorland School,374369,443028
 Rathmell Church of England (Voluntary Aided) Primary School,379987,459936
 Ribblesdale School,374442,441276
 St James' Church of England Primary School,374135,441287
@@ -51358,7 +51358,7 @@ Bentham Community Primary School,366926,469312
 Low Bentham Solar Farm,364475,470697
 Richard Thornton's Church of England (Voluntary Aided) Primary School,364775,472292
 Wray with Botton Endowed Primary School,360310,467428
-Cedar House School,Non State Primary Education,Non State Secondary Education"
+Cedar House School,364517,469240
 Clapham Church of England (Voluntary Controlled) Primary School,374484,469038
 Clapham,373259,467814
 Queen Elizabeth Studio School,360723,478512
@@ -51366,7 +51366,7 @@ Bentham,366765,468950
 Queen Elizabeth School,360728,478523
 Melling St Wilfrid CE Primary School,360228,471217
 Ingleton Primary School,369528,472672
-Casterton School,Non State Primary Education,Non State Secondary Education"
+Casterton School,362338,479805
 Kittygill Lane,360468,478468
 Manor Close,365159,472323
 Thacking Lane,369669,473379
@@ -63771,13 +63771,13 @@ The Oldham Academy North,391738,407090
 Stanley Road Primary School,390697,403691
 Brimrod Community School,388782,412139
 Temple Primary School,384662,400784
-The Greater Manchester University Technical College,Secondary Education",392048
+The Greater Manchester University Technical College,392048,405100
 Woodhouses (Voluntary) Primary School,391226,400810
 Samuel Laycock School,394722,400895
 Hurstead House,391749,415650
 All Saints Church of England Primary School,390076,414515
-Abraham Moss Community School,Secondary Education",384693
-Bnos Yisroel School,Non State Secondary Education",383359
+Abraham Moss Community School,384693,401654
+Bnos Yisroel School,383359,401493
 Failsworth School,390347,401093
 Greenfield Primary School,399572,404622
 St John's Church of England Thornham Primary School,389067,408902
@@ -63793,7 +63793,7 @@ St Joseph and St Bede Roman Catholic Primary School,381643,411851
 St Aidan and St Oswald's Roman Catholic School,392041,407300
 Aim Habanim,382746,401101
 Cloughside College,380813,404496
-Crompton House Church of England School,Secondary Education",393068
+Crompton House Church of England School,393068,409471
 St Patrick's Roman Catholic Primary School,390046,414435
 St Edmunds Roman Catholic Primary School,386288,400715
 Siddal Moor Sports College,385692,409465
@@ -63851,7 +63851,7 @@ Spring Brook School,391882,403022
 Mossley,397351,402077
 Northmoor Academy,392020,405318
 The Oldham College,392106,405168
-Beis Chaya Mushka,Non State Secondary Education",382688
+Beis Chaya Mushka,382688,401660
 St Gabriel's Church of England Primary School,388638,405430
 Waters Clough,399922,409449
 Cleggswood Hill,394036,415850
@@ -63934,7 +63934,7 @@ Cheetham Church of England Community Academy,383682,401192
 Spotland Primary School,388912,413944
 Mills Hill,388733,406021
 St Pauls Church of England Primary School,391429,407301
-Beech House School,Non State Secondary Education",389170
+Beech House School,389170,412537
 Firwood Manor Preparatory School,390628,406236
 Birch Service Area,384657,407972
 Oldham Hulme Grammar Schools,391989,403682
@@ -63943,7 +63943,7 @@ St Margaret's Church of England Junior Infant and Nursery School,390981,402917
 All Saints' Church of England Primary School,388345,400346
 Crab Lane Primary School,384708,403715
 Greenfield,399172,404685
-Manchester Creative and Media Academy,Secondary Education",387741
+Manchester Creative and Media Academy,387741,403215
 Rushcroft Primary School,393702,409901
 Beech House School,389476,412878
 St Sebastian's Roman Catholic Primary School,381393,400239
@@ -70414,7 +70414,7 @@ Moorlands View School,381956,427990
 Colne,388160,439818
 Palace House,381787,433325
 St Joseph's Roman Catholic Primary School,393719,424552
-"Cornholme Junior,Primary Education,390184
+"Cornholme Junior,390184,426196
 St Anne's Edgeside Church of England Primary School,383674,423015
 Worsthorne Primary School,387348,432551
 Heather Grange,384899,434923

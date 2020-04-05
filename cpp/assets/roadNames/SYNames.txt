@@ -2038,7 +2038,7 @@ Little Combe Coppice,316430,88846
 Tipton Vale,308896,92030
 Hart's Holes Plantation,310918,88497
 Hall's Copse,303825,88796
-Exmouth Community College,Secondary Education",300958
+Exmouth Community College,300958,81688
 The Lake,307033,86143
 St Martin's C of E Primary School,300344,95156
 Mardles Copse,305860,97049
@@ -2080,7 +2080,7 @@ Feniton,309492,99330
 West Hill Primary School,306794,93803
 Withycombe Raleigh Church of England Primary School,301086,82101
 St Peter's Church of England (Aided) Primary School,305854,82684
-Cranbrook Education Campus,Secondary Education",301561
+Cranbrook Education Campus,301561,96092
 Marpool Primary School,301433,81934
 Drakes C of E Primary School,306665,84569
 Liverton Solar Farm,303449,82838
@@ -4843,7 +4843,7 @@ Skilling Head,345941,92071
 Round Hill Plantations,358418,95180
 Knowle Copse,352680,94298
 St Mary's CE VC Primary School,346313,92285
-Bradpole Pre-school,Secondary Education",347389
+Bradpole Pre-school,347389,94358
 Salway Ash Church of England (Voluntary Aided) Primary School,345642,97630
 Thorner's Church of England (Voluntary Aided) Primary School,355054,90175
 Mountjoy School,346650,91933
@@ -5570,9 +5570,9 @@ North Ship Channel,369518,77357
 West Cliff,368164,72186
 Castletown Beach,368779,74403
 St Georges Primary School,369020,71567
-Atlantic Academy Portland,Primary Education,Secondary Education"
+Atlantic Academy Portland,368387,74090
 St Augustine's Roman Catholic Primary School,366470,78522
-Atlantic Academy Portland,Secondary Education",368036
+Atlantic Academy Portland,368036,69879
 Conifers Primary School,366161,79336
 All Saints' Church of England School,366537,77549
 South Ship Channel,370260,74480

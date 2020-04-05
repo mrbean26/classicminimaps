@@ -2595,7 +2595,7 @@ Horsford Church of England Infant School,619212,316182
 Hethersett (Voluntary Controlled) Junior School,615698,304949
 Mulbarton Junior School,619382,300584
 Taverham Hall School,614965,313782
-Wymondham High Academy,Secondary Education",611323
+Wymondham High Academy,611323,302007
 Lyng Church of England Primary School,606669,317731
 Twinoaks Nursing Home,617346,309492
 The Old Airfield Solar Farm,610451,314798
@@ -2831,7 +2831,7 @@ Colton Road,610395,311527
 Breck Road,610749,314321
 Lake View Close,609957,318190
 Mattishall Primary School,604999,310978
-Hethersett Old Hall School,Non State Secondary Education",615247
+Hethersett Old Hall School,615247,304106
 Bracken Close,619019,319419
 Elder Close,618549,310861
 Foxglove Drive,600693,313045
@@ -4474,7 +4474,7 @@ Flat Watson's Clump,617554,329751
 Holt,609440,339635
 St Michael's Church of England (Voluntary Controlled) Nursery and Infant School,619079,327074
 John of Gaunt Infant and Nursery School,619320,326243
-Reepham High School and College,Secondary Education",609535
+Reepham High School and College,609535,322215
 Corpusty Primary School,611320,330177
 Erpingham Church of England Primary School,619231,331355
 Gresham Village School and Nursery,616801,338418
@@ -8963,7 +8963,7 @@ Bracondale Grove,623937,307448
 St Clements Hill Primary Academy,623505,310746
 Bog Plantation,625750,303311
 Boathouse Carr,627967,316981
-Norwich High School for Girls,Non State Secondary Education",621897
+Norwich High School for Girls,621897,307363
 Arnup's Belt,626130,312341
 Blofield Primary School,633408,309954
 Rackheath Park,627077,313348
@@ -9027,7 +9027,7 @@ Angel Road Junior School,622917,310159
 Frettenham Primary Partnership School,624783,317534
 Langley Preparatory School,625600,308549
 Lingwood Primary and Nursery School,635940,308200
-Lakenham First School,Non State Secondary Education",623375
+Lakenham First School,623375,307277
 Lingwood,636314,308421
 Framingham Earl High School,626343,303296
 Fairhaven Church of England (Voluntary Aided) Primary School,636989,313295
@@ -9295,7 +9295,7 @@ Lower Road,632992,304202
 Churston Close,623983,307237
 Clancy Road,625500,310470
 The Avenue,634423,317461
-Langley School,Non State Secondary Education",635547
+Langley School,635547,300352
 Panxworth Church Road,635576,314746
 Lakenham Primary School,623544,307126
 Norwich Road,635183,307859
@@ -9318,7 +9318,7 @@ Bluebell Primary School,620088,307798
 Vera Close,628806,312443
 Catherine Wheel Opening,622856,309622
 Ludham Airstrip,639956,319337
-The Hewett Academy,Secondary Education",622746
+The Hewett Academy,622746,306774
 Mill Road,631555,306255
 Field Road,637550,313348
 Oak Avenue,626692,302470
@@ -11482,7 +11482,7 @@ Dick's Close Hill,623424,341292
 Gurney's Plantation,620426,342029
 Broomhill Plantation,620093,342555
 Howard's Hill,620904,342052
-"The Belfry,Primary Education,624289
+"The Belfry,624289,340606
 Cromer Acadamy,622263,341281
 Roughton Road,621949,340700
 Suffield Park Infants School,622408,341203

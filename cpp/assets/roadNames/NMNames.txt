@@ -2237,7 +2237,7 @@ Doire na Cuaille,146716,750364
 Ceann Garbh,158072,758865
 Na Torranan,145233,741424
 Sròn na h-Aire,142867,757888
-Tobermory High School,Secondary Education",150608
+Tobermory High School,150608,755484
 Salen Primary School,157553,743290
 Loch Beinn nan Càrn,150085,741731
 Cnoc Clach na Ciste,146889,740435

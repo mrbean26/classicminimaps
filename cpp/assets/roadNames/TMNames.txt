@@ -1246,7 +1246,7 @@ Clacton-on-Sea,616039,214199
 Alton Park Junior School,616677,214836
 Langenhoe Community Primary School,600575,218726
 Shorefields School,618750,215750
-Clacton Coastal Academy,Secondary Education",615312
+Clacton Coastal Academy,615312,215101
 Clacton Hospital,617222,214337
 St Osyth Church of England Primary School,612605,215526
 St Cedd's Church of England (Voluntary Aided) Primary School,600495,206839
@@ -3830,7 +3830,7 @@ Market Field School,606302,224356
 Elmstead Primary School,606007,224980
 Chequers Wood,610438,229181
 Magdalen Wood,601543,227102
-Ipswich High School for Girls,Non State Secondary Education",619348
+Ipswich High School for Girls,619348,238647
 Tendring Technology College,618026,222493
 Great Bentley Primary School,611062,221457
 St George's Church of England Primary School,608425,226172
@@ -7158,7 +7158,7 @@ Castle Hill Infant School,615387,247219
 Monmouth Court Nursing Home,615882,242255
 Springfield Infants School and Nursery,614695,245583
 Gusford Primary School,613949,242234
-Ipswich Academy,Secondary Education",618724
+Ipswich Academy,618724,241643
 Crowfield Airfield,612796,257572
 Chilton Community Primary School,604264,259219
 Elmsett,604165,246330
@@ -7204,7 +7204,7 @@ Alder Carr,610990,252969
 Hall Plantation,601781,258170
 St Matthew's Church of England (Voluntary Aided) Primary School,615804,244664
 Suffolk New College,617059,244354
-St Joseph's College School,Non State Secondary Education",615103
+St Joseph's College School,615103,243024
 Stone Lodge Academy,614905,243216
 Ipswich,615762,243789
 Baylham Care Centre,610928,252146
@@ -10622,7 +10622,7 @@ Brick Kiln Covert,614200,284807
 The Rookery,617435,292950
 King Edward's Ride,603464,287310
 Lang Fen,606139,280236
-Attleborough Academy Norfolk,Secondary Education",604910
+Attleborough Academy Norfolk,604910,295652
 Acorn Park,607164,288275
 Chapel Green School,606678,291914
 Rookery Solar Park,608100,297464
@@ -10686,7 +10686,7 @@ Garboldisham Church Primary School,600380,281624
 Kenninghall Primary School,603563,285841
 Eccles Road,601822,290062
 Brooklyn House,604621,295362
-The New Eccles Hall School,Non State Secondary Education",601893
+The New Eccles Hall School,601893,289035
 Church Road,603655,282532
 Crown Meadow,603677,286013
 Poplar Close,619999,293220
@@ -12252,7 +12252,7 @@ Long Grove,621253,221676
 Alder Carr,621963,237481
 Levington Creek,623717,238355
 Harwich Ferry Port,623525,232749
-Felixstowe International College,Non State Secondary Education",629753
+Felixstowe International College,629753,234901
 Maidstone Infant School,629171,235258
 Stratton Hall Solar Farm,625639,239621
 Felixstowe International College,631383,235324
@@ -14110,7 +14110,7 @@ Broom Covert,639790,251656
 Kesgrave High School,622351,246039
 Melton,628681,250370
 Bucklesham Primary School,625121,241827
-Woodbridge School,Non State Secondary Education",626716
+Woodbridge School,626716,249493
 Sandlings Primary School,632158,248067
 Farlingaye High School,626428,249948
 Martlesham Primary Academy,624277,246566
@@ -14163,7 +14163,7 @@ Melton Primary School,628157,250323
 Waldringfield Primary School,627832,244449
 Ipswich Hospital,621410,243773
 Heath Primary School,621706,245505
-Woodbridge School Preparatory,Non State Primary Education,Non State Secondary Education"
+Woodbridge School Preparatory,626965,248982
 Snape Primary School,639579,258508
 Otley Primary School,620524,255414
 Rendlesham Community Primary School,633681,253446
@@ -15491,7 +15491,7 @@ Dennington Church of England (Voluntary Controlled) Primary School,628193,267200
 Sir Robert Hitcham's Primary School,628197,263503
 Yoxford and Peasenhall Primary School,639492,268892
 Foxearth Lodge Nursing Home,625128,266140
-Framlingham College,Non State Primary Education,Non State Secondary Education"
+Framlingham College,627969,263888
 Thomas Mills High School,627327,264209
 Earl Soham Community Primary School,623495,263316
 Bedfield Church of England (Voluntary Controlled) Primary School,622181,266239
@@ -18471,7 +18471,7 @@ Bence's Covert,645010,277669
 Skilman's Hill,650744,276007
 Alde Valley Academy,645172,262133
 Leiston Primary School,645029,262403
-Summerhill School,Non State Secondary Education",644157
+Summerhill School,644157,263032
 Southwold Primary School,650826,276385
 Reydon Solar Farm,648749,277638
 Sizewell B Power Station,647314,263521
@@ -20723,11 +20723,11 @@ Pakefield Primary School,653350,290211
 Beccles,642608,290553
 Ravensmere Infants School,642305,290975
 St Benet's Catholic Primary School,641879,289923
-The Ashley School,Non State Secondary Education",654196
+The Ashley School,654196,294556
 Blundeston Church of England (Voluntary Controlled) Primary School,651222,297235
 Lowestoft College,654267,293793
 Red Oak Primary School,653957,292062
-Sir John Leman High School,Secondary Education",641855
+Sir John Leman High School,641855,289587
 Benjamin Britten High School,653248,295254
 Lowestoft Sixth Form College,654249,293950
 Ellough AD Plant,645422,288415

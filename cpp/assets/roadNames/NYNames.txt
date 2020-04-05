@@ -4258,7 +4258,7 @@ Nethermost Pike,334369,514212
 Hydal Park,337121,506712
 Station Coppice,331497,517015
 Pull Garth Wood,336338,502567
-"Neaum Crag Caran,Other Landcover,334158
+"Neaum Crag Caran,334158,503988
 Y Gully,336560,513538
 Alcock Tarn,334911,507889
 Nick Head,336279,518304
@@ -8992,7 +8992,7 @@ Plumpton School,349765,537123
 Langwathby,357332,533468
 North Lakes School,351566,529256
 Stainton Church of England Primary School,348239,528099
-Ullswater Community College,Secondary Education",351799
+Ullswater Community College,351799,529493
 Penrith Hospital,352169,529307
 Greystoke School,344009,530787
 Yanwath Primary School,351021,527403

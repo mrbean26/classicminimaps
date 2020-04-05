@@ -2332,7 +2332,7 @@ Allt Dygoed,226437,236992
 Allt Pencnwc,222398,221933
 Ysgol Gynradd Capel Iwan,228875,236078
 Ysgol Gynradd Brynsaron,237954,236531
-Coleg Sir Gar,Higher or University Education",239756
+Coleg Sir Gar,239756,220140
 Penboyr (Voluntary Aided) Primary School,235341,238352
 Hafodwenog County Primary School,228155,230466
 Meidrim Community Primary School,229402,220849
@@ -5355,7 +5355,7 @@ Dihewyd County Primary School,248741,255769
 Cwrtnewydd County Primary School,248357,247561
 Ysgol Carreg Hirfaen,258852,246645
 Ysgol Gynradd Llynarth,242114,257370
-Ysgol Bro Pedr,Secondary Education",257406
+Ysgol Bro Pedr,257406,247869
 Allt Lâs,247581,242567
 Allt Cae-glâs,247416,243183
 Cwm Llwydcoed,255764,241064
@@ -5381,7 +5381,7 @@ Llanwnnen County Primary School,253184,247097
 Y Drindod Dewi Sant,257991,248121
 Allt-y-Mynydd Nursing Home,255503,241657
 Ysgol Dyffryn Cledlyn,250185,245748
-Ysgol Bro Teifi,Secondary Education",240733
+Ysgol Bro Teifi,240733,242163
 Ysgol Gynradd Pontsian,243927,246103
 Llanybydder Primary School,252826,243732
 Blaenau County Primary School,247635,250871
@@ -7172,7 +7172,7 @@ St Joseph's Roman Catholic Primary School,270099,201492
 Ysgol Golwg y Cwm,279725,210775
 Ystradgynlais,278841,210274
 Blaenau County Primary School,260607,213745
-Ysgol Gymraeg Ystalyfera,Secondary Education",277071
+Ysgol Gymraeg Ystalyfera,277071,208785
 Ysgol Maes-y-Coed,274307,200459
 Ysgol Gymraeg Dyffryn Glowyr,277280,209890
 Tycroes Primary School,260582,210501
@@ -7775,7 +7775,7 @@ Llangadog County Primary School,270968,228297
 Llandeilo,263343,222638
 Ysgol Gynradd Llandeilo,263077,222771
 Ysbyty Llanymddfri,276745,234869
-Llandovery College,Non State Secondary Education",276544
+Llandovery College,276544,234508
 Ysgol Gynradd Ffairfach,262971,221538
 Ysgol Gyfun Pantycellyn,276554,234799
 Ffairfach,262909,221249
@@ -8878,7 +8878,7 @@ Sir John Rhys County Primary School,274962,280944
 Aberdovey,260649,296045
 Penrhyn-Coch County Primary School,264398,284176
 Dovey Junction,269623,297185
-Aberystwyth University,Higher or University Education,263070
+Aberystwyth University,263070,283520
 Comins Coch County Primary School,261419,282296
 Ysgol Gynradd Gymunedol Craig yr Wylfa,260649,288568
 Rhydypennau Primary School,262871,285593

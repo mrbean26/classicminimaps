@@ -1981,7 +1981,7 @@ Discovery Primary School,517484,302243
 Welbourne Primary School,517298,303566
 Dogsthorpe Junior and Infant Schools,519810,301163
 Werrington Primary School,517107,303081
-Thomas Deacon Academy,Secondary Education",519673
+Thomas Deacon Academy,519673,300378
 RAF Wittering,501746,302231
 Northborough Primary School,515382,308030
 The King's School Playing Fields,519521,300884
@@ -2028,7 +2028,7 @@ Sacred Heart Roman Catholic Primary School,516426,300188
 Bourne Grammar School,509710,319536
 Deeping St James Community Primary School,515577,309796
 William Hildyard Church of England Primary and Nursery School,514081,310521
-Arthur Mellows Village College,Secondary Education",515080
+Arthur Mellows Village College,515080,305688
 Welland House,503141,306830
 City College,519994,301609
 Ryhall Church of England Primary School,503692,310588
@@ -3056,7 +3056,7 @@ Bourne Abbey Church of England Primary Academy,510092,320087
 The Cedars,509725,320066
 Osbournby Primary School,506846,338224
 Charles Read Academy,500206,324552
-Bourne Academy,Secondary Education",510116
+Bourne Academy,510116,320744
 Bourne Bus Station,509567,320501
 St Gilbert of Sempringham Church of England Primary School,511394,331928
 The Crescent,508947,324039
@@ -4312,7 +4312,7 @@ Our Lady of Good Counsel Roman Catholic Primary School,506169,346047
 Walcott Fen,514964,357323
 Carre's Grammar School,506833,346198
 Holdingham Plantation,505051,346818
-Kesteven and Sleaford High School,Secondary Education",506700
+Kesteven and Sleaford High School,506700,345540
 Digby the Tedder Primary School,504984,356407
 St Andrew's Nursing Home,512177,347336
 Welby's Holt,502165,343353
@@ -9189,7 +9189,7 @@ William Stukeley Church of England Primary School,535625,324793
 Sir John Gleed Technology School,525646,322408
 Springwell Alternative Academy Spalding,525556,322187
 The Spalding Parish Church of England Day School,525193,321915
-University Academy Holbeach,Secondary Education",535952
+University Academy Holbeach,535952,325332
 Spalding Bus Station,524599,322979
 The Pinchbeck East Church of England Primary School,523852,325830
 Gosberton Primary School,524272,331418
@@ -9217,7 +9217,7 @@ Holbeach Bank Academy,535564,327322
 Whaplode Church of England Primary School,532951,324167
 The John Harrox Primary School,530423,323963
 The Thomas Cowley High School,521194,335720
-Spalding High School,Secondary Education",525391
+Spalding High School,525391,322250
 Bicker Preparatory School,522500,337564
 St Paul's Community Primary School and Nursery,525943,323467
 High Road,530810,324843
@@ -12947,7 +12947,7 @@ North Thoresby,530184,398542
 The King Edward VI Grammar School,532516,387036
 The Donington-on-Bain School,523512,382899
 St Bernard's School,534189,387043
-Louth Academy (Upper),Secondary Education",533481
+Louth Academy (Upper),533481,387332
 The Utterby Primary School,529127,394337
 Binbrook Church of England Primary School,520801,394203
 Greenwich House Independent School,533056,387933
@@ -23832,7 +23832,7 @@ Holt Road,593689,336834
 Sandy Lane,598869,332274
 Thorpland Road,593000,330515
 Rudham Church of England Primary School,582382,327925
-Fakenham Academy,Secondary Education",591670
+Fakenham Academy,591670,330684
 Park Lane,587001,326348
 Weasenham Church of England Primary School,585290,321607
 Olive Fisher Court,591647,329957

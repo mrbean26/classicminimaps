@@ -1171,7 +1171,7 @@ Meall Garbh,206276,886576
 Rubh' an Olan,217218,888438
 Coire Toll an Lochain,202674,880581
 Feith Bhaite,213705,888020
-Scoraig School,Secondary Education",201027
+Scoraig School,201027,896254
 Loch nan Cnaimh,215971,893956
 Creag an Fhithich,213037,891417
 Meall Beag,210386,897727

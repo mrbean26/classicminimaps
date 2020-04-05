@@ -5657,7 +5657,7 @@ The Old Coach House,503589,426380
 Hessle High School and Sixth Form College,502205,426457
 Magdalen Park Nursing Home,519472,429025
 St Thomas More Roman Catholic Primary School,504333,427855
-New Life Christian Academy,Non State Secondary Education",509561
+New Life Christian Academy,509561,429477
 Wheeler Primary School,506707,428450
 North Field,515706,435808
 Anlaby Primary School,504102,428585
@@ -5675,7 +5675,7 @@ Hut Plantation,501462,428445
 Stone Carr,508079,438699
 Northcott School,509934,434480
 Lindum House,503201,437918
-Archbishop Sentamu Academy,Secondary Education",513547
+Archbishop Sentamu Academy,513547,430601
 Creyke Beck Peaking Power Plant,504294,434639
 St Anthony's Catholic Primary School,506192,433217
 Dunswell Primary School,507392,435144
@@ -7688,7 +7688,7 @@ Low Wood,500405,449807
 Gembling Green,511123,457106
 Tithe Plantation,512844,458922
 St Mary's Church of England (Voluntary Controlled) Primary School,502910,440289
-Driffield School and Sixth Form,Secondary Education",503169
+Driffield School and Sixth Form,503169,458146
 Driffield Church of England (Voluntary Controlled) Infant School,502236,457645
 Gembling Primary School,510342,456634
 St John of Beverley Roman Catholic Primary School,504172,440294
@@ -7730,12 +7730,12 @@ Rita Hunt Court,504388,440160
 Leconfield Primary School,501765,443741
 Driffield Junior School,502818,457930
 Molescroft Primary School,502527,440673
-Longcroft School and Sixth Form College,Secondary Education",501995
+Longcroft School and Sixth Form College,501995,440404
 Alfred Bean Hospital,503416,458519
 Leven Church of England (Voluntary Controlled) Primary School,510828,445154
 Nafferton,505880,458465
 North Frodingham County Primary School,509819,453200
-Beverley High School,Secondary Education",503343
+Beverley High School,503343,440083
 Beswick and Watton Church of England (Voluntary Controlled) School,501258,448932
 Nafferton Primary School,505421,458949
 Hornsea School and Language College,519960,448198
@@ -10666,7 +10666,7 @@ Chimney Hole,511210,482319
 Braeburn Primary and Nursery School,504239,483792
 Cayton School,505901,483250
 Gristhorpe,508244,481521
-Yorkshire Coast College,Higher or University Education",501862
+Yorkshire Coast College,501862,488752
 Graham School,501552,488171
 Northstead Community Primary School,502842,489529
 Tree Tops Nursing Home,503229,489197
@@ -13031,12 +13031,12 @@ The East Coast School of Art and Design,525639,408280
 The North Cotes Church of England Primary School,535120,400603
 Signhills Infant Academy,531132,407568
 Holton le Clay Infant School,528942,402858
-St James' School,Non State Primary Education,Non State Secondary Education"
+St James' School,526394,408901
 Eaton Court Residential Home,526374,408572
 Grange Primary School,524830,408273
-"Diana,Hospital,526250
+"Diana,526250,407060
 Reynolds Primary School,529882,409205
-Havelock Academy,Secondary Education",529224
+Havelock Academy,529224,408958
 Stanford Junior and Infants School,521243,406780
 Stallingborough,520375,411586
 Springfield Primary School,525775,405394
@@ -13047,7 +13047,7 @@ Grimsby Town,526811,409150
 Sevenhills Academy,526140,407249
 Nunsthorpe Community School,525804,407642
 Ormiston South Parade Academy,526633,409626
-Grimsby Institute of Further and Higher Education,Higher or University Education",526341
+Grimsby Institute of Further and Higher Education,526341,408041
 Enfield Academy of New Waltham,528848,404544
 Wybers Wood Primary School,523370,409547
 The Ridgeway,524017,407477

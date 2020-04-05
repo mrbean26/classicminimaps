@@ -3706,7 +3706,7 @@ Hen Coleg,257847,372433
 Llangwyllog,243620,379060
 Bontnewydd,247792,360134
 Ysgol Parc y Bont,249685,370669
-St Gerard's School,Non State Secondary Education",257351
+St Gerard's School,257351,371769
 Bangor University,258027,371637
 Ysgol Hirael,258463,372590
 Bangor,257573,371638
@@ -3765,7 +3765,7 @@ Coleg Menai,256908,371717
 Coleg Menai,247030,375753
 Coleg Menai,254472,370009
 Ysgol Babanod Coed Mawr,256645,370768
-Treffos Independent Day School and Nursery,Non State Secondary Education",254646
+Treffos Independent Day School and Nursery,254646,375406
 Ysgol Treborth,254983,370661
 Ysgol Gynradd Niwbwrch,242698,365968
 Ysgol Santes Dwynwen,242488,366002

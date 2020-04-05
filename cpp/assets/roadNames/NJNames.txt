@@ -10457,7 +10457,7 @@ New Machar Primary School,388753,819609
 Parkhead Wood,386613,810553
 Aberdeen College Altens Centre,395473,802821
 Standingstones Wood,385561,812704
-Royal Cornhill Hospital,Medical Care Accommodation",392967
+Royal Cornhill Hospital,392967,807079
 Skene Square School,393426,806763
 Hill of Marcus,384826,813441
 Chapel Park,393883,817101
@@ -10482,7 +10482,7 @@ Bridge of Don Academy,393344,810455
 Kittybrewster Primary School,393048,808149
 Aberdeen College Gordon Centre,394696,809825
 Bucksburn Academy,389010,809594
-St Margaret's School for Girls,Non State Primary Education,Non State Secondary Education"
+St Margaret's School for Girls,393117,805727
 Holy Family Roman Catholic School,390624,806470
 Scotstown School,393916,810128
 Hazlewood School,390322,805953
@@ -10523,7 +10523,7 @@ Balmedie School,396912,817730
 Aberdeen Ferry Terminal,394528,805969
 Kingswells Primary School,386600,807328
 Aberdeen Waldorf School,389135,803832
-Murtle Estate,Non State Secondary Education",387319
+Murtle Estate,387319,801589
 Riverbank School,393009,809070
 Aberdeen University,394249,809350
 Braehead School,393478,810568
@@ -10747,7 +10747,7 @@ Heathryburn School,389544,808439
 Charleston School,394422,800660
 Dyce School,389094,812795
 Broomhill Primary School,392591,804562
-Albyn School,Non State Secondary Education",392127
+Albyn School,392127,805641
 Ferryhill School,393724,805418
 Garthdee Campus,391650,803088
 Kaimhill School,392245,803563
@@ -10756,7 +10756,7 @@ Greenwell Place,395566,804098
 Hillhead Road,387109,802564
 Mcintosh Crescent,388755,813573
 Sunnybank Primary School,393779,807661
-Aberdeen Bus Station,Coach Station",394314
+Aberdeen Bus Station,394314,805948
 Mackie Way,381327,806556
 Fernielea School,390455,806346
 Manor Park School,391230,808721
@@ -11514,7 +11514,7 @@ Hughie's Pot,384961,838261
 Cultercullen School,392331,824118
 Pitmedden School,389182,827458
 Foveran Primary School,397257,823997
-Ellon Academy,Secondary Education",396891
+Ellon Academy,396891,829833
 Auchtercrag House,394784,830822
 Newburgh Mathers School,399699,825217
 Tipperty School,396918,827205

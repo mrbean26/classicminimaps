@@ -4919,7 +4919,7 @@ Loch of Mioness,442285,1178520
 Brough Geo,453911,1162671
 Grunna Voe,447597,1166871
 Symbister Ferry Terminal,453712,1162342
-Whalsay School,Secondary Education",454414
+Whalsay School,454414,1162393
 Burravoe Primary School,451992,1179811
 Navvi Geo,457616,1163247
 Conni Geo,456516,1161418
