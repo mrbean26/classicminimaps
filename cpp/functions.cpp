@@ -1,8 +1,5 @@
+#define STB_IMAGE_IMPLEMENTATION
 #include "functions.h"
-#include "classicminiGraphics.h"
-
-#include <sstream>
-#include <fstream>
 
 namespace savefiles {
 	vector<string> readLines(const char* fileName) {
@@ -104,7 +101,7 @@ namespace gridMath {
 
 		double a = 6377563.396;
 		double b = 6356256.909;
-		double eSquared = (a - b) / a;
+		double eSquared = ((a*a) - (b*b)) / (a*a);
 		double phi = 0.0;
 		double lambda1 = 0.0;
 		double E = grid.x;
@@ -163,6 +160,14 @@ namespace gridMath {
 		E = E0 + (IV * (lambda1 - lambda0)) + (V * pow(lambda1 - lambda0, 3.0)) + (VI * pow(lambda1 - lambda0, 5.0));
 
 		return dvec2(E, N);
+	}
+
+	bool onScreen(mat4 projection, mat4 view, vec3 position){
+		vec4 pClip = projection * view * vec4(position, 1.0f);
+		return abs(pClip.x) < pClip.w &&
+			abs(pClip.y) < pClip.w &&
+			0 < pClip.z &&
+			pClip.z < pClip.w;
 	}
 }
 
@@ -265,9 +270,8 @@ namespace text {
 
 		glBindVertexArray(textVAO);
 		glUseProgram(textShader);
-		shader::setMat4(textShader, "view", translate(mat4(1.0f), -classicminigraphics::cameraPosition));
-		shader::setMat4(textShader, "projection", perspective(radians(45.0f), classicminigraphics::aspectDivider,
-			classicminigraphics::closeCamera, classicminigraphics::farCamera));
+		shader::setMat4(textShader, "view", classicminigraphics::viewMatrix());
+		shader::setMat4(textShader, "projection", classicminigraphics::projectionMatrix());
 
 		glActiveTexture(GL_TEXTURE0);
 		shader::setInt(textShader, "text", 0);
@@ -305,4 +309,36 @@ namespace text {
 	}
 }
 
+namespace texture {
+	void begin(){
+		stbi_set_flip_vertically_on_load(true);
+	}
 
+	texture loadTexture(const char* filePath) {
+		texture newTexture;
+		glGenTextures(1, &newTexture.textureId);
+		newTexture.data = stbi_load(filePath, &newTexture.width, &newTexture.height, &newTexture.channels, 4);
+		newTexture.name = filePath;
+
+		if (!newTexture.data) {
+			cout << "File cannot be found: " << filePath << endl;
+			newTexture.data = stbi_load("assets/images/emptyTexture.png", &newTexture.width, &newTexture.height, &newTexture.channels, 4);
+			newTexture.name = "assets/images/emptyTexture.png";
+		}
+
+		glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_S, GL_REPEAT);
+		glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_WRAP_T, GL_REPEAT);
+		glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
+		glTexParameteri(GL_TEXTURE_2D, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
+		glBindTexture(GL_TEXTURE_2D, newTexture.textureId);
+		glTexImage2D(GL_TEXTURE_2D, 0, GL_RGBA, newTexture.width,
+			newTexture.height, 0, GL_RGBA, GL_UNSIGNED_BYTE, newTexture.data);
+		glGenerateMipmap(GL_TEXTURE_2D);
+
+		return newTexture;
+	}
+	
+	void enableTexture(texture usedTexture) {
+		glBindTexture(GL_TEXTURE_2D, usedTexture.textureId);
+	}
+}

@@ -3,6 +3,8 @@
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 
+#include "classicminiGraphics.h"
+
 #include <gl/glew.h>
 #include <GLFW/glfw3.h>
 
@@ -10,12 +12,16 @@
 #include <vector>
 #include <iostream>
 #include <map>
+#include <fstream>
+
+#include <sstream>
+#include <fstream>
 
 #include <vec4.hpp>
-#include <fstream>
 #include <mat4x4.hpp>
 #include <gtc/type_ptr.hpp>
 
+#include <stb_image.h>
 #include <ft2build.h>
 #include FT_FREETYPE_H
 
@@ -37,8 +43,14 @@ namespace shader {
 }
 
 namespace gridMath {
+	double tanSquared(double x);
+	double reciprocalCos(double x);
+	double sinSquared(double x);
+
 	vec2 gridToLatLng(vec2 grid);
 	vec2 latLngToGrid(vec2 latLng);
+
+	bool onScreen(mat4 projection, mat4 view, vec3 position);
 }
 
 namespace text {
@@ -49,11 +61,30 @@ namespace text {
 		GLuint advance;
 	};
 
+	extern GLuint textVAO, textVBO;
+	extern int textShader;
 	extern map<GLchar, Character> fontCharacters;
+
 	void getFont(const char* fontPath, int fontSize);
 	void begin(int fontSize);
+
 	vec2 textMeasurements(string text, float size);
 	void renderText(string text, vec3 position, float size, bool centered, vec4 textColour);
+}
+
+namespace texture {
+	void begin();
+
+	struct texture { 
+		unsigned int textureId;
+		int width, height;
+		int channels;
+		unsigned char* data;
+		const char* name;
+	};
+
+	texture loadTexture(const char* filePath); // load texture from file and return a relevant texture class
+	void enableTexture(texture usedTexture);
 }
 
 #endif 

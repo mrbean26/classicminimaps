@@ -1,5 +1,7 @@
 #include "classicminiGraphics.h"
 
+#include <gtc/matrix_transform.hpp>
+
 namespace classicminigraphics {
 	GLFWwindow* window;
 	bool begin(int widthUsed, int heightUsed, const char* title) {
@@ -37,6 +39,15 @@ namespace classicminigraphics {
 		float currentTime = (float) glfwGetTime();
 		deltaTime = currentTime - lastFrameTime;
 		lastFrameTime = currentTime;
+	}
+
+	mat4 viewMatrix(){
+		return translate(mat4(1.0f), -classicminigraphics::cameraPosition);
+	}
+
+	mat4 projectionMatrix(){
+		return perspective(radians(45.0f), classicminigraphics::aspectDivider,
+			classicminigraphics::closeCamera, classicminigraphics::farCamera);
 	}
 
 	float width = 0.0f;

@@ -1,176 +1,42 @@
 #include "classicminimaps.h"
-#include "functions.h"
-#include "classicminiGraphics.h"
 
-#include <vector>
-#include <vec2.hpp>
-#include <string>
-
-#include <sstream>
-#include <fstream>
-#include <iostream>
-
-#include <gl/glew.h>
-#include <GLFW/glfw3.h>
 #include <gtc/matrix_transform.hpp>
-
 using namespace std;
-using namespace glm;
-
-struct openName {
-	string name = "";
-	vec2 position = vec2(0.0f);
-};
-
-class mapSquare {
-public:
-	bool active = false;
-
-	string fullFilePath = "";
-	string justFileName = "";
-	string gridSquareName = "";
-
-	vector<vector<vec2>> shapes;
-	vec2 minPoints = vec2(0.0f);
-	vec2 maxPoints = vec2(0.0f);
-
-	void load(string fileName) {
-		justFileName = fileName;
-		fullFilePath = "assets/mapData/" + fileName;
-		gridSquareName = justFileName.substr(0, 2);
-
-		// read line by line
-		string line;
-		ifstream inFile(fullFilePath);
-
-		while (getline(inFile, line)) {
-			// split between commas
-			vector<vec2> thisShape;
-
-			stringstream stringStream(line);
-			int index = 0;
-			while (stringStream.good()) {
-				string subString;
-				getline(stringStream, subString, ',');
-
-				if (index % 2 == 0) {
-					vec2 newVector = vec2(0.0f);
-					thisShape.push_back(newVector);
-				}
-
-				int selectedIndex = (int)floor(index / 2);
-				thisShape[selectedIndex][index % 2] = stof(subString);
-
-				index = index + 1;
-			}
-			shapes.push_back(thisShape);
-		}
-	}
-
-	GLuint VAO = 0;
-	GLuint VBO = 0;
-	GLuint size = 0;
-
-	void loadOpenGLAttributes() {
-		glGenVertexArrays(1, &VAO);
-		glBindVertexArray(VAO);
-
-		glGenBuffers(1, &VBO);
-		glBindBuffer(GL_ARRAY_BUFFER, VBO);
-
-		vector<float> vertices;
-		int shapeCount = (int)shapes.size();
-
-		for (int s = 0; s < shapeCount; s++) {
-			int vertexCount = (int)shapes[s].size();
-
-			for (int v = 0; v < vertexCount - 1; v++) {
-				vertices.push_back(shapes[s][v].x / classicminimaps::scaleDivider);
-				vertices.push_back(shapes[s][v].y / classicminimaps::scaleDivider);
-
-				int nextIndex = v + 1;
-				vertices.push_back(shapes[s][nextIndex].x / classicminimaps::scaleDivider);
-				vertices.push_back(shapes[s][nextIndex].y / classicminimaps::scaleDivider);
-			}
-		}
-
-
-		glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(float), vertices.data(), GL_STATIC_DRAW);
-		glVertexAttribPointer(0, 2, GL_FLOAT, GL_FALSE, 2 * sizeof(float), (void*)0);
-		glEnableVertexAttribArray(0);
-		size = (GLuint)(vertices.size() / 2);
-		active = true;
-	}
-
-	// texts
-	vector<openName> allNames;
-	string namePath = "";
-
-	void loadOpenNames() {
-		namePath = "assets/roadNames/" + gridSquareName + "Names.txt";
-		vector<string> nameFileLines = savefiles::readLines(namePath.data());
-		int lineCount = nameFileLines.size();
-
-		for (int l = 0; l < lineCount; l++) {
-			vector<string> data = savefiles::splitComma(nameFileLines[l]);
-			
-			openName newNameReference = openName();
-			newNameReference.name = data[0];
-
-			if (data[1].find("Non State") != string::npos) {
-				continue;
-			}
-
-			if (data[1].find("Primary Education") != string::npos) {
-				continue;
-			}
-
-			if (data[1].find("other") != string::npos) {
-				continue;
-			}
-
-			if (data[1].find("Secondary Education") != string::npos) {
-				continue;
-			}
-
-			if (data[1].find("Further Education") != string::npos) {
-				continue;
-			}
-
-			if (data[1].find("Special Needs Education") != string::npos) {
-				continue;
-			}
-
-			if (data[1].find("Coach Station") != string::npos) {
-				continue;
-			}
-
-			if (data[1].find("Hospital") != string::npos) {
-				continue;
-			}
-
-			newNameReference.position.x = stof(data[1]);
-			newNameReference.position.y = stof(data[2]);
-
-			allNames.push_back(newNameReference);
-		}
-	}
-};
 
 namespace classicminimaps {
 	int shaderProgram = 0;
 
 	float scaleDivider = 100.0f;
-	float height = 99.0f;
+	float height = 15.0f;
 
 	float distanceToLoad = 100.0f;
 	float rotationSearchInterval = 20.0f;
+
+	vec4 textColour = vec4(0.0f, 0.0f, 0.0f, 1.0f);
+	float textSize = 0.001f;
 
 	mapSquare rivers;
 	vector<mapSquare> currentMapSquares;
 	vector<openName> toRender;
 
+	vector<vec2> speedCameraLocations;
+	GLuint speedVAO, speedVBO, speedSize;
+	int speedShader = 0;
+	texture::texture policeIconTexture;
+
+	float speedCameraSize = 0.2f;
+	float cameraUpSpeed = 10.0f;
+	float cameraForwardSpeed = 4.0f;
+	float xShift = 0.0f;
+	float yShift = 0.0f;
+
+	texture::texture yourIcon;
+	float yourIconSize = 0.2f;
+
 	void begin() {
+		glClearColor(0.172f, 0.749f, 0.694f, 1.0f);
+
+		// load
 		int vertex = shader::createShader("assets/shaders/mapVertex.txt", GL_VERTEX_SHADER);
 		int fragment = shader::createShader("assets/shaders/mapFragment.txt", GL_FRAGMENT_SHADER);
 		shaderProgram = shader::createProgram({ vertex, fragment });
@@ -193,17 +59,72 @@ namespace classicminimaps {
 
 			currentMapSquares.push_back(newSquare);
 		}
+		// speed
+		loadSpeedCameras();
+		glfwSetKeyCallback(classicminigraphics::window, keyPresses);
+		glfwSetMouseButtonCallback(classicminigraphics::window, mousePressed);
+		// your icon
+		yourIcon = texture::loadTexture("assets/images/yourIcon.png");
 	}
 
 	void mainloop() {
-		height -= classicminigraphics::deltaTime * 4.0f;
-		vec2 pos = gridMath::latLngToGrid(vec2(51.2193951, -0.2842279));
-		classicminigraphics::cameraPosition = vec3(pos.x / classicminimaps::scaleDivider, pos.y / classicminimaps::scaleDivider, height);
+		vec2 pos = gridMath::latLngToGrid(vec2(51.5304926, -0.2772791));
+		classicminigraphics::cameraPosition = vec3(pos.x / classicminimaps::scaleDivider + xShift, pos.y / classicminimaps::scaleDivider + yShift, height);
 
 		loadChunks();
 		loadTexts();
 		render();
 		renderMapTexts();
+		drawSpeedCameras();
+	}
+
+	void mousePressed(GLFWwindow* window, int button, int action, int mods) {
+		if (button == GLFW_MOUSE_BUTTON_1) {
+			mapInterface::openInterface();
+		}
+		if (button == GLFW_MOUSE_BUTTON_2) {
+			mapInterface::closeInterface();
+		}
+	}
+
+	void keyPresses(GLFWwindow* window, int key, int scancode, int action, int mods) {
+		mapInterface::updatePostcodeText(key, action);
+		if (key == GLFW_KEY_R) {
+			if (!mapInterface::interfaceOpen) {
+				xShift = 0.0f;
+				yShift = 0.0f;
+			}
+		}
+		if (key == GLFW_KEY_W) {
+			if (!mapInterface::interfaceOpen) {
+				height = height + classicminigraphics::deltaTime * cameraUpSpeed;
+			}
+		}
+		if (key == GLFW_KEY_S) {
+			if (!mapInterface::interfaceOpen) {
+				height = height - classicminigraphics::deltaTime * cameraUpSpeed;
+			}
+		}
+		if (key == GLFW_KEY_UP) {
+			if (!mapInterface::interfaceOpen) {
+				yShift = yShift + classicminigraphics::deltaTime * cameraForwardSpeed;
+			}
+		}
+		if (key == GLFW_KEY_DOWN) {
+			if (!mapInterface::interfaceOpen) {
+				yShift = yShift - classicminigraphics::deltaTime * cameraForwardSpeed;
+			}
+		}
+		if (key == GLFW_KEY_RIGHT) {
+			if (!mapInterface::interfaceOpen) {
+				xShift = xShift + classicminigraphics::deltaTime * cameraForwardSpeed;
+			}
+		}
+		if (key == GLFW_KEY_LEFT) {
+			if (!mapInterface::interfaceOpen) {
+				xShift = xShift - classicminigraphics::deltaTime * cameraForwardSpeed;
+			}
+		}
 	}
 
 	void loadChunks() {
@@ -237,9 +158,8 @@ namespace classicminimaps {
 		
 		glUseProgram(shaderProgram);
 		shader::setVectorFour(shaderProgram, "lineColours", vec4(1.0f));
-		shader::setMat4(shaderProgram, "view", translate(mat4(1.0f), -classicminigraphics::cameraPosition));
-		shader::setMat4(shaderProgram, "projection", perspective(radians(45.0f), classicminigraphics::aspectDivider,
-			classicminigraphics::closeCamera, classicminigraphics::farCamera));
+		shader::setMat4(shaderProgram, "view", classicminigraphics::viewMatrix());
+		shader::setMat4(shaderProgram, "projection", classicminigraphics::projectionMatrix());
 
 		int squareCount = (int)currentMapSquares.size();
 
@@ -258,28 +178,202 @@ namespace classicminimaps {
 	}
 
 	void renderMapTexts() {
-		int toRenderCount = toRender.size();
+		int toRenderCount = (int) toRender.size();
 		for (int t = 0; t < toRenderCount; t++) {
-			text::renderText(toRender[t].name, vec3(toRender[t].position.x / scaleDivider, toRender[t].position.y / scaleDivider, 0.0f), 0.001f, true, vec4(0.0f, 1.0f, 0.0f, 1.0f));
+			text::renderText(toRender[t].name, vec3(toRender[t].position.x / scaleDivider, toRender[t].position.y / scaleDivider, 0.0f), 
+				textSize, true, textColour);
 		}
 
 		toRender.clear();
 	}
 
+	bool objectWillBeOnScreen(vec2 objectPosition) {
+		// will not work with a rotated camera
+		if (objectPosition.x <= classicminigraphics::cameraPosition.x + tan(radians(22.5f)) * height) {
+			if (objectPosition.x >= classicminigraphics::cameraPosition.x - tan(radians(22.5f)) * height) {
+
+				if (objectPosition.y <= classicminigraphics::cameraPosition.y + tan(radians(22.5f)) * height) {
+					if (objectPosition.y >= classicminigraphics::cameraPosition.y - tan(radians(22.5f)) * height) {
+						return true;
+					}
+				}
+			}
+		}
+		return false;
+	}
+
+	void loadSpeedCameras(){
+		vector<string> allLines = savefiles::readLines("assets/garminSpeedToText.txt");
+		int lineCount = (int) allLines.size();
+
+		for (int l = 0; l < lineCount; l++) {
+			string currentLine = allLines[l];
+			vector<string> data = savefiles::splitComma(currentLine);
+			vec2 newVector = vec2(0.0f);
+
+			newVector.x = stof(data[0]) / scaleDivider;
+			newVector.y = stof(data[1]) / scaleDivider;
+
+			speedCameraLocations.push_back(newVector);
+		}
+		// begin opengl
+		vector<float> vertices = {
+			-1.0f, -1.0f, 0.0f, 0.0f,
+			1.0f, -1.0f, 1.0f, 0.0f,
+			-1.0f, 1.0f, 0.0f, 1.0f,
+
+			1.0f, 1.0f, 1.0f, 1.0f,
+			1.0f, -1.0f, 1.0f, 0.0f,
+			-1.0f, 1.0f, 0.0f, 1.0f
+		};
+		glGenVertexArrays(1, &speedVAO);
+		glBindVertexArray(speedVAO);
+
+		glGenBuffers(1, &speedVBO);
+		glBindBuffer(GL_ARRAY_BUFFER, speedVBO);
+		glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(float), vertices.data(), GL_STATIC_DRAW);
+
+		// position attribute
+		glVertexAttribPointer(0, 2, GL_FLOAT, GL_FALSE, 4 * sizeof(float), (void*)0);
+		glEnableVertexAttribArray(0);
+		// texture coord attribute
+		glVertexAttribPointer(1, 2, GL_FLOAT, GL_FALSE, 4 * sizeof(float), (void*)(2 * sizeof(float)));
+		glEnableVertexAttribArray(1);
+		speedSize = (GLuint) (vertices.size() / 4);
+		// shaders
+		int vertex = shader::createShader("assets/shaders/speedVertex.txt", GL_VERTEX_SHADER);
+		int fragment = shader::createShader("assets/shaders/speedFragment.txt", GL_FRAGMENT_SHADER);
+		speedShader = shader::createProgram({ vertex, fragment });
+		// texture
+		policeIconTexture = texture::loadTexture("assets/images/policeIcon.png");
+	}
+
+	void drawSpeedCameras(){
+		glUseProgram(speedShader);
+		glBindVertexArray(speedVAO);
+		shader::setMat4(speedShader, "projection", classicminigraphics::projectionMatrix());
+		shader::setMat4(speedShader, "view", classicminigraphics::viewMatrix());
+		texture::enableTexture(policeIconTexture);
+
+		int cameraCount = (int)speedCameraLocations.size();
+		for (int i = 0; i < cameraCount; i++) {
+			if (objectWillBeOnScreen(speedCameraLocations[i])) {
+				mat4 modelMatrix = translate(mat4(1.0f), vec3(speedCameraLocations[i], 0.0f));
+				shader::setMat4(speedShader, "model", scale(modelMatrix, vec3(speedCameraSize)));
+
+				glDrawArrays(GL_TRIANGLES, 0, speedSize);
+			}
+		}
+
+		// your icon
+		vec2 usedCameraPosition = vec2(classicminigraphics::cameraPosition) - vec2(xShift, yShift);
+		vec3 yourIconPosition = vec3(usedCameraPosition, 0.0f);
+		float multiplier = (float)yourIcon.width / (float)yourIcon.height;
+		vec3 yourIconScale = vec3(yourIconSize * multiplier, yourIconSize, 1.0f);
+
+		mat4 modelMatrix = translate(mat4(1.0f), yourIconPosition);
+		modelMatrix = scale(modelMatrix, yourIconScale);
+		shader::setMat4(speedShader, "model", modelMatrix);
+		texture::enableTexture(yourIcon);
+
+		glDrawArrays(GL_TRIANGLES, 0, speedSize);
+	}
+
 	void loadTexts() {
-		int currentSquareCount = currentMapSquares.size();
+		int currentSquareCount = (int)currentMapSquares.size();
 
 		for (int i = 0; i < currentSquareCount; i++) {
-			int currentOpenNameCount = currentMapSquares[i].allNames.size();
+			int currentOpenNameCount = (int)currentMapSquares[i].allNames.size();
 
 			for (int n = 0; n < currentOpenNameCount; n++) {
 				vec2 checkPosition = vec2(currentMapSquares[i].allNames[n].position);
 				checkPosition = checkPosition / vec2(scaleDivider);
 
-				if (distance(checkPosition, vec2(classicminigraphics::cameraPosition)) < distanceToLoad) {
+				if (objectWillBeOnScreen(checkPosition)) {
 					toRender.push_back(currentMapSquares[i].allNames[n]);
 				}
 			}
 		}
+	}
+}
+
+void mapSquare::load(string fileName){
+	justFileName = fileName;
+	fullFilePath = "assets/mapData/" + fileName;
+	gridSquareName = justFileName.substr(0, 2);
+
+	// read line by line
+	string line;
+	ifstream inFile(fullFilePath);
+
+	while (getline(inFile, line)) {
+		// split between commas
+		vector<vec2> thisShape;
+
+		stringstream stringStream(line);
+		int index = 0;
+		while (stringStream.good()) {
+			string subString;
+			getline(stringStream, subString, ',');
+
+			if (index % 2 == 0) {
+				vec2 newVector = vec2(0.0f);
+				thisShape.push_back(newVector);
+			}
+
+			int selectedIndex = (int)floor(index / 2);
+			thisShape[selectedIndex][index % 2] = stof(subString);
+
+			index = index + 1;
+		}
+		shapes.push_back(thisShape);
+	}
+}
+
+void mapSquare::loadOpenGLAttributes(){
+	glGenVertexArrays(1, &VAO);
+	glBindVertexArray(VAO);
+
+	glGenBuffers(1, &VBO);
+	glBindBuffer(GL_ARRAY_BUFFER, VBO);
+
+	vector<float> vertices;
+	int shapeCount = (int)shapes.size();
+
+	for (int s = 0; s < shapeCount; s++) {
+		int vertexCount = (int)shapes[s].size();
+
+		for (int v = 0; v < vertexCount - 1; v++) {
+			vertices.push_back(shapes[s][v].x / classicminimaps::scaleDivider);
+			vertices.push_back(shapes[s][v].y / classicminimaps::scaleDivider);
+
+			int nextIndex = v + 1;
+			vertices.push_back(shapes[s][nextIndex].x / classicminimaps::scaleDivider);
+			vertices.push_back(shapes[s][nextIndex].y / classicminimaps::scaleDivider);
+		}
+	}
+
+	glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(float), vertices.data(), GL_STATIC_DRAW);
+	glVertexAttribPointer(0, 2, GL_FLOAT, GL_FALSE, 2 * sizeof(float), (void*)0);
+	glEnableVertexAttribArray(0);
+	size = (GLuint)(vertices.size() / 2);
+	active = true;
+}
+
+void mapSquare::loadOpenNames(){
+	namePath = "assets/roadNames/" + gridSquareName + "Names.txt";
+	vector<string> nameFileLines = savefiles::readLines(namePath.data());
+	int lineCount = (int)nameFileLines.size();
+
+	for (int l = 0; l < lineCount; l++) {
+		vector<string> data = savefiles::splitComma(nameFileLines[l]);
+
+		openName newNameReference = openName();
+		newNameReference.name = data[0];
+
+		newNameReference.position.x = stof(data[1]);
+		newNameReference.position.y = stof(data[2]);
+
+		allNames.push_back(newNameReference);
 	}
 }
