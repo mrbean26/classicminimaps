@@ -38,7 +38,7 @@ namespace shader {
 
 namespace gridMath {
 	vec2 gridToLatLng(vec2 grid);
-	dvec2 latLngToGrid(dvec2 latLng);
+	vec2 latLngToGrid(vec2 latLng);
 }
 
 namespace text {

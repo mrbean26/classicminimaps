@@ -196,7 +196,8 @@ namespace classicminimaps {
 	}
 
 	void mainloop() {
-		vec2 pos = gridMath::latLngToGrid(vec2(51.2193951f, -0.2842279f));
+		height -= classicminigraphics::deltaTime * 4.0f;
+		vec2 pos = gridMath::latLngToGrid(vec2(51.2193951, -0.2842279));
 		classicminigraphics::cameraPosition = vec3(pos.x / classicminimaps::scaleDivider, pos.y / classicminimaps::scaleDivider, height);
 
 		loadChunks();

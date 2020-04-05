@@ -134,7 +134,7 @@ namespace gridMath {
 		return vec2(degrees(phi), degrees(lambda1));
 	}
 
-	dvec2 latLngToGrid(dvec2 latLng) {
+	vec2 latLngToGrid(vec2 latLng) {
 		double OSGB_F0 = 0.9996012717;
 		double N0 = -100000.0;
 		double E0 = 400000.0;
