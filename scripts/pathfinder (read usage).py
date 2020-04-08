@@ -1,5 +1,5 @@
 # USAGE:
-# 
+#
 
 import time
 
@@ -55,6 +55,7 @@ def findPath(startPosition, endPosition):
     connections = [startNode]
     while True:
         for connection in connections:
+            positionsAlreadySeen.append(connection.position)
             if connection.position == endNode.position:
                 print("Found path in " + str(time.time() - startTime - 1) + " seconds!") # -1 just for debugging to not round numbers
                 return connection.indexPath
@@ -64,6 +65,10 @@ def findPath(startPosition, endPosition):
         for i in range(count):
             newConnections = connections[i].getConnections()
             newNodes = newNodes + newConnections
+
+        if len(newNodes) == 0:
+			print("No path!")
+			break
 
         connections = newNodes
 
@@ -81,8 +86,9 @@ def getCoordsFromPath(startPosition, usedPath):
 
     return coords
 
-start = "[0;0]"
-end = "[6;6]"
+start = "[395875.75;1141236.34]"
+end = "[396306.42;1137076.77]"
 
 path = findPath(start, end)
-print(getCoordsFromPath(start, path))
+if path is not None:
+	print(getCoordsFromPath(start, path))
