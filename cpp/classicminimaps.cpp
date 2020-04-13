@@ -1,6 +1,7 @@
 #include "classicminimaps.h"
 
 #include <gtc/matrix_transform.hpp>
+#include <iomanip>
 using namespace std;
 
 namespace classicminimaps {
@@ -8,6 +9,7 @@ namespace classicminimaps {
 
 	float scaleDivider = 100.0f;
 	float height = 15.0f;
+	float defaultHeight = 15.0f;
 
 	float distanceToLoad = 100.0f;
 	float rotationSearchInterval = 20.0f;
@@ -67,9 +69,12 @@ namespace classicminimaps {
 		yourIcon = texture::loadTexture("assets/images/yourIcon.png");
 	}
 
+	vec2 location = vec2(0.0f);
+	vec2 longLat = vec2(0.0f);
 	void mainloop() {
-		vec2 pos = gridMath::latLngToGrid(vec2(51.5304926, -0.2772791));
-		classicminigraphics::cameraPosition = vec3(pos.x / classicminimaps::scaleDivider + xShift, pos.y / classicminimaps::scaleDivider + yShift, height);
+		longLat = vec2(51.219503, -0.28409623);
+		location = gridMath::latLngToGrid_WGS84(longLat);
+		classicminigraphics::cameraPosition = vec3(location.x / classicminimaps::scaleDivider + xShift, location.y / classicminimaps::scaleDivider + yShift, height);
 
 		loadChunks();
 		loadTexts();
@@ -93,6 +98,7 @@ namespace classicminimaps {
 			if (!mapInterface::interfaceOpen) {
 				xShift = 0.0f;
 				yShift = 0.0f;
+				height = defaultHeight;
 			}
 		}
 		if (key == GLFW_KEY_W) {
@@ -107,22 +113,22 @@ namespace classicminimaps {
 		}
 		if (key == GLFW_KEY_UP) {
 			if (!mapInterface::interfaceOpen) {
-				yShift = yShift + classicminigraphics::deltaTime * cameraForwardSpeed;
+				yShift = yShift + classicminigraphics::deltaTime * cameraForwardSpeed * (height / defaultHeight);
 			}
 		}
 		if (key == GLFW_KEY_DOWN) {
 			if (!mapInterface::interfaceOpen) {
-				yShift = yShift - classicminigraphics::deltaTime * cameraForwardSpeed;
+				yShift = yShift - classicminigraphics::deltaTime * cameraForwardSpeed * (height / defaultHeight);
 			}
 		}
 		if (key == GLFW_KEY_RIGHT) {
 			if (!mapInterface::interfaceOpen) {
-				xShift = xShift + classicminigraphics::deltaTime * cameraForwardSpeed;
+				xShift = xShift + classicminigraphics::deltaTime * cameraForwardSpeed * (height / defaultHeight);
 			}
 		}
 		if (key == GLFW_KEY_LEFT) {
 			if (!mapInterface::interfaceOpen) {
-				xShift = xShift - classicminigraphics::deltaTime * cameraForwardSpeed;
+				xShift = xShift - classicminigraphics::deltaTime * cameraForwardSpeed * (height / defaultHeight);
 			}
 		}
 	}
@@ -178,10 +184,12 @@ namespace classicminimaps {
 	}
 
 	void renderMapTexts() {
-		int toRenderCount = (int) toRender.size();
-		for (int t = 0; t < toRenderCount; t++) {
-			text::renderText(toRender[t].name, vec3(toRender[t].position.x / scaleDivider, toRender[t].position.y / scaleDivider, 0.0f), 
-				textSize, true, textColour);
+		if (classicminimaps::height < 25.0f) {
+			int toRenderCount = (int)toRender.size();
+			for (int t = 0; t < toRenderCount; t++) {
+				text::renderText(toRender[t].name, vec3(toRender[t].position.x / scaleDivider, toRender[t].position.y / scaleDivider, 0.0f),
+					textSize * (height / defaultHeight), true, textColour);
+			}
 		}
 
 		toRender.clear();
@@ -270,6 +278,7 @@ namespace classicminimaps {
 		vec3 yourIconPosition = vec3(usedCameraPosition, 0.0f);
 		float multiplier = (float)yourIcon.width / (float)yourIcon.height;
 		vec3 yourIconScale = vec3(yourIconSize * multiplier, yourIconSize, 1.0f);
+		yourIconScale = yourIconScale * vec3(height / defaultHeight);
 
 		mat4 modelMatrix = translate(mat4(1.0f), yourIconPosition);
 		modelMatrix = scale(modelMatrix, yourIconScale);
@@ -278,8 +287,12 @@ namespace classicminimaps {
 
 		glDrawArrays(GL_TRIANGLES, 0, speedSize);
 	}
-
+	
+	string nearestLocation = "";
 	void loadTexts() {
+		float lowestDistance = INT_MAX;
+		string currentLowest = "";
+
 		int currentSquareCount = (int)currentMapSquares.size();
 
 		for (int i = 0; i < currentSquareCount; i++) {
@@ -292,8 +305,16 @@ namespace classicminimaps {
 				if (objectWillBeOnScreen(checkPosition)) {
 					toRender.push_back(currentMapSquares[i].allNames[n]);
 				}
+				
+				float newDistance = distance(location, currentMapSquares[i].allNames[n].position);
+				if (newDistance < lowestDistance) {
+					currentLowest = currentMapSquares[i].allNames[n].name;
+					lowestDistance = newDistance;
+				}
 			}
 		}
+
+		nearestLocation = currentLowest;
 	}
 }
 
@@ -303,28 +324,19 @@ void mapSquare::load(string fileName){
 	gridSquareName = justFileName.substr(0, 2);
 
 	// read line by line
-	string line;
-	ifstream inFile(fullFilePath);
+	vector<string> allLines = savefiles::readLines(fullFilePath.data());
+	int lineCount = allLines.size();
 
-	while (getline(inFile, line)) {
+	for (int l = 0; l < lineCount; l++) {
 		// split between commas
 		vector<vec2> thisShape;
+		vector<string> splitByComma = savefiles::splitComma(allLines[l]);
+		int count = splitByComma.size();
 
-		stringstream stringStream(line);
-		int index = 0;
-		while (stringStream.good()) {
-			string subString;
-			getline(stringStream, subString, ',');
-
-			if (index % 2 == 0) {
-				vec2 newVector = vec2(0.0f);
-				thisShape.push_back(newVector);
-			}
-
-			int selectedIndex = (int)floor(index / 2);
-			thisShape[selectedIndex][index % 2] = stof(subString);
-
-			index = index + 1;
+		for (int i = 0; i < count / 2; i++) {
+			int multiplied = i * 2;
+			vec2 newPoint = vec2(stof(splitByComma[multiplied]), stof(splitByComma[multiplied + 1]));
+			thisShape.push_back(newPoint);
 		}
 		shapes.push_back(thisShape);
 	}

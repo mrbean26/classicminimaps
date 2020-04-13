@@ -31,6 +31,7 @@ using namespace glm;
 namespace savefiles {
 	vector<string> readLines(const char* fileName);
 	vector<string> splitComma(string used);
+	bool fileExists(string name);
 }
 
 namespace shader {
@@ -47,8 +48,10 @@ namespace gridMath {
 	double reciprocalCos(double x);
 	double sinSquared(double x);
 
-	vec2 gridToLatLng(vec2 grid);
-	vec2 latLngToGrid(vec2 latLng);
+	vec2 OSGB36_ToLatLng(vec2 grid);
+	vec2 latLngToGrid_OSGB36(vec2 latLng);
+
+	vec2 latLngToGrid_WGS84(vec2 latLng);
 
 	bool onScreen(mat4 projection, mat4 view, vec3 position);
 }

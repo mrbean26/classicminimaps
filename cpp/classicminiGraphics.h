@@ -11,7 +11,7 @@
 using namespace glm;
 
 namespace classicminigraphics {
-	bool begin(int width, int height, const char* title);
+	bool begin(int width, int height, const char* title, bool fullscreen);
 	void endEvents();
 	void startEvents();
 

@@ -27,6 +27,11 @@ namespace savefiles {
 
 		return returned;
 	}
+
+	bool fileExists(string name){
+		struct stat buffer;
+		return (stat(name.c_str(), &buffer) == 0);
+	}
 }
 
 namespace shader {
@@ -92,7 +97,7 @@ namespace gridMath {
 		return sin(x) * sin(x);
 	}
 
-	vec2 gridToLatLng(vec2 grid) {
+	vec2 OSGB36_ToLatLng(vec2 grid) {
 		double OSGB_F0 = 0.9996012717;
 		double N0 = -100000.0;
 		double E0 = 400000.0;
@@ -131,7 +136,7 @@ namespace gridMath {
 		return vec2(degrees(phi), degrees(lambda1));
 	}
 
-	vec2 latLngToGrid(vec2 latLng) {
+	vec2 latLngToGrid_OSGB36(vec2 latLng) {
 		double OSGB_F0 = 0.9996012717;
 		double N0 = -100000.0;
 		double E0 = 400000.0;
@@ -160,6 +165,53 @@ namespace gridMath {
 		E = E0 + (IV * (lambda1 - lambda0)) + (V * pow(lambda1 - lambda0, 3.0)) + (VI * pow(lambda1 - lambda0, 5.0));
 
 		return dvec2(E, N);
+	}
+
+	vec2 latLngToGrid_WGS84(vec2 latLng) {
+		double a = 6378137.0; 
+		double b = 6356752.3142;
+		double eSquared = ((a * a) - (b * b)) / (a * a);
+
+		double phi = radians(latLng.x);
+		double lambda = radians(latLng.y);
+
+		double v = a / (sqrt(1 - eSquared * sinSquared(phi)));
+		double H = 0;
+		double x = (v + H) * cos(phi) * cos(lambda);
+		double y = (v + H) * cos(phi) * sin(lambda);
+		double z = ((1 - eSquared) * v + H) * sin(phi);
+
+		double tx = -446.448;
+		double ty = 125.157;
+		double tz = -542.060;
+		double s = 0.0000204894;
+		double rx = radians(-0.00004172222);
+		double ry = radians(-0.00006861111);
+		double rz = radians(-0.00023391666);
+
+		double xB = tx + (x * (1 + s)) + (-rx * y) + (ry * z);
+		double yB = ty + (rz * x) + (y * (1 + s)) + (-rx * z);
+		double zB = tz + (-ry * x) + (rx * y) + (z * (1 + s));
+
+		a = 6377563.396;
+		b = 6356256.909;
+		eSquared = ((a * a) - (b * b)) / (a * a);
+
+		double lambdaB = degrees(atan(yB / xB));
+		double p = sqrt((xB * xB) + (yB * yB));
+		double phiN = atan(zB / (p * (1 - eSquared)));
+
+		for (int i = 1; i < 10; i++) {
+			v = a / sqrt(1 - eSquared * sinSquared(phiN));
+			double phiN1 = atan((zB + (eSquared * v * sin(phiN))) / p);
+			phiN = phiN1;
+		}
+
+		double phiB = degrees(phiN);
+		double latitude = phiB;
+		double longitude = lambdaB;
+
+		return latLngToGrid_OSGB36(vec2(latitude, longitude));
 	}
 
 	bool onScreen(mat4 projection, mat4 view, vec3 position){

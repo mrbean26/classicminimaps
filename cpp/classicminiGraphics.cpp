@@ -4,13 +4,32 @@
 
 namespace classicminigraphics {
 	GLFWwindow* window;
-	bool begin(int widthUsed, int heightUsed, const char* title) {
+	bool begin(int widthUsed, int heightUsed, const char* title, bool fullscreen) {
 		if (!glfwInit()) { return false; }
-		window = glfwCreateWindow(widthUsed, heightUsed, title, NULL, NULL);
+		window = nullptr;
 
-		width = (float)widthUsed;
-		height = (float)heightUsed;
-		aspectDivider = width / height;
+		glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
+		glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
+		glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
+		glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GLFW_TRUE);
+
+		if (!fullscreen) {
+			window = glfwCreateWindow(widthUsed, heightUsed, title, NULL, NULL);
+
+			width = (float)widthUsed;
+			height = (float)heightUsed;
+			aspectDivider = width / height;
+		}
+		if (fullscreen) {
+			GLFWmonitor* primaryMonitor = glfwGetPrimaryMonitor();
+			const GLFWvidmode* monitorMode = glfwGetVideoMode(primaryMonitor);
+
+			width = monitorMode->width;
+			height = monitorMode->height;
+
+			window = glfwCreateWindow(width, height, title, primaryMonitor, NULL);
+			aspectDivider = width / height;
+		}
 
 		if (!window) {
 			glfwTerminate();
@@ -55,7 +74,7 @@ namespace classicminigraphics {
 	float aspectDivider = 0.0f;
 
 	float closeCamera = 0.1f;
-	float farCamera = 100.0f;
+	float farCamera = 1000.0f;
 
 	vec3 cameraPosition = vec3(0.0f);
 }

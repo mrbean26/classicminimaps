@@ -60,7 +60,8 @@ namespace classicminimaps {
 
 	void loadChunks();
 	void render();
-
+	
+	extern string nearestLocation;
 	void renderMapTexts();
 	void loadTexts();
 	bool objectWillBeOnScreen(vec2 objectPosition);
@@ -106,6 +107,9 @@ namespace classicminimaps {
 
 	extern texture::texture yourIcon;
 	extern float yourIconSize;
+
+	extern vec2 location;
+	extern vec2 longLat;
 }
 
 #endif 

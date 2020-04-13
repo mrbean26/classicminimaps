@@ -12,6 +12,11 @@ namespace mapInterface {
 	extern string postcodeText;
 
 	void mainloop();
+	void begin();
+
+	void beginPostcodeInfo();
+	void renderPostcodeLine();
+	string getRouteDistance();
 
 	void openInterface();
 	void closeInterface();
