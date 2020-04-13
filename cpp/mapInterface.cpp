@@ -16,7 +16,7 @@ namespace mapInterface {
 	}
 
 	string searchForPostcode(string postcode) {
-		int length = postcode.length();
+		int length = (int)postcode.length();
 		if (length < 5 || length > 7) {
 			return "Not correct postcode.";
 		}
@@ -30,7 +30,7 @@ namespace mapInterface {
 		}
 
 		string newSearchTerm = "";
-		int searchLength = searchTerm.length();
+		int searchLength = (int)searchTerm.length();
 		for (int i = 0; i < searchLength; i++) {
 			int ascii = (int)searchTerm.at(i);
 			newSearchTerm = newSearchTerm + (char) (ascii + 32);
@@ -42,7 +42,7 @@ namespace mapInterface {
 		}
 
 		vector<string> allLines = savefiles::readLines(newSearchTerm.data());
-		int lineCount = allLines.size();
+		int lineCount = (int)allLines.size();
 
 		for (int l = 0; l < lineCount; l++) {
 			vector<string> data = savefiles::splitComma(allLines[l]);

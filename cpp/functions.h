@@ -28,10 +28,21 @@
 using namespace std;
 using namespace glm;
 
+namespace classicminiSystem {
+	extern int WINDOWS;
+	extern int MAC_OSX;
+	extern int LINUX;
+	extern int OS_UNKNOWN;
+
+	string executeCommand(const char* command);
+	int getOSType();
+}
+
 namespace savefiles {
 	vector<string> readLines(const char* fileName);
 	vector<string> splitComma(string used);
 	bool fileExists(string name);
+	vector<string> splitNewLine(string used);
 }
 
 namespace shader {

@@ -1,9 +1,5 @@
 #include "classicminimaps.h"
-
-#include <gtc/matrix_transform.hpp>
-#include <iomanip>
-using namespace std;
-
+#include <stdlib.h>
 namespace classicminimaps {
 	int shaderProgram = 0;
 
@@ -72,7 +68,7 @@ namespace classicminimaps {
 	vec2 location = vec2(0.0f);
 	vec2 longLat = vec2(0.0f);
 	void mainloop() {
-		longLat = vec2(51.219503, -0.28409623);
+		longLat = getLatLong();
 		location = gridMath::latLngToGrid_WGS84(longLat);
 		classicminigraphics::cameraPosition = vec3(location.x / classicminimaps::scaleDivider + xShift, location.y / classicminimaps::scaleDivider + yShift, height);
 
@@ -287,10 +283,60 @@ namespace classicminimaps {
 
 		glDrawArrays(GL_TRIANGLES, 0, speedSize);
 	}
+
+	bool runningThread = false;
+	future<vec2> thread;
+	vec2 loadLatLong() {
+		if (!runningThread) {
+			thread = async(getLatLong);
+			runningThread = true;
+			return longLat;
+		}
+		if (runningThread) {
+			if (thread.wait_for(chrono::seconds(0)) == future_status::ready) {
+				runningThread = false;
+				return thread.get();
+			}
+			else {
+				return longLat;
+			}
+		}
+		return longLat;
+	}
+
+	vec2 getLatLong() {
+		int osType = classicminiSystem::getOSType();
+
+		if (osType == classicminiSystem::WINDOWS) {
+
+		}
+
+		if (osType == classicminiSystem::MAC_OSX) {
+			string result = classicminiSystem::executeCommand("/Users/adamc/Desktop/whereami ; exit;");
+			if (result == "") {
+				return longLat;
+			}
+			vector<string> split = savefiles::splitNewLine(result);
+
+			string first = "Latitude: ";
+			string second = "Longitude: ";
+
+			string latitude = split[0].substr(first.size(), split[0].size());
+			string longitude = split[1].substr(second.size(), split[1].size());
+
+			return vec2(stof(latitude), stof(longitude));
+		}
+
+		if (osType == classicminiSystem::LINUX) {
+
+		}
+
+		return longLat;
+	}
 	
 	string nearestLocation = "";
 	void loadTexts() {
-		float lowestDistance = INT_MAX;
+		float lowestDistance = (float) INT_MAX;
 		string currentLowest = "";
 
 		int currentSquareCount = (int)currentMapSquares.size();
@@ -325,13 +371,13 @@ void mapSquare::load(string fileName){
 
 	// read line by line
 	vector<string> allLines = savefiles::readLines(fullFilePath.data());
-	int lineCount = allLines.size();
+	int lineCount = (int)allLines.size();
 
 	for (int l = 0; l < lineCount; l++) {
 		// split between commas
 		vector<vec2> thisShape;
 		vector<string> splitByComma = savefiles::splitComma(allLines[l]);
-		int count = splitByComma.size();
+		int count = (int) splitByComma.size();
 
 		for (int i = 0; i < count / 2; i++) {
 			int multiplied = i * 2;

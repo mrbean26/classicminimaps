@@ -19,6 +19,14 @@
 #include <fstream>
 #include <iostream>
 
+#include <gtc/matrix_transform.hpp>
+#include <iomanip>
+
+#include <thread>
+#include <future>
+
+#include <stdlib.h>
+
 using namespace glm;
 using namespace std;
 
@@ -74,6 +82,11 @@ namespace classicminimaps {
 
 	void loadSpeedCameras();
 	void drawSpeedCameras();
+
+	extern bool runningThread;
+	extern future<vec2> thread;
+	vec2 loadLatLong();
+	vec2 getLatLong();
 
 	extern float scaleDivider;
 	extern float height;

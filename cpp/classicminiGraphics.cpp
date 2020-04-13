@@ -24,10 +24,10 @@ namespace classicminigraphics {
 			GLFWmonitor* primaryMonitor = glfwGetPrimaryMonitor();
 			const GLFWvidmode* monitorMode = glfwGetVideoMode(primaryMonitor);
 
-			width = monitorMode->width;
-			height = monitorMode->height;
+			width = (float)monitorMode->width;
+			height = (float)monitorMode->height;
 
-			window = glfwCreateWindow(width, height, title, primaryMonitor, NULL);
+			window = glfwCreateWindow((int)width, (int)height, title, primaryMonitor, NULL);
 			aspectDivider = width / height;
 		}
 
@@ -36,6 +36,7 @@ namespace classicminigraphics {
 			return false;
 		}
 
+		glfwSwapInterval(0);
 		glfwMakeContextCurrent(window);
 
 		if (glewInit() != GLEW_OK) {

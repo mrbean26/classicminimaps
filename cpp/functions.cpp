@@ -1,6 +1,11 @@
 #define STB_IMAGE_IMPLEMENTATION
 #include "functions.h"
 
+#include <memory>
+#include <stdexcept>
+#include <array>
+#include <cstdio>
+
 namespace savefiles {
 	vector<string> readLines(const char* fileName) {
 		vector<string> allLines;
@@ -28,9 +33,28 @@ namespace savefiles {
 		return returned;
 	}
 
+	vector<string> splitNewLine(string used) {
+		vector<string> returned;
+		stringstream stringStream(used);
+
+		while (stringStream.good()) {
+			string substring;
+			getline(stringStream, substring, '\n');
+			returned.push_back(substring);
+		}
+
+		return returned;
+	}
+
 	bool fileExists(string name){
-		struct stat buffer;
-		return (stat(name.c_str(), &buffer) == 0);
+		fstream fileStream;
+		fileStream.open(name);
+
+		if (fileStream.fail()) {
+			return false;
+		}
+
+		return true;
 	}
 }
 
@@ -307,7 +331,7 @@ namespace text {
 			Character currentCharacter = fontCharacters[*c];
 
 			measurement.x = measurement.x + (currentCharacter.advance >> 6)* size;
-			measurement.y = max(measurement.y, currentCharacter.size.y * size);
+			measurement.y = glm::max(measurement.y, currentCharacter.size.y * size);
 		}
 
 		return measurement;
@@ -392,5 +416,45 @@ namespace texture {
 	
 	void enableTexture(texture usedTexture) {
 		glBindTexture(GL_TEXTURE_2D, usedTexture.textureId);
+	}
+}
+
+namespace classicminiSystem {
+	int WINDOWS = 0;
+	int MAC_OSX = 1;
+	int LINUX = 2;
+	int OS_UNKNOWN = -1;
+
+	string executeCommand(const char* command){
+		array<char, 128> buffer;
+		string result;
+
+		unique_ptr<FILE, decltype(&_pclose) > pipe(_popen(command, "r"), _pclose);
+		if (!pipe) {
+			return "";
+		}
+		while (fgets(buffer.data(), (int) buffer.size(), pipe.get()) != nullptr) {
+			result += buffer.data();
+		}
+
+		return result;
+	}
+
+	int getOSType() {
+#ifdef _WIN32
+		return WINDOWS;
+#endif
+
+#ifdef unix
+#ifndef __APPLE__
+		return LINUX;
+#endif
+#endif
+
+#ifdef __APPLE__
+		return MAC_OSX;
+#endif 
+
+		return OS_UNKNOWN;
 	}
 }
