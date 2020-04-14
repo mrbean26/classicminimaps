@@ -60,12 +60,18 @@ public:
 	string namePath = "";
 
 	void loadOpenNames();
+
+	// memory saving
+	void deleteOpenNames();
+	void deleteOpenGLAttributes();
+	void deleteShapeInfo();
 };
 
 namespace classicminimaps {
 	void begin();
 	void mainloop();
 
+	bool checkIfWillBeInChunk(vec2 minPoint, vec2 maxPoint, float degree, float radius);
 	void loadChunks();
 	void render();
 	
@@ -92,6 +98,7 @@ namespace classicminimaps {
 	extern float height;
 	extern int shaderProgram;
 	extern float distanceToLoad;
+	extern float overlapToDelete;
 	extern float rotationSearchInterval;
 
 	extern float speedCameraSize;

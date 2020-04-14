@@ -8,6 +8,7 @@ namespace classicminimaps {
 	float defaultHeight = 15.0f;
 
 	float distanceToLoad = 100.0f;
+	float overlapToDelete = 50.0f;
 	float rotationSearchInterval = 20.0f;
 
 	vec4 textColour = vec4(0.0f, 0.0f, 0.0f, 1.0f);
@@ -129,28 +130,57 @@ namespace classicminimaps {
 		}
 	}
 
+	bool checkIfWillBeInChunk(vec2 minPoint, vec2 maxPoint, float degree, float radius) {
+		float xAdded = cos(radians(degree)) * radius;
+		float yAdded = sin(radians(degree)) * radius;
+		vec2 searchPos = vec2(xAdded, yAdded) + vec2(classicminigraphics::cameraPosition);
+
+		if (searchPos.x >= minPoint.x / scaleDivider && searchPos.x <= maxPoint.x / scaleDivider) {
+			if (searchPos.y >= minPoint.y / scaleDivider && searchPos.y <= maxPoint.y / scaleDivider) {
+				return true;
+			}
+		}
+		return false;
+	}
+
 	void loadChunks() {
 		int squareCount = (int)currentMapSquares.size();
-
+	
 		for (int i = 0; i < squareCount; i++) {
-			if (currentMapSquares[i].active) {
-				continue;
-			}
+			bool notIn = true;
 
 			for (float r = 0.0f; r < 360.0f; r += rotationSearchInterval) {
-				float xAdded = cos(radians(r)) * distanceToLoad;
-				float yAdded = sin(radians(r)) * distanceToLoad;
-				vec2 searchPos = vec2(xAdded, yAdded) + vec2(classicminigraphics::cameraPosition);
-
-				if (searchPos.x >= currentMapSquares[i].minPoints.x / scaleDivider && searchPos.x <= currentMapSquares[i].maxPoints.x / scaleDivider) {
-					if (searchPos.y >= currentMapSquares[i].minPoints.y / scaleDivider && searchPos.y <= currentMapSquares[i].maxPoints.y / scaleDivider) {
+				if (checkIfWillBeInChunk(currentMapSquares[i].minPoints, currentMapSquares[i].maxPoints, r, distanceToLoad)) {
+					if (!currentMapSquares[i].active) {
 						currentMapSquares[i].load(currentMapSquares[i].justFileName);
 						currentMapSquares[i].loadOpenGLAttributes();
 						currentMapSquares[i].loadOpenNames();
-
+						notIn = false;
 						break;
 					}
 				}
+
+				if (checkIfWillBeInChunk(currentMapSquares[i].minPoints, currentMapSquares[i].maxPoints, r, distanceToLoad + overlapToDelete)) {
+					if (currentMapSquares[i].active) {
+						notIn = false;
+					}
+				}
+				if (checkIfWillBeInChunk(currentMapSquares[i].minPoints, currentMapSquares[i].maxPoints, r, distanceToLoad)) {
+					if (currentMapSquares[i].active) {
+						notIn = false;
+					}
+				}
+				if (checkIfWillBeInChunk(currentMapSquares[i].minPoints, currentMapSquares[i].maxPoints, r, distanceToLoad -  overlapToDelete)) {
+					if (currentMapSquares[i].active) {
+						notIn = false;
+					}
+				}
+			}
+
+			if (notIn && currentMapSquares[i].active) {
+				currentMapSquares[i].deleteOpenGLAttributes();
+				currentMapSquares[i].deleteOpenNames();
+				currentMapSquares[i].deleteShapeInfo();
 			}
 		}
 	}
@@ -434,4 +464,19 @@ void mapSquare::loadOpenNames(){
 
 		allNames.push_back(newNameReference);
 	}
+}
+
+void mapSquare::deleteOpenNames(){
+	allNames.clear();
+}
+
+void mapSquare::deleteOpenGLAttributes(){
+	glDeleteVertexArrays(1, &VAO);
+	glDeleteBuffers(1, &VBO);
+	size = 0;
+	active = false;
+}
+
+void mapSquare::deleteShapeInfo(){
+	shapes.clear();
 }

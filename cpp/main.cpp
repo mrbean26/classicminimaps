@@ -4,7 +4,7 @@
 #include "mapInterface.h"
 
 int main(void){
-	if (!classicminigraphics::begin(360, 640, "Maps", true)) {
+	if (!classicminigraphics::begin(360, 640, "Maps", false)) {
 		return -1;
 	}
 	texture::begin();

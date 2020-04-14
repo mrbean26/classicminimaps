@@ -6,6 +6,20 @@ namespace mapInterface {
 	string currentPostcode = "";
 	GLuint postcodeVAO, postcodeVBO;
 
+	void updatePostcodeLine() {
+		glBindVertexArray(postcodeVAO);
+		glBindBuffer(GL_ARRAY_BUFFER, postcodeVBO);
+		vector<float> vertices = { classicminimaps::location.x / classicminimaps::scaleDivider, classicminimaps::location.y / classicminimaps::scaleDivider,
+			postcodesLocation.x / classicminimaps::scaleDivider, postcodesLocation.y / classicminimaps::scaleDivider };
+
+		if (postcodesLocation == vec2(-1.0f)) {
+			vertices = { 0.0f, 0.0f, 0.0f, 0.0f };
+		}
+
+		glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(float), vertices.data(), GL_STATIC_DRAW);
+
+	}
+
 	string getRouteDistance() {
 		if (postcodesLocation == vec2(-1.0f)) {
 			return "No Route Set.";
@@ -50,13 +64,6 @@ namespace mapInterface {
 				postcodesLocation.x = stof(data[1]);
 				postcodesLocation.y = stof(data[2]);
 
-				glBindVertexArray(postcodeVAO);
-				glBindBuffer(GL_ARRAY_BUFFER, postcodeVBO);
-				vector<float> vertices = { classicminigraphics::cameraPosition.x, classicminigraphics::cameraPosition.y, 
-					postcodesLocation.x / classicminimaps::scaleDivider, postcodesLocation.y / classicminimaps::scaleDivider };
-				
-				glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(float), vertices.data(), GL_STATIC_DRAW);
-
 				return "Found postcode!";
 			}
 		}
@@ -66,6 +73,8 @@ namespace mapInterface {
 	}
 
 	void renderPostcodeLine() {
+		updatePostcodeLine();
+
 		glBindVertexArray(postcodeVAO);
 		glUseProgram(classicminimaps::shaderProgram);
 		glLineWidth(2.0f);

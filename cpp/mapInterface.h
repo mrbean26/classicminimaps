@@ -17,6 +17,7 @@ namespace mapInterface {
 	void beginPostcodeInfo();
 	void renderPostcodeLine();
 	string getRouteDistance();
+	void updatePostcodeLine();
 
 	void openInterface();
 	void closeInterface();
