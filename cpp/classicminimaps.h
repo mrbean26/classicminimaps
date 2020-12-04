@@ -95,6 +95,7 @@ namespace classicminimaps {
 	vec2 getLatLong();
 
 	extern float scaleDivider;
+	extern float arrowAngle;
 	extern float height;
 	extern int shaderProgram;
 	extern float distanceToLoad;

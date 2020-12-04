@@ -121,6 +121,15 @@ namespace gridMath {
 		return sin(x) * sin(x);
 	}
 
+	float bearing(vec2 one, vec2 two) {
+		float angle = atan2(two.x - one.x, two.y - one.y);
+
+		if (angle < 0.0f) {
+			angle = angle + pi<float>() * 2.0f;
+		}
+		return degrees(angle);
+	}
+
 	vec2 OSGB36_ToLatLng(vec2 grid) {
 		double OSGB_F0 = 0.9996012717;
 		double N0 = -100000.0;

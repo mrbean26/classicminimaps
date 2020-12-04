@@ -58,6 +58,7 @@ namespace gridMath {
 	double tanSquared(double x);
 	double reciprocalCos(double x);
 	double sinSquared(double x);
+	float bearing(vec2 one, vec2 two);
 
 	vec2 OSGB36_ToLatLng(vec2 grid);
 	vec2 latLngToGrid_OSGB36(vec2 latLng);

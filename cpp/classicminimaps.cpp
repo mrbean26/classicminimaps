@@ -4,6 +4,7 @@ namespace classicminimaps {
 	int shaderProgram = 0;
 
 	float scaleDivider = 100.0f;
+	float arrowAngle = 30.0f;
 	float height = 15.0f;
 	float defaultHeight = 15.0f;
 
@@ -70,6 +71,7 @@ namespace classicminimaps {
 	vec2 longLat = vec2(0.0f);
 	void mainloop() {
 		longLat = loadLatLong();
+		longLat = vec2(52.450741f, -1.838640f);
 		location = gridMath::latLngToGrid_WGS84(longLat);
 		classicminigraphics::cameraPosition = vec3(location.x / classicminimaps::scaleDivider + xShift, location.y / classicminimaps::scaleDivider + yShift, height);
 
@@ -432,12 +434,36 @@ void mapSquare::loadOpenGLAttributes(){
 		int vertexCount = (int)shapes[s].size();
 
 		for (int v = 0; v < vertexCount - 1; v++) {
-			vertices.push_back(shapes[s][v].x / classicminimaps::scaleDivider);
-			vertices.push_back(shapes[s][v].y / classicminimaps::scaleDivider);
+			// initial road line
+			vec2 first = shapes[s][v] / classicminimaps::scaleDivider;
+
+			vertices.push_back(first.x);
+			vertices.push_back(first.y);
 
 			int nextIndex = v + 1;
-			vertices.push_back(shapes[s][nextIndex].x / classicminimaps::scaleDivider);
-			vertices.push_back(shapes[s][nextIndex].y / classicminimaps::scaleDivider);
+			vec2 second = shapes[s][nextIndex] / classicminimaps::scaleDivider;
+
+			vertices.push_back(second.x);
+			vertices.push_back(second.y);
+			
+			// arrow
+			vec2 middlePoint = vec2((first.x + second.x) / 2.0f, (first.y + second.y) / 2.0f);
+			float bearing = gridMath::bearing(first, second);
+			float lineLength = glm::distance(first, second);
+
+			// arrow line one
+			vertices.push_back(middlePoint.x);
+			vertices.push_back(middlePoint.y);
+
+			vertices.push_back(middlePoint.x + sin(radians(bearing + classicminimaps::arrowAngle)) * lineLength * 0.15f);
+			vertices.push_back(middlePoint.y + cos(radians(bearing + classicminimaps::arrowAngle)) * lineLength * 0.15f);
+
+			// arrow line two
+			vertices.push_back(middlePoint.x);
+			vertices.push_back(middlePoint.y);
+
+			vertices.push_back(middlePoint.x + sin(radians(bearing - classicminimaps::arrowAngle)) * lineLength * 0.15f);
+			vertices.push_back(middlePoint.y + cos(radians(bearing - classicminimaps::arrowAngle)) * lineLength * 0.15f);
 		}
 	}
 
