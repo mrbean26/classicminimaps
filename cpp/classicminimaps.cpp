@@ -71,7 +71,7 @@ namespace classicminimaps {
 	vec2 longLat = vec2(0.0f);
 	void mainloop() {
 		longLat = loadLatLong();
-		longLat = vec2(52.450741f, -1.838640f);
+		longLat = vec2(51.220038f, -0.283897f);
 		location = gridMath::latLngToGrid_WGS84(longLat);
 		classicminigraphics::cameraPosition = vec3(location.x / classicminimaps::scaleDivider + xShift, location.y / classicminimaps::scaleDivider + yShift, height);
 
