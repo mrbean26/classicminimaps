@@ -40,22 +40,25 @@ def runFile(f):
 		data = currentLine.split(",")
 
 		itemCount = len(data)
-		for i in range(itemCount - 2):
-			if i % 2 == 1:
-				continue
+		for i in range(itemCount):
+			if i % 2 != 1:
+				currentKey = "[" + data[i] + ";" + data[i + 1] + "]"
 
-			currentKey = "[" + data[i] + ";" + data[i + 1] + "]"
-			if currentKey not in dictionary:
-				dictionary.update({ currentKey : []})
-			if i > 1:
-				newValueOne = "[" + data[i - 2] + ";" + data[i - 1] + "]"
-				newValueTwo = "[" + data[i + 2] + ";" + data[i + 3] + "]"
+				if currentKey not in dictionary:
+					dictionary.update({ currentKey : []})
+				if i > 1 and i < itemCount - 2:
+					newValueOne = "[" + data[i - 2] + ";" + data[i - 1] + "]"
+					newValueTwo = "[" + data[i + 2] + ";" + data[i + 3] + "]"
 
-				dictionary[currentKey].append(newValueOne)
-				dictionary[currentKey].append(newValueTwo)
-			if i == 0:
-				currentValue = "[" + data[i + 2] + ";" + data[i + 3] + "]"
-				dictionary[currentKey].append(currentValue)
+					dictionary[currentKey].append(newValueOne)
+					dictionary[currentKey].append(newValueTwo)
+				if i == 0:
+					currentValue = "[" + data[i + 2] + ";" + data[i + 3] + "]"
+					dictionary[currentKey].append(currentValue)
+				if i == itemCount - 2:
+					currentValue = "[" + data[i - 2] + ";" + data[i - 1] + "]"
+					dictionary[currentKey].append(currentValue)
+
 
 	allKeys = list(dictionary.keys())
 	allKeys.sort()
