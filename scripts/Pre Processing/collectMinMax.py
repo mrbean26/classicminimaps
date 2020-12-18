@@ -5,7 +5,11 @@ outputFile = open("output.txt", "w+")
 outputFile.close()
 
 outputFile = open("output.txt", "a")
-for file in glob.glob("*Link.shp.txt"):
+index = 0
+for file in glob.glob("output/*Link.shp.txt"):
+    index += 1
+    print(index, "53")
+
     openedFile = open(file, 'r')
     allLines = openedFile.readlines()
 
@@ -42,13 +46,10 @@ for file in glob.glob("*Link.shp.txt"):
     xAvg = xTotal / xCount
     yAvg = yTotal / yCount
 
-    outputLine = file + " "
-    outputLine = outputLine + "xmin: " + str(xMin)
-    outputLine = outputLine + " xmax: " + str(xMax)
-    outputLine = outputLine + " ymin: " + str(yMin)
-    outputLine = outputLine + " ymax: " + str(yMax)
-    outputLine = outputLine + " xavg: " + str(xAvg)
-    outputLine = outputLine + " yavg: " + str(yAvg)
+    outputLine = file.replace("_RoadLink.shp.txt", "").replace("output\\", "") + ","
+    outputLine = outputLine + str(xMin) + "," + str(xMax) + ","
+    outputLine = outputLine + str(yMin) + "," + str(yMax)
     outputLine += "\n"
+
     outputFile.write(outputLine)
 outputFile.close()

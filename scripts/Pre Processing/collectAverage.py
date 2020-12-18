@@ -47,7 +47,7 @@ for file in glob.glob("output/*Link.shp.txt"):
     xAvg = xTotal / xCount
     yAvg = yTotal / yCount
 
-    outputLine = file.replace("_RoadLink.shp.txt", "").replace("output\\", "") + "," + str(xAvg) + "," + str(yAvg)
+    outputLine = file.replace("_RoadLink.shp.txt", "").replace("output\\", "") + ",[" + str(xAvg) + ";" + str(yAvg) + "]"
     outputLine += "\n"
 
     outputFile.write(outputLine)
