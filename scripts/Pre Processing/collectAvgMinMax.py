@@ -26,7 +26,7 @@ for file in glob.glob("*Link.shp.txt"):
 
         allPointsString = currentLine.split(",")
         pointCount = len(allPointsString)
-
+        
         for p in range(pointCount):
             point = float(allPointsString[p])
             if p % 2 == 0: #x
@@ -52,3 +52,6 @@ for file in glob.glob("*Link.shp.txt"):
     outputLine += "\n"
     outputFile.write(outputLine)
 outputFile.close()
+            
+            
+    
