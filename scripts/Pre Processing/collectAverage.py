@@ -1,11 +1,16 @@
 import glob
 
-# create output file
-outputFile = open("output.txt", "w+")
+# create output file, USE ROAD POINT TEXT AS INPUT
+outputFile = open("outputAverages.txt", "w+")
 outputFile.close()
 
-outputFile = open("output.txt", "a")
-for file in glob.glob("*Link.shp.txt"):
+outputFile = open("outputAverages.txt", "a")
+index = 0
+for file in glob.glob("output/*Link.shp.txt"):
+
+    print(index, 53)
+    index += 1
+
     openedFile = open(file, 'r')
     allLines = openedFile.readlines()
 
@@ -42,13 +47,8 @@ for file in glob.glob("*Link.shp.txt"):
     xAvg = xTotal / xCount
     yAvg = yTotal / yCount
 
-    outputLine = file + " "
-    outputLine = outputLine + "xmin: " + str(xMin)
-    outputLine = outputLine + " xmax: " + str(xMax)
-    outputLine = outputLine + " ymin: " + str(yMin)
-    outputLine = outputLine + " ymax: " + str(yMax)
-    outputLine = outputLine + " xavg: " + str(xAvg)
-    outputLine = outputLine + " yavg: " + str(yAvg)
+    outputLine = file.replace("_RoadLink.shp.txt", "").replace("output\\", "") + ",[" + str(xAvg) + ";" + str(yAvg) + "]"
     outputLine += "\n"
+
     outputFile.write(outputLine)
 outputFile.close()
