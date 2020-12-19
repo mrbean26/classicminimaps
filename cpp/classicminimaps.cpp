@@ -445,7 +445,7 @@ void mapSquare::loadOpenGLAttributes(){
 
 			vertices.push_back(second.x);
 			vertices.push_back(second.y);
-			
+			/*
 			// arrow
 			vec2 middlePoint = vec2((first.x + second.x) / 2.0f, (first.y + second.y) / 2.0f);
 			float bearing = gridMath::bearing(first, second);
@@ -464,6 +464,7 @@ void mapSquare::loadOpenGLAttributes(){
 
 			vertices.push_back(middlePoint.x + sin(radians(bearing - classicminimaps::arrowAngle)) * lineLength * 0.15f);
 			vertices.push_back(middlePoint.y + cos(radians(bearing - classicminimaps::arrowAngle)) * lineLength * 0.15f);
+			*/
 		}
 	}
 

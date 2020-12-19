@@ -43,6 +43,7 @@ namespace savefiles {
 	vector<string> splitComma(string used);
 	bool fileExists(string name);
 	vector<string> splitNewLine(string used);
+	void replaceString(string* used, char replace, char replacement);
 }
 
 namespace shader {

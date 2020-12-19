@@ -5,6 +5,7 @@
 #include <stdexcept>
 #include <array>
 #include <cstdio>
+#include <algorithm>
 
 namespace savefiles {
 	vector<string> readLines(const char* fileName) {
@@ -55,6 +56,10 @@ namespace savefiles {
 		}
 
 		return true;
+	}
+	
+	void replaceString(string* used, char replace, char replacement) {
+		std::replace(used->begin(), used->end(), replace, replacement);
 	}
 }
 
