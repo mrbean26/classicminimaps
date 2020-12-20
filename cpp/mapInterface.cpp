@@ -101,7 +101,14 @@ namespace mapInterface {
 		text::renderText("Latitude: " + to_string(classicminimaps::longLat.y), position + addition - subtraction * gapMultiplier, usedSize, true, vec4(1.0f, 0.0f, 0.0f, 1.0f));
 
 		text::renderText("Location: " + classicminimaps::nearestLocation, position - addition + subtraction, usedSize, true, vec4(1.0f, 0.0f, 0.0f, 1.0f));
-		//text::renderText("Distance: " + getRouteDistance(), position - addition + subtraction * gapMultiplier, usedSize, true, vec4(1.0f, 0.0f, 0.0f, 1.0f));
+		
+		if (specific::pathPoints.size() > 0 && specific::finishedPathfind) {
+			text::renderText("Distance: " + specific::getCurrentDistance() + " miles", position - addition + subtraction * gapMultiplier, usedSize, true, vec4(1.0f, 0.0f, 0.0f, 1.0f));
+		}
+
+		if (specific::startedFinding && !specific::finishedPathfind) {
+			text::renderText("Calculating Route", position - addition + subtraction * gapMultiplier, usedSize, true, vec4(1.0f, 0.0f, 0.0f, 1.0f));
+		}
 	}
 
 	void renderInterfaceItems(float textSize, float gapMultiplier) {

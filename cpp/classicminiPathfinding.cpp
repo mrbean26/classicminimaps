@@ -86,12 +86,15 @@ namespace specific {
 	}
 
 	vector<float> pathVertices = {};
+	vector<vec2> pathPoints = {};
+
 	bool finishedPathfind = false;
 	bool updatedOpenGLAttributes = false;
 	bool startedFinding = false;
 
 	void findAndLoadPath(string startPosition, string endPosition) {
 		vector<vec2> path = aStar::returnFullPath(startPosition, endPosition);
+		pathPoints = path;
 		finishedPathfind = false;
 
 		vector<float> finalVertices;
@@ -190,6 +193,31 @@ namespace specific {
 	void mainloop() {
 		updateOpenGLAttributes();
 		drawPath();
+	}
+
+	string getCurrentDistance() {
+		float returnedDistance = 0.0f;
+
+		// find nearest point
+		float maximumDistance = 100000000.0f;
+		int nearestPointIndex = 0;
+
+		int vectorCount = pathPoints.size();
+		for (int p = 0; p < vectorCount; p++) {
+			float currentDistance = glm::distance(classicminimaps::location, pathPoints[p]);
+			if (currentDistance < maximumDistance) {
+				maximumDistance = currentDistance;
+				nearestPointIndex = p;
+			}
+		}
+
+		// add all point distances
+		for (int p = nearestPointIndex - 1; p >= 0; p--) {
+			returnedDistance += distance(pathPoints[p + 1], pathPoints[p]);
+		}
+
+		string returnedValue = to_string(returnedDistance / 1609.0f);
+		return returnedValue.substr(0, returnedValue.length() - (returnedValue.length() - returnedValue.find(".")) + 3);
 	}
 }
 

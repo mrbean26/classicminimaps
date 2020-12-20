@@ -32,11 +32,15 @@ namespace specific {
 	string getSquareAverage(string squareCode);
 
 	extern vector<float> pathVertices;
+	extern vector<vec2> pathPoints;
+
 	void findAndLoadPath(string startPosition, string endPosition);
 	void updateOpenGLAttributes(); // dont initialise openGl objects on a separate thread
+
 	void startPostcodeRoute();
 	void drawPath();
 
+	string getCurrentDistance();
 	void mainloop();
 }
 
