@@ -1,33 +1,12 @@
 #include "mapInterface.h"
+#include "classicminiPathfinding.h"
+
+#include <thread>
 
 namespace mapInterface {
 	bool interfaceOpen = false;
 	vec2 postcodesLocation = vec2(-1.0f);
 	string currentPostcode = "";
-	GLuint postcodeVAO, postcodeVBO;
-
-	void updatePostcodeLine() {
-		glBindVertexArray(postcodeVAO);
-		glBindBuffer(GL_ARRAY_BUFFER, postcodeVBO);
-		vector<float> vertices = { classicminimaps::location.x / classicminimaps::scaleDivider, classicminimaps::location.y / classicminimaps::scaleDivider,
-			postcodesLocation.x / classicminimaps::scaleDivider, postcodesLocation.y / classicminimaps::scaleDivider };
-
-		if (postcodesLocation == vec2(-1.0f)) {
-			vertices = { 0.0f, 0.0f, 0.0f, 0.0f };
-		}
-
-		glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(float), vertices.data(), GL_STATIC_DRAW);
-
-	}
-
-	string getRouteDistance() {
-		if (postcodesLocation == vec2(-1.0f)) {
-			return "No Route Set.";
-		}
-
-		float kmDistance = distance(classicminimaps::location, postcodesLocation) / 1000.0f;
-		return to_string(kmDistance / 1.609f) + " miles";
-	}
 
 	string searchForPostcode(string postcode) {
 		int length = (int)postcode.length();
@@ -60,43 +39,21 @@ namespace mapInterface {
 
 		for (int l = 0; l < lineCount; l++) {
 			vector<string> data = savefiles::splitComma(allLines[l]);
-			if (data[0] == postcode) {
-				postcodesLocation.x = stof(data[1]);
-				postcodesLocation.y = stof(data[2]);
+			float x = stof(data[1]);
+			float y = stof(data[2]);
 
+			if (data[0] == postcode) {
+				postcodesLocation.x = x;
+				postcodesLocation.y = y;
+				
+				specific::finishedPathfind = false;
+				specific::startedFinding = false;
 				return "Found postcode!";
 			}
 		}
 
 		postcodesLocation = vec2(-1.0f);
 		return "Not found postcode.";
-	}
-
-	void renderPostcodeLine() {
-		updatePostcodeLine();
-
-		glBindVertexArray(postcodeVAO);
-		glUseProgram(classicminimaps::shaderProgram);
-		glLineWidth(2.0f);
-
-		shader::setVectorFour(classicminimaps::shaderProgram, "lineColours", vec4(0.8f, 1.0f, 0.0f, 1.0f));
-		shader::setMat4(classicminimaps::shaderProgram, "view", classicminigraphics::viewMatrix());
-		shader::setMat4(classicminimaps::shaderProgram, "projection", classicminigraphics::projectionMatrix());
-
-		glDrawArrays(GL_LINES, 0, 2);
-	}
-
-	void beginPostcodeInfo() {
-		glGenVertexArrays(1, &postcodeVAO);
-		glBindVertexArray(postcodeVAO);
-
-		glGenBuffers(1, &postcodeVBO);
-		glBindBuffer(GL_ARRAY_BUFFER, postcodeVBO);
-
-		vector<float> vertices = { 0.0f, 0.0f, 0.0f, 0.0f };
-		glBufferData(GL_ARRAY_BUFFER, vertices.size() * sizeof(float), vertices.data(), GL_STATIC_DRAW);
-		glVertexAttribPointer(0, 2, GL_FLOAT, GL_FALSE, 2 * sizeof(float), (void*)0);
-		glEnableVertexAttribArray(0);
 	}
 
 	string postcodeText = "Code";
@@ -144,7 +101,7 @@ namespace mapInterface {
 		text::renderText("Latitude: " + to_string(classicminimaps::longLat.y), position + addition - subtraction * gapMultiplier, usedSize, true, vec4(1.0f, 0.0f, 0.0f, 1.0f));
 
 		text::renderText("Location: " + classicminimaps::nearestLocation, position - addition + subtraction, usedSize, true, vec4(1.0f, 0.0f, 0.0f, 1.0f));
-		text::renderText("Distance: " + getRouteDistance(), position - addition + subtraction * gapMultiplier, usedSize, true, vec4(1.0f, 0.0f, 0.0f, 1.0f));
+		//text::renderText("Distance: " + getRouteDistance(), position - addition + subtraction * gapMultiplier, usedSize, true, vec4(1.0f, 0.0f, 0.0f, 1.0f));
 	}
 
 	void renderInterfaceItems(float textSize, float gapMultiplier) {
@@ -159,11 +116,10 @@ namespace mapInterface {
 	}
 
 	void begin() {
-		beginPostcodeInfo();
+
 	}
 
 	void mainloop() {
-		renderPostcodeLine();
 		renderNonInterface(1.25f, 1.0f, 2.25f);
 		if (interfaceOpen) {
 			renderInterfaceItems(1.5f, 1.25f);

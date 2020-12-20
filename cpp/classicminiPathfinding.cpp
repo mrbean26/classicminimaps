@@ -2,6 +2,8 @@
 #include "classicminiPathfinding.h"
 #include "classicminimaps.h"
 
+#include <thread>
+
 namespace general {
 	float stringDistance(string positionOne, string positionTwo) {
 		int colonIndex1 = positionOne.find(';');
@@ -83,14 +85,14 @@ namespace specific {
 		return squareAverages[squareCode];
 	}
 
+	vector<float> pathVertices = {};
+	bool finishedPathfind = false;
+	bool updatedOpenGLAttributes = false;
+	bool startedFinding = false;
+
 	void findAndLoadPath(string startPosition, string endPosition) {
 		vector<vec2> path = aStar::returnFullPath(startPosition, endPosition);
-		cout << path.size() << endl;
-		glGenVertexArrays(1, &pathVAO);
-		glBindVertexArray(pathVAO);
-
-		glGenBuffers(1, &pathVBO);
-		glBindBuffer(GL_ARRAY_BUFFER, pathVBO);
+		finishedPathfind = false;
 
 		vector<float> finalVertices;
 		int pointCount = path.size();
@@ -128,14 +130,17 @@ namespace specific {
 			finalVertices.push_back(middlePoint.y + cos(radians(bearing - classicminimaps::arrowAngle)) * lineLength * 0.15f);
 		}
 
-		glBufferData(GL_ARRAY_BUFFER, finalVertices.size() * sizeof(float), finalVertices.data(), GL_STATIC_DRAW);
-		glVertexAttribPointer(0, 2, GL_FLOAT, GL_FALSE, 2 * sizeof(float), (void*)0);
-		glEnableVertexAttribArray(0);
-		pathSize = (GLuint)(finalVertices.size() / 2);
+		pathVertices = finalVertices;
+		finishedPathfind = true;
+		updatedOpenGLAttributes = false;
 	}
 
 	void drawPath() {
-		glLineWidth(2.0f);
+		if (!updatedOpenGLAttributes) {
+			return;
+		}
+
+		glLineWidth(4.0f);
 
 		int shaderProgram = classicminimaps::shaderProgram;
 		glUseProgram(shaderProgram);
@@ -145,6 +150,46 @@ namespace specific {
 
 		glBindVertexArray(pathVAO);
 		glDrawArrays(GL_LINES, 0, pathSize);
+	}
+
+	void updateOpenGLAttributes() {
+		if (finishedPathfind && !updatedOpenGLAttributes) {
+			glGenVertexArrays(1, &pathVAO);
+			glBindVertexArray(pathVAO);
+
+			glGenBuffers(1, &pathVBO);
+			glBindBuffer(GL_ARRAY_BUFFER, pathVBO);
+
+			glBufferData(GL_ARRAY_BUFFER, pathVertices.size() * sizeof(float), pathVertices.data(), GL_STATIC_DRAW);
+			glVertexAttribPointer(0, 2, GL_FLOAT, GL_FALSE, 2 * sizeof(float), (void*)0);
+			glEnableVertexAttribArray(0);
+			specific::pathSize = (GLuint)(pathVertices.size() / 2);
+			updatedOpenGLAttributes = true;
+		}
+	}
+
+	void startPostcodeRoute() {
+		while (true) {
+			if (mapInterface::postcodesLocation != vec2(-1.0f) && !startedFinding) {
+				startedFinding = true;
+				string stringPoint = "[" + to_string(mapInterface::postcodesLocation.x) + ";" + to_string(mapInterface::postcodesLocation.y) + "]";
+
+				string parentSquareFilename = "assets/mapData/connections/" + findParentSquare(stringPoint) + "_RoadLink.shp.txt";
+				string nearestDestinationPoint = general::findNearestPoint(stringPoint, parentSquareFilename);
+
+				string stringPointCurrentLocation = "[" + to_string(classicminimaps::location.x) + ";" + to_string(classicminimaps::location.y) + "]";
+				string parentSquareCurrentLocationFilename = "assets/mapData/connections/" + findParentSquare(stringPointCurrentLocation) + "_RoadLink.shp.txt";
+				string nearestCurrentPoint = general::findNearestPoint(stringPointCurrentLocation, parentSquareCurrentLocationFilename);
+
+				specific::findAndLoadPath(nearestCurrentPoint, nearestDestinationPoint);
+				cout << "done" << endl;
+			}
+		}
+	}
+
+	void mainloop() {
+		updateOpenGLAttributes();
+		drawPath();
 	}
 }
 
@@ -315,7 +360,7 @@ namespace aStar {
 				if (skip) {
 					continue;
 				}
-				cout << children[i].parent << endl;
+
 				openList.push_back(children[i]);
 			}
 		}

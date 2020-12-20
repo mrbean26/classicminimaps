@@ -10,14 +10,10 @@
 namespace mapInterface {
 	extern bool interfaceOpen;
 	extern string postcodeText;
+	extern vec2 postcodesLocation;
 
 	void mainloop();
 	void begin();
-
-	void beginPostcodeInfo();
-	void renderPostcodeLine();
-	string getRouteDistance();
-	void updatePostcodeLine();
 
 	void openInterface();
 	void closeInterface();

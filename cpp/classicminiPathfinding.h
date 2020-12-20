@@ -20,11 +20,24 @@ namespace general {
 }
 
 namespace specific {
+	extern GLuint pathVAO;
+	extern GLuint pathVBO;
+	extern GLuint pathSize;
+
+	extern bool finishedPathfind;
+	extern bool startedFinding;
+	extern bool updatedOpenGLAttributes;
+
 	string findParentSquare(string point);
 	string getSquareAverage(string squareCode);
 
+	extern vector<float> pathVertices;
 	void findAndLoadPath(string startPosition, string endPosition);
+	void updateOpenGLAttributes(); // dont initialise openGl objects on a separate thread
+	void startPostcodeRoute();
 	void drawPath();
+
+	void mainloop();
 }
 
 namespace aStar {
